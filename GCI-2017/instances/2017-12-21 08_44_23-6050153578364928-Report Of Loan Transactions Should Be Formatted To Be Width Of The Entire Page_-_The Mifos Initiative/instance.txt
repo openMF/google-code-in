@@ -1,0 +1,25 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6050153578364928 | Task Definition ID 5633158936526848
+Max instances: 3
+
+Title: Report Of Loan Transactions Should Be Formatted To Be Width Of The Entire Page
+Description: For the ability to export transactions to PDF report, the report columns should adjust to width of the page. 
+
+To reproduce:
+
+1. Navigate to a loan of any client
+2. Go to transactions tab and select Export
+3. Generate and view report. 
+
+Refer the following link for screenshots:
+Tags: mifosx, community-app
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: ABANDONED
+Last modified: 2017-12-21 08:44:23

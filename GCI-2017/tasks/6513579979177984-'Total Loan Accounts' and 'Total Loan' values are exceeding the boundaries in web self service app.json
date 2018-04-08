@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "The amounts are overflowing on the web self service app dashboard. Fix minor css changes to contain the amounts inside the card.", 
+    "tags": [
+        "javascript", 
+        "css", 
+        "sass", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "sett.raunak@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T09:30:58Z", 
+    "external_url": "https://github.com/openMF/web-self-service-app/issues/45", 
+    "id": 6513579979177984, 
+    "categories": [
+        1
+    ], 
+    "name": "'Total Loan Accounts' and 'Total Loan' values are exceeding the boundaries in web self service app"
+}

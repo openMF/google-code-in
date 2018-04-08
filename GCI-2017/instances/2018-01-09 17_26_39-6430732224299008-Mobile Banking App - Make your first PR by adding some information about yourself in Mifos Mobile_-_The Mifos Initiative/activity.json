@@ -1,0 +1,468 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-01-09T17:26:36Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": null, 
+        "id": 5290600674885632, 
+        "old_task_instance_status": 8, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "", 
+        "created": "2018-01-09T03:51:39Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 8, 
+        "author_id": 6344397283131392, 
+        "id": 6148639376277504, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Rohit, \n\nI still see 3 commits in your pull request instead of 1. \nDid you force push your changes ?\n\nConsidering that you have completed your task in a way; I'll approve your task for now, but can you please squash your commits so that we can merge them later on.\n\nIf you are finding it difficult to squash your commits, please let me know, I'll help you out. \n\nYou can also send a new pull request by making a new branch of the GCI-Contributors branch, as a last resort if nothing works out for you. \n\nWhen you are done with that, let us know by either mentioning our user-names in your pull request (@AbhilashG97 / @dilpreet96) or by commenting here.", 
+        "created": "2018-01-09T03:51:28Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 5072264267563008, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "", 
+        "created": "2018-01-09T00:36:07Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6520813727514624, 
+        "id": 6218321663885312, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "I did it.", 
+        "created": "2018-01-09T00:35:57Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6520813727514624, 
+        "id": 6315241895886848, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "If you need any help, please let us know. : )", 
+        "created": "2018-01-08T11:31:22Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6344397283131392, 
+        "id": 6546024715780096, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Rohit,\n\nYou have already sent your pull request, so what ever changes you make in your branch, gets reflected automatically in your pull request and because of that you don't get to see the Compare & pull request button. You will only get to see the Compare and pull request option if you either create a new branch or if you force push your changes.\n\nI have suggested a change in your pull request, can you please make that change ?", 
+        "created": "2018-01-08T11:30:32Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6344397283131392, 
+        "id": 4863666228822016, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "I added my bio line on contributors.md. I then committed and pushed to origin from GitHub\u00e2\u0080\u008b desktop. However, when I go to the web interface, it is not refreshing and showing the edits I made. Therefore I can't compare and pull request. Why is this happening?", 
+        "created": "2018-01-07T18:50:43Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6520813727514624, 
+        "id": 5522768017752064, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Task deadline extended by 0.9 days", 
+        "created": "2018-01-07T13:01:41Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6344397283131392, 
+        "id": 4916674446753792, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "", 
+        "created": "2018-01-07T13:01:34Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6344397283131392, 
+        "id": 5132620570558464, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Rohit,\n\nI have suggested a change in your pull request, can you please make that change and send the pull request again ? \n\nPlease let us know, if you need any help.", 
+        "created": "2018-01-07T13:01:28Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 5616814446870528, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "", 
+        "created": "2018-01-06T22:06:06Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6520813727514624, 
+        "id": 6085155464675328, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "I followed the steps that you sent. Is whatever I did correct?", 
+        "created": "2018-01-06T22:05:55Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6520813727514624, 
+        "id": 6717149097754624, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "", 
+        "created": "2018-01-05T16:05:11Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6344397283131392, 
+        "id": 6439296456196096, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Rohit, \n\nIf you are trying to send a pull request from GitHub (i.e by making use of the web-interface); here are the steps that you need to follow - \n\n1. Create a new branch from the GCI-Contributors branch.\n2. Make necessary changes and then commit those changes with a proper commit message.\n3. Click on Compare & pull request.\n4. Change the base branch to GCI-Contributors [This is very important]\n5. Write a suitable title for your pull request\n6. Click on Create pull request\n\nPlease follow the above mentioned steps, and send the pull request again.\n \nI would however, recommend you to try sending a pull request by making use of the terminal/command prompt through git; but that's totally up to you, making use of the web interface is also perfectly fine.", 
+        "created": "2018-01-05T16:04:50Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 5168498781192192, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "", 
+        "created": "2018-01-05T15:17:57Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6520813727514624, 
+        "id": 4598957663584256, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "I clicked on new pull request in gci contributors, but it says it's a comment. Did I do it right?", 
+        "created": "2018-01-05T15:17:43Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6520813727514624, 
+        "id": 4981693809164288, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "", 
+        "created": "2018-01-05T14:29:41Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6344397283131392, 
+        "id": 5530537882025984, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Rohit, \n\nGreat job ! You have nearly completed the task, but you just need to do one more thing to complete your task. \n\nYou have to send a pull request to the GCI-Contributors branch and not a screen-shot. \n\nIf you need any help, please let us know, we'll be glad to assist you.", 
+        "created": "2018-01-05T14:29:35Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 5516537765036032, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "", 
+        "created": "2018-01-04T22:09:12Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6520813727514624, 
+        "id": 5571897477562368, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "", 
+        "created": "2018-01-04T22:09:06Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6520813727514624, 
+        "id": 6248137662398464, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5404000964837376/", 
+                "filename": "Screen_Shot_2018-01-04_at_5.08.29_PM.png", 
+                "id": 5404000964837376, 
+                "file_size": 41782.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6430732224299008, 
+        "author": {
+            "display_name": "Rohit Jayanthi", 
+            "program_year": 2017, 
+            "id": 6520813727514624
+        }, 
+        "text": "", 
+        "created": "2018-01-04T20:17:06Z", 
+        "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6520813727514624, 
+        "id": 6505504920567808, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

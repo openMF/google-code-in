@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "To illustrate to prospective users of our software, how it works and what the solution actually does, it's nice to provide a mini-case study of how it's used as a back-office software for a banking or a digital banking platform. We haven't created this page on our newer Mifos.org website and would like to write an updated page similar to our old one at http://mifosx.openmf.org/Mifos%20website/mifos.org/about/how-mifos-used.html You should first familiarize with the software and then explain how it's used on a daily basis. This will be posted on our Wordpress website and should include images or screenshots as well.\n\nWe can connect you with an actual user of the software to do an interview to make the page very personal and rooted in actual end user experiences.", 
+    "tags": [
+        "communitymanagement", 
+        "writing", 
+        "socialmedia", 
+        "wordpress", 
+        "marketing"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 0, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:10:23Z", 
+    "external_url": "http://mifosx.openmf.org/Mifos%20website/mifos.org/about/how-mifos-used.html", 
+    "id": 5134574453522432, 
+    "categories": [
+        5
+    ], 
+    "name": "Update \"How Mifos is Used\" Page"
+}

@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Create a loan product and select \"Is variable installment allowed?\"\nIn the fields to fill minimum and maximum values, let it be 0 in both\nIt gives the error which is not understandable by the normal user.\n\nRefer the link for  screenshots:", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:13:53Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2478", 
+    "id": 5710881671348224, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Fix Fictitious Error When Max Value Is Greater Than Min Value In \"Is Variable Instalment Allowed?\""
+}

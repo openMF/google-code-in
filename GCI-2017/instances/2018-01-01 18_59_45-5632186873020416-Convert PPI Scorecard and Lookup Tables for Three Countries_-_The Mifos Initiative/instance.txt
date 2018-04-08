@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5632186873020416 | Task Definition ID 5101821838229504
+Max instances: 9
+
+Title: Convert PPI Scorecard and Lookup Tables for Three Countries
+Description: The PPI is a ten-question survey with lookup tables to assess how much a client a is moving out of poverty. It's a valuable social impact measurement tool and we have support in Mifos for capturing these surveys. However the surveys must be in XML format. Please refer to the main ticket https://mifosforge.jira.com/browse/MIFOSX-2407 and complete the manual conversion process for three countries starting from the top of the list and moving down working on the sub-tasks that aren't in progress or resolved.
+Tags: xml, datamigration, ppi, statistics, surveys
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org, justin.d128@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2018-01-04 02:48:26)
+Last modified: 2018-01-01 18:59:45

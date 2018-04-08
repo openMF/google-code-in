@@ -1,0 +1,21 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4836511079989248 | Task Definition ID 5390828459524096
+Max instances: 1
+
+Title: Mobile Banking App - Fix Cancel Button In Normal Transfer ( SavingsMakeTransferFragment )
+Description: When a user makes the `SavingsMakeTransferFragment` Transfer, in the last step `Cancel` button is shown which is borderless that should not be Borderless according to UX.
+
+**Steps to reproduce:**
+
+Click on Transfer on Home Dashboard and select `Transfer` and then fill the form and you can view `Review` and `Cancel` button
+Tags: mobile, android, fintech, mifos-mobile, mobile banking
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: dilpreet2028@gmail.com, danCarl758@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-17 11:29:43)
+Last modified: 2017-12-14 16:11:41

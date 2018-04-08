@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When there's a validation failure for a column in the datatable, the error does not mention which column this refers to, neither is there any indication / highlight of the column itself so there is no way the user can know which column failed the validation. I got a few validation errors, but no indication about which column was responsible for the error, e.g code does not match regexp error.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "etoth@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:50:12Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1685", 
+    "id": 6230452522188800, 
+    "categories": [
+        1
+    ], 
+    "name": "DataTable Create 'Fail Error' Should Mention Field In Error Message"
+}

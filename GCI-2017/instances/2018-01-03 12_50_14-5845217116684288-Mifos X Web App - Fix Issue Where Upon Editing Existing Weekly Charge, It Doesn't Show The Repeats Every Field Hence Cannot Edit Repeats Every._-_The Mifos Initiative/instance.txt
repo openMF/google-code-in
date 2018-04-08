@@ -1,0 +1,22 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5845217116684288 | Task Definition ID 6040112792076288
+Max instances: 1
+
+Title: Mifos X Web App - Fix Issue Where Upon Editing Existing Weekly Charge, It Doesn't Show The Repeats Every Field Hence Cannot Edit Repeats Every.
+Description: >> Create savings account with weekly charge, 
+>> Click on submit, to submit new savings application, 
+>> click on Undo approval, 
+>> In the modification savings page, for weekly charge - Repeats every field is not available. 
+Expected:- 
+>> Repeats every field should be displayed for weekly charge on the modification page.
+Tags: javascript, community-app, angular, angularjs, web development
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, gkrishnan724@gmail.com
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2018-01-05 09:39:54)
+Last modified: 2018-01-03 12:50:14

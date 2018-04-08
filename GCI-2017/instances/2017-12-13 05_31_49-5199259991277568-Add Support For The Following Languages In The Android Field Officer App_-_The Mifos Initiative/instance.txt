@@ -1,0 +1,36 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5199259991277568 | Task Definition ID 5739601303961600
+Max instances: 1
+
+Title: Add Support For The Following Languages In The Android Field Officer App
+Description: A number of languages are most commonly requested by our community. We need to add a new strings.xml for each of these languages so a volunteer can come and translate the strings in that message.
+Easy-to-follow instructions on how to Translate Strings provided by @tarun0 at https://github.com/openMF/android-client/wiki/Translation
+
+Support is needed for:
+ Arabic (ar)
+ French (fr)
+ Portuguese (pt)
+ Simplified Chinese (zh-hans)
+ Vietnamese (vi)
+ Nepali (ne)
+ Lao (lo)
+ Indonesia (id)
+ Bengali (bn)
+ Hindi (hi)
+ Tagalog (tl)
+ Kannada (kn)
+ Swahili (sw)
+ Russian (ru)
+They should be added under the res directories: 
+https://github.com/openMF/android-client/tree/master/mifosng-android/src/main/res using with the name values-[languagecode]-[yourName].xml e.g. values-fr-abdel.xml if the task is done by Student "abdel"
+Tags: field-officer, android, translation
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: rajanmaurya154@gmail.com, abhilash.ag1997@gmail.com
+Student: Daniel Genkin (ID 6365669266292736)
+
+Status: COMPLETED (2017-12-15 07:14:51)
+Last modified: 2017-12-13 05:31:49

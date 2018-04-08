@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Shivam kumar Singh", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4756141412188160, 
+    "tags": [
+        "mexico", 
+        " fintech", 
+        " latin america", 
+        " due diligence", 
+        " market research"
+    ], 
+    "student_id": 5079096713281536, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-11-29 17:08:31", 
+    "max_instances": "1", 
+    "id": 6385436182183936, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-11-29 16:28:55", 
+    "deadline": "2017-12-01 20:50:40", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Mexico", 
+    "categories": [
+        "5"
+    ], 
+    "description": "The next generation of Mifos is focused on digital financial services which offer unparalleled access, reach, and depth of financial services at much lower cost. To better approach each market we want to understand the mobile money, electronic money, mobile wallets, cryptocurrency offerings along with the fintech landscape and regulatory climate that is enabling it.\n\nSee https://goo.gl/NEnwjR for an overview of required deliverables.\n\n# Digital Financial Services\n\n## Mobile Money Ecosystem\n\n- Who are the major mobile money players\n- How widely adopted is mobile money?\n- Is it interoperable?\n- For each of the major mobile money players, what product/services do they have? what \nis cost structure? how many users do they have? what transaction volume flows through?\n\n## Electronic Money\n\n- What is level of adoption of electronic money (debit/credit cards, alternative/crypto-currency)?\n- How favorable is the regulatory climate? Have there been any national laws passed to ease the transition away from cash?\n\n## Mobile Wallets & Payment Systems\n\n- Who are the major mobile wallet providers? Major payment systems?\n- What are the products and services they offer? What is their business model?\n- What is adoption with the poor?\n\n## FinTech\n\n- Who are the major fintech players?\n- Which ones are focused on financial inclusion? What products and services do they offer?\n- What are the major trends we're seeing?"
+}

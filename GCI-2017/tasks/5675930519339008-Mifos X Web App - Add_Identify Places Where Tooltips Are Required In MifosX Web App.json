@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Using tooltips is a good way to provide the user with a short description of buttons/input-fields. In the community-app, there are a lot of places where tooltips could be used. For this task, you are supposed to suggest at least 10 places where we might need tooltips by adding them in this tooltip tracker google sheet ( http://goo.gl/ofHI4B ) and proceed to work on adding these changes to the web app.\n\nPlease make changes in the community-app repository: https://github.com/openMF/community-app/ and refer to the getting started guide  ( https://goo.gl/Un9ZCy ) to familiarize yourself with the codebase.\n\nFor more information on tooltips, go to : https://www.w3schools.com/bootstrap/bootstrap_tooltip.asp", 
+    "tags": [
+        "web", 
+        "html", 
+        "ui", 
+        "bootstrap"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:16:23Z", 
+    "external_url": "", 
+    "id": 5675930519339008, 
+    "categories": [
+        1, 
+        4
+    ], 
+    "name": "Mifos X Web App - Add/Identify Places Where Tooltips Are Required In MifosX Web App"
+}

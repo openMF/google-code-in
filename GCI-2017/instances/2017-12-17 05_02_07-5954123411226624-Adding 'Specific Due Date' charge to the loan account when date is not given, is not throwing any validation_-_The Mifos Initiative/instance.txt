@@ -1,0 +1,21 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5954123411226624 | Task Definition ID 6054991255044096
+Max instances: 1
+
+Title: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation
+Description: 1. Create a loan  Account for a client.
+2.  Create a specific due date charge.
+3. In Loan account, click on 'Add charge' and select specific due date charge, but don't give date and try to submit it.
+
+For screenshot refer the link:
+Tags: 
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: ABANDONED
+Last modified: 2017-12-17 05:02:07

@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Akash Bhave", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6569414092652544, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 6479705412730880, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-07 16:22:47", 
+    "max_instances": "1", 
+    "id": 5389411833348096, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-07 16:22:13", 
+    "deadline": "2018-01-09 10:55:18", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "task_definition_name": "Designs For New Loan/Saving/Share/FD/RD Applications Should Be Coherent", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Refer the screenshots from below link:\n\nhttps://github.com/openMF/community-app/issues/2097"
+}

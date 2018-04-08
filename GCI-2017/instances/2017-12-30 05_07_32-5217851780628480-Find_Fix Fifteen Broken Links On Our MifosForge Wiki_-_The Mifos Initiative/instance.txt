@@ -1,0 +1,22 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5217851780628480 | Task Definition ID 5138421133606912
+Max instances: 5
+
+Title: Find/Fix Fifteen Broken Links On Our MifosForge Wiki
+Description: Our MifosForge wiki is used to house all of our user-facing documentation, how-to's and tutorials on the Mifos X distribution, and notes on community engagement and volunteer collaboration through programs like GSOC and GCI. You can find and fix broken links in our Mifos X User Zone, our Mifos X space, Community Engagement space, or our Mifos Developer Zone, As we've migrated content to Apache Fineract and new features are released, links sometimes tend to break. You should browse through the wiki and find/fix fifteen broken links. Once you've identified and fixed the broken link, please document these in a Google Sheet that you can share for completion of the task. If you have questions about where a link, should point to, please send an email to our mifos-users and Apache Fineract users mailing list. You should have write privileges to the wiki once you've created an account.
+
+Sections of the wiki include: 
+* User Zone: https://mifosforge.jira.com/wiki/spaces/docs/overview
+* Mifos X: https://mifosforge.jira.com/wiki/spaces/MIFOSX/overview
+* Community Engagement: https://mifosforge.jira.com/wiki/spaces/RES/overview
+Tags: wiki, documentation, qualityassurance, usability
+
+Categories: Documentation & Training, Quality Assurance
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org
+Student: Surya Gandikota (ID 5712636844965888)
+
+Status: ABANDONED
+Last modified: 2017-12-30 05:07:32

@@ -1,0 +1,34 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5958520048451584 | Task Definition ID 6638421088927744
+Max instances: 1
+
+Title: Salesforce Clean-up: Add Country, Contact Type and Area of Interest fields for Contacts created between 04/01/2017 and 06/30/2017
+Description: We use Salesforce for managing our database of customers, partners, and volunteers and all communications and contact history with them.
+
+This task involves cleaning up the Contacts within Salesforce to ensure they're ready to be imported in Mailchimp. Sometimes when we automatically convert leads to contacts from our web forms on our website, all the necessary values for segmentation don't get added.
+
+For each contact, we must ensure it has a value for (and if it doesn't, add it):
+
+Country Dropdown (look in the mailing country field or the country value for the parent account)
+Contact Type (look at the parent account type to see what their account type is)
+Area of Interest (if it's not obvious from details, simply pick an area of interest that maps closest to their contact type) - this field will be captured more diligently on lead forms going forward.
+How to work on this task:
+
+Claim the task
+Email edcable@mifos.org to request credentials to access our Salesforce instance.
+Run the report titled: Contacts Cleanup for GCI with the date range of 04/01/2017 to 06/30/2017 for Created Date
+For all the values that don't have the above fields completed, click the name of the contact, edit the values and save each record.
+Task isn't complete until all the contacts in the date range are complete with the above fields.
+
+Please while you're editing the contacts make sure they have proper capitalization, etc (i.e. general clean-up)
+Tags: community management, data integrity, salesforce, outreach, crm
+
+Categories: Outreach & Research
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org, justin.d128@gmail.com, etoth@mifos.org
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-30 10:11:55)
+Last modified: 2017-12-27 19:10:01

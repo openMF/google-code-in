@@ -1,0 +1,26 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4879401193832448 | Task Definition ID 5512428840288256
+Max instances: 1
+
+Title: Mifos X Web App #2680 - Tooltip for Submitted and Pending Approval Should Display above Nav Bar
+Description: See issue links for screenshots and full details:
+
+Description
+The tooltip for "Submitted and Pending Approval" for loan and savings accounts displays beneath the left hand navigation bar when it should be on top.
+
+Steps to Reproduce
+Navigate to any client, find a loan or savings account in the summary that has yellow/orange icon. Hover over it and see tooltip displayed beneath the lefthand drawer navigation.
+
+Expected Behaviour
+Full tooltip should be visible above the nav bar.
+Tags: javascript, fintech, angular, angularjs, web development
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: 14bcs030@smvdu.ac.in, gkrishnan724@gmail.com, sett.raunak@gmail.com, edcable@mifos.org
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2017-12-26 07:47:20)
+Last modified: 2017-12-23 08:34:12

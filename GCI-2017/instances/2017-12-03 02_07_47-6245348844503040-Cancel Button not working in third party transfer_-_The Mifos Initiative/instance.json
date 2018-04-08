@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Maxime de Belloy", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5198797921583104, 
+    "tags": [
+        "mobile", 
+        "android", 
+        "fintech", 
+        "mifos-mobile", 
+        "mobile banking"
+    ], 
+    "student_id": 5217603838541824, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-03 02:07:47", 
+    "max_instances": "1", 
+    "id": 6245348844503040, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-06 02:03:51", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "courageangeh@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "task_definition_name": "Cancel Button not working in \"third party transfer\"", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Go to Transfer->Third Party Transfer -> fill the details and click on cancel,\nby clicking it nothing is happening.\n\n**Expected behavior:**\n\nBy clicking on cancel it should go back to the previous fragment."
+}

@@ -1,0 +1,20 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create a share product.\n2. Create a share account for a client.\n3. Click on 'Submitted on' date.\n\nRefer the  link for screenshots:", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T05:51:41Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2649", 
+    "id": 6319004404678656, 
+    "categories": [
+        1
+    ], 
+    "name": "Today's Date in drop-down calendar is not displaying properly while taking New share account application"
+}

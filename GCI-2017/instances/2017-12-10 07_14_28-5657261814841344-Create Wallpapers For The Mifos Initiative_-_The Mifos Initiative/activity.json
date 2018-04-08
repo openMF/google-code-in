@@ -1,0 +1,552 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "Thank you :)", 
+        "created": "2017-12-10T07:14:28Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 4519297479081984, 
+        "id": 5188482441936896, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2017, 
+            "id": 4972460912934912
+        }, 
+        "text": "Good Work Ty Lavery!", 
+        "created": "2017-12-10T07:13:17Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4972460912934912, 
+        "id": 5458381944913920, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": null, 
+        "text": "", 
+        "created": "2017-12-10T06:22:38Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": null, 
+        "id": 5127795560677376, 
+        "old_task_instance_status": 8, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "okay i resubmitted", 
+        "created": "2017-12-10T05:57:27Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 8, 
+        "author_id": 4519297479081984, 
+        "id": 4735362117140480, 
+        "old_task_instance_status": 8, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "", 
+        "created": "2017-12-10T05:57:26Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 8, 
+        "author_id": 4806013800677376, 
+        "id": 5487148562120704, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "", 
+        "created": "2017-12-10T05:57:12Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4519297479081984, 
+        "id": 4705159638679552, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "Ty Lavery  this looks good, I think you have to resubmit the task for review.", 
+        "created": "2017-12-10T05:56:33Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4806013800677376, 
+        "id": 6403623716126720, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "Thank you :) sorry for delay, is any more work needed?", 
+        "created": "2017-12-10T05:56:26Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4519297479081984, 
+        "id": 5625965394788352, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "Good Work :)", 
+        "created": "2017-12-10T05:54:40Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4806013800677376, 
+        "id": 5456785559257088, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "Here is new link. https://drive.google.com/file/d/116TElSLnzvhv1R1eu3K8m0-lBwZrPafm/view?usp=sharing Is that what you meant with the bottom text?", 
+        "created": "2017-12-10T05:48:59Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4519297479081984, 
+        "id": 5295123057344512, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "okay sorry for wait, i had to re download because it was on my school computer.. working on it now.", 
+        "created": "2017-12-10T05:36:13Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4519297479081984, 
+        "id": 5519003864793088, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "", 
+        "created": "2017-12-10T05:24:38Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5686705652760576, 
+        "id": 5824051702398976, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "oh, Why are you using a picture, use text, Please see the below file and make the style of all the wallpaper.", 
+        "created": "2017-12-08T17:54:35Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4806013800677376, 
+        "id": 5506002663243776, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5243737464635392/", 
+                "filename": "Screen_Shot_2017-12-08_at_11.18.50_PM.png", 
+                "id": 5243737464635392, 
+                "file_size": 972102.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "I tried to make it as similar as i could but could not be exact because the \"Mifos initiative\" text is a picture, not my own font. Here is the link. https://drive.google.com/file/d/106SkW8HGLGIeK-FY2mj_8yTnSAASKXY1/view?usp=sharing", 
+        "created": "2017-12-08T17:39:50Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4519297479081984, 
+        "id": 6537272092524544, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "This looks much nicer, do one last thing, make the below text type same as \"Mifos Initiative\"  but don't make \"Open source...\" in white color, It will mix with the background color.", 
+        "created": "2017-12-08T15:47:24Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4806013800677376, 
+        "id": 6654651736784896, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "done. here is the link. https://drive.google.com/file/d/163c1GtuLLQB0GsTRW511G7jmiAK9HYyc/view?usp=sharing", 
+        "created": "2017-12-08T15:39:55Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4519297479081984, 
+        "id": 5270168693374976, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "Ty Lavery, remove the shadow from the text and send again.", 
+        "created": "2017-12-08T15:34:05Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4806013800677376, 
+        "id": 5023813462917120, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "sorry, wrong link. Here is the new one. https://drive.google.com/file/d/10yQzErsE4O_pdpxb42xrqQz8kIsQVtle/view?usp=sharing", 
+        "created": "2017-12-08T15:23:09Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4519297479081984, 
+        "id": 6115884865159168, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "Thank you for feedback. I have resubmitted with changes under \"Ty Lavery Mifos task Revised\". Here is the link to the google drive folder... https://drive.google.com/file/d/1X04VFwQ37CbNSGxcNf941bBV40-zhP7D/view?usp=sharing", 
+        "created": "2017-12-08T15:21:44Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4519297479081984, 
+        "id": 5145575987085312, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "@Ty Lavery, I increased the time, I need some changes like, In horizontal case make the intensity of the shadow half and in vertical case don't put Mifos Initiative and logo in same like put logo above the \"Mifos Initiative\" and same make the intensity half, rest of things looks fine.", 
+        "created": "2017-12-08T13:58:20Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4806013800677376, 
+        "id": 5136808348221440, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "Task deadline extended by 1.0 days", 
+        "created": "2017-12-08T13:54:46Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4806013800677376, 
+        "id": 6291206503923712, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Rajan Maurya", 
+            "program_year": 2017, 
+            "id": 4806013800677376
+        }, 
+        "text": "Ty Lavery, Can you please share the drive link.", 
+        "created": "2017-12-08T06:19:33Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4806013800677376, 
+        "id": 5858265478987776, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "", 
+        "created": "2017-12-07T14:58:39Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4519297479081984, 
+        "id": 5026293739421696, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "Thank you I have submitted the files for review in the google drive folder, in a zip file.", 
+        "created": "2017-12-07T14:58:34Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4519297479081984, 
+        "id": 6118654313758720, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "I have completed the task. Can you please grant me permission to submit my wallpapers in the google drive folder? Thank you.", 
+        "created": "2017-12-07T14:36:46Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4519297479081984, 
+        "id": 5808701220847616, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5657261814841344, 
+        "author": {
+            "display_name": "Ty Lavery", 
+            "program_year": 2017, 
+            "id": 4519297479081984
+        }, 
+        "text": "", 
+        "created": "2017-12-05T15:15:52Z", 
+        "task_definition_name": "Create Wallpapers For The Mifos Initiative", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4519297479081984, 
+        "id": 4946532908400640, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

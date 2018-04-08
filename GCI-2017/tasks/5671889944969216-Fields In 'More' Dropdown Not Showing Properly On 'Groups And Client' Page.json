@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Moved over from MifosForge: https://mifosforge.jira.com/browse/MIFOSX-2806\n\nStep by step guide to reproduce the issue:\n\nNavigate to Clients -> Groups.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "courageangeh@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:39:31Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1667", 
+    "id": 5671889944969216, 
+    "categories": [
+        1
+    ], 
+    "name": "Fields In 'More' Dropdown Not Showing Properly On 'Groups And Client' Page"
+}

@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Document the deposit account list, create new deposit account, and deposit account detail feature along with screenshots.\n\nAs any community will decide to implement in his society they would need to some documentation so their field officer can learn how efficiently they can use the app.\n\nThis relates to issues #184 through #186\n\nUser guide to be created at https://cwiki.apache.org/confluence/display/FINERACT/Fineract+CN+Mobile+User+Guide. You will need to request write privileges by emailing edcable@mifos.org\n\nHere is an example of Android-client documentation, you can get an idea how you have to write.\nhttps://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide\n\nHere you can download the APK and you can find credentials too\nhttps://github.com/openMF/Fineract-CN-mobile/wiki\n\nHere is the blog post you can get some help.\nhttps://medium.com/@therajanmaurya/apache-gsoc-2017-blog-post-f2791dc136b5", 
+    "tags": [
+        "mobile", 
+        "documentation", 
+        "fintech", 
+        "user manual", 
+        "fineract"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-11T21:41:20Z", 
+    "external_url": "https://github.com/openMF/Fineract-CN-mobile/issues/184", 
+    "id": 5454310869565440, 
+    "categories": [
+        3
+    ], 
+    "name": "Documentation - Fineract CN Mobile - Draft User Guide for Deposit Account Feature"
+}

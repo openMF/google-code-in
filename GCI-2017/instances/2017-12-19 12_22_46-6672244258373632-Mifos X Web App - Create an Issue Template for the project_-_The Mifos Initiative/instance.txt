@@ -1,0 +1,34 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6672244258373632 | Task Definition ID 4903149108199424
+Max instances: 1
+
+Title: Mifos X Web App - Create an Issue Template for the project
+Description: ## Description
+
+We should create an Issue Template for the Mifos X Web App project. The template should ask the following:
+
+1. Description
+2. Steps to reproduce
+3. Expected behaviour
+4. Observed behaviour
+5. Settings
+  1. Mifos X version
+  2. Browser used
+6. Screenshots, if any
+
+We should place the same in `.github` folder under the root directory.
+
+## References
+The following link explains how to create an Issue Template:
+https://help.github.com/articles/creating-an-issue-template-for-your-repository/
+Tags: templates, documentation
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: manrajsinghgrover@gmail.com
+Student: Vamshi Balanaga (ID 6601203796410368)
+
+Status: COMPLETED (2017-12-21 07:09:18)
+Last modified: 2017-12-19 12:22:46

@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "In the Left menu Checker Inbox & Tasks, when i want to search for a reschedule loan.\nI type the name but nothing changes. i think its not working.\nlink: https://demo.openmf.org/#/tasks.\nhere is a screenshot of the search field:", 
+    "tags": [
+        "javascript", 
+        "web app", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:15:15Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2535", 
+    "id": 5657059557113856, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Make The Search Field Of Reschedule Loan In The Menu Checker Inbox & Tasks To Work"
+}

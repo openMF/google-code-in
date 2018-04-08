@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "See issue link for screenshots & full details:\n\nThe red square tooltip nearby the loan account name on the client details page reads Active when it should it in fact be Active in Bad Standing.\n\nPlease adjust accordingly. See https://mifosforge.jira.com/wiki/spaces/docs/pages/68354078/Loan+Accounts for more on loan cycle states.\n\nSee screenshots", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "web development", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "sett.raunak@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-22T16:33:36Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2683", 
+    "id": 6284560612458496, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App #2683 - Red Tooltip for Loan Account in Client Summary Should be Active in Bad Standing"
+}

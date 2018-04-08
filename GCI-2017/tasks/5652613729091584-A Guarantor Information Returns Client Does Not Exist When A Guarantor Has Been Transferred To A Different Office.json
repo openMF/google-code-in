@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When a user say in (Branch A) views a loan from (end point ex. loans/14? associations=all) with a guarantor also in Branch A all information is displayed correclty.\nNow when the guarantor on loan id 14 is transferred to (Branch B).\nThe same user who could view loan with (end point ex. loans/14? associations=all)\nnow gets a information on the guarantor as client with id ex. 14 doesn't not exist.\nThis error message is misleading as the client does exist but because the user viewing it doesn't have rights to view clients from that office.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:38:49Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1906", 
+    "id": 5652613729091584, 
+    "categories": [
+        1
+    ], 
+    "name": "A Guarantor Information Returns Client Does Not Exist When A Guarantor Has Been Transferred To A Different Office"
+}

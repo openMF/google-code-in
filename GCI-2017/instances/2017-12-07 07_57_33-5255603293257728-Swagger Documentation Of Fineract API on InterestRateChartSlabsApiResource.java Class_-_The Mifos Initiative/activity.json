@@ -1,0 +1,149 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "ltybc138", 
+            "program_year": 2017, 
+            "id": 4559406408663040
+        }, 
+        "text": "", 
+        "created": "2017-12-07T07:57:33Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 4559406408663040, 
+        "id": 6198637811990528, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "ltybc138", 
+            "program_year": 2017, 
+            "id": 4559406408663040
+        }, 
+        "text": "Got it, thank you for review, I'll remake it", 
+        "created": "2017-12-03T13:54:06Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4559406408663040, 
+        "id": 5729630512218112, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2017, 
+            "id": 4972460912934912
+        }, 
+        "text": "Response on Swagger-UI is not Correct!\n\nSee other files as Examples for Swagger -Task\nyou can see for infrastructure module or any other module for How to apply Swagger on Fineract Project\n\nFollow more on the Documentation for Integration of Swagger on Fineract and how to apply swagger on Fineract at [ https://goo.gl/6cHv8F ]\n\nIn the above document, you will see a fact about serialization of endPoints\nso to overcome that problem you need to create an additional Swagger files \nand Also look different classes for the naming convention of inner classes\nand how to document classes with swagger annotations", 
+        "created": "2017-12-03T12:12:01Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4972460912934912, 
+        "id": 6375959068409856, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2017, 
+            "id": 4972460912934912
+        }, 
+        "text": "", 
+        "created": "2017-12-03T12:05:55Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4972460912934912, 
+        "id": 6110192288661504, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "ltybc138", 
+            "program_year": 2017, 
+            "id": 4559406408663040
+        }, 
+        "text": "", 
+        "created": "2017-12-03T11:48:00Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4559406408663040, 
+        "id": 6235424408207360, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "ltybc138", 
+            "program_year": 2017, 
+            "id": 4559406408663040
+        }, 
+        "text": "https://github.com/Sanyam96/incubator-fineract/pull/7", 
+        "created": "2017-12-03T11:47:53Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4559406408663040, 
+        "id": 6003889675436032, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5255603293257728, 
+        "author": {
+            "display_name": "ltybc138", 
+            "program_year": 2017, 
+            "id": 4559406408663040
+        }, 
+        "text": "", 
+        "created": "2017-12-03T10:27:00Z", 
+        "task_definition_name": "Swagger Documentation Of Fineract API on AccountTransferAPIResource.java Class and InterestRateChartSlabsApiResource.java Class", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4559406408663040, 
+        "id": 6456174830419968, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4728490840555520, 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-09 19:43:17", 
+    "max_instances": "1", 
+    "id": 5515540242104320, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-09 19:43:15", 
+    "deadline": "2017-12-11 14:48:01", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "justin.d128@gmail.com"
+    ], 
+    "task_definition_name": "Show Error Message Whenever Transfer Request Fails", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\nWhenever a user is making any type of Transfer and If the request failed due to some reasons like No Internet or Socket Exception etc. It's showing empty Snack Bar without a message. It should show message Unable to make Transfer, Please Transfer later\n\nSteps to reproduce:\nGo to Transfer in Navigation and enter details and disconnect the internet.\n\nExpected behavior:\nIt should show a proper message, So the user should know what happened, why a user can't make transfer right now.\n\nObserved behavior:\nIt's showing empty Snack Bar"
+}

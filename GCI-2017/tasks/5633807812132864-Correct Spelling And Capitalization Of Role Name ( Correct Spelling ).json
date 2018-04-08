@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "As a SuperUser, I want to edit role names, however there is no access to correct the spelling and capitalization in the name. End users should be able to correct spelling in this field.\nFor screenshot, kindly refer to the link:", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:41:22Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1715", 
+    "id": 5633807812132864, 
+    "categories": [
+        1
+    ], 
+    "name": "Correct Spelling And Capitalization Of Role Name ( Correct Spelling )"
+}

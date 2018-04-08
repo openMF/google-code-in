@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "We have recently launched a network of local Mifos Chapters. We would like to do a high-fidelity design of the landing page to navigate to the respective local chapters. This design should incorporate a global map and the ability to click to the respective chapter website based on the city where they\u2019re located. Here is an example chapter website: http://nairobi.mifos.org/. This should be capable of being implemented in Wordpress.  See http://plusacumen.org/ and the Global Chapter Network map for a design we\u2019d be interested in emulating. Submit your .ai files here ( https://goo.gl/9H1Yga )", 
+    "tags": [
+        "webdesign", 
+        "design", 
+        "wordpress"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:47:20Z", 
+    "external_url": null, 
+    "id": 5701371087028224, 
+    "categories": [
+        2
+    ], 
+    "name": "Design A Landing Page For Our Mifos Chapters"
+}

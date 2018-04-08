@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When authentication fails, on the login the UI goes into a loading state.\nIt should reset and show a notification for wrong credentials\n\nReplicate by trying to login with\nusername: selfservice\npassword: anything", 
+    "tags": [
+        "web", 
+        "javascript", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "sett.raunak@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T09:30:31Z", 
+    "external_url": "https://github.com/openMF/web-self-service-app/issues/52", 
+    "id": 4826390929080320, 
+    "categories": [
+        1
+    ], 
+    "name": "Add Login error handler on Web Self service app"
+}

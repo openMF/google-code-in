@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Working in the demo2 instance as SuperUser, want to edit role names, however there is no access to correct the spelling and capitalization in the name. End users should be able to correct spelling in this field.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T17:26:38Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1715", 
+    "id": 5737602801991680, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Inability To Edit And Capitalise Role Name"
+}

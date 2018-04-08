@@ -1,0 +1,27 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5167731743653888 | Task Definition ID 5658832262922240
+Max instances: 1
+
+Title: Mifos X Web App #2679 - Client Status Color Icon should display Tooltip on Hovering
+Description: See issue for screenshots and full detail:
+
+For quick reference, the color icons by client name denote the status of the client. For those who don't know what status the color corresponds to, the actual status should be displayed in a tooltip when hovering over, as is the case with the color squares by the loan and savings accounts.
+
+Navigate to any client, when placing cursor over the colored circle by client name, Tooltip should display the status
+
+Green - Active
+Yellow - Pending
+Black/Grey - Closed
+Red - Transfer in Progress
+You can learn more about client life cycle statuses at https://mifosforge.jira.com/wiki/spaces/docs/pages/89718816/Client+life+cycle+statuses
+Tags: front-end, fintech, angularjs, web development, usability
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: 14bcs030@smvdu.ac.in, gkrishnan724@gmail.com, sett.raunak@gmail.com, edcable@mifos.org
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-26 06:42:52)
+Last modified: 2017-12-23 07:09:18

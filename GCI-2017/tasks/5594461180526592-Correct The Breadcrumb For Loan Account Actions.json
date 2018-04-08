@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When performing some loan account actions like repayment disbursal etc.. The breadcrumb is incomplete. Please fix the breadcrumb on all these screens which perform loan account actions like repayment,disbursal,prepayloan,waive interest,waive off,Close Loan Account as Rescheduled,close", 
+    "tags": [
+        "breadcrumb", 
+        "community-app", 
+        "bug"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T17:28:57Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1710", 
+    "id": 5594461180526592, 
+    "categories": [
+        1
+    ], 
+    "name": "Correct The Breadcrumb For Loan Account Actions"
+}

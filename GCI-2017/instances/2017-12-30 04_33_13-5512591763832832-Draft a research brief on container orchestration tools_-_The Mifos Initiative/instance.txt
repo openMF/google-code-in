@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5512591763832832 | Task Definition ID 4853391819800576
+Max instances: 2
+
+Title: Draft a research brief on container orchestration tools
+Description: The brand new Generation 3 Mifos Architecture, Apache Fineract CN, is completely cloud-native, and requires the skillset to deploy and maintain containers to run the various micro-services. We want to share with the community recommendation on which orchestration tools are the best to use. You should researc the various tools (inclusive of at least the 8 listed at https://www.linux.com/news/8-open-source-CONTAINER-ORCHESTRATION-TOOLS-KNOW) and give a brief synopsis of each one, its pros and cons. You should share a Google Doc which includes this summary research as well as a Google Sheet which provides a matrix comparing the orchestration tools on the following criteria such as ease of use, code base used, scalability, cost, cloud it works with, etc You can look at https://www.weave.works/blog/comparing-container-orchestration/ and http://hub.scalr.com/blog/chef-vs-puppet-vs-ansible-comparing-orchestration-systems-2
+Tags:  documentation,  docker,  orchestration, cloud,  kubernetes
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: avikganguly010@gmail.com, edcable@mifos.org
+Student: luphieanza (ID 5733321055141888)
+
+Status: COMPLETED (2018-01-01 19:40:04)
+Last modified: 2017-12-30 04:33:13

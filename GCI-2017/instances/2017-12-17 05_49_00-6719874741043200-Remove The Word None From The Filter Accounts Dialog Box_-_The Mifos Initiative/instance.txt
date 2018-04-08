@@ -1,0 +1,19 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6719874741043200 | Task Definition ID 4970981850349568
+Max instances: 1
+
+Title: Remove The Word "None" From The Filter Accounts Dialog Box
+Description: Go to Accounts -> Click on top right most icon (3 bars) to see the filter dialog where you can see the `None` button.
+
+Remove `None` from all the lists given in `StatusUtils class` and remove the logic of checking `None` in `AccountsPresenter class`
+Tags: mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: thevivekkiran@gmail.com, dilpreet2028@gmail.com
+Student: Mofeoluwa Tejumola (ID 4818769014685696)
+
+Status: COMPLETED (2017-12-19 17:06:28)
+Last modified: 2017-12-17 05:49:00

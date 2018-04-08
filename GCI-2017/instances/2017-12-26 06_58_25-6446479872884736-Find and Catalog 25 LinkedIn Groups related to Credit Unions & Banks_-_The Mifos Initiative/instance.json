@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5240915033587712, 
+    "tags": [
+        "credit unions", 
+        "social media", 
+        "outreach", 
+        "linkedin", 
+        "research"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-26 06:58:25", 
+    "max_instances": "1", 
+    "id": 6446479872884736, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-26 06:58:21", 
+    "deadline": "2017-12-27 10:03:57", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com", 
+        "etoth@mifos.org"
+    ], 
+    "task_definition_name": "Find and Catalog 25 LinkedIn Groups related to Credit Unions & Banks", 
+    "categories": [
+        "5"
+    ], 
+    "description": "One of our objectives as a non-profit initiative, is to serve as a thought leader for open source, fintech, and technology-enabled financial inclusion. LinkedIn and its expansive network of experts and professionals provides a good forum for us to position ourselves as a thought leader. There exist various LinkedIn Groups in the domains we operate in where we could network, promote our accomplishments, and participate in valuable discussions. \n\nThis task centers around researching and cataloging LinkedIn Groups that we could join. For this task, you need to research and put in our Google Sheet Database, 25 LinkedIn Groups for the specific domain. Don't duplicate groups others have listed. \n\nCredit Unions & Banks: Search terms can include SACCOs, credit unions, core banking, financial cooperatives, etc.\n\nFor each group you find, you must input the following in the Google Sheet at https://goo.gl/kSoTWW\n\n* Group Name\n* Category of Group\n* Description of Group (what is listed under about this Group)\n* URL for Group\n* Number of Members in Group\n\nTo search for groups by name or keyword:\nGo to Linkedin.com (while logged in) and in the search box at the top of your LinkedIn homepage, type keywords or group names of interest, and click Search.\nOn the search results page, click the Groups tab.\n\nRead here for more on Finding Groups: https://www.linkedin.com/help/linkedin/answer/186/finding-and-joining-a-group?lang=en"
+}

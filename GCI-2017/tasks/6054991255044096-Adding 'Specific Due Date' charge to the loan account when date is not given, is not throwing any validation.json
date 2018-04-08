@@ -1,0 +1,20 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create a loan  Account for a client.\n2.  Create a specific due date charge.\n3. In Loan account, click on 'Add charge' and select specific due date charge, but don't give date and try to submit it.\n\nFor screenshot refer the link:", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-14T11:54:37Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2658", 
+    "id": 6054991255044096, 
+    "categories": [
+        1
+    ], 
+    "name": "Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation"
+}

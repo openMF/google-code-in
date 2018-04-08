@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create a Client and activate it. \n2. Click on Groups -> Create Group - In Create Group page click on add Clients, Even after typing the characters of the existing clients not getting populated in the same page.", 
+    "tags": [
+        "mifosx", 
+        "javascript", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:02:22Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1654", 
+    "id": 6191626890248192, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Not Able To Attach Client While Creating The Group"
+}

@@ -1,0 +1,28 @@
+{
+    "student_display_name": "DHRUV KUMAR VERMA", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4541462932881408, 
+    "tags": [
+        "git", 
+        "github"
+    ], 
+    "student_id": 6699945404923904, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-02 18:43:51", 
+    "max_instances": "10", 
+    "id": 5794104992595968, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-02 18:43:46", 
+    "deadline": "2018-01-05 18:19:08", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "task_definition_name": "Fork repository of Mifos X Web App", 
+    "categories": [
+        "3"
+    ], 
+    "description": "## Description\n\nFork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Your task is to fork the [Mifos X Web App repository](https://github.com/openMF/community-app) and send the link to your forked repository."
+}

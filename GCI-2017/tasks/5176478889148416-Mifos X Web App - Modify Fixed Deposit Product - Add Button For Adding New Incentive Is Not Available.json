@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Create Fixed Product with interest rate chart and with a incentive. \nClick on submit  \nClick on edit fd product, \nIn the modification fd page, click on incentive button. \nAdd new incentive button is not available. \nExpected:-   \nAdd new incentive button should be available on the modification page.", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T11:59:38Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1637", 
+    "id": 5176478889148416, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Modify Fixed Deposit Product - Add Button For Adding New Incentive Is Not Available"
+}

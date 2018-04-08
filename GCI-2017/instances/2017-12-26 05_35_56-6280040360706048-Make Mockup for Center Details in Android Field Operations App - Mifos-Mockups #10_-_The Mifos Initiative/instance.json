@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Daniel Genkin", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4582321963401216, 
+    "tags": [
+        "mobile", 
+        "ui", 
+        "android", 
+        "fintech", 
+        "usability"
+    ], 
+    "student_id": 6365669266292736, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-26 05:35:56", 
+    "max_instances": "2", 
+    "id": 6280040360706048, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-26 05:35:52", 
+    "deadline": "2017-12-26 14:27:09", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Make Mockup for Center Details in Android Field Operations App - Mifos-Mockups #10", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Current UI for the center details is not following any principle like what we have to show and where we just put it in the place wherever we thought. We have to redesign the center details and make sure we can CardView on this details page to make it better.\n\nJust make a mockup and send PR through the Github link, we will review and we will make change accordingly.\n\nIf you need access to a Balsamiq account to make mockup, let us know. You can use sketch, pencil/paper - whatever you'd like."
+}

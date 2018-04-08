@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task involves updating our current calendar with the dates/times for events that we\u2019ve participated in the past as well as researching and adding new events. It centers around HFOSS-related events such as OSCON, ApacheCon, etc. Update appropriate section of this sheet ( https://goo.gl/gPqHhj )", 
+    "tags": [
+        "community management", 
+        "social enterprise", 
+        "events", 
+        "entrepreneurship", 
+        "outreach"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T05:14:20Z", 
+    "external_url": null, 
+    "id": 6202834288640000, 
+    "categories": [
+        5
+    ], 
+    "name": "Update Events On Mifos Calendar for Social Entrepreneurship Events"
+}

@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Shivam kumar Singh", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5143291425193984, 
+    "tags": [
+        "documentation", 
+        "developers", 
+        "tech writing", 
+        "fedora", 
+        "linux"
+    ], 
+    "student_id": 5079096713281536, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-27 17:05:32", 
+    "max_instances": "2", 
+    "id": 5826311291404288, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-27 17:04:21", 
+    "deadline": "2017-12-29 23:53:07", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+    "categories": [
+        "3"
+    ], 
+    "description": "This task involves writing out a step-by-step installation guide which will help developers using Fedora to install Mifos X for further contribution. This will require the student to have access to a computer running Fedora. Notify GCI Mentors That You've Completed Task when you submit your write-up in a document here ( https://goo.gl/TuN7Bj )."
+}

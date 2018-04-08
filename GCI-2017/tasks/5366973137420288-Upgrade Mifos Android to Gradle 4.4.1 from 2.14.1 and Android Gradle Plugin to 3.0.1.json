@@ -1,0 +1,24 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "There are significant performance improvements in the latest gradle version, it reduces build time by half in addition to other underlying improvements. In the latest Android Gradle Plugin certain DSL naming conventions have been changed. For example 'compile' is now 'implementation'.\n\nThe objective of this task is to ensure the current code base supports latest version of Android Studio and benefits from the enhancements from the latest Gradle and Android Gradle Plugin.", 
+    "tags": [
+        "android", 
+        "java", 
+        "gradle"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "thevivekkiran@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-13T13:58:30Z", 
+    "external_url": null, 
+    "id": 5366973137420288, 
+    "categories": [
+        1
+    ], 
+    "name": "Upgrade Mifos Android to Gradle 4.4.1 from 2.14.1 and Android Gradle Plugin to 3.0.1"
+}

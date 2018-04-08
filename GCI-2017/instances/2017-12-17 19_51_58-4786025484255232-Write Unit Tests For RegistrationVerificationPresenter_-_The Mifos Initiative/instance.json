@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Sean Kelly", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5300553615671296, 
+    "tags": [
+        "unit-testing", 
+        "mifos-mobile"
+    ], 
+    "student_id": 4504846633795584, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-17 19:51:58", 
+    "max_instances": "1", 
+    "id": 4786025484255232, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-17 19:51:53", 
+    "deadline": "2017-12-18 18:51:15", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com"
+    ], 
+    "task_definition_name": "Write Unit Tests For RegistrationVerificationPresenter", 
+    "categories": [
+        "1", 
+        "4"
+    ], 
+    "description": "Write Unit tests for RegistrationVerificationPresenter.\n\nAn Example Of A Unit test for AccountPresenter ( https://github.com/openMF/mifos-mobile/blob/development/app/src/main/java/org/mifos/mobilebanking/presenters/AccountsPresenter.java ) can be seen in AccountsPresenterTest ( https://github.com/openMF/mifos-mobile/blob/development/app/src/test/java/org/mifos/mobilebanking/AccountsPresenterTest.java )"
+}

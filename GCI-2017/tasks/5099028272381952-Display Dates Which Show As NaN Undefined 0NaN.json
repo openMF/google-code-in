@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "I'm not sure what our policy is in supporting Internet Explorer but this was a pretty major issues and we should be more explicit in recommending Firefox/Chrome or highlighting known issues with IE.\nAs reported by Helene Dudley of TCP Global, when selecting activation dates for clients, groups, centers, etc - the dates don't get properly saved/displayed.", 
+    "tags": [
+        "community-app", 
+        "bug"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T17:36:31Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1688", 
+    "id": 5099028272381952, 
+    "categories": [
+        1
+    ], 
+    "name": "Display Dates Which Show As NaN Undefined 0NaN"
+}

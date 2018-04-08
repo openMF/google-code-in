@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "As more and more partners creates solutions and apps powered by Mifos and Apache Fineract, we need to make this discoverable by creating a marketplace or appstore for potential users to discover and download these innovations. Think of it like an appstore, a Google Play store or Wordpress plugin store. We use Wordpress for our website and want to use a plugin to support this functionality. Student should create wireframes in Balsamiq showing the home/landing page for the marketplace which includes a slider or feature to highlight specific apps, a navigation and /or search interface, a wireframe for the search interface and return of listings, and a wireframe for a specific listing in the marketplace/store. This task involves creating a wireframe mockup in Balsamiq ( https://balsamiq.com/ using an account provided by Mifos ). Submissions done here ( https://goo.gl/9H1Yga )", 
+    "tags": [
+        "web", 
+        "user interface", 
+        "wordpress", 
+        "ux", 
+        "wireframes"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:08:34Z", 
+    "external_url": null, 
+    "id": 4922062961377280, 
+    "categories": [
+        2
+    ], 
+    "name": "Create Wireframes For A Mifos AppStore Or Markeplace"
+}

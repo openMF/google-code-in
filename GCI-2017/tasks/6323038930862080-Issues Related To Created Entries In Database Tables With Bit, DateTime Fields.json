@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Click on Admin-> System -> Manage data tables -> Create data table with Boolian, Date and Time for Client.\n2. Click on the Clients -> any created client -> Click on the datatable created above -> Enter valid inputs for Boolian, but if for date and time (HH:MM:SS) field is entered then not able to submit the datatable entry displays as \"Error\".\n3.If only HH and MM is entered then it will allow to make entry in the created datatable for client.\n4. Click on the Clients ->Click on the above datable created for that client -> Click on the entry made in that datable -> Click on any entry -> Click on Edit button,\n> Date and time format is not proper and not readable.\n\nRefer the link for screenshots:", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "chetanmann95@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:48:54Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1687", 
+    "id": 6323038930862080, 
+    "categories": [
+        1
+    ], 
+    "name": "Issues Related To Created Entries In Database Tables With Bit, DateTime Fields"
+}

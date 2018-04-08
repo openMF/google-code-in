@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "See issue link for screenshot and details: Description\nOn the client details page, under the Savings Summary, the quick action buttons for Deposit and Withdraw are a left and right arrow.\n\nLeft and Right arrows are typically used for navigation which makes this confusing. Ideally representative icons could be chosen for each action but if not, an up and down arrow would make better sense here.\n\nSee screenshot.", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "sett.raunak@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-22T16:14:50Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2682", 
+    "id": 4698689102675968, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App #2682 - Replace Deposit and Withdraw (Left & Right Arrows) Icons with something more intuitive"
+}

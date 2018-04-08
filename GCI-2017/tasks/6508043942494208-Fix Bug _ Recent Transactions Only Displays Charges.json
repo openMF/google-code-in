@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Summary:\nI expect Recent Transactions to display a list of recent transactions across all of my accounts but it only displays charges.\n\nSteps to reproduce:\nGo to Navigation Drawer and click Recent Transactions\n\nExpected behavior:\nDisplay a list of all recent transactions from loan, savings, share accounts.\n\nObserved behavior:\nOnly a list of charges\n\nScreenshots found on external link", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-04T00:15:00Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/485", 
+    "id": 6508043942494208, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Bug : Recent Transactions Only Displays Charges"
+}

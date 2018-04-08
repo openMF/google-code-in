@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "program_year": 2017, 
+    "description": "Go to Client > New Share Account > Approve > Activate >Redeem Shares\nthe heading is Apply Additional Shares\nin stead of Redeem Shares\n\nRefer the link for screenshots:", 
+    "tags": [
+        "javascript", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T16:59:15Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2465", 
+    "id": 5676412948185088, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Incorrect Redeem Shares Heading"
+}

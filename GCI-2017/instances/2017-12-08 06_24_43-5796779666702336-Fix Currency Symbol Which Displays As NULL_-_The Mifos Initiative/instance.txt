@@ -1,0 +1,27 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5796779666702336 | Task Definition ID 5039946702258176
+Max instances: 1
+
+Title: Fix Currency Symbol Which Displays As NULL
+Description: Summary:
+Currency symbol is displayed as null in Charges screen.
+
+Steps to reproduce:
+Open the charges tab.
+
+Expected behavior:
+It should have the appropriate currency sign.
+
+Observed behavior:
+NULL is displayed instead of the currency sign.
+Tags: android, mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, rajanmaurya154@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-10 12:29:03)
+Last modified: 2017-12-08 06:24:43

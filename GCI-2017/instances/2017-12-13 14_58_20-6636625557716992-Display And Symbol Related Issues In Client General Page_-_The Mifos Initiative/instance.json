@@ -1,0 +1,27 @@
+{
+    "student_display_name": "Gen\u00eds Quer Companys", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5689241210191872, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 6679401552936960, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-13 14:58:20", 
+    "max_instances": "2", 
+    "id": 6636625557716992, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-16 14:51:39", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "apacheEnthu@gmail.com"
+    ], 
+    "task_definition_name": "Display And Symbol Related Issues In Client General Page", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Some of the UI related issues in client general page are listed as follows,\nFor Loans\nUndo approval option should be implemented similar to Savings account,\nSymbol used in Disburse loan is confusing it is used as Weive charge field\nUndo Disbursal symbol must be implemented before disburse symbol.\nFor make repayment dollar symbol is implemented it is confusing (weather currency is US Dollar/ Rupees etc)\nFor Tranche Loan Multiple disbursement options symbol should be implemented.\nFor overpaid loans transfer option should be implemented (here the disburse symbol is present)\nFor Savings\nSymbols are not uniform as in Loans\nUndo approval symbol is already used in reverse transactions\nDeposit/Withdraw symbols are also confusing\nFor Fixed deposits withdraw/deposit symbols should be removed\nIn Recurring deposits also withdraw/deposit symbols should be removed."
+}

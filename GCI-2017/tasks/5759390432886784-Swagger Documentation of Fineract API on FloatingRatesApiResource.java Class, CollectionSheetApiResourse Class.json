@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "**Overview and Objectives:** Annotate the [FloatingRatesApiResource.java](https://github.com/Sanyam96/incubator-fineract/blob/GCI-swagger-integration/fineract-provider/src/main/java/org/apache/fineract/portfolio/floatingrates/api/FloatingRatesApiResource.java), [CollectionSheetApiResourse.java](https://github.com/Sanyam96/incubator-fineract/blob/GCI-swagger-integration/fineract-provider/src/main/java/org/apache/fineract/portfolio/collectionsheet/api/CollectionSheetApiResourse.java) with Swagger Annotations and in the field description and for the specific values for the annotation can easily be found in the current documentation.\n\n**Description:** Don't lose any documentation that's already on the current REST API docs, maintain it's human readable comments (by moving that into JavaDoc/annotations in code which SpringFox/Swagger exploit), the \"sections\", etc\n\n**Please Note: ** **-> All the Swagger Documentation Pull Request should be created on Branch \"GCI-swagger-integration\" https://github.com/Sanyam96/incubator-fineract/tree/GCI-swagger-integration **\n\n\n**Some Information about Swagger Documentation is given below ;)**\n\n- Swagger is used for the dynamic documentation of REST API for Apache Fineract which can easily replace [apiLive.htm](https://demo.openmf.org/api-docs/apiLive.htm \"the current documentation\") (the current documentation)\n\n- In most of our cases, we are using @Api, @ApiOperation, @ApiImplicitParams, @ApiResponses and other Swagger Annotations for dynamic documentation of Fineract API\u2019s\n\n  For Information about Swagger Annotations refer  [Swagger-Core](https://github.com/swagger-api/swagger-core/wiki/Annotations-1.5.X/ \"Annotations\") Annotations.\n\n- Refer the [Pull Request #409](https://github.com/apache/fineract/pull/409/ \"Swagger Documentation on FINERACT\") on branch \"swagger-documentation-integration\" to get details about the integration of Swagger on Fineract and how Annotation are used in the Pull Request.\n\n- Follow more on the Documentation for Integration of Swagger on Fineract and how to apply swagger on Fineract at \n[ https://goo.gl/6cHv8F ]", 
+    "tags": [
+        "swagger", 
+        "swagger-ui", 
+        "documentation", 
+        "java", 
+        "git"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-08T14:59:22Z", 
+    "external_url": null, 
+    "id": 5759390432886784, 
+    "categories": [
+        1, 
+        3
+    ], 
+    "name": "Swagger Documentation of Fineract API on FloatingRatesApiResource.java Class, CollectionSheetApiResourse Class"
+}

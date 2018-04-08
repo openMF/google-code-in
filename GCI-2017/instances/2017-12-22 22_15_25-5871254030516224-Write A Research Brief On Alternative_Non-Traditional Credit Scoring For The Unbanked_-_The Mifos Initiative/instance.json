@@ -1,0 +1,32 @@
+{
+    "student_display_name": "janicek", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6206367704547328, 
+    "tags": [
+        "duediligence", 
+        "marketresearch", 
+        "innovation", 
+        "fintech", 
+        "creditscoring"
+    ], 
+    "student_id": 5742982516965376, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-22 22:15:25", 
+    "max_instances": "1", 
+    "id": 5871254030516224, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-22 22:15:20", 
+    "deadline": "2017-12-25 14:21:48", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "isaac.kamga@mifos.org"
+    ], 
+    "task_definition_name": "Write A Research Brief On Alternative/Non-Traditional Credit Scoring For The Unbanked", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Most of the unbanked lack formal identity and credit history and can't gain access to formal financial services. Numerous providers in the market are develop credit scores to help the unbanked develop a financial identity but looking at behavior, non-traditional metrics.  Mifos will ultimately integrate with or directly incorporate some of these tools into the framework but we need to understand and assess the solutions out there on the market. \nPlease write a summary defining alternative/non-traditional credit scoring and then do small synopses on ten alternative credit scoring providers focused on the base of the pyramid or emerging markets - including the following information - name of the organization, years in operation, total funding received, geographic focus, market focus (type of customer) size of their business (clients, organizations, portfolio, etc.), business model, type of service they provide, the data they analyze for their scoring service, partnership opportunities or APIs available.  Feel free to include whatever screenshots, charts, graphics from the provider's websites for the brief and links to any relevant reports, PDFs, whitepapers or downloads from their website. \nResearch brief should be created in Google Drive ( https://goo.gl/AkdP6p ) as a Google Doc and share with mentor for review."
+}

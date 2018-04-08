@@ -1,0 +1,32 @@
+{
+    "student_display_name": "AADAM LOKHANDWALA", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5647951877636096, 
+    "tags": [
+        "spring", 
+        "security", 
+        "apache fineract", 
+        "java", 
+        "fintech"
+    ], 
+    "student_id": 4726222661615616, 
+    "time_to_complete_in_days": "7", 
+    "modified": "2017-12-23 13:21:09", 
+    "max_instances": "1", 
+    "id": 5271097647824896, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-30 13:15:09", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Apache Fineract - Modify Audit Login And Logout", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Currently there is an audit table and code base for logging other activities but sign in and sign out.\n\nAcceptance criteria:\nWhenever a user logs in or logs out, an entry should be made to the audit table with a  timestamp and username. It'd be great if you can record IP address also."
+}

@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Description\nThere are several very glaring typos in the SMS Campaigns module.\n\nSteps to Reproduce\nNavigate to Organization >> SMS Campaigns. The title reads \"SMScampaings\" rather than SMS Campaigns.\nView Campaigns has a typo as well. From SMS Campaigns click any campaign to view it. Title says \"View SMS Campain\" instead of View SMS Campaign\nEdit Campaigns has a typo too. From a Schedules SMS Campaign that is still pending, click edit. The next title should read Edit SMS Campaign but it says \"Edit SMS Campain\"\nThis all occurred on https://mobile.openmf.org with credentials mifos/password\n\nSee attached screenshots.", 
+    "tags": [
+        "front-end", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "edcable@mifos.org", 
+        "gauravsaini03@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-03T08:10:17Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2718", 
+    "id": 6237143888297984, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App #2718 - Fix Typos in View for SMS Campaigns"
+}

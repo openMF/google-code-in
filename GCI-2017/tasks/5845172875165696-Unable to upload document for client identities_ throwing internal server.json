@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "For the following client:\n\nhttps://staging.openmf.org/#/viewclient/18\n(username/password - mifos/password)\nGo to Identities tab (where driving license already uploaded)\n\nUnder 'Actions' tab, click on upload button and try to upload any image or pdf.\n\nno validation message is showing and checked through network showing 500:internal server error", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "sett.raunak@gmail.com", 
+        "14bcs030@smvdu.ac.in", 
+        "gauravsaini03@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-22T21:52:40Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2656", 
+    "id": 5845172875165696, 
+    "categories": [
+        1
+    ], 
+    "name": "Unable to upload document for client identities: throwing internal server"
+}

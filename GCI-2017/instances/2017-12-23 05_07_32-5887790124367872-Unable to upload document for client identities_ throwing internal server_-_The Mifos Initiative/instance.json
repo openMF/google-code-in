@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5845172875165696, 
+    "tags": [], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-23 05:07:32", 
+    "max_instances": "1", 
+    "id": 5887790124367872, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-23 05:07:27", 
+    "deadline": "2017-12-24 09:00:15", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "sett.raunak@gmail.com", 
+        "14bcs030@smvdu.ac.in", 
+        "gauravsaini03@gmail.com"
+    ], 
+    "task_definition_name": "Unable to upload document for client identities: throwing internal server", 
+    "categories": [
+        "1"
+    ], 
+    "description": "For the following client:\n\nhttps://staging.openmf.org/#/viewclient/18\n(username/password - mifos/password)\nGo to Identities tab (where driving license already uploaded)\n\nUnder 'Actions' tab, click on upload button and try to upload any image or pdf.\n\nno validation message is showing and checked through network showing 500:internal server error"
+}

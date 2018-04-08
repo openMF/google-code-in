@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "We have offline sync functionality in place, run the app and open client list and long press on the client , choose and sync clients. Close your internet connection and make any repayment that will show up in offline sync feature, make mock for that.\n\nJust make a mockup and send PR through the Github link, we will review and we will make change accordingly.\n\nIf you need access to a Balsamiq account to make mockup, let us know. You can use sketch, pencil/paper - whatever you'd like.", 
+    "tags": [
+        "mobile", 
+        "ui", 
+        "android", 
+        "fintech", 
+        "usability"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-08T22:42:23Z", 
+    "external_url": "https://github.com/openMF/Mifos-Mockups/issues/7", 
+    "id": 5167141554749440, 
+    "categories": [
+        2
+    ], 
+    "name": "Make Mockup for Offline Sync in Android Mobile Field Operations App"
+}

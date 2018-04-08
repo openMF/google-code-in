@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5838726439632896 | Task Definition ID 6328747428937728
+Max instances: 1
+
+Title: Make Sure Links In Wiki User Manual For Mifos X Web App Are Accurate
+Description: Over time as we move pages around on our wiki and add new functionality, links get broken or outdated. To ensure our User Manual ( https://mifosforge.jira.com/wiki/spaces/docs/pages/52035622/User+Manual ) is up to date and accurate we must go through and verify the links. You should navigate to the beginning of the user manual and attempt to traverse through it testing each link. Note the broken links you find and update them if you are able to. You can also use a broken link checker tool for your respective browser. More details on this issue can be found at MXD-34 - Verify Links in Wiki User Manual are Accurate DONE
+Tags: confluence, wiki, usermanual
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: gkrishnan724@gmail.com, sanyam.bvcoe96@gmail.com
+Student: Yibin Long (ID 5828654942650368)
+
+Status: COMPLETED (2017-12-05 21:53:18)
+Last modified: 2017-12-06 13:45:42

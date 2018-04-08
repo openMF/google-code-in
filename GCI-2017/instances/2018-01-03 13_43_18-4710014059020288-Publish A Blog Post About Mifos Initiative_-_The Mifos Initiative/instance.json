@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Yibin Long", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5730028719439872, 
+    "tags": [
+        "marketing", 
+        "outreach", 
+        "blogging", 
+        "writing"
+    ], 
+    "student_id": 5828654942650368, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-03 13:43:18", 
+    "max_instances": "10", 
+    "id": 4710014059020288, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-30 04:49:13", 
+    "deadline": "2018-01-02 01:27:02", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com"
+    ], 
+    "task_definition_name": "Publish A Blog Post About Mifos Initiative", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Kindly write down a blog post ( <= 500 words ) on Mifos Initiative. The post can target any audience irrespective of background, interests and expertise. It would be great to hear from your perspective on what you think of our initiative, how our software is used, the impact it can have on the world and what you find most rewarding of the mission. Tell us about yourself, how many tasks you worked on,  describe your best and worst week and what you plan to do next. Share the document you've written in https://goo.gl/wHk89G with the mentor."
+}

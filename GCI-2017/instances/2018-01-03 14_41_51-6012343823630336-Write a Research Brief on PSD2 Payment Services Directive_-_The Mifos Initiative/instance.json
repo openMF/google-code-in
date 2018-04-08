@@ -1,0 +1,31 @@
+{
+    "student_display_name": "luphieanza", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6126987103961088, 
+    "tags": [
+        "europe", 
+        " market research", 
+        " fintech", 
+        " digital financial services", 
+        " mobile money"
+    ], 
+    "student_id": 5733321055141888, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-03 14:41:51", 
+    "max_instances": "3", 
+    "id": 6012343823630336, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-03 14:41:46", 
+    "deadline": "2018-01-06 11:32:05", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Write a Research Brief on PSD2 Payment Services Directive", 
+    "categories": [
+        "5"
+    ], 
+    "description": "PSD2 is the second Payment Services Directive, designed by the countries of the European Union. It could revolutionise the payments industry, affecting everything from the way we pay online, to what information we see when making a payment.\n\nIt will have profound impact on the financial services sector in Europe and is being watched by other countries. It will have a huge impact on the open banking and open API movement as well.\n\nThis research brief should concisely summarize what PSD2 is, its history, when it is taking effect  what is the impact it will have, what it means for banks, what it means for customers, what are the major changes from the previous directive, what opportunities it will enable, what challenges it might create, etc. \n\nYou should also create a repository of links to at least 10 articles that talk about PSD2 and were used for your sources\n\nSee https://goo.gl/iyCWor for some good examples of quality research briefs."
+}

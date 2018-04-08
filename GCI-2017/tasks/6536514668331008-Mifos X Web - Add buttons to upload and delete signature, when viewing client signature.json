@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "In the community-app, go to Clients and click on any client. In order to upload a client signature, the user has to click on the More>>Upload Signature, same goes for deleting a signature. It would be much convenient if we had the upload and delete buttons when viewing the signature.\n\nFor more details refer to the URL", 
+    "tags": [
+        "web", 
+        "code", 
+        "ui", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-21T08:21:08Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2677", 
+    "id": 6536514668331008, 
+    "categories": [
+        1, 
+        2
+    ], 
+    "name": "Mifos X Web - Add buttons to upload and delete signature, when viewing client signature"
+}

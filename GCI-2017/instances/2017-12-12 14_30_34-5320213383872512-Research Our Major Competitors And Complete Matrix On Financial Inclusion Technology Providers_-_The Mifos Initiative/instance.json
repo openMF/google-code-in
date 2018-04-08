@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6227145414148096, 
+    "tags": [
+        "supportmodels", 
+        "research", 
+        "finance", 
+        "competition", 
+        "due diligence"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-12 14:30:34", 
+    "max_instances": "1", 
+    "id": 5320213383872512, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-12 14:24:03", 
+    "deadline": "2017-12-15 04:48:39", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Research Our Major Competitors And Complete Matrix On Financial Inclusion Technology Providers", 
+    "categories": [
+        "5"
+    ], 
+    "description": "There are a number of different software solutions available to manage the operations of a financial institution serving the poor. We track our competition so we can be aware of new trends and latest innovation as well as help to inform our partners and their respective business development strategies in their markets.\nCompetitors to research: Mambu, Oradian, OpenCBS, Temenos, Bankers Realm, Loan Performer\nComparison Areas\n* Loan Products Supported\n* Savings Products Supported\n* Insurance Products Supported\n* Payments Products Supported\nFunctional Depth\n* Mobile Delivery & Enablement\n* Mobile Money Integration\n* Mobile Application\nTechnology\n* Deployment Environment\n* Hosted offering?\nTechnology Stack (language, database, etc.)\n* APIs available\n* Offline Access\nBusiness Development Model\n* Support\n* Partner Network\n* Pricing Model\nBasic Company Info\n* Total Customers & Clients Reached\n* Market & Product Positioning\n* Countries/Geographies of Focus\n* Date of Latest Release\n* Annual Revenue\n* Size of Company\n* Recent Major News"
+}

@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5737602801991680, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-11 05:48:08", 
+    "max_instances": "1", 
+    "id": 6335470101331968, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-11 05:48:06", 
+    "deadline": "2017-12-13 23:03:03", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Fix Inability To Edit And Capitalise Role Name", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Working in the demo2 instance as SuperUser, want to edit role names, however there is no access to correct the spelling and capitalization in the name. End users should be able to correct spelling in this field."
+}

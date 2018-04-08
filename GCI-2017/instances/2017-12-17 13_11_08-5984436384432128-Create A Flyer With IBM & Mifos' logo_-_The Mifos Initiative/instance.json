@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Daniel Genkin", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5653141557084160, 
+    "tags": [
+        "marketing", 
+        "design"
+    ], 
+    "student_id": 6365669266292736, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-17 13:11:08", 
+    "max_instances": "1", 
+    "id": 5984436384432128, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-17 13:11:04", 
+    "deadline": "2017-12-17 12:43:51", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "task_definition_name": "Create A Flyer With IBM & Mifos' logo", 
+    "categories": [
+        "2"
+    ], 
+    "description": "This task involves designing a graphic containing both the MIfos and IBM logos. IBM is one of our partners and we'll like to showcase the great relationship we have with them. Look at some great sticker design before you start working on this. Submit your artwork in any file format, ideally with transparency settings so we can print them. Also, append your name to the submitted file in https://goo.gl/3tmC86 so that we know who did the work."
+}

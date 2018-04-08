@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Jithin Krishna J", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 6498286280114176, 
+    "tags": [
+        "mobile", 
+        "android", 
+        "ui", 
+        "usability"
+    ], 
+    "student_id": 6332993415151616, 
+    "time_to_complete_in_days": "4", 
+    "modified": "2017-12-27 02:40:20", 
+    "max_instances": "1", 
+    "id": 5789228543770624, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-28 15:55:35", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "Android Field Officer App - Rectify improper error messages", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "The **Android Field Officer App** displays error messages in Toasts or in SnackBars.\n\nIn certain cases the error messages being displayed are unable to properly convey the message that they intend to convey either due to **grammatical errors** or due to the **incomprehensible error messages** being displayed to the end-user (such as error messages displayed from server responses)\n\nThe app currently has a few such error messages; your task will be to find such error messages and then either reconstitute them or create new simple, easy to comprehend error messages for the end-user. \n\n[Here](https://i.imgur.com/g79yON3.png), you can see that instead of displaying a user-friendly error message, it displays the error message received from the HTTP response which isn't really user friendly. Apart from this, there are also error messages which have a lot of grammatical errors in them; and they need to be rectified."
+}

@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Summary:\nFrom list of share accounts, I should be able to click each share account and view details of the account. However each link is not clickable.\n\nSteps to reproduce:\nNavigate to Accounts, Click Shares, Try to Click any Account from the List regardless of Status\n\nExpected behavior:\nLink successfully goes to the Account Details/Overview page\n\nObserved behavior:\nNot able to click the link.", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T16:09:29Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/486", 
+    "id": 4957746262704128, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Bug : Can't View Account Details For Share Accounts"
+}

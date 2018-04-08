@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "A client can update their image by uploading a new one to replace the old one.  When the client signature is uploaded, the system should allow the signature to be deleted.", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "courageangeh@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:03:42Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-544", 
+    "id": 5739932897247232, 
+    "categories": [
+        1
+    ], 
+    "name": "Delete Client Signature"
+}

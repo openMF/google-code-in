@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Some of the issues found \"Transfer Client between Groups\" page,\nCreate 2 active Groups - 1. Old Group, 2. New Group.\nCreate 3 clients with same name (2 are Active and other 1 in pending state) under New Group.\nIn Same Group page Click on Transfer Clients button - in Transfer Client between Groups page the above created Clients will get displayed.", 
+    "tags": [
+        "community-app", 
+        "bug"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T17:45:33Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1686", 
+    "id": 5711076278665216, 
+    "categories": [
+        1
+    ], 
+    "name": "Issues Related To Transfer Of Clients Between The Groups"
+}

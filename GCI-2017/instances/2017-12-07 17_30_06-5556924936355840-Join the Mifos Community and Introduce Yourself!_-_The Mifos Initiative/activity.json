@@ -1,0 +1,214 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-07T17:30:05Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 4673340910338048, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Thank you!", 
+        "created": "2017-12-07T17:29:57Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 6650329925943296, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-07T15:35:33Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 6045027836887040, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Sorry about that! I have attached the email.", 
+        "created": "2017-12-07T15:35:26Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5742982516965376, 
+        "id": 5793282086928384, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6479696512417792/", 
+                "filename": "gci.PNG", 
+                "id": 6479696512417792, 
+                "file_size": 112023.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-07T13:46:36Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5740383550046208, 
+        "id": 5836067410280448, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Can you also send the email introducing yourself on those lists? I didn't see your intro email.", 
+        "created": "2017-12-07T13:45:59Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 4569864880521216, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-07T05:11:18Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5735120176676864, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\n\nMy usernames:\nApache Fineract Issue Tracker: jk1226\nApache Fineract Wiki: jk1226\nMifosForge Account: jk1226\nMobilize.io Profile: janicekim1226@gmail.com\nMifosConnect: jk1226\n\nI've attached a screenshot of joining the Fineract Developers Mailing List and the Developer Mailing List. If the attachments do not load, I have the screenshot links below:\nhttps://photos.app.goo.gl/IfYwaMSALQqG1BHQ2\nhttps://photos.app.goo.gl/jce053hcJC9eGNZ63\nAll the best,\nJanice K.", 
+        "created": "2017-12-07T05:11:12Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 6023787478777856, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5325046362931200/", 
+                "filename": "IMG_4694.png", 
+                "id": 5325046362931200, 
+                "file_size": 272442.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4609633861763072/", 
+                "filename": "IMG_4693.PNG", 
+                "id": 4609633861763072, 
+                "file_size": 110603.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5556924936355840, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-07T05:05:49Z", 
+        "task_definition_name": "Join the Mifos Community and Introduce Yourself!", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 6060833182318592, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

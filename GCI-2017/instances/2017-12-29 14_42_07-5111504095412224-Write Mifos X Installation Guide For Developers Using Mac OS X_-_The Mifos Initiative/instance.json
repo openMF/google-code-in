@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Shivam kumar Singh", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6037718364585984, 
+    "tags": [
+        "mac", 
+        "documentation", 
+        "tech writing", 
+        "support", 
+        "developer docs"
+    ], 
+    "student_id": 5079096713281536, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-29 14:42:07", 
+    "max_instances": "1", 
+    "id": 5111504095412224, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-29 14:39:11", 
+    "deadline": "2018-01-01 10:48:11", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Write Mifos X Installation Guide For Developers Using Mac OS X", 
+    "categories": [
+        "3"
+    ], 
+    "description": "This task involves writing out a step-by-step installation guide which will help developers using Mac OS X to install Mifos X on their machines. This will require the student to have access to a computer running Mac OS X. Notify GCI Mentors That You've Completed Task when you submit a document here ( https://goo.gl/TuN7Bj )."
+}

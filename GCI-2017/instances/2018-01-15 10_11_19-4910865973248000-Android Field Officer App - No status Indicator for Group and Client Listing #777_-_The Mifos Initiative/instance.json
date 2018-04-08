@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5352469276131328, 
+    "tags": [
+        "mobile", 
+        "banking", 
+        "android", 
+        "fintech", 
+        "financial inclusion"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-15 10:11:19", 
+    "max_instances": "1", 
+    "id": 4910865973248000, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2018-01-17 16:59:59", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Android Field Officer App - No status Indicator for Group and Client Listing #777", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Please refer to issue for full details. \n\nIn the App there is no status Indicator for Group and Client Listing showing their status like Active/Pending or Closed like on Centres listing."
+}

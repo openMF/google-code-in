@@ -1,0 +1,233 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "", 
+        "created": "2017-12-10T16:31:18Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 6344397283131392, 
+        "id": 5443699397885952, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Akash, \n\nAmazing work ! \nThis task couldn't have been done any better. I am really impressed by your creativity and the amount of effort you have put in. \n\nThank you for your contribution, we really appreciate it. : )", 
+        "created": "2017-12-10T16:31:09Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 4510351666184192, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Akash Bhave", 
+            "program_year": 2017, 
+            "id": 6479705412730880
+        }, 
+        "text": "", 
+        "created": "2017-12-10T15:39:29Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6479705412730880, 
+        "id": 6357122709192704, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Akash Bhave", 
+            "program_year": 2017, 
+            "id": 6479705412730880
+        }, 
+        "text": "After days of building the APK, setting up software, recording, re-recording, editing, exporting, and finally re-editing and re-exporting, I present to you my Mifos X Android Client Demonstration video! \nIt is available on Google Drive here: https://drive.google.com/open?id=1KYgmDLJ1iG3GPlYVzzZsnXueEirwsstL\n\nPlease feel free to download the video and publish it (YouTube, website, etc.) \nAlso let me know if there are any changes I should make.", 
+        "created": "2017-12-10T15:39:19Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6479705412730880, 
+        "id": 5804652408864768, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Akash, \n\nGlad to know that you managed to build the app from source, all by yourself. I am quite impressed. \n\nRegarding the setup instructions, I don't have any objections against it. I'll create a task for the same and then you can work on that too. \n\nIf you need any assistance, please let me know. : )", 
+        "created": "2017-12-09T06:24:34Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 6344397283131392, 
+        "id": 5578874366722048, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Akash Bhave", 
+            "program_year": 2017, 
+            "id": 6479705412730880
+        }, 
+        "text": "Thank you Abhilash, I have enabled \"Show Touches\" in developer options. I just finished successfully building the APK from source after running in to a lot of issues. \n\nAfter I complete this task, I'll send an updated Android setup instructions for the latest version of Android Studio and Gradle, if that's OK with you.", 
+        "created": "2017-12-09T00:55:54Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6479705412730880, 
+        "id": 5691462102548480, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "While preparing the screen-cast, please make sure to enable \"visual feedback for taps\". This is can be found in the Developer Options of your Android Device. : )", 
+        "created": "2017-12-08T07:29:52Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 6344397283131392, 
+        "id": 4522548769325056, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Also, I hope that you have built the android app from source, available in the  GitHub repository; as the app present in Google Play Store currently doesn't have all the latest additions made to the app.\n\nPlease let me know, if you need any help. : )", 
+        "created": "2017-12-08T06:13:10Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 6344397283131392, 
+        "id": 5663038814289920, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Akash,\n\nExplaining the installation procedure won't be necessary. We are assuming that the user already has the app installed and just wants to get familiar with the features of the app.  \n\nIf you need any further assistance, please let me know, I'll be glad to help. : )", 
+        "created": "2017-12-08T06:01:10Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 6344397283131392, 
+        "id": 6141791302582272, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Akash Bhave", 
+            "program_year": 2017, 
+            "id": 6479705412730880
+        }, 
+        "text": "Should I also explain how to install application in the video?", 
+        "created": "2017-12-07T23:16:13Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6479705412730880, 
+        "id": 6114461553262592, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5245114605633536, 
+        "author": {
+            "display_name": "Akash Bhave", 
+            "program_year": 2017, 
+            "id": 6479705412730880
+        }, 
+        "text": "", 
+        "created": "2017-12-07T23:15:30Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6479705412730880, 
+        "id": 5749143177789440, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

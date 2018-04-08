@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Shyam N", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4668939105730560, 
+    "tags": [
+        "github", 
+        "gitter"
+    ], 
+    "student_id": 4512166424084480, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-19 14:49:18", 
+    "max_instances": "40", 
+    "id": 5115643252703232, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-18 17:22:19", 
+    "deadline": "2017-12-21 16:55:47", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rishabh0297@gmail.com", 
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "task_definition_name": "Find Gitter link in Mifos mobile app's Readme.md file then pin me there", 
+    "categories": [
+        "3"
+    ], 
+    "description": "Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories. Using gitter you can interact with mentors and other people working on that project. This can help you solve your doubts and even get advice on what to study, how to study or which course to take for perfection. So your task here is to access gitter and then pin me there and introduce yourself there, then the task will be considered\u200b done!"
+}

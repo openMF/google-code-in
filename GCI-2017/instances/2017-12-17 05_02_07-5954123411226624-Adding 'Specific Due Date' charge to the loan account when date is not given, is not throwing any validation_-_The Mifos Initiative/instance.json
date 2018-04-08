@@ -1,0 +1,25 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 6054991255044096, 
+    "tags": [], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-17 05:02:07", 
+    "max_instances": "1", 
+    "id": 5954123411226624, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-20 04:36:40", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "task_definition_name": "Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+    "categories": [
+        "1"
+    ], 
+    "description": "1. Create a loan  Account for a client.\n2.  Create a specific due date charge.\n3. In Loan account, click on 'Add charge' and select specific due date charge, but don't give date and try to submit it.\n\nFor screenshot refer the link:"
+}

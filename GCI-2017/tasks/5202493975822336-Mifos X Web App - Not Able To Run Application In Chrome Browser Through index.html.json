@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to community app folder and search for index.html file and try to open it google chrome. It opens with Mozilla firefox but not with chrome.", 
+    "tags": [
+        "chrome", 
+        "javascript", 
+        "firefox", 
+        "angulars", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-02T15:01:01Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1693", 
+    "id": 5202493975822336, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Not Able To Run Application In Chrome Browser Through index.html"
+}

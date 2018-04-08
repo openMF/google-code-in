@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4912169252552704, 
+    "tags": [
+        "mobile", 
+        "android", 
+        "fintech", 
+        "mifos-mobile", 
+        "mobile banking"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-02 15:35:42", 
+    "max_instances": "1", 
+    "id": 6233367899013120, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-02 15:35:40", 
+    "deadline": "2017-12-05 09:13:24", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com"
+    ], 
+    "task_definition_name": "Mobile Banking App - Increase Text Size And Reposition \"Account Balance\"", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Go to Accounts and you can access savings and loans accounts, click on anyone of them so that you can see `account details` for an account. \n\n Account Balance shown in Savings and Loan Account Details should be given more preference than other things shown so we need to increase Account Balance text size, shift it to the top and make the amount bold."
+}

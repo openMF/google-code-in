@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "As you can see from the screenshot on the external Link, Next Instalment Amount should be 987.72 (but showing total outstanding) and Next Due Date should be 02 February 2017 (but showing disbursement date)", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "rajanmaurya154@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T16:28:03Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/456", 
+    "id": 5978092759678976, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Bug : Wrong Values Shown For Next Installments And Due Date In Loan Account Details"
+}

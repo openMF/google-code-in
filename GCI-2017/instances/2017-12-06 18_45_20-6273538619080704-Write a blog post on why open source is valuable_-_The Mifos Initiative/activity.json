@@ -1,0 +1,149 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "I updated the document with sourcing and quotation marks where needed. I also added a works cited page at the end of the document.", 
+        "created": "2017-12-06T18:45:19Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 5742982516965376, 
+        "id": 5175774439014400, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Janice, I just realized that you didn't properly cite all your sources and you quoted some other materials. So your blog post isn't plagiarism can you please update with proper source materials and quote where the text was copied verbatim.", 
+        "created": "2017-12-06T13:16:50Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 4694481813110784, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-06T13:11:07Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 5195354121175040, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Good work.", 
+        "created": "2017-12-06T13:11:01Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 6063992264982528, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-06T08:38:28Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 6628659668451328, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nHere is a link to my writing on why open source is valuable:\nhttps://docs.google.com/document/d/1jWSA0seiRL5Rq_ckhaG8tgyFpqu0EMPbgzPiCdGfZPQ/edit?usp=sharing\nThank you!", 
+        "created": "2017-12-06T08:38:23Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5792655759900672, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6273538619080704, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-06T08:36:21Z", 
+        "task_definition_name": "Write a blog post on why open source is valuable", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5581140096188416, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

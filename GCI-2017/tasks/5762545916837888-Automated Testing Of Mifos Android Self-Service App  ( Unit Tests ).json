@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task involves coding of Functional and Instrumentation tests (Unit Tests) for the latest Android Mobile Banking App. Since it is a relatively new app, this would be an awesome opportunity for the intern to learn Testing of an Android App using Instrumentation Test Runner on Android inside out. This would be an ideal task for Google Code in students as the tests have to be written with a certain pattern, therefore no prior knowledge about Mifos wouldn't be a major blocker. Source code for self-service app can be found at https://github.com/openMF/self-service-app", 
+    "tags": [
+        "java", 
+        "android", 
+        "git", 
+        "unittests", 
+        "testing"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:47:27Z", 
+    "external_url": null, 
+    "id": 5762545916837888, 
+    "categories": [
+        4
+    ], 
+    "name": "Automated Testing Of Mifos Android Self-Service App  ( Unit Tests )"
+}

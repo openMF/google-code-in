@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Open any client, try uploading a profile picture. A modal pops up. Even if you close the modal, camera doesn't turn off.\nSee the marked red circle ( symbol for webcam ) in the screenshot below. You'd notice that modal is closed.\n\nRefer the  following link for screenshots:", 
+    "tags": [
+        "mifosx", 
+        "javascript", 
+        "angular", 
+        "angularjs", 
+        "bug"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:15:12Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1669", 
+    "id": 5710956430622720, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture"
+}

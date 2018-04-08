@@ -1,0 +1,23 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4809328273915904 | Task Definition ID 5724722840993792
+Max instances: 1
+
+Title: Correct Spelling Mistakes
+Description: We have three strings with a typo whose values are :-
+- Their is no SavingsAccount associated with you.
+- Their is no LoanAccount associated with you.
+- Their is no ShareAccount associated with you.
+
+It should be 'There' instead of their, which can be fixed by correct the spelling in strings.xml
+You have to correct the spellings from this line: https://github.com/openMF/mifos-mobile/blob/development/app/src/main/res/values/strings.xml#L123 to this line https://github.com/openMF/mifos-mobile/blob/development/app/src/main/res/values/strings.xml#L127
+Tags: 
+
+Categories: Coding
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: dilpreet2028@gmail.com, danCarl758@gmail.com
+Student: FAKHRUL AZAM (ID 5258352005218304)
+
+Status: OUT_OF_TIME
+Last modified: 2017-12-04 07:43:43

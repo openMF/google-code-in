@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "The field of \"Calculate interest for exact days in partial period\" in loan product creation and loan application shows it is mandatory while it is not.\n\nFor the configuration of the loan which does not require this field to be selected, users get unexpected result and hence it is a problem for new users", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T16:51:59Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2530", 
+    "id": 5819483643969536, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Bug : Optional Field In Loan Product/Account Shows Mandatory But It Is Not"
+}

@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "A client can update their image by uploading a new one to replace the old one. This task is about doing the same for a client signature. When the client signature is uploaded, the system should allow the signature to be replaced with another in case it was a wrong signature uploaded.", 
+    "tags": [
+        "spring", 
+        "full-stack", 
+        "java", 
+        "fineract", 
+        "fintech"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:18:03Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-543", 
+    "id": 5719208136540160, 
+    "categories": [
+        1
+    ], 
+    "name": "Apache Fineract - Edit Client Signature"
+}

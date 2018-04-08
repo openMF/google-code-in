@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5351971714236416 | Task Definition ID 5978092759678976
+Max instances: 1
+
+Title: Fix Bug : Wrong Values Shown For Next Installments And Due Date In Loan Account Details
+Description: As you can see from the screenshot on the external Link, Next Instalment Amount should be 987.72 (but showing total outstanding) and Next Due Date should be 02 February 2017 (but showing disbursement date)
+Tags: mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, rajanmaurya154@gmail.com
+Student: Vamshi Balanaga (ID 6601203796410368)
+
+Status: COMPLETED (2017-12-14 18:51:43)
+Last modified: 2017-12-14 04:10:04

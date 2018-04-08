@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6237143888297984, 
+    "tags": [
+        "front-end", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-03 10:55:26", 
+    "max_instances": "1", 
+    "id": 4779027590021120, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-03 10:55:20", 
+    "deadline": "2018-01-06 08:28:36", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "edcable@mifos.org", 
+        "gauravsaini03@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App #2718 - Fix Typos in View for SMS Campaigns", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Description\nThere are several very glaring typos in the SMS Campaigns module.\n\nSteps to Reproduce\nNavigate to Organization >> SMS Campaigns. The title reads \"SMScampaings\" rather than SMS Campaigns.\nView Campaigns has a typo as well. From SMS Campaigns click any campaign to view it. Title says \"View SMS Campain\" instead of View SMS Campaign\nEdit Campaigns has a typo too. From a Schedules SMS Campaign that is still pending, click edit. The next title should read Edit SMS Campaign but it says \"Edit SMS Campain\"\nThis all occurred on https://mobile.openmf.org with credentials mifos/password\n\nSee attached screenshots."
+}

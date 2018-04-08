@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When a closed group wants to reapply for a loan in Mifos X, another group has to be created. For better group management, a new feature to reactivate a group once it has been closed has to be developed. This will reduce the number of groups.\n\nhttps://issues.apache.org/jira/browse/FINERACT-390", 
+    "tags": [
+        "spring", 
+        "javascript", 
+        "java", 
+        "fineract", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "dancarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:26:44Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1812", 
+    "id": 5659475744653312, 
+    "categories": [
+        1
+    ], 
+    "name": "Apache Fineract - Add Reactivation Feature For Closed Groups"
+}

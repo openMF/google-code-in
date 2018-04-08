@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task involves writing out a step-by-step installation guide which will help developers using Mac OS X to install Mifos X on their machines. This will require the student to have access to a computer running Mac OS X. Notify GCI Mentors That You've Completed Task when you submit a document here ( https://goo.gl/TuN7Bj ).", 
+    "tags": [
+        "mac", 
+        "documentation", 
+        "tech writing", 
+        "support", 
+        "developer docs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:41:29Z", 
+    "external_url": null, 
+    "id": 6037718364585984, 
+    "categories": [
+        3
+    ], 
+    "name": "Write Mifos X Installation Guide For Developers Using Mac OS X"
+}

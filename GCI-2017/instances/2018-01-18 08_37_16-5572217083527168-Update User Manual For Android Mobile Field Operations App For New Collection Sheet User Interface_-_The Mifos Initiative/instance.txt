@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5572217083527168 | Task Definition ID 5084941543014400
+Max instances: 1
+
+Title: Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface
+Description: During the past Google Summer of Code program, Tarun Mudgal, built-in support for a mobile interface for the collection sheet for the bulk entry of data. Based on the user manual for the collection sheet in the web app, the screenshots provided by Tarun, you should add a new section to the user manual on our MIfosForge wiki powered by Atlassian's confluence. You should download the app from the Google Play store, and follow the instructions to load a collection sheet for a given date for groups, load a collection sheet for a given date for individuals, apply payments, and submit the collection sheet. Screenshots should be taken throughout the process and included in the documentation at Mifos Android Client User Guide. Source code and technical documentation can be found at https://github.com/openMF/android-client
+Tags: mobile, wiki, android, documentation, ux
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com
+Student: janicek (ID 5742982516965376)
+
+Status: COMPLETED (2018-01-17 16:59:59)
+Last modified: 2018-01-18 08:37:16

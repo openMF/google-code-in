@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Summary:\nCurrency symbol is displayed as null in Charges screen.\n\nSteps to reproduce:\nOpen the charges tab.\n\nExpected behavior:\nIt should have the appropriate currency sign.\n\nObserved behavior:\nNULL is displayed instead of the currency sign.", 
+    "tags": [
+        "android", 
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "rajanmaurya154@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T16:41:01Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/447", 
+    "id": 5039946702258176, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Currency Symbol Which Displays As NULL"
+}

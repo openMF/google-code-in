@@ -1,0 +1,170 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2018-01-04T18:24:21Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 6744570920435712, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2018-01-04T13:05:01Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5080564224753664, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nThank you for the Mix Market source! It was very helpful. I have added 20 more associations and networks (ending at line 85 of the Google Sheet).\nThank you,\nJanice K.", 
+        "created": "2018-01-04T13:04:56Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5742982516965376, 
+        "id": 4913095128383488, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2018-01-04T00:12:23Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5740383550046208, 
+        "id": 5959454052843520, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Try searching for a few more. A good place to look is mixmarket.org. Go to https://www.themix.org/mixmarket/profiles and then select LatAm as region and then you can select organization type as Financial and Non-Financial Service Provider and then Subtype of Network - you should get 20+ results.", 
+        "created": "2018-01-04T00:12:18Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 6460777466691584, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2018-01-03T21:12:50Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 6569218814246912, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nI have added lines 49 to 65 to the Google Sheet.\n\nThank you,\nJanice K.", 
+        "created": "2018-01-03T21:12:45Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 4695847562379264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5824747570987008, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2018-01-02T23:41:17Z", 
+        "task_definition_name": "Create Database of Microfinance and Cooperative Associations & Networks in South America", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 6599046959464448, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

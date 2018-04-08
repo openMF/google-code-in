@@ -1,0 +1,26 @@
+{
+    "student_display_name": "Akash Bhave", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6084114354536448, 
+    "tags": [], 
+    "student_id": 6479705412730880, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-29 09:31:22", 
+    "max_instances": "1", 
+    "id": 6610632717631488, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-29 09:31:17", 
+    "deadline": "2017-12-31 19:23:57", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App : Client Address Issues", 
+    "categories": [
+        "1"
+    ], 
+    "description": "1. Go to System>Configuration and enable \"Enable-Address\".\n2. Go to any client page and click on 'Address' tab which is next to 'General' tab.\n3. Click on Add Address. You can see there are already Address lines 1, 2 & 3 , there is no need of 'Street' field. It should be removed.\n4. Submit the address for the client.\n5. Click on 'Edit' button for the client.\n>Edit button is not showing previous values entered , it should show the previous values.\n>In stead of Edit, there should be 'Submit' button.\n\nRefer the link for screenshots:"
+}

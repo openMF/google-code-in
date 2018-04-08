@@ -1,0 +1,296 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Janice, \n\nThe screen-cast looks really good. Thank you for your contribution.", 
+        "created": "2017-12-16T16:35:34Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 6344397283131392, 
+        "id": 6749464549130240, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nI have corrected the error and re-uploaded at:\nhttps://youtu.be/X7suHsQKraU\nThank you so much for your feedback!\nJanice K.", 
+        "created": "2017-12-16T08:33:19Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 5742982516965376, 
+        "id": 5101329099784192, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Janice, \n\nThe enlarged video display looks really good. I just found a minor error at the time stamp <<00:02:23>>; \n\nthe sentence should read \"Enter the Group's details and submit\" and not \"Enter the Groups's details and submit\". \n\nApart from that, everything else looks really great. Can you please make this minor change in your spare time ? You can make this change whenever you feel like doing it, there's no rush.\n\nI also apologize for the delay in informing you about the same. I had Internet connectivity issues for the past few days, hence I couldn't submit my review on time. Please excuse me. \n\nThank you for your contribution.", 
+        "created": "2017-12-16T06:18:08Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 6344397283131392, 
+        "id": 5584287971672064, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-15T01:03:22Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 6531735309254656, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Thank you. I will approve so you can take on another task but will let Abhilash add additional comments if he has them.", 
+        "created": "2017-12-15T01:03:16Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5155196143403008, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Update: I enlarged the video display and reuploaded at: https://youtu.be/YfttfJNB8M4\nSorry for the confusion!", 
+        "created": "2017-12-14T23:24:43Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5274713171427328, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-14T23:15:04Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5168955608006656, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "<<00:02:14>>\n\nTo create a group, either **tap on the pop-up menu at the top right** ............ and **tap on the \"+\" button.** Enter the **Group's** ...........\n\n<<00:02:34>>\nTo create a center, either **tap on the pop-up menu at the top right** ............ and **tap on the \"+\" button.**\n\n<<00:02:46>>\n......... **Next, select the pop-up menu at the top right.** ..........\n\n<<00:03:20>>\n......... **Next, select the pop-up menu at the top right.** ..........\n\n\n<<00:09:04>>\nFirstly, to turn on Offline Mode, select the three-bar button **at the top left**.\n.....\n.....\n....\nAdd clients, groups, or centers by **tapping on the pop-up menu at the top right.**\nIn the Offline Sync section, **you will be able to view your created clients, groups, and/or centers.**\nTo sync your creations, firstly, switch off the **\"Offline Mode\"** switch\n--------------------------------``````-----------------------------\nIf you need any help, please let us know. We'll be glad to assist you. \n: )", 
+        "created": "2017-12-14T16:30:51Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 4858087385071616, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2017, 
+            "id": 6344397283131392
+        }, 
+        "text": "Hello Janice,\n\nAmazing work ! I really liked your screen-cast. \n\nI noticed a few errors in the video, can you please correct them.\n\n1-> Can you please replace the phrase \"the three dots button\" with the phrase \"the pop-up menu\".\n\n2-> Can you also replace the phrase \"on/in the top right corner\" with \"at the top right corner\".\n\n3-> Can you also make the following changes at the respective time stamps -\n      (The part that has been corrected is surrounded by **.) \n\n<<00:00:11>>\nIf I am not mistaken, there is an extra whitespace between \"by\" and \"entering\" in the third line, can you please correct that.\nAlso, can you correct the last sentence, it should read \"at the top right corner\".\n\n<<00:01:10>>\nCan you replace the word \"lists\" with \"list\" in the first line.\nThere is also a typographical error in the third line (\"lke\" instead of \"like\"). \n\n<<00:01:37>>\nTo create a client either **tap on the pop-up menu at the top right** or .......... submit.\n\nMore ->>", 
+        "created": "2017-12-14T16:25:29Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6344397283131392, 
+        "id": 4955061572599808, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Looks fine by me. I'll see if Abhilash has any additional comments.", 
+        "created": "2017-12-14T13:49:46Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 4665209799049216, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Update: I caught a transition error, so I have deleted the old video and reuploaded the new one at:\nhttps://youtu.be/2c0zZCwO1-4\n\nSorry about that,\nJanice Kim", 
+        "created": "2017-12-14T09:40:26Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 4995754240245760, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-14T08:38:23Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 4521415367720960, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nI have uploaded the demo video to Youtube at: https://youtu.be/8nxVb_Hb4dw\nI used Adobe Premiere Elements to edit the video and Screen-O-Matic for the original screencast.\n\nThank you!\nJanice Kim", 
+        "created": "2017-12-14T08:38:18Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5555195205386240, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5719535954952192, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-13T04:47:00Z", 
+        "task_definition_name": "Create a screencast to demonstrate the use of Android Field Officer App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5384546491039744, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

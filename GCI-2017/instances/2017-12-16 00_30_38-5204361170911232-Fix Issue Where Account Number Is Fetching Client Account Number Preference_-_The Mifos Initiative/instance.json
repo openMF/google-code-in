@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5983026771132416, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-16 00:30:38", 
+    "max_instances": "1", 
+    "id": 5204361170911232, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-19 00:17:46", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "avikganguly010@gmail.com", 
+        "apacheEnthu@gmail.com"
+    ], 
+    "task_definition_name": "Fix Issue Where Account Number Is Fetching Client Account Number Preference", 
+    "categories": [
+        "1"
+    ], 
+    "description": ">> Create \"Account number preferences\" for client. Ex: select type as office_name. \n>> Create Fixed deposit account with default values click on submit button.\nExpected: \n>> Should show account number as - automated generate digits.\nExisting behaviour:\n>> Generated account number is displayed with the client account number preferences."
+}

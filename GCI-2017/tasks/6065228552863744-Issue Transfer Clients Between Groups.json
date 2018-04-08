@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Transfer Clients between Groups\n\n1.From the list of existing groups, navigate to the group you want to transfer clients from.\n2.In the Group page, click on Transfer Clients tab.\n3.Select the desired clients and click on \">>\" button and select the destination group.\n4.Click on submit button to transfer the clients to destination group.\n\nHere, the API URL:-\n\nhttps://demo.openmf.org/fineract-provider/api/v1/groups\nGives STATUS CODE:- OK but the response is empty [ ].\n\nRefer the following link for screenshot:", 
+    "tags": [
+        "javascript", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:26:18Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2447", 
+    "id": 6065228552863744, 
+    "categories": [
+        1
+    ], 
+    "name": "Issue Transfer Clients Between Groups"
+}

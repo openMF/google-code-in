@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Abhay kumar", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5648603789918208, 
+    "tags": [
+        "photoshop", 
+        "marketing", 
+        "design", 
+        "outreach", 
+        "creativity"
+    ], 
+    "student_id": 5578824680996864, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-06 13:45:11", 
+    "max_instances": "1", 
+    "id": 4937317787631616, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-03 18:38:09", 
+    "deadline": "2017-12-06 16:00:38", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "task_definition_name": "Create A Graphic With Google Code-In And Mifos' logo", 
+    "categories": [
+        "2"
+    ], 
+    "description": "This task involves designing a graphic containing both the MIfos and Google Code-In logos. Google is one of our sponsors and we'll like to showcase the great relationship we have with them. Look at some great sticker designs before you start working on this.Submit your artwork in any file format, ideally with transparency settings so we can print them.  Make several sizes so they can be used as header photos for our Social Media pages. Also, append your name to the submitted file here ( https://goo.gl/3tmC86 ) so that we know who did the work."
+}

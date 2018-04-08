@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "For this case, username: mifos and password: password. The system allow username: MIFOS as valid username.\n\nRefer the link for screenshots:", 
+    "tags": [
+        "code", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:19:57Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2460", 
+    "id": 5735622780125184, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - System Ignores Case-sensitive Username Field In The Login Page"
+}

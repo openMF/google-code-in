@@ -1,0 +1,186 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2018-01-13T02:04:40Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 6245131252400128, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Manjeev Singh Sahni", 
+            "program_year": 2017, 
+            "id": 5973200984866816
+        }, 
+        "text": "This is the revised file. It has both the merged and the original copies. I've made various changes and additions to the Main merged spreadsheet.", 
+        "created": "2018-01-12T19:04:07Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5973200984866816, 
+        "id": 4680174555627520, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Manjeev Singh Sahni", 
+            "program_year": 2017, 
+            "id": 5973200984866816
+        }, 
+        "text": "", 
+        "created": "2018-01-12T19:02:58Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5973200984866816, 
+        "id": 5153896966127616, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5318840084856832/", 
+                "filename": "GCI_Task_Awards_1.xlsx", 
+                "id": 5318840084856832, 
+                "file_size": 73659.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Can you please also add to the main spreadsheet though?", 
+        "created": "2018-01-12T15:02:14Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5339441298145280, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Manjeev Singh Sahni", 
+            "program_year": 2017, 
+            "id": 5973200984866816
+        }, 
+        "text": "", 
+        "created": "2018-01-12T09:14:18Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5973200984866816, 
+        "id": 5443872622641152, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Manjeev Singh Sahni", 
+            "program_year": 2017, 
+            "id": 5973200984866816
+        }, 
+        "text": "", 
+        "created": "2018-01-12T09:12:45Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5973200984866816, 
+        "id": 6591688942288896, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5541880152457216/", 
+                "filename": "GCI_Task_Awards.xlsx", 
+                "id": 5541880152457216, 
+                "file_size": 15164.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Manjeev Singh Sahni", 
+            "program_year": 2017, 
+            "id": 5973200984866816
+        }, 
+        "text": "https://docs.google.com/spreadsheets/d/1PEOpMYRq6X48YLqkLzZig0w8CfKTZvsjQ53kVZjKN2M/edit#gid=0", 
+        "created": "2018-01-12T09:12:02Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5973200984866816, 
+        "id": 6651107130474496, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5991368209989632, 
+        "author": {
+            "display_name": "Manjeev Singh Sahni", 
+            "program_year": 2017, 
+            "id": 5973200984866816
+        }, 
+        "text": "", 
+        "created": "2018-01-10T19:18:52Z", 
+        "task_definition_name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5973200984866816, 
+        "id": 5256531853443072, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

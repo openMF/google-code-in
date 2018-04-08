@@ -1,0 +1,26 @@
+{
+    "student_display_name": "Sanya Singh", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 6700947566755840, 
+    "tags": [], 
+    "student_id": 5276435671416832, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-11 00:48:30", 
+    "max_instances": "40", 
+    "id": 6243668413382656, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2018-01-12 19:16:02", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "Mobile Banking App - Make your first PR by adding some information about yourself in Mifos Mobile", 
+    "categories": [
+        "1"
+    ], 
+    "description": "To introduce you to github workflow, we would like to help you to make your first PR in our mifos mobile branch - 'GCI-Contributors'\n\nYou have to edit 'Contributors.md' file and add your name, github link and a short bio and create a PR - You can see one example in that file in the repo\n\nRepo link (GCI-Contributors branch) - https://github.com/openMF/mifos-mobile/tree/GCI-contributors\n\nFile link - https://github.com/openMF/mifos-mobile/blob/GCI-contributors/Contributors.md"
+}

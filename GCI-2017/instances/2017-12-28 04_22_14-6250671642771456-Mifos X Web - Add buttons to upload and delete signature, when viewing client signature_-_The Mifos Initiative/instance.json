@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6536514668331008, 
+    "tags": [
+        "web", 
+        "code", 
+        "ui", 
+        "angularjs"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-28 04:22:14", 
+    "max_instances": "1", 
+    "id": 6250671642771456, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-28 04:22:09", 
+    "deadline": "2017-12-29 19:33:33", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web - Add buttons to upload and delete signature, when viewing client signature", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "In the community-app, go to Clients and click on any client. In order to upload a client signature, the user has to click on the More>>Upload Signature, same goes for deleting a signature. It would be much convenient if we had the upload and delete buttons when viewing the signature.\n\nFor more details refer to the URL"
+}

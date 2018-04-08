@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Steven Jin", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6254411384881152, 
+    "tags": [
+        "datepicker", 
+        "community-app"
+    ], 
+    "student_id": 5594950001491968, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-07 07:11:40", 
+    "max_instances": "1", 
+    "id": 6350365358292992, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-07 07:11:34", 
+    "deadline": "2017-12-08 17:39:37", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Make 1st of Jan of current year the  default minimum date value in all datepickers and set today's date to the maximum date value"
+}

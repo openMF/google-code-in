@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create floating interest rate and attache the same while creating the new loan product.\n2. Submit new loan application for a client with the floating interest defined.\n3. Click on modify application and in modify loan application page click on repayment info\n> Not able to view repayment info displayed error message as\n\"The parameter `isLoanProductLinkedToFloatingRate` has been passed and is not supported for this request.\"\n\nFor screenshots refer  the link:", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "avikganguly010@gmail.com", 
+        "apacheenthu@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:43:35Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1720", 
+    "id": 5677197182369792, 
+    "categories": [
+        1
+    ], 
+    "name": "Inability To View Repayment Information In Modify Loan Application Page If Floating Interest Is Defined"
+}

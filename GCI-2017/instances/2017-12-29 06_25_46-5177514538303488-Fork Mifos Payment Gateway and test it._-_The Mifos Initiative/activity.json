@@ -1,0 +1,327 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "", 
+        "created": "2017-12-29T06:25:43Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5932178938527744, 
+        "id": 5836999233634304, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Hello Sean, It is okay, we were expecting that you get that error.", 
+        "created": "2017-12-29T06:23:57Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5932178938527744, 
+        "id": 6321433561006080, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "Ok, I ran the tests in Postman. However, some of the tests failed due to NullPointerException because the methods called do not exist. Other than that, everything ran smoothly.", 
+        "created": "2017-12-29T03:09:15Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4504846633795584, 
+        "id": 4832438192701440, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5672978727567360/", 
+                "filename": "Customer_Initiated_Payment_Loan_Repayment.png", 
+                "id": 5672978727567360, 
+                "file_size": 444665.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5541966521565184/", 
+                "filename": "Customer_Initiated_Payment_Recurring_Customer_Deposit.png", 
+                "id": 5541966521565184, 
+                "file_size": 525487.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4743705242107904/", 
+                "filename": "Real_Time_Loan_Disbursement.png", 
+                "id": 4743705242107904, 
+                "file_size": 577097.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5066735638020096/", 
+                "filename": "Get_Voluntary_Saving_Account.png", 
+                "id": 5066735638020096, 
+                "file_size": 534479.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6488917958197248/", 
+                "filename": "Customer_Initiated_Payment_Voluntary_Customer_Saving.png", 
+                "id": 6488917958197248, 
+                "file_size": 515438.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5087492409655296/", 
+                "filename": "Get_Recurring_Deposit_Account.png", 
+                "id": 5087492409655296, 
+                "file_size": 519093.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5110028774146048/", 
+                "filename": "Get_Customer_Loan_Account.png", 
+                "id": 5110028774146048, 
+                "file_size": 425436.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Hello @Sean I have modified the repository from which to had to clone. Reclone the project from the new project url and move the development branch. If you have any more issues please let us do a hangout. Here is my email: vladimirfomene@gmail.com", 
+        "created": "2017-12-27T12:25:09Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5932178938527744, 
+        "id": 6371593628418048, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Task deadline extended by 3.0 days", 
+        "created": "2017-12-27T12:23:22Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5932178938527744, 
+        "id": 5672139682217984, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "", 
+        "created": "2017-12-27T02:27:15Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4504846633795584, 
+        "id": 5227918999420928, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "Ok, I ran the tests.", 
+        "created": "2017-12-27T02:27:08Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 5674015240749056, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5742866250858496/", 
+                "filename": "Screen_Shot_2017-12-26_at_9.19.12_PM.png", 
+                "id": 5742866250858496, 
+                "file_size": 571120.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4977124098179072/", 
+                "filename": "Screen_Shot_2017-12-26_at_9.19.37_PM.png", 
+                "id": 4977124098179072, 
+                "file_size": 768723.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Avik Ganguly", 
+            "program_year": 2017, 
+            "id": 4885678548582400
+        }, 
+        "text": "@Sean : Sometimes gradle/maven caches get corrupted if on slow network connections. You can always try deleting everything under your home/.gradle/caches and home/.m2 folders and run the gradle command again.", 
+        "created": "2017-12-22T16:04:47Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4885678548582400, 
+        "id": 5029136772890624, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "I'm using java version 1.8.0_152 and my Gradle JVM is also set to 1.8.0_152 (found via \"gradle -version\")", 
+        "created": "2017-12-22T14:21:57Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 4966718818484224, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Hello Sean, \nwhat version of java do you have on your macbook? To find out type: \"java -version\" in your terminal. If it is not java 1.8, update it to java 1.8", 
+        "created": "2017-12-22T08:36:26Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5932178938527744, 
+        "id": 5681850804600832, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "Hey all, I'm following the instructions which can be found at https://gist.github.com/vladimirfomene/37bd38a289d0e9a0570b132735002868 to set up the project, but when I attempt to build the Gradle project, some folders are created and I receive the error \"Execution failed for task ':compileJava'.\" I've attached a screenshot of the error, and the created folders can be seen in the project view tab. It seems like it is trying to run a task that does not exist, but I am not sure why. I would greatly appreciate it if someone could point me in the right direction to solve this issue. Thanks", 
+        "created": "2017-12-22T03:42:10Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 6241837230587904, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5849902674345984/", 
+                "filename": "Screen_Shot_2017-12-21_at_10.32.17_PM.png", 
+                "id": 5849902674345984, 
+                "file_size": 420008.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5177514538303488, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "", 
+        "created": "2017-12-22T02:30:36Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 5411931705835520, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

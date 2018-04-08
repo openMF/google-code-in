@@ -1,0 +1,29 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6448241891606528 | Task Definition ID 5686335463489536
+Max instances: 1
+
+Title: Android Field Officer App - Replace all hard-coded strings present
+Description: **Android Field Officer App** currently contains a lot of hard-coded strings in the code; having hard-coded strings in the code is not desirable as it makes the app difficult to translate into different languages. 
+
+Your task would be to replace all hard-coded strings present in code with **@string resource** annotation. All the hard-coded strings need to be removed from the code and then placed in the **strings.xml** resource file. The removed hard-coded strings then need to be referenced from the **strings.xml** resource file in the code.
+
+**NOTE -** Some hard-coded strings need **not** be replaced in the android layout resource file, as they'll be rendered in real time when the app runs.
+
+**References - **
+
+1-> [GitHub issue](https://github.com/openMF/android-client/issues/412 "Hard-coded strings")
+
+2-> [Documentation on String Resources](https://developer.android.com/guide/topics/resources/string-resource.html "Documentation")
+ 
+3-> [How to find hard-coded strings in an Android app](https://stackoverflow.com/questions/30799211/android-find-all-hardcoded-strings-in-code-using-android-studio "Hint")
+Tags: mobile, xml, android, java
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 6 days
+
+Mentors: tarun.mudgal34@gmail.com, rajanmaurya154@gmail.com, abhilash.ag1997@gmail.com
+Student: Saba Khukhunashvili (ID 5901508325408768)
+
+Status: ABANDONED
+Last modified: 2017-11-29 12:21:32

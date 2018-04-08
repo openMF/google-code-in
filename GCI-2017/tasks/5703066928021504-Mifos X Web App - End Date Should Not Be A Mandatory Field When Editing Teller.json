@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to Organization >> Teller/Cashier Management .. New Teller, Set End date .. submit\nEdit Teller, empty end date field, submit,, nothing happen\nit shouldn't act as a mandatory, since when creating teller it is not mandatory.\n\nFor Screenshot refer the link:", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "web development", 
+        "angulajs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:14:29Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2540", 
+    "id": 5703066928021504, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - End Date Should Not Be A Mandatory Field When Editing Teller"
+}

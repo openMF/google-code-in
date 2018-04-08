@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Afshaan Londhe", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5202493975822336, 
+    "tags": [
+        "chrome", 
+        "javascript", 
+        "firefox", 
+        "angulars", 
+        "angularjs"
+    ], 
+    "student_id": 6245622715777024, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-01 10:00:33", 
+    "max_instances": "1", 
+    "id": 6463705678086144, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-04 07:59:57", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Not Able To Run Application In Chrome Browser Through index.html", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Go to community app folder and search for index.html file and try to open it google chrome. It opens with Mozilla firefox but not with chrome."
+}

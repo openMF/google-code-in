@@ -1,0 +1,21 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4853249037303808 | Task Definition ID 5181681654824960
+Max instances: 1
+
+Title: Create Set Of Training Slides For Two-Factor Authentication
+Description: To assist our customers in using the Mifos X web app, we want to provide a set of training slides based off of our existing documentation. Training Slides should provide step by step instructions along with relevant screenshots from the application. Training slides should be created as a Google Slides presentation. This set of training slides should cover the following:
+How to Create a New Share Product
+How to Create New Shares Account
+How to Issue Dividends
+Use the following documentation at Share products ( https://mifosforge.jira.com/wiki/spaces/docs/pages/129531946/Share+products ) and Dividends ( https://mifosforge.jira.com/wiki/spaces/docs/pages/129531978/Dividends ) and the Demo Server (https://demo.openmf.org) with credentials mifos/password to configure. Submit your slides here ( https://goo.gl/DhfPDN )
+Tags: dividends, training, users, shares
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com
+Student: Vaibhav Vijay (ID 6329140703657984)
+
+Status: COMPLETED (2017-12-12 09:23:32)
+Last modified: 2017-12-12 13:44:01

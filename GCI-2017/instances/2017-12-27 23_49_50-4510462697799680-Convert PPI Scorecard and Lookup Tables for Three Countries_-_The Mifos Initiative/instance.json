@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Areeb Mohsin", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5101821838229504, 
+    "tags": [
+        "xml", 
+        "datamigration", 
+        "ppi", 
+        "statistics", 
+        "surveys"
+    ], 
+    "student_id": 5105503573114880, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-27 23:49:50", 
+    "max_instances": "9", 
+    "id": 4510462697799680, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-30 23:28:52", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com"
+    ], 
+    "task_definition_name": "Convert PPI Scorecard and Lookup Tables for Three Countries", 
+    "categories": [
+        "1"
+    ], 
+    "description": "The PPI is a ten-question survey with lookup tables to assess how much a client a is moving out of poverty. It's a valuable social impact measurement tool and we have support in Mifos for capturing these surveys. However the surveys must be in XML format. Please refer to the main ticket https://mifosforge.jira.com/browse/MIFOSX-2407 and complete the manual conversion process for three countries starting from the top of the list and moving down working on the sub-tasks that aren't in progress or resolved."
+}

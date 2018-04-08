@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Account Balance shown in Savings and Loan Account Details should be given more preference than other things shown. More information found on external link.", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-27T04:07:22Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/473", 
+    "id": 6144978545803264, 
+    "categories": [
+        1
+    ], 
+    "name": "Give Preference To Account Balance Shown In Savings And Loan Account Details"
+}

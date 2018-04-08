@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5666918117670912, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-02 06:54:58", 
+    "max_instances": "0", 
+    "id": 5355098626588672, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-02 06:54:57", 
+    "deadline": "2017-12-04 12:05:24", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+    "categories": [
+        "1"
+    ], 
+    "description": "When a user creates a collateral for a loan through the loan application or through the profile of the loan under more buttons, you can create a collateral using only the name of the collateral without filling the value and accept to submit. This should be redressed."
+}

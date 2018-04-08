@@ -1,0 +1,40 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5823090804129792 | Task Definition ID 4745737382395904
+Max instances: 1
+
+Title: Salesforce Cleanup: Clean up trial instances opportunities for 2017
+Description: We use Salesforce for managing our database of customers, partners, and volunteers and all communications and contact history with them.
+
+This task involves cleaning up the Trial Instance Opportunities within Salesforce so they're properly cataloged for reporting purposes.  
+
+For each of these trial instance opportunities: 
+
+* Opportunity Record Type (this can be edited under System Information by clicking "Change" : If the Lead Source is Mifos.org - Trial User Form, Value should be Mifos X Trial for Opportunity Record Type 
+
+Once record type is correct,  we must ensure it has the following fields:
+
+* Title following this format: [Account Name - Trial Instance] 
+* Country Dropdown (look in the mailing country field or the country value for the parent account)
+* Region Dropdown (deduce this based on the country field - refer to other records for reference)
+
+*How to work on this task:*
+
+Claim the task
+Email edcable@mifos.org to request credentials to access our Salesforce instance.
+Run the report titled: Opportunities for GCI with the date range of 01/01/2017 to blank for Created Date
+
+For all the values that don't have the above fields completed, click the name of the contact, edit the values and save each record.
+Task isn't complete until all the opportunities in the date range are complete with the above fields following the instructed format. 
+
+Please while you're editing the opportunities make sure they have proper capitalization, etc (i.e. general clean-up)
+Tags: community management, data integrity, salesforce, outreach, crm
+
+Categories: Outreach & Research
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org, justin.d128@gmail.com, etoth@mifos.org
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-25 12:02:16)
+Last modified: 2017-12-22 16:38:03

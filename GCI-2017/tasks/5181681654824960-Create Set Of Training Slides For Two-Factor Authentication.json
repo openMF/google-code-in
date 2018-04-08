@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "To assist our customers in using the Mifos X web app, we want to provide a set of training slides based off of our existing documentation. Training Slides should provide step by step instructions along with relevant screenshots from the application. Training slides should be created as a Google Slides presentation. This set of training slides should cover the following:\nHow to Create a New Share Product\nHow to Create New Shares Account\nHow to Issue Dividends\nUse the following documentation at Share products ( https://mifosforge.jira.com/wiki/spaces/docs/pages/129531946/Share+products ) and Dividends ( https://mifosforge.jira.com/wiki/spaces/docs/pages/129531978/Dividends ) and the Demo Server (https://demo.openmf.org) with credentials mifos/password to configure. Submit your slides here ( https://goo.gl/DhfPDN )", 
+    "tags": [
+        "dividends", 
+        "training", 
+        "users", 
+        "shares"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T13:03:33Z", 
+    "external_url": null, 
+    "id": 5181681654824960, 
+    "categories": [
+        3
+    ], 
+    "name": "Create Set Of Training Slides For Two-Factor Authentication"
+}

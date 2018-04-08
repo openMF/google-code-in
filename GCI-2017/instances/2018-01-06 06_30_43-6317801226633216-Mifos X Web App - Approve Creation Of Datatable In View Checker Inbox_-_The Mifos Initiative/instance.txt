@@ -1,0 +1,20 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6317801226633216 | Task Definition ID 5202456327749632
+Max instances: 1
+
+Title: Mifos X Web App - Approve Creation Of Datatable In "View Checker Inbox"
+Description: Create a New DataTable Entry in System->Manage Data Tables.
+Click on 'Details' after creating the datatable(That will navigate you to 'view checker inbox').
+Click 'Approve' and then confirm, it will throw an error saying, the field already exists, although the datatable name is unique.( Please see the screenshot).
+After it throws the error, the dialog box stays along with the confirm button.(Please see the screenshot in the following link).
+Tags: javascript, community-app, angular, angularjs, web development
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2018-01-08 07:01:22)
+Last modified: 2018-01-06 06:30:43

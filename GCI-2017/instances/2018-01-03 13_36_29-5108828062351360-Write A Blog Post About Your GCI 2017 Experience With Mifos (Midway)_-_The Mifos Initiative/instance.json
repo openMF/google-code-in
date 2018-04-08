@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Rohan25", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5663414313549824, 
+    "tags": [
+        "blogging"
+    ], 
+    "student_id": 6174516772339712, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-03 13:36:29", 
+    "max_instances": "20", 
+    "id": 5108828062351360, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-30 09:29:29", 
+    "deadline": "2018-01-02 04:30:43", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org", 
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "task_definition_name": "Write A Blog Post About Your GCI 2017 Experience With Mifos (Midway)", 
+    "categories": [
+        "5"
+    ], 
+    "description": "This task involves writing about your entire experience working with the Mifos Initiative during the GCI 2017 session. Tell us how you learned about GCI, how many tasks you worked on, your appreciation of Google's GCI program and the Mifos Initiative as a whole. Make it an interesting read for your peers and family. Share the document which you've written with the task mentor in folder ( https://goo.gl/sK8fHW ). Also, append your name to the submitted file so that we know who did the work."
+}

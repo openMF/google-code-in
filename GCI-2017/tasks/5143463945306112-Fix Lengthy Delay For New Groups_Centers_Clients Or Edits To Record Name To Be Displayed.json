@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When creating a new group or center, or editing the name/title of any existing center or group, the changes get saved in the database but not reflected in the Community App.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "courageangeh@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:01:22Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1691", 
+    "id": 5143463945306112, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Lengthy Delay For New Groups/Centers/Clients Or Edits To Record Name To Be Displayed"
+}

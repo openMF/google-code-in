@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6638421088927744, 
+    "tags": [
+        "community management", 
+        "data integrity", 
+        "salesforce", 
+        "outreach", 
+        "crm"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-27 19:10:01", 
+    "max_instances": "1", 
+    "id": 5958520048451584, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-27 19:09:53", 
+    "deadline": "2017-12-30 10:11:55", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com", 
+        "etoth@mifos.org"
+    ], 
+    "task_definition_name": "Salesforce Clean-up: Add Country, Contact Type and Area of Interest fields for Contacts created between 04/01/2017 and 06/30/2017", 
+    "categories": [
+        "5"
+    ], 
+    "description": "We use Salesforce for managing our database of customers, partners, and volunteers and all communications and contact history with them.\n\nThis task involves cleaning up the Contacts within Salesforce to ensure they're ready to be imported in Mailchimp. Sometimes when we automatically convert leads to contacts from our web forms on our website, all the necessary values for segmentation don't get added.\n\nFor each contact, we must ensure it has a value for (and if it doesn't, add it):\n\nCountry Dropdown (look in the mailing country field or the country value for the parent account)\nContact Type (look at the parent account type to see what their account type is)\nArea of Interest (if it's not obvious from details, simply pick an area of interest that maps closest to their contact type) - this field will be captured more diligently on lead forms going forward.\nHow to work on this task:\n\nClaim the task\nEmail edcable@mifos.org to request credentials to access our Salesforce instance.\nRun the report titled: Contacts Cleanup for GCI with the date range of 04/01/2017 to 06/30/2017 for Created Date\nFor all the values that don't have the above fields completed, click the name of the contact, edit the values and save each record.\nTask isn't complete until all the contacts in the date range are complete with the above fields.\n\nPlease while you're editing the contacts make sure they have proper capitalization, etc (i.e. general clean-up)"
+}

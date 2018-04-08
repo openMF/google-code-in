@@ -1,0 +1,21 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5761790598184960 | Task Definition ID 5104801471791104
+Max instances: 3
+
+Title: Do Usability Testing On Loans Functionality In The Android Field Officer App
+Description: We have recently added several major new features in our Android field officer app. Major new functionalities have recently going into our Android Field Officer application and to ensure the highest quality and overall user experience, we want to improve the design and navigation as much as possible. 
+
+It is great to have fresh eyes look at the app to test out its usability. This task is focused on the loans module in the Android field officer app and you can follow our user manual for how functionality should work: Working with Loan Accounts ( https://mifosforge.jira.com/wiki/spaces/docs/pages/77594694/Working+with+Loan+Accounts )
+
+Please document your feedback in a Google Doc that you can share along with screenshots. If you have concrete UI improvements or bugs you've found, please create a ticket within the issue tracker for the Android field officer app at https://github.com/openMF/android-client/issues
+Tags: android, testing, regression, qualityassurance
+
+Categories: User Interface, Quality Assurance
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com
+Student: luphieanza (ID 5733321055141888)
+
+Status: COMPLETED (2018-01-14 05:31:20)
+Last modified: 2018-01-11 10:49:10

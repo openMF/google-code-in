@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Refer the link for screenshots:", 
+    "tags": [
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:24:35Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2440", 
+    "id": 5666805643214848, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Properly Display Indian Rupee Currency Symbol In Loan Account Overview And Savings Account Overview"
+}

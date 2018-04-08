@@ -1,0 +1,22 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5204361170911232 | Task Definition ID 5983026771132416
+Max instances: 1
+
+Title: Fix Issue Where Account Number Is Fetching Client Account Number Preference
+Description: >> Create "Account number preferences" for client. Ex: select type as office_name. 
+>> Create Fixed deposit account with default values click on submit button.
+Expected: 
+>> Should show account number as - automated generate digits.
+Existing behaviour:
+>> Generated account number is displayed with the client account number preferences.
+Tags: community-app
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: avikganguly010@gmail.com, apacheEnthu@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: ABANDONED
+Last modified: 2017-12-16 00:30:38

@@ -1,0 +1,153 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-01-02T18:19:30Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 5697060542087168, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": {
+            "display_name": "Sambhav Jain-1", 
+            "program_year": 2017, 
+            "id": 4589171396050944
+        }, 
+        "text": "ty sir", 
+        "created": "2017-12-31T11:43:28Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4589171396050944, 
+        "id": 5420312646647808, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-30T19:34:29Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5740383550046208, 
+        "id": 5224620917522432, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "This requires a lot more work. Please research on the actual topic of digital credit and not digital credentials. Look at the blog post that was linked to for more. \n\nRisks need to center around risk specific to digital credit and not just credit.\n\nBenefits are related digital credit and not benefits of smart cards.\n\nIm not sure what you provided potential impact for but it's not digital credit.\n\nThe companies you listed are mobile wallet provider and not necessarily digital credit companies - you were close but not all the way there. Companies that provide digital credit are tala, branch, mines.io.  The articles I link to reference more companies.", 
+        "created": "2017-12-30T19:34:24Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 6459641179406336, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": {
+            "display_name": "Sambhav Jain-1", 
+            "program_year": 2017, 
+            "id": 4589171396050944
+        }, 
+        "text": "", 
+        "created": "2017-12-30T14:53:06Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4589171396050944, 
+        "id": 5066481161207808, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": {
+            "display_name": "Sambhav Jain-1", 
+            "program_year": 2017, 
+            "id": 4589171396050944
+        }, 
+        "text": "DIGITAL CREDIT", 
+        "created": "2017-12-30T14:06:33Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4589171396050944, 
+        "id": 6291013247172608, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5204238881783808/", 
+                "filename": "DIGITAL_CREDIT.docx", 
+                "id": 5204238881783808, 
+                "file_size": 21707.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5187377242832896, 
+        "author": {
+            "display_name": "Sambhav Jain-1", 
+            "program_year": 2017, 
+            "id": 4589171396050944
+        }, 
+        "text": "", 
+        "created": "2017-12-30T13:32:35Z", 
+        "task_definition_name": "Write a Research Brief on Digital Credit", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4589171396050944, 
+        "id": 5481196223987712, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

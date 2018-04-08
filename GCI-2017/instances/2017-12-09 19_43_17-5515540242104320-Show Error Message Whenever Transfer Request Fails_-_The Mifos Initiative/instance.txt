@@ -1,0 +1,27 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5515540242104320 | Task Definition ID 4728490840555520
+Max instances: 1
+
+Title: Show Error Message Whenever Transfer Request Fails
+Description: Summary:
+Whenever a user is making any type of Transfer and If the request failed due to some reasons like No Internet or Socket Exception etc. It's showing empty Snack Bar without a message. It should show message Unable to make Transfer, Please Transfer later
+
+Steps to reproduce:
+Go to Transfer in Navigation and enter details and disconnect the internet.
+
+Expected behavior:
+It should show a proper message, So the user should know what happened, why a user can't make transfer right now.
+
+Observed behavior:
+It's showing empty Snack Bar
+Tags: mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: rajanmaurya154@gmail.com, justin.d128@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-11 14:48:01)
+Last modified: 2017-12-09 19:43:17

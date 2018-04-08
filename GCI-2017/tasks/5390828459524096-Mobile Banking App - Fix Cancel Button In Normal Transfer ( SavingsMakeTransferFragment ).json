@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When a user makes the `SavingsMakeTransferFragment` Transfer, in the last step `Cancel` button is shown which is borderless that should not be Borderless according to UX.\n\n**Steps to reproduce:**\n\nClick on Transfer on Home Dashboard and select `Transfer` and then fill the form and you can view `Review` and `Cancel` button", 
+    "tags": [
+        "mobile", 
+        "android", 
+        "fintech", 
+        "mifos-mobile", 
+        "mobile banking"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:40:15Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/454", 
+    "id": 5390828459524096, 
+    "categories": [
+        1
+    ], 
+    "name": "Mobile Banking App - Fix Cancel Button In Normal Transfer ( SavingsMakeTransferFragment )"
+}

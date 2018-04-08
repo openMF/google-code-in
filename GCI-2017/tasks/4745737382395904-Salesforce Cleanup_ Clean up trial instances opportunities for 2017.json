@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "We use Salesforce for managing our database of customers, partners, and volunteers and all communications and contact history with them.\n\nThis task involves cleaning up the Trial Instance Opportunities within Salesforce so they're properly cataloged for reporting purposes.  \n\nFor each of these trial instance opportunities: \n\n* Opportunity Record Type (this can be edited under System Information by clicking \"Change\" : If the Lead Source is Mifos.org - Trial User Form, Value should be Mifos X Trial for Opportunity Record Type \n\nOnce record type is correct,  we must ensure it has the following fields:\n\n* Title following this format: [Account Name - Trial Instance] \n* Country Dropdown (look in the mailing country field or the country value for the parent account)\n* Region Dropdown (deduce this based on the country field - refer to other records for reference)\n\n*How to work on this task:*\n\nClaim the task\nEmail edcable@mifos.org to request credentials to access our Salesforce instance.\nRun the report titled: Opportunities for GCI with the date range of 01/01/2017 to blank for Created Date\n\nFor all the values that don't have the above fields completed, click the name of the contact, edit the values and save each record.\nTask isn't complete until all the opportunities in the date range are complete with the above fields following the instructed format. \n\nPlease while you're editing the opportunities make sure they have proper capitalization, etc (i.e. general clean-up)", 
+    "tags": [
+        "community management", 
+        "data integrity", 
+        "salesforce", 
+        "outreach", 
+        "crm"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com", 
+        "etoth@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-21T18:50:55Z", 
+    "external_url": null, 
+    "id": 4745737382395904, 
+    "categories": [
+        5
+    ], 
+    "name": "Salesforce Cleanup: Clean up trial instances opportunities for 2017"
+}

@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Some of the UI related issues in client general page are listed as follows,\nFor Loans\nUndo approval option should be implemented similar to Savings account,\nSymbol used in Disburse loan is confusing it is used as Weive charge field\nUndo Disbursal symbol must be implemented before disburse symbol.\nFor make repayment dollar symbol is implemented it is confusing (weather currency is US Dollar/ Rupees etc)\nFor Tranche Loan Multiple disbursement options symbol should be implemented.\nFor overpaid loans transfer option should be implemented (here the disburse symbol is present)\nFor Savings\nSymbols are not uniform as in Loans\nUndo approval symbol is already used in reverse transactions\nDeposit/Withdraw symbols are also confusing\nFor Fixed deposits withdraw/deposit symbols should be removed\nIn Recurring deposits also withdraw/deposit symbols should be removed.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "apacheEnthu@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:41:53Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1677", 
+    "id": 5689241210191872, 
+    "categories": [
+        1
+    ], 
+    "name": "Display And Symbol Related Issues In Client General Page"
+}

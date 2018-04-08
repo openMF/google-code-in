@@ -1,0 +1,25 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5213761856077824, 
+    "tags": [], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-01 07:21:42", 
+    "max_instances": "1", 
+    "id": 6510673804656640, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-01 07:20:58", 
+    "deadline": "2017-12-04 03:42:43", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com"
+    ], 
+    "task_definition_name": "Show Progress Dialog While making Transfer", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Click on Transfer-> then onThird Party Transfer or Transfer and make a transfer, you will see a progress bar while the transfer is being made, that is not good according to UX so, change the Progress bar with Progress Dialog."
+}

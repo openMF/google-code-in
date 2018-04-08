@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5039946702258176, 
+    "tags": [
+        "android", 
+        "mifos-mobile"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-08 06:24:43", 
+    "max_instances": "1", 
+    "id": 5796779666702336, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-08 06:24:42", 
+    "deadline": "2017-12-10 12:29:03", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "rajanmaurya154@gmail.com"
+    ], 
+    "task_definition_name": "Fix Currency Symbol Which Displays As NULL", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\nCurrency symbol is displayed as null in Charges screen.\n\nSteps to reproduce:\nOpen the charges tab.\n\nExpected behavior:\nIt should have the appropriate currency sign.\n\nObserved behavior:\nNULL is displayed instead of the currency sign."
+}

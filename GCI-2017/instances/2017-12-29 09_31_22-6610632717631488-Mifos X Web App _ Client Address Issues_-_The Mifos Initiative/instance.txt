@@ -1,0 +1,25 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6610632717631488 | Task Definition ID 6084114354536448
+Max instances: 1
+
+Title: Mifos X Web App : Client Address Issues
+Description: 1. Go to System>Configuration and enable "Enable-Address".
+2. Go to any client page and click on 'Address' tab which is next to 'General' tab.
+3. Click on Add Address. You can see there are already Address lines 1, 2 & 3 , there is no need of 'Street' field. It should be removed.
+4. Submit the address for the client.
+5. Click on 'Edit' button for the client.
+>Edit button is not showing previous values entered , it should show the previous values.
+>In stead of Edit, there should be 'Submit' button.
+
+Refer the link for screenshots:
+Tags: 
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, gkrishnan724@gmail.com
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2017-12-31 19:23:57)
+Last modified: 2017-12-29 09:31:22

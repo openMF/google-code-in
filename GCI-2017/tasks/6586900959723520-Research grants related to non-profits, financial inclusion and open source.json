@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "For this task, do research on various grants  for open source software projects, HFOSS, humanitarian technology, ICT4D fintech, financial inclusion, or microfinance-related projects. Search on Google and list out the details of each award in this sheet - https://goo.gl/KA5JRH\nincluding its purpose, application date, application requirements, amount/prize, etc. An example of the award is: https://www.tides.org/awards-prizes/pizzigati-prize/\n\n\n\nYou should find at least twenty grants for this task.", 
+    "tags": [
+        "grants"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-15T16:58:28Z", 
+    "external_url": null, 
+    "id": 6586900959723520, 
+    "categories": [
+        5
+    ], 
+    "name": "Research grants related to non-profits, financial inclusion and open source"
+}

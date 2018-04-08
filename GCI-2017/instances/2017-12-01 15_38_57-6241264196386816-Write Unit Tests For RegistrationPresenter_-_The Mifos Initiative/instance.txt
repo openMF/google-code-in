@@ -1,0 +1,19 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6241264196386816 | Task Definition ID 4712656210493440
+Max instances: 1
+
+Title: Write Unit Tests For RegistrationPresenter
+Description: Write Unit tests for RegistrationPresenter.
+
+Example for unit testing of AccountPresenter(https://github.com/openMF/mifos-mobile/blob/development/app/src/main/java/org/mifos/mobilebanking/presenters/AccountsPresenter.java) can be seen in AccountsPresenterTest(https://github.com/openMF/mifos-mobile/blob/development/app/src/test/java/org/mifos/mobilebanking/AccountsPresenterTest.java)
+Tags: mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: dilpreet2028@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-06 07:23:44)
+Last modified: 2017-12-01 15:38:57

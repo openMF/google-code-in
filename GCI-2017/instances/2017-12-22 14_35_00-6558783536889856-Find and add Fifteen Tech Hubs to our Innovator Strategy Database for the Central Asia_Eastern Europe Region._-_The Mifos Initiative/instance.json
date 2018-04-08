@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Shivam kumar Singh", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4569025818394624, 
+    "tags": [
+        "market research", 
+        "innovation", 
+        "fintech", 
+        "due diligence", 
+        "outreach"
+    ], 
+    "student_id": 5079096713281536, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-22 14:35:00", 
+    "max_instances": "1", 
+    "id": 6558783536889856, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-22 14:34:55", 
+    "deadline": "2017-12-25 12:05:43", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Find and add Fifteen Tech Hubs to our Innovator Strategy Database for the Central Asia/Eastern Europe Region.", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Find and add Fifteen Tech Hubs to our Innovator Strategy Database for the Central Asia/Eastern Europe Region."
+}

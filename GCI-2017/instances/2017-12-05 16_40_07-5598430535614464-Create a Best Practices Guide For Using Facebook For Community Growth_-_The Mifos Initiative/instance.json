@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Vaibhav Vijay", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5191930788970496, 
+    "tags": [
+        "communitymanagement", 
+        "marketing", 
+        "facebook", 
+        "outreach", 
+        "socialmedia"
+    ], 
+    "student_id": 6329140703657984, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-05 16:40:07", 
+    "max_instances": "2", 
+    "id": 5598430535614464, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-05 16:40:06", 
+    "deadline": "2017-12-07 18:06:08", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Create a Best Practices Guide For Using Facebook For Community Growth", 
+    "categories": [
+        "5"
+    ], 
+    "description": "We have a relatively small Facebook following, 3300 followers, and try to engage with them on an active basis by posting content regularly and informing them of ongoing events, product announcements, and using it to recognize members in the community. We know that both as an open source community and a non-profit we could better leverage Facebook to grow our community, target and inform donors, attract new volunteers, and provide better support to our user base. Numerous articles and guides exist on helping to optimize Facebook for companies, communities, non-profits. Please read several of these guides or articles and summarize them in a brief with a list of at least ten best practices we could implement. Possible additional tasks include actually implementing these recommendations. Synthesize your ideas in a document and place in folder https://goo.gl/euYTnM"
+}

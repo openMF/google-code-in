@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task involves designing a logo for Mifos I/O and another for Apache Fineract CN. Make it look good, something you'd be proud to show to family and friends. Look at some great sticker design before you start working on this. Submit your artwork in any file format, ideally with transparency settings so we can print them. Also, append your name to the submitted file so that we know who did the work.", 
+    "tags": [
+        "design", 
+        "mifosio"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:27:38Z", 
+    "external_url": "https://github.com/mifosio", 
+    "id": 5677620588969984, 
+    "categories": [
+        2
+    ], 
+    "name": "Design A Sticker For Mifos I/O And Another For Apache Fineract CN"
+}

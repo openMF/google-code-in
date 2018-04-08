@@ -1,0 +1,29 @@
+{
+    "student_display_name": "shr33narayan", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6278328858181632, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 6660760497291264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-11-29 04:52:16", 
+    "max_instances": "1", 
+    "id": 5730762168991744, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-11-29 04:52:14", 
+    "deadline": "2017-12-01 18:58:38", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "dancarl758@gmail.com"
+    ], 
+    "task_definition_name": "Asterisks Are Missing To Show Selected Roles Is Mandatory In User Creation", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Can be reproduced by\nAdmin -> User -> Create User and refer the link for screenshots:"
+}

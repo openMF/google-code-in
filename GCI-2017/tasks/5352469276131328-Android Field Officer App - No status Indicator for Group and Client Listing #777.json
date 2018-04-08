@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Please refer to issue for full details. \n\nIn the App there is no status Indicator for Group and Client Listing showing their status like Active/Pending or Closed like on Centres listing.", 
+    "tags": [
+        "mobile", 
+        "banking", 
+        "android", 
+        "fintech", 
+        "financial inclusion"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-14T19:15:55Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/777", 
+    "id": 5352469276131328, 
+    "categories": [
+        1
+    ], 
+    "name": "Android Field Officer App - No status Indicator for Group and Client Listing #777"
+}

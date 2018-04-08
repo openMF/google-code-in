@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "## Description\n\nCurrently, when a user routes to something other than intended routes, it shows a blank view with no message (see screenshot in external link).\n\n## Fix\n\nWe should add an `otherwise` method in routes.js where if a route does not match the list of routes in routes.js, we show a 404 page to the user. Design of the page can be simple.", 
+    "tags": [
+        "routes", 
+        "error-page", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-12T13:46:56Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2650", 
+    "id": 4759667672612864, 
+    "categories": [
+        1, 
+        2
+    ], 
+    "name": "Mifos X Web App - Show a 404 Not Found page when a user routes to unintended routes"
+}

@@ -1,0 +1,233 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2017, 
+            "id": 5393166716895232
+        }, 
+        "text": "", 
+        "created": "2018-01-18T08:37:16Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5393166716895232, 
+        "id": 4650951027720192, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2017, 
+            "id": 5393166716895232
+        }, 
+        "text": "Great work!", 
+        "created": "2018-01-18T08:37:02Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5393166716895232, 
+        "id": 6223308221579264, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nThe web-guide link is: https://mifosforge.jira.com/wiki/spaces/docs/pages/112296012/Collection+sheet\nThere is not a place where it says that one can choose some center in the Individual Collection Sheet, that was poor interpretation on my part; Sorry about that! In addition, I have fixed the described typos.\nThanks!\nJanice K.", 
+        "created": "2018-01-18T07:54:16Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5105078052585472, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2017, 
+            "id": 5393166716895232
+        }, 
+        "text": "Can you please provide the link to the web-guide where it says that the one can choose some center in the Individual Collection Sheet?\n\nYou still missed the typo in the very first bullet. It'll be great if you could correct it too. :) \n\nAlso, the very first line says \"You can use collection sheet in two ways\" whereas there are three bullets following it. Please replace 'two' with 'following'. \n\nGreat work, though! (y)", 
+        "created": "2018-01-18T05:23:36Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5393166716895232, 
+        "id": 4845523246776320, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hi,\nSorry about that! I used the Mifos Web User Guide as a reference and included that by accident. I have fixed the typos.\n\nThank you,\nJanice", 
+        "created": "2018-01-17T18:00:59Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5191103294734336, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2017, 
+            "id": 5393166716895232
+        }, 
+        "text": "Hey Janice,\n\nIn the first line, you wrote\n`Using it as Individual Collection Sheet where you have to provide three parameters, namely Office, Repayment Date and Staff & later you can 'choose' (you left a typo there) respective centers before submission.`\n\nCan you please tell what you mean by \"...you can choose respective center\" in the individual collectionsheet? It does not provide any option to choose center.", 
+        "created": "2018-01-17T17:13:39Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5393166716895232, 
+        "id": 6196496217145344, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2018-01-17T14:40:48Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 4692500675559424, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nI have updated the user manual. The new page about collections is located at: https://mifosforge.jira.com/wiki/spaces/docs/pages/237666305/Working+with+Collection+Sheets\n\nThank you for your help,\nJanice K.", 
+        "created": "2018-01-17T14:40:41Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5688121742065664, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2017, 
+            "id": 5393166716895232
+        }, 
+        "text": "Hello Janice, \n\nIt's there when you expand the Navigation drawer (swipe from the left edge of the screen to the right side) menu.\n\nTry building it from the Github source (master branch) if you don't find the options in the app downloaded from Playstore.\n\nYou can find some relevant GIF in the comments of the following PR:\nhttps://github.com/openMF/android-client/pull/713\nhttps://github.com/openMF/android-client/pull/730\n\nLet me know if you need any help.", 
+        "created": "2018-01-17T10:41:39Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5393166716895232, 
+        "id": 5180832954187776, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nUpon installation of the app, I was unable to find the Collection Sheet options on the menu bar. I am using a Samsung Note 2. What do you suggest?\n\nJanice", 
+        "created": "2018-01-17T09:31:30Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 6396045095337984, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5572217083527168, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2018-01-15T16:59:11Z", 
+        "task_definition_name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5845762745303040, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

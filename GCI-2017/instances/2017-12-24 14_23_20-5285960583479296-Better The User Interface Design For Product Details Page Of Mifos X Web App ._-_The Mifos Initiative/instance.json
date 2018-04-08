@@ -1,0 +1,31 @@
+{
+    "student_display_name": "luphieanza", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4742529620639744, 
+    "tags": [
+        "web", 
+        "ui", 
+        "design"
+    ], 
+    "student_id": 5733321055141888, 
+    "time_to_complete_in_days": "5", 
+    "modified": "2017-12-24 14:23:20", 
+    "max_instances": "3", 
+    "id": 5285960583479296, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-24 14:04:08", 
+    "deadline": "2017-12-25 06:46:49", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "justin.d128@gmail.com"
+    ], 
+    "task_definition_name": "Better The User Interface Design For Product Details Page Of Mifos X Web App .", 
+    "categories": [
+        "2", 
+        "4"
+    ], 
+    "description": "Due to it's tabular display, the current Product Details page ( Loan, Savings, Share , FD , RD ) is often hard to identify and read the data by matching it to the respective column as there are a lot of entries. For this task, you are supposed to design a better UI by submitting a mockup/wireframe for the same in this folder ( https://goo.gl/TrTMi3 ).\n\nYou can test the current User Interface in https://staging.openmf.org/ with username: mifos and password : password. \n\nNavigate to Admin>>Products>>Loan Product."
+}

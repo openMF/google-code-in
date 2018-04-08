@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "program_year": 2017, 
+    "description": "Currently there is an audit table and code base for logging other activities but sign in and sign out.\n\nAcceptance criteria:\nWhenever a user logs in or logs out, an entry should be made to the audit table with a  timestamp and username. It'd be great if you can record IP address also.", 
+    "tags": [
+        "spring", 
+        "security", 
+        "apache fineract", 
+        "java", 
+        "fintech"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:17:17Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-537", 
+    "id": 5647951877636096, 
+    "categories": [
+        1
+    ], 
+    "name": "Apache Fineract - Modify Audit Login And Logout"
+}

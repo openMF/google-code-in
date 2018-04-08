@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5164377005096960 | Task Definition ID 5655141669666816
+Max instances: 1
+
+Title: Refactor pull-all.sh Script On Mifos I/O
+Description: Refactor the pull-all.sh script to eliminate boilerplate code. The pull-all.sh script is used to pull updates from different microservice repositories on Mifos I/O. The logic should persist while script should work properly, be concise and tested to work on at least TWO OS types within this group { Linux, Mac, Windows}.
+Tags: git, bash, github
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: danCarl758@gmail.com
+Student: Robin Richtsfeld (ID 4774660237426688)
+
+Status: COMPLETED (2017-12-08 19:14:04)
+Last modified: 2017-12-07 12:35:02

@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task involves giving our Technical Resources ( http://mifos.org/resources/technical-resources/  ) a thorough read and suggesting four ideas which can be implemented to improve it.  Synthesize your research into a Google Document.\n\nThere might also be some outdated links on the page. Please note the broken links and where they should point to now.", 
+    "tags": [
+        "community management", 
+        "training", 
+        "documentation", 
+        "tech writing", 
+        "support"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "sanyambvcoe96@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:32:09Z", 
+    "external_url": "http://mifos.org/resources/technical-resources/", 
+    "id": 6513838239252480, 
+    "categories": [
+        3
+    ], 
+    "name": "Read Through Our Technical Resources And Suggest Four Ideas To Improve It"
+}

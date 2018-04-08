@@ -1,0 +1,26 @@
+{
+    "student_display_name": "JAAnderson", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5724722840993792, 
+    "tags": [], 
+    "student_id": 5210351140339712, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-05 17:14:00", 
+    "max_instances": "1", 
+    "id": 5067429124243456, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-08 17:11:29", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Correct Spelling Mistakes", 
+    "categories": [
+        "1"
+    ], 
+    "description": "We have three strings with a typo whose values are :-\n- Their is no SavingsAccount associated with you.\n- Their is no LoanAccount associated with you.\n- Their is no ShareAccount associated with you.\n\nIt should be 'There' instead of their, which can be fixed by correct the spelling in strings.xml\nYou have to correct the spellings from this line: https://github.com/openMF/mifos-mobile/blob/development/app/src/main/res/values/strings.xml#L123 to this line https://github.com/openMF/mifos-mobile/blob/development/app/src/main/res/values/strings.xml#L127"
+}

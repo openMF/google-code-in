@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When we moved from the old skin to new skin, a lot of icons are missing in buttons and inputs due to switching from `icon` classes to `fa` classes. Many of the classes are spelled incorrectly in the code. For this task, you are supposed to identify at least 10 places where icons are missing and fix them accordingly. \n\nFor retrieving the old-skin, you would need to revert back the develop branch before the new skin commit by doing \ngit checkout 15b7cbca20484e0deb3dd418808ba481854da038.  \n\nYou could compare this version in the hosted demo which contains the latest skin:\nhttps://staging.openmf.org/\n\nYou could check out the original classes in:\nhttp://fontawesome.io/icons/\n\n\nFor screenshots, please refer to the GitHub ticket:", 
+    "tags": [
+        "icons", 
+        "code", 
+        "html", 
+        "bug", 
+        "bootstrap"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-03T14:42:38Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2621", 
+    "id": 6301414970097664, 
+    "categories": [
+        1, 
+        2
+    ], 
+    "name": "Mifos X Web App - Fix broken icons"
+}

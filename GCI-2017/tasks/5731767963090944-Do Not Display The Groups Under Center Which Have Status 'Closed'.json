@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create a center.\n2. Create a group under it.\n3. Close the group ( In group page go to More )\n> The group is still displaying under center with  'Closed' (black) status which shouldn't.", 
+    "tags": [
+        "apache", 
+        "mifosx", 
+        "fineract"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dancarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:02:58Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-546", 
+    "id": 5731767963090944, 
+    "categories": [
+        1
+    ], 
+    "name": "Do Not Display The Groups Under Center Which Have Status 'Closed'"
+}

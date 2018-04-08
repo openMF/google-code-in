@@ -1,0 +1,25 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5887790124367872 | Task Definition ID 5845172875165696
+Max instances: 1
+
+Title: Unable to upload document for client identities: throwing internal server
+Description: For the following client:
+
+https://staging.openmf.org/#/viewclient/18
+(username/password - mifos/password)
+Go to Identities tab (where driving license already uploaded)
+
+Under 'Actions' tab, click on upload button and try to upload any image or pdf.
+
+no validation message is showing and checked through network showing 500:internal server error
+Tags: 
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, gkrishnan724@gmail.com, sett.raunak@gmail.com, 14bcs030@smvdu.ac.in, gauravsaini03@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2017-12-24 09:00:15)
+Last modified: 2017-12-23 05:07:32

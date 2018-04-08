@@ -1,0 +1,33 @@
+{
+    "student_display_name": "luphieanza", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5107686221807616, 
+    "tags": [
+        "social media", 
+        "fintech", 
+        "outreach", 
+        "linkedin", 
+        "research"
+    ], 
+    "student_id": 5733321055141888, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-29 18:51:53", 
+    "max_instances": "2", 
+    "id": 4693380170776576, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-29 18:51:48", 
+    "deadline": "2018-01-01 11:05:44", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com", 
+        "etoth@mifos.org"
+    ], 
+    "task_definition_name": "Find and Catalog 25 LinkedIn Groups related to Fintech", 
+    "categories": [
+        "5"
+    ], 
+    "description": "One of our objectives as a non-profit initiative, is to serve as a thought leader for open source, fintech, and technology-enabled financial inclusion. LinkedIn and its expansive network of experts and professionals provides a good forum for us to position ourselves as a thought leader. There exist various LinkedIn Groups in the domains we operate in where we could network, promote our accomplishments, and participate in valuable discussions. \n\nThis task centers around researching and cataloging LinkedIn Groups that we could join. For this task, you need to research and put in our Google Sheet Database, 25 LinkedIn Groups for the specific domain. Don't duplicate groups others have listed. \n\nFintech: These will include groups related to fintech, core banking, crypto currencies, digital financial services, etc. You can search terms like mobile banking, fintech, mobile money, digital financial services, digital credit, etc. \n\nFor each group you find, you must input the following in the Google Sheet at https://goo.gl/kSoTWW\n\n* Group Name\n* Category of Group\n* Description of Group (what is listed under about this Group)\n* URL for Group\n* Number of Members in Group\n\nTo search for groups by name or keyword:\nGo to Linkedin.com (while logged in) and in the search box at the top of your LinkedIn homepage, type keywords or group names of interest, and click Search.\nOn the search results page, click the Groups tab.\nhttps://www.linkedin.com/help/linkedin/answer/186/finding-and-joining-a-group?lang=en"
+}

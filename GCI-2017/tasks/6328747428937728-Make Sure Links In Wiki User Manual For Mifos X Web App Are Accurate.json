@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Over time as we move pages around on our wiki and add new functionality, links get broken or outdated. To ensure our User Manual ( https://mifosforge.jira.com/wiki/spaces/docs/pages/52035622/User+Manual ) is up to date and accurate we must go through and verify the links. You should navigate to the beginning of the user manual and attempt to traverse through it testing each link. Note the broken links you find and update them if you are able to. You can also use a broken link checker tool for your respective browser. More details on this issue can be found at MXD-34 - Verify Links in Wiki User Manual are Accurate DONE", 
+    "tags": [
+        "confluence", 
+        "wiki", 
+        "usermanual"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T13:05:59Z", 
+    "external_url": "https://mifosforge.jira.com/browse/MXD-34", 
+    "id": 6328747428937728, 
+    "categories": [
+        3
+    ], 
+    "name": "Make Sure Links In Wiki User Manual For Mifos X Web App Are Accurate"
+}

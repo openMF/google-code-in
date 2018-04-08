@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "program_year": 2017, 
+    "description": "Go to Transfer-> choose any one of them and enter details and disconnect the internet and then click on transfer. It shows an empty Snack Bar.\n\nIt should show message `Unable to make Transfer, Please try later`", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dilpreet2028@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T14:54:48Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/452", 
+    "id": 4858216947122176, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Display Of Error Message When Transfer Request Fails"
+}

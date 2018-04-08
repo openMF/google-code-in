@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Set currency as Indian Rupees, US Dollar, UAE Dirhams, in currency configuration. \n2. Create teller and add cashier to it.\n3. Add office financial mapping for main cash at vault and for cash at teller/cashier.\n4. Allocate cash in Indian Rupees, and Settle cash in UAE Dirhams,\n5. Click on search Journal entries in which all entries got created with $ symbol.\nIt should be with particular currency symbol with which transaction has been done.\n\nRefer the following link for more info:", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:14:01Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1732", 
+    "id": 4878696458485760, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Display Completed Teller Transactions In Proper Currency"
+}

@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Refer the screenshots from below link:\n\nhttps://github.com/openMF/community-app/issues/2097", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:41:02Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2097", 
+    "id": 6569414092652544, 
+    "categories": [
+        1
+    ], 
+    "name": "Designs For New Loan/Saving/Share/FD/RD Applications Should Be Coherent"
+}

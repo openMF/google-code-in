@@ -1,0 +1,338 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "", 
+        "created": "2017-11-28T18:35:19Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5686705652760576, 
+        "id": 6122260718944256, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "", 
+        "created": "2017-11-28T18:29:33Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5536781246136320, 
+        "id": 5418124184649728, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "https://github.com/openMF/community-app/pull/2572/commits/1e5a48bed77698398b1053fcac609d2926f50f57 I hope it's done...", 
+        "created": "2017-11-28T18:29:30Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5536781246136320, 
+        "id": 6561589299773440, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "Please read the task description carefully, You need to create a Pull request", 
+        "created": "2017-11-28T18:20:13Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5686705652760576, 
+        "id": 5606412598116352, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "", 
+        "created": "2017-11-28T18:19:38Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5686705652760576, 
+        "id": 5703156736458752, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "", 
+        "created": "2017-11-28T18:07:56Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5536781246136320, 
+        "id": 6295622376226816, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "https://github.com/KrzysiekSiemv/GCI-Contributors/blob/master/Contributors", 
+        "created": "2017-11-28T18:07:50Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5536781246136320, 
+        "id": 6562761825845248, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "", 
+        "created": "2017-11-28T17:57:20Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5686705652760576, 
+        "id": 6537725656170496, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "Without a PR we can't accept! You have to create a PR", 
+        "created": "2017-11-28T17:56:57Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5686705652760576, 
+        "id": 4749621114961920, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "", 
+        "created": "2017-11-28T17:53:25Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5536781246136320, 
+        "id": 6546802264244224, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "https://gist.github.com/KrzysiekSiemv/8bd0abef52bb301f23971f6b5d5bc533 I added new information. This can be?", 
+        "created": "2017-11-28T17:53:20Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5536781246136320, 
+        "id": 5213427653935104, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "", 
+        "created": "2017-11-28T17:48:28Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5686705652760576, 
+        "id": 5040228534321152, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Mohit kumar Bajoria", 
+            "program_year": 2017, 
+            "id": 5686705652760576
+        }, 
+        "text": "Thanks for your contributions, it's clearly mentioned that you have to edit contributors.md and add the basic details on it", 
+        "created": "2017-11-28T17:48:21Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5686705652760576, 
+        "id": 4826733763100672, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "", 
+        "created": "2017-11-28T17:46:39Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5536781246136320, 
+        "id": 6414472845459456, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "https://gist.github.com/KrzysiekSiemv/8bd0abef52bb301f23971f6b5d5bc533 Can be this?", 
+        "created": "2017-11-28T17:46:33Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5536781246136320, 
+        "id": 6410910438522880, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5770570274701312, 
+        "author": {
+            "display_name": "Krzysztof Smaga", 
+            "program_year": 2017, 
+            "id": 5536781246136320
+        }, 
+        "text": "", 
+        "created": "2017-11-28T17:46:15Z", 
+        "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5536781246136320, 
+        "id": 6725612624412672, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "All functionality in the Apache Fineract platform is exposed through RESTful APIs so that third parties can easily build new applications and solutions on top of the platform. We need to build out and expand our integration test suite for our Java APIs using Rest Assured ( https://code.google.com/p/rest-assured/ ). Rest Assured makes Testing and validating REST services in Java as simple as doing it for dynamic languages such as Ruby and Groovy. This tasks involves setting up the integration tests for our SPM (Surveys Framework) APIs - https://demo.openmf.org/api-docs/apiLive.htm#surveys", 
+    "tags": [
+        "restassured", 
+        "git", 
+        "testing", 
+        "junit", 
+        "qualityassurance"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:06:19Z", 
+    "external_url": "https://demo.openmf.org/api-docs/apiLive.htm#surveys", 
+    "id": 4859461933989888, 
+    "categories": [
+        4
+    ], 
+    "name": "Set Up Integration Tests For SPM (Surveys Framework) APIs Via Rest Assured"
+}

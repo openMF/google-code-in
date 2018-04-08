@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Akash Bhave", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4781322646061056, 
+    "tags": [
+        "mobile", 
+        "documentation", 
+        "fintech", 
+        "user manual", 
+        "fineract"
+    ], 
+    "student_id": 6479705412730880, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-13 13:21:48", 
+    "max_instances": "1", 
+    "id": 4912305861033984, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-13 13:21:12", 
+    "deadline": "2018-01-16 03:22:57", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Documentation - Fineract CN Mobile - Draft User Guide for Create New Loan Account Feature", 
+    "categories": [
+        "3"
+    ], 
+    "description": "Document the create new loan account, loan account details,  and loan account list feature along with screenshots.\n\nAs any community will decide to implement in his society they would need to some documentation so their field officer can learn how efficiently they can use the app.\n\nUser guide to be created at https://cwiki.apache.org/confluence/display/FINERACT/Fineract+CN+Mobile+User+Guide. You will need to request write privileges by emailing edcable@mifos.org\n\nHere is an example of Android-client documentation, you can get an idea how you have to write.\nhttps://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide\n\nHere you can download the APK and you can find credentials too\nhttps://github.com/openMF/Fineract-CN-mobile/wiki\n\nHere is the blog post you can get some help.\nhttps://medium.com/@therajanmaurya/apache-gsoc-2017-blog-post-f2791dc136b5"
+}

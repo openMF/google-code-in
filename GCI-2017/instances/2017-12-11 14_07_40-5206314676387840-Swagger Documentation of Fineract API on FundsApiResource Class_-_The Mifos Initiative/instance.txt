@@ -1,0 +1,35 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5206314676387840 | Task Definition ID 6356247987093504
+Max instances: 1
+
+Title: Swagger Documentation of Fineract API on FundsApiResource Class
+Description: **Overview and Objectives:** Annotate the [FundsApiResource.java](https://github.com/Sanyam96/incubator-fineract/blob/GCI-swagger-integration/fineract-provider/src/main/java/org/apache/fineract/portfolio/fund/api/FundsApiResource.java) with Swagger Annotations and in the field description and for the specific values for the annotation can easily be found in the current documentation.
+
+**Description:** Don't lose any documentation that's already on the current REST API docs, maintain it's human readable comments (by moving that into JavaDoc/annotations in code which SpringFox/Swagger exploit), the "sections", etc
+
+**Please Note: ** **-> All the Swagger Documentation Pull Request should be created on Branch "GCI-swagger-integration" https://github.com/Sanyam96/incubator-fineract/tree/GCI-swagger-integration **
+
+
+**Some Information about Swagger Documentation is given below ;)**
+
+- Swagger is used for the dynamic documentation of REST API for Apache Fineract which can easily replace [apiLive.htm](https://demo.openmf.org/api-docs/apiLive.htm "the current documentation") (the current documentation)
+
+- In most of our cases, we are using @Api, @ApiOperation, @ApiImplicitParams, @ApiResponses and other Swagger Annotations for dynamic documentation of Fineract API’s
+
+  For Information about Swagger Annotations refer  [Swagger-Core](https://github.com/swagger-api/swagger-core/wiki/Annotations-1.5.X/ "Annotations") Annotations.
+
+- Refer the [Pull Request #409](https://github.com/apache/fineract/pull/409/ "Swagger Documentation on FINERACT") on branch "swagger-documentation-integration" to get details about the integration of Swagger on Fineract and how Annotation are used in the Pull Request.
+
+- Follow more on the Documentation for Integration of Swagger on Fineract and how to apply swagger on Fineract at 
+[ https://goo.gl/6cHv8F ]
+Tags: swagger-ui, documentation, java, git
+
+Categories: Coding, Documentation & Training
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: sanyam.bvcoe96@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-15 14:02:52)
+Last modified: 2017-12-11 14:07:40

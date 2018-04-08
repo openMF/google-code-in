@@ -1,0 +1,26 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4779027590021120 | Task Definition ID 6237143888297984
+Max instances: 1
+
+Title: Mifos X Web App #2718 - Fix Typos in View for SMS Campaigns
+Description: Description
+There are several very glaring typos in the SMS Campaigns module.
+
+Steps to Reproduce
+Navigate to Organization >> SMS Campaigns. The title reads "SMScampaings" rather than SMS Campaigns.
+View Campaigns has a typo as well. From SMS Campaigns click any campaign to view it. Title says "View SMS Campain" instead of View SMS Campaign
+Edit Campaigns has a typo too. From a Schedules SMS Campaign that is still pending, click edit. The next title should read Edit SMS Campaign but it says "Edit SMS Campain"
+This all occurred on https://mobile.openmf.org with credentials mifos/password
+
+See attached screenshots.
+Tags: front-end, fintech, angular, angularjs, web development
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: 14bcs030@smvdu.ac.in, gkrishnan724@gmail.com, edcable@mifos.org, gauravsaini03@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2018-01-06 08:28:36)
+Last modified: 2018-01-03 10:55:26

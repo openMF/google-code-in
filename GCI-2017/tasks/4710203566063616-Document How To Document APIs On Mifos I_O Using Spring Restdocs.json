@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task involves writing out a document which reviews different tools which can be leveraged to automate the process of writing API Docs. For Mifos X, Swagger has been used. With Mifos I/O which is based on a Microservice Architecture, explore the use of tools like Spring REST Docs to document APIs for Microservices. Synthesize your research into a Google Document and submit it here ( https://goo.gl/TuN7Bj ).", 
+    "tags": [
+        "spring", 
+        "documentation", 
+        "apis"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T05:30:41Z", 
+    "external_url": null, 
+    "id": 4710203566063616, 
+    "categories": [
+        3
+    ], 
+    "name": "Document How To Document APIs On Mifos I/O Using Spring Restdocs"
+}

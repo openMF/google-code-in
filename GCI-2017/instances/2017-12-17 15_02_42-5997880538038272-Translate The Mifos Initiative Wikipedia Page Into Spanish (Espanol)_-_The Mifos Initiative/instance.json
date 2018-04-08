@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5654149800656896, 
+    "tags": [
+        "wikipedia", 
+        "visibility"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "7", 
+    "modified": "2017-12-17 15:02:42", 
+    "max_instances": "1", 
+    "id": 5997880538038272, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-17 15:02:38", 
+    "deadline": "2017-12-24 11:58:09", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "task_definition_name": "Translate The Mifos Initiative Wikipedia Page Into Spanish (Espanol)", 
+    "categories": [
+        "5"
+    ], 
+    "description": "This task depends on the task \"Update The Mifos Initiative Wikipedia Page\" and involves translating the Mifos Initiative Wikipedia page https://en.wikipedia.org/wiki/Mifos_Initiative Into Spanish. Note that any student who makes significant project to close this task shall have great rewards as this task has a high coefficient. Share the document you've written with the task mentor. Also, append your name to the submitted file in https://goo.gl/vJjxaP so that we know who did the work."
+}

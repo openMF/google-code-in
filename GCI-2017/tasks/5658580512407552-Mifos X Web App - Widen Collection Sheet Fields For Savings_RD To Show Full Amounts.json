@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Refer the following link for screenshots:", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T04:13:11Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2340", 
+    "id": 5658580512407552, 
+    "categories": [
+        1, 
+        2
+    ], 
+    "name": "Mifos X Web App - Widen Collection Sheet Fields For Savings/RD To Show Full Amounts"
+}

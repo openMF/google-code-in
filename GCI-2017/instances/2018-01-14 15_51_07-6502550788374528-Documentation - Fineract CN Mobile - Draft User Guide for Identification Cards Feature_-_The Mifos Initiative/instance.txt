@@ -1,0 +1,32 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6502550788374528 | Task Definition ID 4638615982309376
+Max instances: 1
+
+Title: Documentation - Fineract CN Mobile - Draft User Guide for Identification Cards Feature
+Description: Document the Identification Cards feature including Create Identification Cards, List Identification Cards, Identification Card Details, Edit Identification Card and Upload/Scan Identification Cards along with screenshots.
+
+This relates to issues: #187 through #190 and #193
+
+As any community member who will decide to implement in his society they would need some documentation so their field officer can learn how efficiently they can use the app.
+
+User guide to be created at https://cwiki.apache.org/confluence/display/FINERACT/Fineract+CN+Mobile+User+Guide. You will need to request write privileges by emailing edcable@mifos.org
+
+Here is an example of Android-client documentation, you can get an idea how you have to write.
+https://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide
+
+Here you can download the APK and you can find credentials too
+https://github.com/openMF/Fineract-CN-mobile/wiki
+
+Here is the blog post you can get some help.
+https://medium.com/@therajanmaurya/apache-gsoc-2017-blog-post-f2791dc136b5
+Tags: mobile, documentation, fintech, user manual, fineract
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: rajanmaurya154@gmail.com, edcable@mifos.org
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2018-01-17 12:39:29)
+Last modified: 2018-01-14 15:51:07

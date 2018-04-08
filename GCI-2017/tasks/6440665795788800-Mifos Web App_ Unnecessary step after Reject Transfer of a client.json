@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create a client in a certain office\n2. Go to its profile and click \"Transfer client\"\n3. Then click \"Reject Transfer\"\nThe system will direct you where you have to undo the transfer. \n\nFor Screeshots refer the link:", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "sett.raunak@gmail.com", 
+        "14bcs030@smvdu.ac.in", 
+        "gauravsaini03@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-09T17:28:30Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2651", 
+    "id": 6440665795788800, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos Web App: Unnecessary step after \"Reject Transfer\" of a client"
+}

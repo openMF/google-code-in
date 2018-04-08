@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "program_year": 2017, 
+    "description": "This task depends on the task \"Update The Mifos Initiative Wikipedia Page\" and involves translating the Mifos Initiative Wikipedia page https://en.wikipedia.org/wiki/Mifos_Initiative Into Spanish. Note that any student who makes significant project to close this task shall have great rewards as this task has a high coefficient. Share the document you've written with the task mentor. Also, append your name to the submitted file in https://goo.gl/vJjxaP so that we know who did the work.", 
+    "tags": [
+        "wikipedia", 
+        "visibility"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:21:18Z", 
+    "external_url": "https://en.wikipedia.org/wiki/Mifos_Initiative", 
+    "id": 5654149800656896, 
+    "categories": [
+        5
+    ], 
+    "name": "Translate The Mifos Initiative Wikipedia Page Into Spanish (Espanol)"
+}

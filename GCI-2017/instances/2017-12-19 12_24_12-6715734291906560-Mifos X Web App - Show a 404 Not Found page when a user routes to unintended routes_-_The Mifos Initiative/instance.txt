@@ -1,0 +1,23 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6715734291906560 | Task Definition ID 4759667672612864
+Max instances: 1
+
+Title: Mifos X Web App - Show a 404 Not Found page when a user routes to unintended routes
+Description: ## Description
+
+Currently, when a user routes to something other than intended routes, it shows a blank view with no message (see screenshot in external link).
+
+## Fix
+
+We should add an `otherwise` method in routes.js where if a route does not match the list of routes in routes.js, we show a 404 page to the user. Design of the page can be simple.
+Tags: routes, error-page, angularjs
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: manrajsinghgrover@gmail.com
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2017-12-20 22:53:48)
+Last modified: 2017-12-19 12:24:12

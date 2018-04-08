@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5390828459524096, 
+    "tags": [
+        "mobile", 
+        "android", 
+        "fintech", 
+        "mifos-mobile", 
+        "mobile banking"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-14 16:11:41", 
+    "max_instances": "1", 
+    "id": 4836511079989248, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-14 16:11:36", 
+    "deadline": "2017-12-17 11:29:43", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Mobile Banking App - Fix Cancel Button In Normal Transfer ( SavingsMakeTransferFragment )", 
+    "categories": [
+        "1"
+    ], 
+    "description": "When a user makes the `SavingsMakeTransferFragment` Transfer, in the last step `Cancel` button is shown which is borderless that should not be Borderless according to UX.\n\n**Steps to reproduce:**\n\nClick on Transfer on Home Dashboard and select `Transfer` and then fill the form and you can view `Review` and `Cancel` button"
+}

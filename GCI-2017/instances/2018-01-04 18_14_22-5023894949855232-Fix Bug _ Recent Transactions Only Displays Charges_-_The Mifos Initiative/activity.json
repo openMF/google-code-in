@@ -1,0 +1,212 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2018-01-04T18:14:18Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 4816424407138304, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Let me add Dilpreet and Rajan to the thread.", 
+        "created": "2018-01-04T00:13:41Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5896976572874752, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "", 
+        "created": "2018-01-03T23:31:28Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6365669266292736, 
+        "id": 5734598354927616, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "As this issue is on the server, I can't fix it through the android app. What should I do? In the mean time I am going to submit the task to pause the timer", 
+        "created": "2018-01-03T23:31:19Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 6743456913293312, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Nevermind, I found it. Based on this information, I think that the issue is actually on the server side. Please go to the GitHub issue to see the log", 
+        "created": "2018-01-03T18:45:59Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 4601221111349248, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Is there a way for me too see what values the app is getting from the server?", 
+        "created": "2018-01-03T15:50:34Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 6364072452816896, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Ok it worked. Thank you", 
+        "created": "2018-01-02T23:01:06Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 4678855329579008, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Did you try the credentials listed at https://github.com/openMF/mifos-mobile/wiki selfservice/password", 
+        "created": "2018-01-02T22:35:41Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5740383550046208, 
+        "id": 4726852595744768, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Hello, what password and username should I use to sign into the app. Thank you", 
+        "created": "2018-01-02T22:33:18Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 5949692464594944, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5023894949855232, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "", 
+        "created": "2018-01-02T19:00:26Z", 
+        "task_definition_name": "Fix Bug : Recent Transactions Only Displays Charges", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 5464947691618304, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

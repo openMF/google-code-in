@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5725733483708416, 
+    "tags": [
+        "qa", 
+        "issuetracking", 
+        "documentation", 
+        "qualityassurance", 
+        "github"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-10 10:01:35", 
+    "max_instances": "1", 
+    "id": 6634853883707392, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-10 10:01:12", 
+    "deadline": "2017-12-12 20:21:34", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Create a How-To Guide On Submitting A Bug Report in GitHub Issues", 
+    "categories": [
+        "3", 
+        "4"
+    ], 
+    "description": "We recently started using GitHub issues for reporting bugs and new feature requests for our web and mobile apps that are powered by Apache Fineract. We need to create a simple guide on how to use the issue tracker and how to report a good issue as a GitHub wiki page. You can follow the previous guide at: Bug Entry Guidelines ( https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines ). Please explain what each field is, take screenshots of the steps. Bonus - create an issue template in GitHub"
+}

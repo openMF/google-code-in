@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5148765025468416, 
+    "tags": [
+        "marketing", 
+        "design"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-18 14:38:13", 
+    "max_instances": "1", 
+    "id": 5023682097315840, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-18 14:38:08", 
+    "deadline": "2017-12-21 04:57:18", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "task_definition_name": "Create A Flyer With VMWare & Mifos' logo", 
+    "categories": [
+        "2"
+    ], 
+    "description": "This task involves designing a graphic containing both the MIfos and VMWare logos. VMWare is one of our partners and we'll like to showcase the great relationship we have with them. Look at some great sticker design before you start working on this.\nSubmit your artwork in any file format, ideally with transparency settings so we can print them. Also, append your name to the submitted file in https://goo.gl/3tmC86 so that we know who did the work."
+}

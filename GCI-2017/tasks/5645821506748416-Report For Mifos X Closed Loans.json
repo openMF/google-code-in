@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "There is a need to create a new report on MIFOS X that will show all CLOSED LOANS. Prior to running the Report, the following parameters needs to be supplied\n\nOffice\nFrom Date and To Date\nLoan Officer\nLoan Product\nThe report should list the following data;\n\nLoan Account No\nName of Client\nDisbursed Loan (Principal)\nExpected Interest\nExpected Fees\nPaid Interest\nPaid Fees\nWritten Off\nThe report footer should give a Total of the above Fields", 
+    "tags": [
+        "business intellience", 
+        "sql", 
+        "pentaho", 
+        "mysql"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:28:32Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2533", 
+    "id": 5645821506748416, 
+    "categories": [
+        1
+    ], 
+    "name": "Report For Mifos X Closed Loans"
+}

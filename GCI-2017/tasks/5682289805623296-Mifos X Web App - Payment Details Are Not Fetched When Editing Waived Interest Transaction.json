@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to Client > New loan > Approve > Disburse > More > Waive Interest\nGo to Transactions > View Transaction > Edit/Modify Transaction\nSelect Payment Type and Fill Other Payments Details > Submit .. View Transaction.\n\nRefer the link for screenshots:", 
+    "tags": [
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:23:38Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2464", 
+    "id": 5682289805623296, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Payment Details Are Not Fetched When Editing Waived Interest Transaction"
+}

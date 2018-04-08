@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Chatbots powered by artificial intelligence and machine learning are being implemented by many banks and formal financial services providers as a powerul means of providing better customer support.\n\nThey could also be very beneficial for financial inclusion and the base of the pyramid. For this task you should write a research brief which defines what chatbots for financial services are, what services they provide, what benefits they offer to clients, what benefits they offer to the bank, what are the downsides of chatbots.\n\nThen also do a small synopses on ten chatbots for financial services with a focus on those that are either open source or being used for financial inclusion or the base of the pyramid or emerging markets - including the following information - name of the tool, years in operation, geographic focus, market focus (type of customer) size of their business (clients, organizations, portfolio, etc.), business model, type of service they provide, whether its open source or not. Feel free to include whatever screenshots, charts, graphics from the provider's websites for the brief and links to any relevant reports, PDFs, whitepapers or downloads from their website. Research brief should be created in Google Drive ( https://goo.gl/AkdP6p ) as a Google Doc and share with mentor for review.", 
+    "tags": [
+        " AI", 
+        " fintech", 
+        "chatbots", 
+        " digital financial services", 
+        " mobile money"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-30T09:21:53Z", 
+    "external_url": "", 
+    "id": 5905957081055232, 
+    "categories": [
+        5
+    ], 
+    "name": "Write a Research Brief on chatbots for Financial Inclusion"
+}

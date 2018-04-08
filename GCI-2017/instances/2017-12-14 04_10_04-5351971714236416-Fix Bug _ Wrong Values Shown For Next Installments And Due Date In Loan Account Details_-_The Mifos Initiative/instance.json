@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Vamshi Balanaga", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5978092759678976, 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "student_id": 6601203796410368, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-14 04:10:04", 
+    "max_instances": "1", 
+    "id": 5351971714236416, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-14 04:09:59", 
+    "deadline": "2017-12-14 18:51:43", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "rajanmaurya154@gmail.com"
+    ], 
+    "task_definition_name": "Fix Bug : Wrong Values Shown For Next Installments And Due Date In Loan Account Details", 
+    "categories": [
+        "1"
+    ], 
+    "description": "As you can see from the screenshot on the external Link, Next Instalment Amount should be 987.72 (but showing total outstanding) and Next Due Date should be 02 February 2017 (but showing disbursement date)"
+}

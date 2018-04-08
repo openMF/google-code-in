@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "## Description\n\nFork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Your task is to fork the [Mifos X Web App repository](https://github.com/openMF/community-app) and send the link to your forked repository.", 
+    "tags": [
+        "git", 
+        "github"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "max_instances": 10, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T09:31:14Z", 
+    "external_url": "https://github.com/openMF/community-app", 
+    "id": 4541462932881408, 
+    "categories": [
+        3
+    ], 
+    "name": "Fork repository of Mifos X Web App"
+}

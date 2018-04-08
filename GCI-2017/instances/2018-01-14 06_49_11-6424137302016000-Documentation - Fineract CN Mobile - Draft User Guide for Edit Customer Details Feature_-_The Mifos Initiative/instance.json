@@ -1,0 +1,32 @@
+{
+    "student_display_name": "luphieanza", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5728994429239296, 
+    "tags": [
+        "mobile", 
+        "documentation", 
+        "fintech", 
+        "user manual", 
+        "fineract"
+    ], 
+    "student_id": 5733321055141888, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-14 06:49:11", 
+    "max_instances": "1", 
+    "id": 6424137302016000, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-14 06:49:05", 
+    "deadline": "2018-01-16 20:15:15", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Documentation - Fineract CN Mobile - Draft User Guide for Edit Customer Details Feature", 
+    "categories": [
+        "3"
+    ], 
+    "description": "Document the Edit customer detail feature, many times user creates a new customer but after a couple of days, the customer wants to update his credentials. It will be great If field officer will able to know this functionality.\n\nPlease include screenshots. \n\nAs any community will decide to implement in his society they would need to some documentation so their field officer can learn how efficiently they can use the app.\n\nUser guide to be created at https://cwiki.apache.org/confluence/display/FINERACT/Fineract+CN+Mobile+User+Guide. You will need to request write privileges by emailing edcable@mifos.org\n\nHere is an example of Android-client documentation, you can get an idea how you have to write.\nhttps://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide\n\nHere you can download the APK and you can find credentials too\nhttps://github.com/openMF/Fineract-CN-mobile/wiki\n\nHere is the blog post you can get some help.\nhttps://medium.com/@therajanmaurya/apache-gsoc-2017-blog-post-f2791dc136b5"
+}

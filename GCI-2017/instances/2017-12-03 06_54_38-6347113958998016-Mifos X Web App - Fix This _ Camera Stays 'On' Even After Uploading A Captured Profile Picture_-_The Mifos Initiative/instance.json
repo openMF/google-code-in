@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5710956430622720, 
+    "tags": [
+        "mifosx", 
+        "javascript", 
+        "angular", 
+        "angularjs", 
+        "bug"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-03 06:54:38", 
+    "max_instances": "1", 
+    "id": 6347113958998016, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-03 06:51:17", 
+    "deadline": "2017-12-06 02:41:53", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Open any client, try uploading a profile picture. A modal pops up. Even if you close the modal, camera doesn't turn off.\nSee the marked red circle ( symbol for webcam ) in the screenshot below. You'd notice that modal is closed.\n\nRefer the  following link for screenshots:"
+}

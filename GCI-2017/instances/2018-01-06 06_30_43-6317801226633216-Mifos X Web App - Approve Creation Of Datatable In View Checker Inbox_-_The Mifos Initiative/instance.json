@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5202456327749632, 
+    "tags": [
+        "javascript", 
+        "community-app", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-06 06:30:43", 
+    "max_instances": "1", 
+    "id": 6317801226633216, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-06 06:30:38", 
+    "deadline": "2018-01-08 07:01:22", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Approve Creation Of Datatable In \"View Checker Inbox\"", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Create a New DataTable Entry in System->Manage Data Tables.\nClick on 'Details' after creating the datatable(That will navigate you to 'view checker inbox').\nClick 'Approve' and then confirm, it will throw an error saying, the field already exists, although the datatable name is unique.( Please see the screenshot).\nAfter it throws the error, the dialog box stays along with the confirm button.(Please see the screenshot in the following link)."
+}

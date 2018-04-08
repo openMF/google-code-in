@@ -1,0 +1,27 @@
+{
+    "student_display_name": "Amithab", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5073034064953344, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 4652244316192768, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-11 12:22:31", 
+    "max_instances": "3", 
+    "id": 6482220023808000, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2018-01-14 12:21:13", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "chetanmann95@gmail.com"
+    ], 
+    "task_definition_name": "When Maker Checker Is Enabled, The Popup To Change The Password Does Not Disappear After You Submit", 
+    "categories": [
+        "1"
+    ], 
+    "description": ". Enable maker checker Admin -> System -> Configurations -> Enable maker checker\n2. Create a user and fill all necessary fields and submit Admin -> User -> New User\n3. Then go and view a user.\n4. Click \"change password\" and fill the new password.\n\nRefer the link for screenshots:"
+}

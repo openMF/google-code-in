@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Mofeoluwa Tejumola", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4970981850349568, 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "student_id": 4818769014685696, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-17 05:49:00", 
+    "max_instances": "1", 
+    "id": 6719874741043200, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-17 05:48:55", 
+    "deadline": "2017-12-19 17:06:28", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "thevivekkiran@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "task_definition_name": "Remove The Word \"None\" From The Filter Accounts Dialog Box", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Go to Accounts -> Click on top right most icon (3 bars) to see the filter dialog where you can see the `None` button.\n\nRemove `None` from all the lists given in `StatusUtils class` and remove the logic of checking `None` in `AccountsPresenter class`"
+}

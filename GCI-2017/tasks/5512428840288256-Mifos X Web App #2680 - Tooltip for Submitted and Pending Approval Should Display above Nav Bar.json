@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "See issue links for screenshots and full details:\n\nDescription\nThe tooltip for \"Submitted and Pending Approval\" for loan and savings accounts displays beneath the left hand navigation bar when it should be on top.\n\nSteps to Reproduce\nNavigate to any client, find a loan or savings account in the summary that has yellow/orange icon. Hover over it and see tooltip displayed beneath the lefthand drawer navigation.\n\nExpected Behaviour\nFull tooltip should be visible above the nav bar.", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "sett.raunak@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-22T16:13:15Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2680", 
+    "id": 5512428840288256, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App #2680 - Tooltip for Submitted and Pending Approval Should Display above Nav Bar"
+}

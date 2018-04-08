@@ -1,0 +1,380 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-30T05:57:41Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 5751736750833664, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Good work.", 
+        "created": "2017-12-30T05:57:37Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5727302547668992, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "", 
+        "created": "2017-12-30T01:05:50Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6365669266292736, 
+        "id": 5481323596611584, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Ok how is this: https://docs.google.com/presentation/d/1RjAYx98nijAGrgcZPrYzqDA9S5k5QbAgVGMIn6yk0G4/edit?usp=sharing thank you", 
+        "created": "2017-12-30T01:05:35Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6365669266292736, 
+        "id": 5469502504435712, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-29T21:38:50Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5740383550046208, 
+        "id": 4965904704077824, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "ok thank you", 
+        "created": "2017-12-29T21:38:44Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6365669266292736, 
+        "id": 6658087593181184, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "In the spreadsheet they should be updated in the first column. I will make that more clear in the task description.", 
+        "created": "2017-12-29T21:38:17Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 4745084597698560, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Ok. sorry for the misunderstanding. How do I know what hubs have and have not been already completed", 
+        "created": "2017-12-29T21:37:02Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6365669266292736, 
+        "id": 5604533591867392, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Strive for that level of detail.", 
+        "created": "2017-12-29T21:35:52Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 4657478136496128, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "I know that this is a separate task. You need to be more thorough in your research and you need to make sure the hub hasn't already had a profile completed for it. Here's the same hub profiled by another student with much more thorough information - https://docs.google.com/presentation/d/1EwZMT9uALD5PFe_7eiM3NmSFz2Wp1PwENZDI1Fd_6DY/edit?usp=sharing", 
+        "created": "2017-12-29T21:35:44Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5456169449553920, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "", 
+        "created": "2017-12-29T21:32:36Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6365669266292736, 
+        "id": 4607393046462464, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "In this task almost all the information is filled  up", 
+        "created": "2017-12-29T21:32:33Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6365669266292736, 
+        "id": 4751622880100352, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "This is a separate second task. You accepted the old one.", 
+        "created": "2017-12-29T21:31:23Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6365669266292736, 
+        "id": 5215311441690624, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-29T21:30:07Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5740383550046208, 
+        "id": 6569308069036032, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Since information is so sparse, could you please do two innovation hub profiles? I'm trying to keep the tasks at parity and that's why I suggested choosing a hub which had sufficient information to document.", 
+        "created": "2017-12-29T21:30:01Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5298417179820032, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "", 
+        "created": "2017-12-29T19:11:46Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6365669266292736, 
+        "id": 4506637408665600, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "Hello, happy holidays. Thank you for the task: https://docs.google.com/presentation/d/1_wjXz2_qHaxqdyikjyyqiiRWSzLgiOnu-Ls2ejVTPSw/edit?usp=sharing Thank you", 
+        "created": "2017-12-29T19:11:42Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 5949950028414976, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6296739512320000, 
+        "author": {
+            "display_name": "Daniel Genkin", 
+            "program_year": 2017, 
+            "id": 6365669266292736
+        }, 
+        "text": "", 
+        "created": "2017-12-29T18:42:47Z", 
+        "task_definition_name": "Write an Innovator Profile for an Innovation Hub in Nigeria", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6365669266292736, 
+        "id": 5762798573322240, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "student_display_name": "luphieanza", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5104801471791104, 
+    "tags": [
+        "android", 
+        "testing", 
+        "regression", 
+        "qualityassurance"
+    ], 
+    "student_id": 5733321055141888, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-11 10:49:10", 
+    "max_instances": "3", 
+    "id": 5761790598184960, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-11 10:49:05", 
+    "deadline": "2018-01-14 05:31:20", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "task_definition_name": "Do Usability Testing On Loans Functionality In The Android Field Officer App", 
+    "categories": [
+        "2", 
+        "4"
+    ], 
+    "description": "We have recently added several major new features in our Android field officer app. Major new functionalities have recently going into our Android Field Officer application and to ensure the highest quality and overall user experience, we want to improve the design and navigation as much as possible. \n\nIt is great to have fresh eyes look at the app to test out its usability. This task is focused on the loans module in the Android field officer app and you can follow our user manual for how functionality should work: Working with Loan Accounts ( https://mifosforge.jira.com/wiki/spaces/docs/pages/77594694/Working+with+Loan+Accounts )\n\nPlease document your feedback in a Google Doc that you can share along with screenshots. If you have concrete UI improvements or bugs you've found, please create a ticket within the issue tracker for the Android field officer app at https://github.com/openMF/android-client/issues"
+}

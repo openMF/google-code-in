@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Now that we have self-service APIs in place, a number of community members are building out self-service application and mobile wallets. We would like to provide reference designs and mockups as guidelines for mobile wallets. This task involves creating a wireframe mockup in Balsamiq (using an account provided by Mifos) for the mobile wallet interface for searching for merchants to make a mobile or electronic payment to. A user should be able to go into the application and either search for merchants by name, list by category, or display across a map. For examples, see http://novopay.in/\n\nA helpful resource and guideline for the design is the slide deck from CGAP outlining the 21 principles of of design of smartphone interfaces for mobile money below. Submit your .ai files here ( https://goo.gl/9H1Yga )", 
+    "tags": [
+        "wireframe", 
+        "ui", 
+        "mobilewallet", 
+        "mobilemoney", 
+        "smartphones"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:42:05Z", 
+    "external_url": "http://www.cgap.org/blog/power-smartphone-interfaces-mobile-money", 
+    "id": 6271994804830208, 
+    "categories": [
+        2
+    ], 
+    "name": "Design Wireframe For Ability To Search Merchants In A Mobile Wallet"
+}

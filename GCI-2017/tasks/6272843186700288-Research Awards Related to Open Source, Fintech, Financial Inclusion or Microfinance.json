@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Awards are a great way for us to increase visibility of our project and initiative as well as member of our ecosystem and community. For this task, do research on various awards for open source software projects, HFOSS, humanitarian technology, ICT4D fintech, financial inclusion, or microfinance-related projects. Search on Google and list out the details of each award in this sheet - https://goo.gl/KA5JRH\nincluding its purpose, application date, application requirements, amount/prize, etc. An example of the award is: https://www.tides.org/awards-prizes/pizzigati-prize/\n\nYou can also use terms like prize, challenge, etc.\n\nYou should find at least 12 awards for this task.", 
+    "tags": [
+        "marketing", 
+        "hfoss", 
+        "awards", 
+        "outreach", 
+        "fintech"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "etoth@mifos.org"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-10T18:46:10Z", 
+    "external_url": "https://goo.gl/KA5JRH", 
+    "id": 6272843186700288, 
+    "categories": [
+        5
+    ], 
+    "name": "Research Awards Related to Open Source, Fintech, Financial Inclusion or Microfinance"
+}

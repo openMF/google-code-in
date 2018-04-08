@@ -1,0 +1,317 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "", 
+        "created": "2017-12-30T23:25:54Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5144858282950656, 
+        "id": 6190692072161280, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-30T12:08:24Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 4554190481260544, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Alright, here's the updated guide: https://docs.google.com/document/d/10fvaBLGbeqS5KEeQdC8S5cA2WUKmml-yY6WNSGfL1Aw/edit?usp=sharing  hopefully it fulfills all of the requirements.\n\nThank you!", 
+        "created": "2017-12-30T12:08:19Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 5597416562622464, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "something like this. This one is a bit old so you will have to try out the commands for fedora before putting them in the guide: https://mifosforge.jira.com/wiki/spaces/MDZ/pages/92012613/Build+Instructions", 
+        "created": "2017-12-30T11:21:15Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5144858282950656, 
+        "id": 6062331471593472, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "Yes, let me send you the link", 
+        "created": "2017-12-30T11:03:28Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5144858282950656, 
+        "id": 4993230628192256, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Is there an existing guide for developers for linux that I could possibly mold my guide on?  I'm having trouble understanding the requirements for this task", 
+        "created": "2017-12-30T10:41:17Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 6014692231217152, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "Just follow that of linux but of course put in the right commands for Fedora", 
+        "created": "2017-12-30T10:36:10Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5144858282950656, 
+        "id": 6056251408515072, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "@Daniel oh oops!  Could you clarify what I should change?  My initial instinct is to skip using mysql and instead use \"?baseApiUrl=https://demo.openmf.org\".  If you could confirm if this is alright that would be awesome.\n\nThank you!", 
+        "created": "2017-12-30T09:42:23Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 6070518350348288, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "", 
+        "created": "2017-12-30T09:33:05Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5144858282950656, 
+        "id": 5991907966582784, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "Very good guid, though the task said installation guide to help developers using Fedora to install Mifos X for further contribution. This means they are setting up Mifos X for development. Your guide helps them setup Mifos X for production", 
+        "created": "2017-12-30T09:32:56Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5144858282950656, 
+        "id": 6508400332505088, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "request for access", 
+        "created": "2017-12-30T09:30:26Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5144858282950656, 
+        "id": 5346997689122816, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "checking", 
+        "created": "2017-12-30T09:30:12Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5144858282950656, 
+        "id": 5116139036213248, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-30T02:46:02Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 5474402659467264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Done!  I don't have access to the folder in the task description so I'll just link my guide here: https://docs.google.com/document/d/1aV1Rh0f2MfNigVY6L-1nIPuoxcG-cW52SmJ3wpUFVZM/edit?usp=sharing\n\nI tested it on a Digital Ocean droplet running fedora 27 64 bit.  Everything seems to work OK!", 
+        "created": "2017-12-30T02:45:58Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 6710047436439552, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5005180032516096, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-29T23:49:51Z", 
+        "task_definition_name": "Write Mifos X Installation Guide For Developers Using Fedora", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 5431355276001280, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

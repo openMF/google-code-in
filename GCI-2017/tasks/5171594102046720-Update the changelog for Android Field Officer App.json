@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "**Android Field Officer App** over the years has undergone tremendous changes both in functionality and aesthetics but unfortunately, none of theses changes have been documented in the CHANGELOG.md file in the [GitHub repository.](https://github.com/openMF/android-client/blob/master/CHANGELOG.md \"CHANGELOG.md\") \n\nThe changelog currently only shows changes made in the past. \n\nYour task will be to modify (update) the CHANGELOG.md file present in the GitHub repository to include the latest changes made to the app. \n\n**References -** \n\n[1-> Reference](https://www.slideshare.net/rajan_maurya/gsoc-2016-mifos-68308238 \"GSoC 2016\")\n\n[2-> Reference](http://tarun-mudgal.blogspot.in/2017/08/gsoc-2017-experience.html \"GSoC 2017\")\n\nPlease make use of the references provided above to get all the latest changes made to the app.", 
+    "tags": [
+        "mobile", 
+        "android", 
+        "markdown", 
+        "documentation"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "abhilashag1997@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T05:09:03Z", 
+    "external_url": "https://github.com/openMF/android-client/wiki", 
+    "id": 5171594102046720, 
+    "categories": [
+        1, 
+        3
+    ], 
+    "name": "Update the changelog for Android Field Officer App"
+}

@@ -1,0 +1,19 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6209146657439744 | Task Definition ID 4858216947122176
+Max instances: 1
+
+Title: Fix Display Of Error Message When Transfer Request Fails
+Description: Go to Transfer-> choose any one of them and enter details and disconnect the internet and then click on transfer. It shows an empty Snack Bar.
+
+It should show message `Unable to make Transfer, Please try later`
+Tags: mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: dilpreet2028@gmail.com
+Student: Mofeoluwa Tejumola (ID 4818769014685696)
+
+Status: COMPLETED (2017-12-21 19:37:48)
+Last modified: 2017-12-20 08:19:29

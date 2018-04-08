@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Shivam kumar Singh", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5737405862641664, 
+    "tags": [
+        "qa", 
+        "userexperience", 
+        "ux", 
+        "qualityassurance", 
+        "usability"
+    ], 
+    "student_id": 5079096713281536, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-11 04:13:44", 
+    "max_instances": "10", 
+    "id": 6466515811434496, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-11 04:13:38", 
+    "deadline": "2018-01-13 10:43:39", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "task_definition_name": "Find And Report Three Bugs Or Usability Improvements In The Mifos X Web App", 
+    "categories": [
+        "4"
+    ], 
+    "description": "Having a fresh set of eyes on our software is a great way to identify new bugs or ways to improve the usability of the software. For this task, you'll get to assume the role of a staff person at a microfinance institution and perform some typical scenarios like creating a new client, opening a new loan, creating a new product, etc based on instructions in our User Manual. You will document your experience including general feedback and how to improve the overall user experience and use our GitHub issue tracker to report three specific issues or usability improvements along with screenshots and a clear explanation that you can find. See here for tips on writing a good issue viz Bug Entry Guidelines ( https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines )"
+}

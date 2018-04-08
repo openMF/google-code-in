@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5828689931534336 | Task Definition ID 5203083275534336
+Max instances: 1
+
+Title: Android Mobile Banking App - Fix Issue with Wrong Values being Displayed
+Description: Full details of this issue can be found in Github Issues along with screenshots and steps to reproduce at https://github.com/openMF/self-service-app/issues/456. Under the loan details view in the Android Mobile Banking App, both values are wrong for Next Installment Amount should be 987.72 (but showing total outstanding) and Next Due Date should be 02 February 2017 (but showing disbursement date)
+Tags: java, android, fintech, mobilebanking
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: avikganguly010@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-13 17:48:56)
+Last modified: 2017-12-14 10:34:16

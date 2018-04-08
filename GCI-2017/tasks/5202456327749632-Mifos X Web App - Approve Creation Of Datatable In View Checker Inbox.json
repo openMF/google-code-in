@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Create a New DataTable Entry in System->Manage Data Tables.\nClick on 'Details' after creating the datatable(That will navigate you to 'view checker inbox').\nClick 'Approve' and then confirm, it will throw an error saying, the field already exists, although the datatable name is unique.( Please see the screenshot).\nAfter it throws the error, the dialog box stays along with the confirm button.(Please see the screenshot in the following link).", 
+    "tags": [
+        "javascript", 
+        "community-app", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:25:03Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2181", 
+    "id": 5202456327749632, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Approve Creation Of Datatable In \"View Checker Inbox\""
+}

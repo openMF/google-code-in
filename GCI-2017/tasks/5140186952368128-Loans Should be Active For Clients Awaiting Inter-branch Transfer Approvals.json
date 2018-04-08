@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When users transfer a client to another branch and have not yet accepted/rejected the transfer, the client's loans which are active/due become inactive but those which are waiting to be approved and those waiting to be disbursed are still active. This same scenario occurs with savings and shares and has to be fixed.\n\nFor screenshots , refer the following link:", 
+    "tags": [
+        "community-app", 
+        "savings", 
+        "loans", 
+        "shares"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "dancarl758@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:39:21Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2528", 
+    "id": 5140186952368128, 
+    "categories": [
+        1
+    ], 
+    "name": "Loans Should be Active For Clients Awaiting Inter-branch Transfer Approvals"
+}

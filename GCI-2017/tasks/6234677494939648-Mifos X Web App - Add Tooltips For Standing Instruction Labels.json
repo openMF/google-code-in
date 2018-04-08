@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Please see the epic issue for details on completing this task. You can view the labels that need both a tooltip and glossary entry in the Google Sheet: http://goo.gl/ofHI4B\nThe row has been labeled with this ticket #.\nPlease follow the instructions, reference the source documentation, complete the glossary entry and tooltip and update the Google Sheet.", 
+    "tags": [
+        "javascript", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-03T08:54:01Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1692", 
+    "id": 6234677494939648, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Add Tooltips For Standing Instruction Labels"
+}

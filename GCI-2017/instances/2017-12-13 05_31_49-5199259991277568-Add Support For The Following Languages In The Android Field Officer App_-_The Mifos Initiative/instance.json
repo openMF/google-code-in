@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Daniel Genkin", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5739601303961600, 
+    "tags": [
+        "field-officer", 
+        "android", 
+        "translation"
+    ], 
+    "student_id": 6365669266292736, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-13 05:31:49", 
+    "max_instances": "1", 
+    "id": 5199259991277568, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-13 05:31:44", 
+    "deadline": "2017-12-15 07:14:51", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "Add Support For The Following Languages In The Android Field Officer App", 
+    "categories": [
+        "1"
+    ], 
+    "description": "A number of languages are most commonly requested by our community. We need to add a new strings.xml for each of these languages so a volunteer can come and translate the strings in that message.\nEasy-to-follow instructions on how to Translate Strings provided by @tarun0 at https://github.com/openMF/android-client/wiki/Translation\n\nSupport is needed for:\n Arabic (ar)\n French (fr)\n Portuguese (pt)\n Simplified Chinese (zh-hans)\n Vietnamese (vi)\n Nepali (ne)\n Lao (lo)\n Indonesia (id)\n Bengali (bn)\n Hindi (hi)\n Tagalog (tl)\n Kannada (kn)\n Swahili (sw)\n Russian (ru)\nThey should be added under the res directories: \nhttps://github.com/openMF/android-client/tree/master/mifosng-android/src/main/res using with the name values-[languagecode]-[yourName].xml e.g. values-fr-abdel.xml if the task is done by Student \"abdel\""
+}

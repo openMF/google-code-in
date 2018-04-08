@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Vaibhav Vijay", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5484078507753472, 
+    "tags": [
+        "photos", 
+        " marketing", 
+        " outreach", 
+        " advertising", 
+        " photography"
+    ], 
+    "student_id": 6329140703657984, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-04 13:24:08", 
+    "max_instances": "4", 
+    "id": 5308791094509568, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-04 13:24:06", 
+    "deadline": "2017-12-06 07:03:58", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Create Library of Stock Images/Photos from Pexels or Pixabay related to Microfinance Customers", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Photos tell a powerful story. For all of our collateral, whether it be web, print (i.e. website, flyers, slide decks, social media) it's valuable to have rich, vivid imagery that is both professional and helps to tell our story. We try and get out into the field as much as possible to directly take photos of our actual clientele and individuial clients being impacted but can only gather so much. We also connect with the organizations using our software or the partners supporting them to share their images. Nonetheless we still need more quality imagery. There a number of good resources online for free, share-able, high quality images like Pixabay and Pexels. \n\nFor this task, you will search for and download relevant images into a shared Google Drive folder at https://drive.google.com/open?id=1VwmgJIu1atrluyBrmA-rBA6gGHpDgJTN. You will also catalog the files in a Google Sheet with the source URL of the photo, the attribution info, category and a tag or description. Please download the original version or the highest resolution file of the image. \n\nFor this specific instance of the task, you are finding images that relate to our social mission and images that reflect our clients, microfinance, financial inclusion, or their professions. Search terms might include India, Africa, Kenya, farming, microfinance, market, children, fishing, etc. \n\nMultiple students can claim this task so we will use your unique Google sheet to ensure you're not uploading duplicate images.\n\nSome example photos have been uploaded as well as documented in a sample catalog."
+}

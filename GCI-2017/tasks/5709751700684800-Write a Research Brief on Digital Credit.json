@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Digital credit is the next great frontier for financial inclusion as mobile money coupled with big data analytics is offering unprecedented access to credit.\n\nPlease write a summary defining digital credit, what some of the services are, what some of the benefits are, what some of the risks are, and what potential impact it can have. You can read this blog post for a bit more digital credit: http://mifos.org/blog/fintech-forum-digital-credit/\n\nThen also do a small synopses on ten digital credit providers focused on the base of the pyramid or emerging markets - including the following information - name of the organization, years in operation, total funding received, geographic focus, market focus (type of customer) size of their business (clients, organizations, portfolio, etc.), business model, type of service they provide, how they score or credit risk their customers, and availability of partnership opportunities or APIs available. Feel free to include whatever screenshots, charts, graphics from the provider's websites for the brief and links to any relevant reports, PDFs, whitepapers or downloads from their website. Research brief should be created in Google Drive ( https://goo.gl/AkdP6p ) as a Google Doc and share with mentor for review.\n\nSee https://goo.gl/iyCWor for some good examples of quality research briefs.", 
+    "tags": [
+        "digital credit", 
+        " market research", 
+        " fintech", 
+        " digital financial services", 
+        " mobile money"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-30T09:21:48Z", 
+    "external_url": "", 
+    "id": 5709751700684800, 
+    "categories": [
+        5
+    ], 
+    "name": "Write a Research Brief on Digital Credit"
+}

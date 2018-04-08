@@ -1,0 +1,326 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "", 
+        "created": "2017-12-26T09:14:42Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5932178938527744, 
+        "id": 6027055512682496, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-25T18:29:25Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5742982516965376, 
+        "id": 5961868780765184, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "Hello,\nI have attached screenshots of all the API tests.\nThanks and Happy Holidays,\nJanice", 
+        "created": "2017-12-25T18:29:20Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5907333030871040, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4616896282361856/", 
+                "filename": "API4.PNG", 
+                "id": 4616896282361856, 
+                "file_size": 431812.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4799090187567104/", 
+                "filename": "API9.PNG", 
+                "id": 4799090187567104, 
+                "file_size": 313564.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4839390620680192/", 
+                "filename": "API5.PNG", 
+                "id": 4839390620680192, 
+                "file_size": 229751.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4993067234885632/", 
+                "filename": "API3.PNG", 
+                "id": 4993067234885632, 
+                "file_size": 238365.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5469770218471424/", 
+                "filename": "API6.PNG", 
+                "id": 5469770218471424, 
+                "file_size": 228606.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5817032685649920/", 
+                "filename": "API7.PNG", 
+                "id": 5817032685649920, 
+                "file_size": 229510.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4706142213111808/", 
+                "filename": "API1.PNG", 
+                "id": 4706142213111808, 
+                "file_size": 237928.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6284281825460224/", 
+                "filename": "API2.PNG", 
+                "id": 6284281825460224, 
+                "file_size": 150323.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6561848197382144/", 
+                "filename": "API8.PNG", 
+                "id": 6561848197382144, 
+                "file_size": 429576.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-25T18:27:05Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5158381918617600, 
+        "old_task_instance_status": 2, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-23T21:27:41Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5742982516965376, 
+        "id": 5255653616517120, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Please make sure you can on the development branch of the repository.", 
+        "created": "2017-12-23T11:56:39Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5932178938527744, 
+        "id": 5931475176259584, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Start by runnning the gradle build to download all the dependencies of your project. To do this: right click on the gradle.build file in the project, you should see a run build option. Then click on it. Go to your settings and make sure you enable annotation processors. Search them in the top left corner of the screen. Also install the lombok plugin. You can get the lombok plugin from the Settings options. The after the gradle build run the project. Check the run menu for how to run the project.", 
+        "created": "2017-12-23T11:02:30Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5932178938527744, 
+        "id": 6745788627550208, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "This was the outcome I got after running the project.", 
+        "created": "2017-12-23T10:55:14Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 4694001951178752, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4887112807612416/", 
+                "filename": "Capture.PNG", 
+                "id": 4887112807612416, 
+                "file_size": 106263.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-23T10:13:06Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 5802621325541376, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "vladimir fomene", 
+            "program_year": 2017, 
+            "id": 5932178938527744
+        }, 
+        "text": "Hello Janicek, \nWe don't want you to write testing scripts for the gateway. We just want you to fork the repository and clone it. Make sure you are on the development branch of the project. Install intellij to build and run the project. Then test the gateway's api using the instructions in the gist.", 
+        "created": "2017-12-23T08:59:06Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5932178938527744, 
+        "id": 4857440757612544, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-23T01:06:02Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 6292262361235456, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6282503121797120, 
+        "author": {
+            "display_name": "janicek", 
+            "program_year": 2017, 
+            "id": 5742982516965376
+        }, 
+        "text": "", 
+        "created": "2017-12-22T23:52:42Z", 
+        "task_definition_name": "Fork Mifos Payment Gateway and test it.", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5742982516965376, 
+        "id": 6627396243423232, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

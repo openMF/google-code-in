@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "program_year": 2017, 
+    "description": "For now, a user can only add a note but after that they can't edit or delete it. If a user wants to correct the note they wrote, they'd have to write another to correct the previous one. This needs to be fixed.\nRefer to the link for screenshots:", 
+    "tags": [
+        "web", 
+        "html", 
+        "ui", 
+        "angularjs", 
+        "bootstrap"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "justind128@gmail.com", 
+        "dancarl758@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T04:07:31Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2419", 
+    "id": 6567233457225728, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Add Update And Delete Feature For Notes In Client Profile"
+}

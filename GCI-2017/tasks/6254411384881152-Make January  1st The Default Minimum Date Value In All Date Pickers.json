@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Make 1st of Jan of current year the  default minimum date value in all datepickers and set today's date to the maximum date value", 
+    "tags": [
+        "datepicker", 
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-06T08:17:37Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2435", 
+    "id": 6254411384881152, 
+    "categories": [
+        1
+    ], 
+    "name": "Make January  1st The Default Minimum Date Value In All Date Pickers"
+}

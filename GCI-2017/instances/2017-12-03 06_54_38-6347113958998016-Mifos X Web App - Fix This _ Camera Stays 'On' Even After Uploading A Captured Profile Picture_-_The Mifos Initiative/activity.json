@@ -1,0 +1,212 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Will do, thanks again for the help :)  I'm progressively getting less bad I assure you haha", 
+        "created": "2017-12-03T06:54:38Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 4529584303243264, 
+        "id": 5513015715692544, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-03T06:51:19Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5082325438169088, 
+        "id": 5700030964957184, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "It's ok but next time make sure to create a new branch from develop before adding and committing your changes. Also, keep your branch up to date with the main branch. If you have problems with git , feel free to ask in the gitter channel or ping any of the mentors.", 
+        "created": "2017-12-03T06:51:02Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 5486140226273280, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-03T06:43:53Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 4599291756675072, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Unfortunately while trying to fix it earlier today I kinda screwed up my git-rebase-todo file, so I've made a new PR: https://github.com/openMF/community-app/pull/2626  thanks :)", 
+        "created": "2017-12-03T06:43:45Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 5118833037672448, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-03T05:28:50Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 5365714468732928, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Hi, the fix looks good :), but there is some problem with your PR, it is showing two commits and one of them includes your previous fix. This could be fixed easily. I have commented on the PR. feel free to ping me :)", 
+        "created": "2017-12-03T05:28:41Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 6530560442761216, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-02T20:02:47Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 6378854681673728, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Completed.  PR: https://github.com/openMF/community-app/pull/2624\n\nThanks!", 
+        "created": "2017-12-02T20:02:42Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 4584295005945856, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6347113958998016, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-02T17:15:53Z", 
+        "task_definition_name": "Mifos X Web App - Fix This : Camera Stays 'On' Even After Uploading A Captured Profile Picture", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 5008352763445248, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

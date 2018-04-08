@@ -1,0 +1,128 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5665660598222848, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-07T04:10:17Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by country", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 5827504050798592, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5665660598222848, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Good work.", 
+        "created": "2017-12-07T04:10:07Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by country", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5749335176249344, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5665660598222848, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "", 
+        "created": "2017-12-07T02:05:35Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by country", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4504846633795584, 
+        "id": 5520519988248576, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5665660598222848, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "I'm going to submit the task for review so that it does not expire", 
+        "created": "2017-12-07T02:05:29Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by country", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 5090632953495552, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5665660598222848, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "Hey Edward. I was able to find a wealth of information on UX designer salaries, and I compiled my results in this Google sheet. https://docs.google.com/spreadsheets/d/1NQhjMsiuCcUMSh_FoTL79yFhOCyctDh3cq-_E9Lk7H0/edit#gid=0 . However, I was not able to find data on UX Designer salaries in Ghana, Myanmar, and Uganda. I was able to find salaries for general technology jobs in these countries, though. How should I report my findings for these countries?", 
+        "created": "2017-12-05T20:57:30Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by country", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 5633502592630784, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5665660598222848, 
+        "author": {
+            "display_name": "Sean Kelly", 
+            "program_year": 2017, 
+            "id": 4504846633795584
+        }, 
+        "text": "", 
+        "created": "2017-12-04T12:04:05Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by country", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4504846633795584, 
+        "id": 5102710644801536, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

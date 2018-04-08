@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "## Description\n\nWe should create a Pull Request Template for the Mifos X Web App project. The template should ask the following:\n\n1. Description\n2. Related Issues and Discussions\n3. Checklist\n  1. Whether contributor has read and understood the [contribution guidelines](https://github.com/openMF/community-app/blob/develop/Contributing.md).\n  2. Whether [validation](https://github.com/openMF/community-app#validate-js-and-html-files) and [tests cases](https://github.com/openMF/community-app#running-the-tests) passed locally.\n4. People to notify\n\nWe should place the same in `.github` folder under the root directory.\n\n## References\nThe following link explains how to create a Pull Request Template:\nhttps://help.github.com/articles/creating-a-pull-request-template-for-your-repository/", 
+    "tags": [
+        "templates", 
+        "documentation"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-12T13:52:40Z", 
+    "external_url": null, 
+    "id": 4844014924726272, 
+    "categories": [
+        3
+    ], 
+    "name": "Mifos X Web App - Create a Pull Request Template for the project"
+}

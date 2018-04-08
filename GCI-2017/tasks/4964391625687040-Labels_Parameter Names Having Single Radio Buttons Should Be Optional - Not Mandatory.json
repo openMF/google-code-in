@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Create Fixed Deposit Product\n\nCreate Recurring Deposit Product\nIs primary grouping by Amount shouldn't contain Asterisk.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T16:56:43Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2495", 
+    "id": 4964391625687040, 
+    "categories": [
+        1, 
+        2
+    ], 
+    "name": "Labels/Parameter Names Having Single Radio Buttons Should Be Optional - Not Mandatory"
+}

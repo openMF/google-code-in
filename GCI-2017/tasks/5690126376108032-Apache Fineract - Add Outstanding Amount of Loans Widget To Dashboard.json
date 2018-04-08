@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "It will display total outstanding principal amount of loans. Data will be presented in a bar chart. The X-axis will show time scale while Y-axis will show the outstanding amount ( in numbers ). It needs to show the amount value label on each bar for easier reading. Data will be presented for selected branch and time scale.\n\nPresentation: Data displays for different branches. Data displays in different time scales (daily, weekly, monthly). Data displays in bar chart. X-axis is for time scale. Y-axis is for amount. Information and data will be presented in the form of charts and graphs.\nUser permission: The display of data is based on user login id. The dashboard contents will be unique to each user. What will you see depends on job responsibilities and user\u2019s recent/frequent activities.\n\nCheck the external URL for specifications:", 
+    "tags": [
+        "widgets", 
+        "javascript", 
+        "charts", 
+        "angularjs", 
+        "usability"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:33:43Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-542", 
+    "id": 5690126376108032, 
+    "categories": [
+        1
+    ], 
+    "name": "Apache Fineract - Add \"Outstanding Amount of Loans\" Widget To Dashboard"
+}

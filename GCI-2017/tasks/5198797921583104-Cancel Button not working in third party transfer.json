@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to Transfer->Third Party Transfer -> fill the details and click on cancel,\nby clicking it nothing is happening.\n\n**Expected behavior:**\n\nBy clicking on cancel it should go back to the previous fragment.", 
+    "tags": [
+        "mobile", 
+        "android", 
+        "fintech", 
+        "mifos-mobile", 
+        "mobile banking"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "courageangeh@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:39:53Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/453", 
+    "id": 5198797921583104, 
+    "categories": [
+        1
+    ], 
+    "name": "Cancel Button not working in \"third party transfer\""
+}

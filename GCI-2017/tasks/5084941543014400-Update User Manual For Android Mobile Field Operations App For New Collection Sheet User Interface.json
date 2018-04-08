@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "During the past Google Summer of Code program, Tarun Mudgal, built-in support for a mobile interface for the collection sheet for the bulk entry of data. Based on the user manual for the collection sheet in the web app, the screenshots provided by Tarun, you should add a new section to the user manual on our MIfosForge wiki powered by Atlassian's confluence. You should download the app from the Google Play store, and follow the instructions to load a collection sheet for a given date for groups, load a collection sheet for a given date for individuals, apply payments, and submit the collection sheet. Screenshots should be taken throughout the process and included in the documentation at Mifos Android Client User Guide. Source code and technical documentation can be found at https://github.com/openMF/android-client", 
+    "tags": [
+        "mobile", 
+        "wiki", 
+        "android", 
+        "documentation", 
+        "ux"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T05:27:16Z", 
+    "external_url": null, 
+    "id": 5084941543014400, 
+    "categories": [
+        3
+    ], 
+    "name": "Update User Manual For Android Mobile Field Operations App For New Collection Sheet User Interface"
+}

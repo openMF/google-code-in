@@ -1,0 +1,20 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5682278590054400 | Task Definition ID 6198933971795968
+Max instances: 1
+
+Title: Mifos X Web App - Fix "Deposit Every" Field Which Is Missing Out In Create Recurring Deposit Product Page
+Description: In Create Recurring Deposit Product, the "Deposit Every" field is missing in Settings, which was there in the Requirement specification document.
+https://mifosforge.jira.com/wiki/display/docs/Recurring+Deposit+Product+Fields
+
+Refer the  link  for screenshots:
+Tags: mifosx, javascript, fintech, angular, angularjs
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, gkrishnan724@gmail.com
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2017-12-09 12:54:23)
+Last modified: 2017-12-07 11:51:38

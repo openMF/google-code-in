@@ -1,0 +1,23 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5268511339315200 | Task Definition ID 6498286280114176
+Max instances: 1
+
+Title: Android Field Officer App - Rectify improper error messages
+Description: The **Android Field Officer App** displays error messages in Toasts or in SnackBars.
+
+In certain cases the error messages being displayed are unable to properly convey the message that they intend to convey either due to **grammatical errors** or due to the **incomprehensible error messages** being displayed to the end-user (such as error messages displayed from server responses)
+
+The app currently has a few such error messages; your task will be to find such error messages and then either reconstitute them or create new simple, easy to comprehend error messages for the end-user. 
+
+[Here](https://i.imgur.com/g79yON3.png), you can see that instead of displaying a user-friendly error message, it displays the error message received from the HTTP response which isn't really user friendly. Apart from this, there are also error messages which have a lot of grammatical errors in them; and they need to be rectified.
+Tags: mobile, android, ui, usability
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: abhilash.ag1997@gmail.com
+Student: Mofeoluwa Tejumola (ID 4818769014685696)
+
+Status: OUT_OF_TIME
+Last modified: 2018-01-07 21:29:39

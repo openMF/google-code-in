@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Lokshiv Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6540941068337152, 
+    "tags": [
+        "git", 
+        "github"
+    ], 
+    "student_id": 6177488604495872, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-08 05:07:26", 
+    "max_instances": "20", 
+    "id": 5028689005772800, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-08 05:07:22", 
+    "deadline": "2018-01-10 18:40:27", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rishabh0297@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "task_definition_name": "Fork repository of mifos mobile app", 
+    "categories": [
+        "3"
+    ], 
+    "description": "Fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Now your task is to fork the mifos mobile repository and send the link to\u200b your forked repository."
+}

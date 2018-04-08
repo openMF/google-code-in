@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "During the most recent Google Summer of Code, interns have implemented a brand new Android mobile banking app. It includes some powerful new consumer-facing features that would be great to highlight in a brief demo. Your demo should highlight the new features: \n* Login along with Passcode functionality \n* Create a loan, then update that loan and then withdraw it.\n* Filter Loan accounts (using top right icon in the toolbar)\n* Show details of a savings account \n* Perform a Third party Transfer\n* Adding a Beneficiary (and showing the list of beneficiaries after adding it)\n\nDemo video should be no more than 2 minutes long. You can hook up your phone via a data cable to your PC and then based on your environment, we'll recommend a program to record the screencast. Source code and technical documentation can be found at  https://github.com/openMF/self-service-app \n\n**Gifs and screenshots of major features can be found at: https://goo.gl/NZFMon**", 
+    "tags": [
+        "mobile", 
+        "mobilebanking", 
+        "android", 
+        "screencasts", 
+        "videos"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-28T04:53:59Z", 
+    "external_url": null, 
+    "id": 6292901095014400, 
+    "categories": [
+        3
+    ], 
+    "name": "Create Screencast To Demo Basic Features Of Android Mobile Banking App"
+}

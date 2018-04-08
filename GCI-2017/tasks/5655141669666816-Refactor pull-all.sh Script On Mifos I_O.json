@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Refactor the pull-all.sh script to eliminate boilerplate code. The pull-all.sh script is used to pull updates from different microservice repositories on Mifos I/O. The logic should persist while script should work properly, be concise and tested to work on at least TWO OS types within this group { Linux, Mac, Windows}.", 
+    "tags": [
+        "git", 
+        "bash", 
+        "github"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T05:11:21Z", 
+    "external_url": "https://github.com/mifosio/demo-server/pull/26/commits/fcb6cfdb617fb9e3adc743625a65be2c4a20a019", 
+    "id": 5655141669666816, 
+    "categories": [
+        1
+    ], 
+    "name": "Refactor pull-all.sh Script On Mifos I/O"
+}

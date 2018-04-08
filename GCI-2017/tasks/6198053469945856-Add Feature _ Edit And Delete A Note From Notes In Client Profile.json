@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "For now you can only add a note but after that you can not edit or delete it.\nIf it happens you want to correct the note you wrote, you will have to write another to correct the previous", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-04T17:10:02Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2419", 
+    "id": 6198053469945856, 
+    "categories": [
+        1
+    ], 
+    "name": "Add Feature : Edit And Delete A Note From Notes In Client Profile"
+}

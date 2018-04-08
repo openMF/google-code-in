@@ -1,0 +1,32 @@
+{
+    "student_display_name": "muhammad mullboccus", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5965436027928576, 
+    "tags": [
+        "blog", 
+        " writing", 
+        " marketing", 
+        " open source", 
+        " outreach"
+    ], 
+    "student_id": 5720983937744896, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-04 06:02:23", 
+    "max_instances": "5", 
+    "id": 5985577948151808, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-06 06:40:36", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Write a blog post on why open source is valuable", 
+    "categories": [
+        "5"
+    ], 
+    "description": "After you've done a bit of research and been involved with GCI for a bit, write a blog post of at least 500 words explaining why you believe open source is valuable, personally, professionally, and why it's valuable for financial inclusion.\n\nYou can write this on your own personal blog or submit as a Google Doc."
+}

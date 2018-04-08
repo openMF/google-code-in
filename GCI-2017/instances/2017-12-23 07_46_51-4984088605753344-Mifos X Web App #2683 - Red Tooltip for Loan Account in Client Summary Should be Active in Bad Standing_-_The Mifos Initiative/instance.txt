@@ -1,0 +1,23 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4984088605753344 | Task Definition ID 6284560612458496
+Max instances: 1
+
+Title: Mifos X Web App #2683 - Red Tooltip for Loan Account in Client Summary Should be Active in Bad Standing
+Description: See issue link for screenshots & full details:
+
+The red square tooltip nearby the loan account name on the client details page reads Active when it should it in fact be Active in Bad Standing.
+
+Please adjust accordingly. See https://mifosforge.jira.com/wiki/spaces/docs/pages/68354078/Loan+Accounts for more on loan cycle states.
+
+See screenshots
+Tags: javascript, fintech, angular, web development, angularjs
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: 14bcs030@smvdu.ac.in, gkrishnan724@gmail.com, sett.raunak@gmail.com, edcable@mifos.org
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2017-12-26 06:25:30)
+Last modified: 2017-12-23 07:46:51

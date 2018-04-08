@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6198053469945856, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-09 05:44:46", 
+    "max_instances": "1", 
+    "id": 6343909242306560, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-09 05:44:45", 
+    "deadline": "2017-12-09 17:40:09", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Add Feature : Edit And Delete A Note From Notes In Client Profile", 
+    "categories": [
+        "1"
+    ], 
+    "description": "For now you can only add a note but after that you can not edit or delete it.\nIf it happens you want to correct the note you wrote, you will have to write another to correct the previous"
+}

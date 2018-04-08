@@ -1,0 +1,22 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6245348844503040 | Task Definition ID 5198797921583104
+Max instances: 1
+
+Title: Cancel Button not working in "third party transfer"
+Description: Go to Transfer->Third Party Transfer -> fill the details and click on cancel,
+by clicking it nothing is happening.
+
+**Expected behavior:**
+
+By clicking on cancel it should go back to the previous fragment.
+Tags: mobile, android, fintech, mifos-mobile, mobile banking
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: courageangeh@gmail.com, dilpreet2028@gmail.com
+Student: Maxime de Belloy (ID 5217603838541824)
+
+Status: ABANDONED
+Last modified: 2017-12-03 02:07:47

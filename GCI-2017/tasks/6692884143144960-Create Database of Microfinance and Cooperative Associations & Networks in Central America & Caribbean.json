@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "A key strategic priority for the Mifos Initiative in 2018 is to conduct outreach and advocacy to national associations and regional apex organizations to promote the adoption of digital financial services platforms to make their members institutions more efficient and effective.\n\nIn each country, there are typically at least one and in some cases several professional associations or networks of microfinance institutions and cooperatives. For each country in this task, you should search for and list out the associations along with the relevant details for each as requested in the Google Sheet - https://goo.gl/aBb4Xf\n\nYou can use Google Search queries like \"microfinance association in [COUNTRY NAME]\", microfinance network in [COUNTRY NAME], cooperative association in [COUNTRY NAME], credit union association in [COUNTRY NAME], SACCO network in [COUNTRY NAME]\n\nSimply begin entering your values in the sheet making sure to include the proper country and region. When submitting make sure to reference the rows of the Google Sheet that you added.\n\nCountries this should be done for include:\n\n* Antigua & Barbuda\n* Bahamas\n* Barbados\n* Belize\n* Burmuda\n* Canada\n* Cayman Islands\n* Costa Rica\n* Curacao\n* Dominica\n* Dominican Republic\n* El Salvador\n* Grenada\n* Guatemala\n* Haiti\n* Honduras\n* Jamaica\n* Mexico\n* Nicaragua\n* Panama\n* St. Kitts & Nevis\n* St. Lucia\n* St. Vincent & The Grenadines\n* Trinidad & Tobago", 
+    "tags": [
+        "market research", 
+        " cooperatives", 
+        " marketing", 
+        " credit unions", 
+        " outreach"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-30T09:21:44Z", 
+    "external_url": "https://goo.gl/aBb4Xf", 
+    "id": 6692884143144960, 
+    "categories": [
+        5
+    ], 
+    "name": "Create Database of Microfinance and Cooperative Associations & Networks in Central America & Caribbean"
+}

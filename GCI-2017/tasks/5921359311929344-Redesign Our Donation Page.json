@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Our current Donate Now page on Mifos.org is a simple link to a Paypal button. We need to design the donate now and confirmation page to have a better user experience including communicating our mission and impact better along with additional calls to action and the ability to share with friends. Design would include both the main page and the sidebar navigation. You can follow best practices for designing donation pages to assist you. You can create wireframes and actually implement the design using the template engine on our Wordpress site. Submit the .ai files here ( https://goo.gl/S33SFd ) See for http://mifos.org/take-action/donate/ for our current page.", 
+    "tags": [
+        "balsamiq", 
+        "onlinedonations", 
+        "wordpress", 
+        "ux"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T05:00:11Z", 
+    "external_url": "http://mifos.org/take-action/donate/", 
+    "id": 5921359311929344, 
+    "categories": [
+        2
+    ], 
+    "name": "Redesign Our Donation Page"
+}

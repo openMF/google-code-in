@@ -1,0 +1,24 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Find And Report Bugs In Mifos X Android Client's Source Code. Please find at least 2 bugs in the Mifos X Android Client and report the same in the GitHub [issues page](https://github.com/openMF/android-client/issues \"Bug Tracker\") which is the bug tracker for Android Client. \n\nAlso, please make sure to follow the template provided when you report an issue. Not following the template will make it hard for others to understand the bug.\n\nVisit [this link](https://help.github.com/articles/creating-an-issue/ \"how to create an issue in GitHub\") to know more about creating issues in GitHub.", 
+    "tags": [
+        "mobile", 
+        "java"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "gauravsaini03@gmail.com", 
+        "abhilashag1997@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:15:11Z", 
+    "external_url": "https://github.com/openMF/android-client", 
+    "id": 5670401956904960, 
+    "categories": [
+        1
+    ], 
+    "name": "Find And Report Bugs In Mifos X Android Client"
+}

@@ -1,0 +1,22 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create 2 active Groups - 1. Old Group, 2. New Group.\n2. Create 3 clients with same name (2 are Active and other 1 in pending state) under New Group.\n3. In Same Group page Click on Transfer Clients button - in Transfer Client between Groups page the above created Clients will get displayed.\n> Should not allowed to display the non active clients under Available clients field.\n> If All Clients are moved to Selected Clients field then it is not possible to identify the client with name, So ID should also be displayed in Selected Client page.\n> If any client is unselected from Selected client field to Available Client field then Client Id is not getting displayed instead it is displayed as \"Undefined\".\n\nRefer the link for screenshots:", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "dipdar80@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:49:32Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1686", 
+    "id": 5635406613708800, 
+    "categories": [
+        1
+    ], 
+    "name": "Issues Related To Transfer Of Clients Between The Groups"
+}

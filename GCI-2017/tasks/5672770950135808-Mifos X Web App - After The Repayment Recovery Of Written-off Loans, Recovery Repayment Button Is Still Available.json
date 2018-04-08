@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "When you write-off the loan, the loan appears with the button for repayment recovery\nWhen you recover the repayment of the whole loan amount, the button should be removed.\nBut for now, the button is still there which lead for a user to be able to do many recovery more than the loan amount.\n\nRefer the link for screenshots", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T04:30:47Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2225", 
+    "id": 5672770950135808, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - After The Repayment Recovery Of Written-off Loans, \"Recovery Repayment\" Button Is Still Available"
+}

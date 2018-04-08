@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Mifos X ships with a number of standard default reports representing the most commonly request, loan, client, accounting, and funds reports. We need to provide a short description of each report, the audience it's directed at, a list of the fields in the report, its available formats, and selectable parameters. For the task, you will run each report in our demo server, generate it as a PDF to upload to our wiki as an example, and add the descriptive details in the table found at Standard Reports Field Descriptions. Submissions should be done here ( https://goo.gl/DhfPDN )", 
+    "tags": [
+        "confluence", 
+        "businessintelligence", 
+        "reporting", 
+        "pentaho", 
+        "mysql"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:44:45Z", 
+    "external_url": "https://mifosforge.jira.com/wiki/spaces/docs/pages/70910129/Standard+Reports+Field+Descriptions", 
+    "id": 4862530956558336, 
+    "categories": [
+        3
+    ], 
+    "name": "Document Standard Reports In Mifos X With Examples"
+}

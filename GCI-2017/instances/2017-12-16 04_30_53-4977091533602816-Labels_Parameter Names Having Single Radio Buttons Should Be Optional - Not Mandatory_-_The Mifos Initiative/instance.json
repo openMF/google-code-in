@@ -1,0 +1,28 @@
+{
+    "student_display_name": "Akash Bhave", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4964391625687040, 
+    "tags": [
+        "community-app"
+    ], 
+    "student_id": 6479705412730880, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-16 04:30:53", 
+    "max_instances": "1", 
+    "id": 4977091533602816, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-16 04:30:49", 
+    "deadline": "2017-12-16 22:33:21", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "justin.d128@gmail.com"
+    ], 
+    "task_definition_name": "Labels/Parameter Names Having Single Radio Buttons Should Be Optional - Not Mandatory", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Create Fixed Deposit Product\n\nCreate Recurring Deposit Product\nIs primary grouping by Amount shouldn't contain Asterisk."
+}

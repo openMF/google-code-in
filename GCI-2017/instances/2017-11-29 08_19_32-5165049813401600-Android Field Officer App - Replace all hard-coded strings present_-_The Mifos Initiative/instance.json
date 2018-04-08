@@ -1,0 +1,32 @@
+{
+    "student_display_name": "ATechnoHazard", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5686335463489536, 
+    "tags": [
+        "mobile", 
+        "xml", 
+        "android", 
+        "java"
+    ], 
+    "student_id": 4881745985929216, 
+    "time_to_complete_in_days": "6", 
+    "modified": "2017-11-29 08:19:32", 
+    "max_instances": "1", 
+    "id": 5165049813401600, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-02 08:02:32", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "Android Field Officer App - Replace all hard-coded strings present", 
+    "categories": [
+        "1"
+    ], 
+    "description": "**Android Field Officer App** currently contains a lot of hard-coded strings in the code; having hard-coded strings in the code is not desirable as it makes the app difficult to translate into different languages. \n\nYour task would be to replace all hard-coded strings present in code with **@string resource** annotation. All the hard-coded strings need to be removed from the code and then placed in the **strings.xml** resource file. The removed hard-coded strings then need to be referenced from the **strings.xml** resource file in the code.\n\n**NOTE -** Some hard-coded strings need **not** be replaced in the android layout resource file, as they'll be rendered in real time when the app runs.\n\n**References - **\n\n1-> [GitHub issue](https://github.com/openMF/android-client/issues/412 \"Hard-coded strings\")\n\n2-> [Documentation on String Resources](https://developer.android.com/guide/topics/resources/string-resource.html \"Documentation\")\n \n3-> [How to find hard-coded strings in an Android app](https://stackoverflow.com/questions/30799211/android-find-all-hardcoded-strings-in-code-using-android-studio \"Hint\")"
+}

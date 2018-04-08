@@ -1,0 +1,242 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-10T21:56:06Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5740383550046208, 
+        "id": 5548326680264704, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Good work.", 
+        "created": "2017-12-10T21:56:00Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 5408302357807104, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2017, 
+            "id": 5733321055141888
+        }, 
+        "text": "", 
+        "created": "2017-12-10T17:06:40Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5733321055141888, 
+        "id": 6720940798902272, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2017, 
+            "id": 5733321055141888
+        }, 
+        "text": "here's a mockup for my updated group details and follow the other mifos information references, thanks :). Regards", 
+        "created": "2017-12-10T17:06:33Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5733321055141888, 
+        "id": 5226145278590976, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5601688360583168/", 
+                "filename": "mifosxgroupsdetailmockup.jpg", 
+                "id": 5601688360583168, 
+                "file_size": 2155218.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2017, 
+            "id": 5733321055141888
+        }, 
+        "text": "in manage groups I see through the web platform, whether we can create a mockup for android", 
+        "created": "2017-12-10T15:30:10Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5733321055141888, 
+        "id": 5882619017297920, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "", 
+        "created": "2017-12-10T15:01:11Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5740383550046208, 
+        "id": 4912372953120768, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2017, 
+            "id": 5740383550046208
+        }, 
+        "text": "Thanks for the effort thus far but I think you might have been a little confused. This will be similar to the client details mockup but will have slightly different information because it will be for the group itself. Could you please update details for a group  - name, info, performance summary, etc. You can see the user manual page on groups in the web app at https://mifosforge.jira.com/wiki/spaces/docs/pages/67895334/Manage+Groups", 
+        "created": "2017-12-10T15:01:05Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5740383550046208, 
+        "id": 6144507735179264, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2017, 
+            "id": 5733321055141888
+        }, 
+        "text": "", 
+        "created": "2017-12-10T06:26:04Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5733321055141888, 
+        "id": 5198564072357888, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2017, 
+            "id": 5733321055141888
+        }, 
+        "text": "https://github.com/openMF/Mifos-Mockups/issues/6\nHere Mockup from luphieanza for Make mockup for Group Details page in Android Mobile Field Operations App ( The Mifos Initiative ) please review it mentors, thanks :)\nRegards,", 
+        "created": "2017-12-10T06:25:57Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5733321055141888, 
+        "id": 5750166252421120, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5373950404067328/", 
+                "filename": "IMG201712101312021.jpg", 
+                "id": 5373950404067328, 
+                "file_size": 1098647.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5376768707919872/", 
+                "filename": "IMG201712101316221.jpg", 
+                "id": 5376768707919872, 
+                "file_size": 1652501.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4647285960998912/", 
+                "filename": "mockupgroupdetails.png", 
+                "id": 4647285960998912, 
+                "file_size": 423730.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 4758077058318336, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2017, 
+            "id": 5733321055141888
+        }, 
+        "text": "", 
+        "created": "2017-12-10T06:17:42Z", 
+        "task_definition_name": "Make mockup for Group Details page in Android Mobile Field Operations App", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5733321055141888, 
+        "id": 6614551036428288, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

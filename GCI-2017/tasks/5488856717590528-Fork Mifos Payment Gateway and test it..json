@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "program_year": 2017, 
+    "description": "In this task, you are required to fork the Mifos Payment Gateway repository, to your github account. Then, clone it to your computer and setup your local environment. Before running the application, make sure you checkout the development branch of the project. Then go ahead to test it. You can test the application using Postman(http client)\nProof of Completion: Send in snapshots of your testing screens.\nMifos Payment Gateway Repo: https://github.com/vladimirfomene/mifos-payment-gateway/tree/development\nGuidelines for testing the app: https://gist.github.com/vladimirfomene/37bd38a289d0e9a0570b132735002868", 
+    "tags": [
+        "github", 
+        "git", 
+        "java", 
+        "springboot", 
+        "mysql"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "avikganguly010@gmail.com", 
+        "vladimirfomene@gmail.com"
+    ], 
+    "max_instances": 10, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-23T13:34:19Z", 
+    "external_url": null, 
+    "id": 5488856717590528, 
+    "categories": [
+        1
+    ], 
+    "name": "Fork Mifos Payment Gateway and test it."
+}

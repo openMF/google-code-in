@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Kindly write down a blog post ( <= 500 words ) on Mifos Initiative. The post can target any audience irrespective of background, interests and expertise. It would be great to hear from your perspective on what you think of our initiative, how our software is used, the impact it can have on the world and what you find most rewarding of the mission. Tell us about yourself, how many tasks you worked on,  describe your best and worst week and what you plan to do next. Share the document you've written in https://goo.gl/wHk89G with the mentor.", 
+    "tags": [
+        "marketing", 
+        "outreach", 
+        "blogging", 
+        "writing"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 10, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-27T18:16:19Z", 
+    "external_url": null, 
+    "id": 5730028719439872, 
+    "categories": [
+        5
+    ], 
+    "name": "Publish A Blog Post About Mifos Initiative"
+}

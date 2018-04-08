@@ -1,0 +1,20 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5271097647824896 | Task Definition ID 5647951877636096
+Max instances: 1
+
+Title: Apache Fineract - Modify Audit Login And Logout
+Description: Currently there is an audit table and code base for logging other activities but sign in and sign out.
+
+Acceptance criteria:
+Whenever a user logs in or logs out, an entry should be made to the audit table with a  timestamp and username. It'd be great if you can record IP address also.
+Tags: spring, security, apache fineract, java, fintech
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 7 days
+
+Mentors: santoshmath99@gmail.com, danCarl758@gmail.com
+Student: AADAM LOKHANDWALA (ID 4726222661615616)
+
+Status: ABANDONED
+Last modified: 2017-12-23 13:21:09

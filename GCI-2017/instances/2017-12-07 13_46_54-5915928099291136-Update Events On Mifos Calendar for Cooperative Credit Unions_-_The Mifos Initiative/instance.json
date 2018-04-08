@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Shivam kumar Singh", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5630266292830208, 
+    "tags": [
+        "community management", 
+        "administration", 
+        "events", 
+        "community", 
+        "outreach"
+    ], 
+    "student_id": 5079096713281536, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-07 13:46:54", 
+    "max_instances": "1", 
+    "id": 5915928099291136, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-07 13:46:53", 
+    "deadline": "2017-12-09 20:42:21", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Update Events On Mifos Calendar for Cooperative Credit Unions", 
+    "categories": [
+        "5"
+    ], 
+    "description": "This task involves updating our current calendar with the dates/times for events that we\u2019ve participated in the past as well as researching and adding new events. it  centers around HFOSS-related events such as OSCON, ApacheCon, etc. Update the appropriate section of this sheet ( https://goo.gl/gPqHhj)\n\nPlease also add to the Mifos Community Calendar at http://mifos.org/resources/community/calendar/\n\nTo do so, once you've claimed the task, request access to the calendar from your mentor or Ed Cable"
+}

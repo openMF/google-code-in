@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4661863230996480 | Task Definition ID 5777033235791872
+Max instances: 1
+
+Title: Documentation - Fineract CN Mobile - Draft User Guide for Customer Task (Change the status of customer) and Customer Activities feature
+Description: Document the Customer Task (Change the status of customer) and Customer Activities List feature along with screenshots.
+
+As any community will decide to implement in his society they would need to some documentation so their field officer can learn how efficiently they can use the app.
+
+User guide to be created at https://cwiki.apache.org/confluence/display/FINERACT/Fineract+CN+Mobile+User+Guide. You will need to request write privileges by emailing edcable@mifos.org
+
+Here is an example of Android-client documentation, you can get an idea how you have to write.
+https://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide
+
+Here you can download the APK and you can find credentials too
+https://github.com/openMF/Fineract-CN-mobile/wiki
+
+Here is the blog post you can get some help.
+https://medium.com/@therajanmaurya/apache-gsoc-2017-blog-post-f2791dc136b5
+Tags: mobile, documentation, fintech, user manual, fineract
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: rajanmaurya154@gmail.com, edcable@mifos.org
+Student: luphieanza (ID 5733321055141888)
+
+Status: COMPLETED (2018-01-17 07:01:37)
+Last modified: 2018-01-14 16:28:36

@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5304831579258880 | Task Definition ID 6513579979177984
+Max instances: 1
+
+Title: 'Total Loan Accounts' and 'Total Loan' values are exceeding the boundaries in web self service app
+Description: The amounts are overflowing on the web self service app dashboard. Fix minor css changes to contain the amounts inside the card.
+Tags: javascript, css, sass, angularjs
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: sett.raunak@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2018-01-06 06:25:07)
+Last modified: 2018-01-04 05:43:11

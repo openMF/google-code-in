@@ -1,0 +1,22 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6680281165594624 | Task Definition ID 5073034064953344
+Max instances: 3
+
+Title: When Maker Checker Is Enabled, The Popup To Change The Password Does Not Disappear After You Submit
+Description: . Enable maker checker Admin -> System -> Configurations -> Enable maker checker
+2. Create a user and fill all necessary fields and submit Admin -> User -> New User
+3. Then go and view a user.
+4. Click "change password" and fill the new password.
+
+Refer the link for screenshots:
+Tags: community-app
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: chetanmann95@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: ABANDONED
+Last modified: 2018-01-07 20:00:32

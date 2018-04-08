@@ -1,0 +1,28 @@
+{
+    "student_display_name": "devansh khetan", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5757764678713344, 
+    "tags": [
+        "marketing", 
+        "design"
+    ], 
+    "student_id": 4627292795961344, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-13 09:37:48", 
+    "max_instances": "1", 
+    "id": 5800941557121024, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-13 09:37:44", 
+    "deadline": "2017-12-12 07:54:19", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "rajanmaurya154@gmail.com"
+    ], 
+    "task_definition_name": "Create A Flyer With Outreachy & Mifos' logo", 
+    "categories": [
+        "2"
+    ], 
+    "description": "This task involves designing a greeting card for Mifos, wishing Happy New Year. Make it look good, something you'd be proud to show to family and friends. Look at some great sticker design before you start working on this. Submit your artwork in any file format, ideally with transparency settings so we can print them. Also, append your name to the submitted file in https://goo.gl/3tmC86 so that we know who did the work."
+}

@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5203083275534336, 
+    "tags": [
+        "java", 
+        "android", 
+        "fintech", 
+        "mobilebanking"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-14 10:34:16", 
+    "max_instances": "1", 
+    "id": 5828689931534336, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-14 10:34:11", 
+    "deadline": "2017-12-13 17:48:56", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "avikganguly010@gmail.com"
+    ], 
+    "task_definition_name": "Android Mobile Banking App - Fix Issue with Wrong Values being Displayed", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Full details of this issue can be found in Github Issues along with screenshots and steps to reproduce at https://github.com/openMF/self-service-app/issues/456. Under the loan details view in the Android Mobile Banking App, both values are wrong for Next Installment Amount should be 987.72 (but showing total outstanding) and Next Due Date should be 02 February 2017 (but showing disbursement date)"
+}

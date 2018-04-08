@@ -1,0 +1,27 @@
+{
+    "student_display_name": "Matthew Katz", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5739932897247232, 
+    "tags": [], 
+    "student_id": 4529584303243264, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-21 07:55:37", 
+    "max_instances": "2", 
+    "id": 5994010101415936, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-21 07:55:33", 
+    "deadline": "2017-12-22 18:24:21", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "courageangeh@gmail.com"
+    ], 
+    "task_definition_name": "Delete Client Signature", 
+    "categories": [
+        "1"
+    ], 
+    "description": "A client can update their image by uploading a new one to replace the old one.  When the client signature is uploaded, the system should allow the signature to be deleted."
+}

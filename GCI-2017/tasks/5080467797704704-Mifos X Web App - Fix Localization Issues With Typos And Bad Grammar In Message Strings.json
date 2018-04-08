@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "In several of the message strings available for translation, there are both typos and grammatical mistakes which need to be addressed. The listing strings can be found at https://github.com/openMF/community-app/labels/TranslateWiki. Pull requests can be made for each separate commit. You can test this out at https://demo.openmf.org (mifos/password). This can be changed by updating the Mifos X Web App (Community App) with source code located at https://github.com/openMF/community-app. Please reference this Getting Started Guide to familiarize with the codebase.", 
+    "tags": [
+        "i18n", 
+        "javascript", 
+        "java", 
+        "angular", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "dancarl758@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T04:10:47Z", 
+    "external_url": "https://github.com/openMF/community-app/labels/TranslateWiki", 
+    "id": 5080467797704704, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Fix Localization Issues With Typos And Bad Grammar In Message Strings"
+}

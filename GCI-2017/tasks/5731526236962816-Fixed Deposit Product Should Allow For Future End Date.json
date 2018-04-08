@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to Product >> Create Fixed Deposit Product >>\nYou can not set the future End Date.\n\nRefer the link for screenshots:", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:41:38Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2446", 
+    "id": 5731526236962816, 
+    "categories": [
+        1
+    ], 
+    "name": "Fixed Deposit Product Should Allow For Future End Date"
+}

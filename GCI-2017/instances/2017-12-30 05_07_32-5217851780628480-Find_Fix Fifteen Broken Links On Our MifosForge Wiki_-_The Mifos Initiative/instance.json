@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Surya Gandikota", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5138421133606912, 
+    "tags": [
+        "wiki", 
+        "documentation", 
+        "qualityassurance", 
+        "usability"
+    ], 
+    "student_id": 5712636844965888, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-30 05:07:32", 
+    "max_instances": "5", 
+    "id": 5217851780628480, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2018-01-02 05:06:55", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Find/Fix Fifteen Broken Links On Our MifosForge Wiki", 
+    "categories": [
+        "3", 
+        "4"
+    ], 
+    "description": "Our MifosForge wiki is used to house all of our user-facing documentation, how-to's and tutorials on the Mifos X distribution, and notes on community engagement and volunteer collaboration through programs like GSOC and GCI. You can find and fix broken links in our Mifos X User Zone, our Mifos X space, Community Engagement space, or our Mifos Developer Zone, As we've migrated content to Apache Fineract and new features are released, links sometimes tend to break. You should browse through the wiki and find/fix fifteen broken links. Once you've identified and fixed the broken link, please document these in a Google Sheet that you can share for completion of the task. If you have questions about where a link, should point to, please send an email to our mifos-users and Apache Fineract users mailing list. You should have write privileges to the wiki once you've created an account.\n\nSections of the wiki include: \n* User Zone: https://mifosforge.jira.com/wiki/spaces/docs/overview\n* Mifos X: https://mifosforge.jira.com/wiki/spaces/MIFOSX/overview\n* Community Engagement: https://mifosforge.jira.com/wiki/spaces/RES/overview"
+}

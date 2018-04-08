@@ -1,0 +1,29 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5023894949855232 | Task Definition ID 6508043942494208
+Max instances: 1
+
+Title: Fix Bug : Recent Transactions Only Displays Charges
+Description: Summary:
+I expect Recent Transactions to display a list of recent transactions across all of my accounts but it only displays charges.
+
+Steps to reproduce:
+Go to Navigation Drawer and click Recent Transactions
+
+Expected behavior:
+Display a list of all recent transactions from loan, savings, share accounts.
+
+Observed behavior:
+Only a list of charges
+
+Screenshots found on external link
+Tags: mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: dilpreet2028@gmail.com, rajanmaurya154@gmail.com, edcable@mifos.org
+Student: Daniel Genkin (ID 6365669266292736)
+
+Status: COMPLETED (2018-01-05 19:00:23)
+Last modified: 2018-01-04 18:14:22

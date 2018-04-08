@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "A new feature of showing the runreports was added during GSoC. \n\nThe task is to document the abovementioned feature in the official documentation: https://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide\n\nFollow the steps to build the app with the feature:\n - Clone the app from https://github.com/tarun0/android-client/ in Android Studio by opening File -> New -> Project from Version Control -> Github. Then enter the link `https://github.com/tarun0/android-client.git`\n - Make sure you are on `run` branch. In the android studio's `Terminal`, type `git checkout run`\n - Run the app. You'll find the `Runreports` in the Navigation Drawer on the homescreen of the app.\n\n*Add screenshots/GIF/screencasts to elucidate the feature.*\n\nNOTE: To request write privileges, open the above-mentioned link and create an account. After creating the account, email to `edcable@mifos.org` requesting edit permissions.\n\nYou may find some relevant info at https://mifosforge.jira.com/wiki/spaces/docs/pages/67141766/Standard+Reports+Shipped+in+Mifos+X", 
+    "tags": [
+        "android-client", 
+        "android", 
+        "documentation"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-13T10:44:22Z", 
+    "external_url": "", 
+    "id": 6433049157828608, 
+    "categories": [
+        3
+    ], 
+    "name": "Document 'Runreport' feature"
+}

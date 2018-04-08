@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Click on Admin -> System -> External Service -> External Service -> Edit and modify the following parameter\nusername: support@cloudmicrofinance.com modify as support1@cloudmicrofinance.com.\nand save the page.\n2. Now Click on Admin -> users -> Create new user with valid inputs,\n> Not able to save create user page displayed error message as \"error.msg.user.email.invalid\".\nthough valid email id is entered.\nProper error message should be displayed.", 
+    "tags": [
+        "javascript", 
+        "community-app", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T05:29:02Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1724", 
+    "id": 5093117332029440, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Fix Inability To Create User If External Service Configuration Is Improper"
+}

@@ -1,0 +1,22 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5135323111620608 | Task Definition ID 5379592053325824
+Max instances: 1
+
+Title: Mifos X Web App - Fix Issue : Closed Center, Group & Clients Are Shown On User
+Description: 1.If we closed any Center, Group & Client even any loan it Should not come on user Interface 
+2.Presently it comes on User Interface.
+3.I proposed a "Show All" button on UI it works when a user need to view details including closed items.
+4. In reports the balance shown is 0 always when the account has been closed I think it should not comes in reports.After a certain level of organisation it creates panic.
+
+For screenshots refer the link:
+Tags: javascript, community-app, angular, angularjs, web development
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, gkrishnan724@gmail.com
+Student: Matthew Katz (ID 4529584303243264)
+
+Status: COMPLETED (2018-01-14 23:46:38)
+Last modified: 2018-01-13 06:37:40

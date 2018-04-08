@@ -1,0 +1,20 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "As part of the documentation of the social impact of our initiative, we want to assign a dollar value to the contributions we receive from our volunteers. These volunteers come from a range of fields, experience levels, and locations. For this task, we're gathering data on product managers and business analysts.\n\nSo we need to gather data points on product managers/business analysts by country/location, by level of experience, web, etc. \n\nYou can use websites like glassdoor, payscale, salary explorer to do the research. You should document your findings in a Google Sheet and any other corresponding materials. Google Sheet should include profession, location, experience level, development language or stack, hourly rate, and another details.\n\nResearch shoudl at least include information for United States, Canada, United Kingdom, Latin America, Germany, UAE, Kenya, Nigeria, Ghana, India, Philippines, Netherlands, South Asia, Africa, Eastern Europe SE Asia, Myanmar, and Uganda", 
+    "tags": [], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T14:18:03Z", 
+    "external_url": "", 
+    "id": 6260766703353856, 
+    "categories": [
+        5
+    ], 
+    "name": "Research the hourly rates of product managers and business analysts by country"
+}

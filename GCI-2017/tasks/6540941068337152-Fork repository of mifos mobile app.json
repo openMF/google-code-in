@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project. Now your task is to fork the mifos mobile repository and send the link to\u200b your forked repository.", 
+    "tags": [
+        "git", 
+        "github"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "rishabh0297@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "max_instances": 20, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-09T17:27:33Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile", 
+    "id": 6540941068337152, 
+    "categories": [
+        3
+    ], 
+    "name": "Fork repository of mifos mobile app"
+}

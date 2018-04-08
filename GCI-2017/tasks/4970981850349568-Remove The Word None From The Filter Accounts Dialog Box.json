@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to Accounts -> Click on top right most icon (3 bars) to see the filter dialog where you can see the `None` button.\n\nRemove `None` from all the lists given in `StatusUtils class` and remove the logic of checking `None` in `AccountsPresenter class`", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "thevivekkiran@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:07:21Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/466", 
+    "id": 4970981850349568, 
+    "categories": [
+        1
+    ], 
+    "name": "Remove The Word \"None\" From The Filter Accounts Dialog Box"
+}

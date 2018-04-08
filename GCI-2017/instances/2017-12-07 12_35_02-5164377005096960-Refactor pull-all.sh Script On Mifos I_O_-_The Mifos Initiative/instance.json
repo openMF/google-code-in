@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Robin Richtsfeld", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5655141669666816, 
+    "tags": [
+        "git", 
+        "bash", 
+        "github"
+    ], 
+    "student_id": 4774660237426688, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-07 12:35:02", 
+    "max_instances": "1", 
+    "id": 5164377005096960, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-07 12:35:00", 
+    "deadline": "2017-12-08 19:14:04", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Refactor pull-all.sh Script On Mifos I/O", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Refactor the pull-all.sh script to eliminate boilerplate code. The pull-all.sh script is used to pull updates from different microservice repositories on Mifos I/O. The logic should persist while script should work properly, be concise and tested to work on at least TWO OS types within this group { Linux, Mac, Windows}."
+}

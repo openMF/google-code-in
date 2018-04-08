@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Mofeoluwa Tejumola", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6144978545803264, 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "student_id": 4818769014685696, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-27 06:17:03", 
+    "max_instances": "1", 
+    "id": 6044562336251904, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-27 06:16:58", 
+    "deadline": "2017-12-29 15:13:41", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "dilpreet2028@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Give Preference To Account Balance Shown In Savings And Loan Account Details", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Account Balance shown in Savings and Loan Account Details should be given more preference than other things shown. More information found on external link."
+}

@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Rahil Shaik", 
+    "status": "OUT_OF_TIME", 
+    "program_year": 2017, 
+    "task_definition_id": 5749432442159104, 
+    "tags": [
+        "photoshop", 
+        "swag", 
+        "design", 
+        "fineract", 
+        "marketing"
+    ], 
+    "student_id": 5941250756706304, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-17 03:25:39", 
+    "max_instances": "5", 
+    "id": 6026267218411520, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-17 03:24:35", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Design A Sticker For Apache Fineract CN", 
+    "categories": [
+        "2", 
+        "5"
+    ], 
+    "description": "This task involves designing a logo for the Apache Fineract CN project. Make it look good, something you'd be proud to show to family and friends. Look at some great sticker design before you start working on this. Submit your artwork in any file format, preferably high-resolution or vector-based, but ideally with transparency settings so we can print them. Also, append your name to the submitted file in https://goo.gl/3tmC86 so that we know who did the work."
+}

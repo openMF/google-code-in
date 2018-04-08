@@ -1,0 +1,24 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Add \"Saving Balance\" Widget To Dashboard.\nDescription: Display total savings balance. Data will be presented in bar chart. X-axis will show time scale and Y-axis will show amount ( in number ). Data will be presented based on selected branch and time scale. It needs to show the amount value labels ( in number ) on each bar for easy reading.\nPresentation: Data displays for different branches. Data displays in different time scales (daily, weekly, monthly). Data displays in bar chart. X-axis is for time scale. Y-axis is for amount. Information and data will be presented in the form of charts and graphs.\nUser Permission: The display of data is based on user login id. The dashboard contents will be unique to each user. What will you see depends on job responsibilities and user\u2019s recent/frequent activities.\nCheck the link ( https://issues.apache.org/jira/browse/FINERACT-540 ) for specification sheet:", 
+    "tags": [
+        "apache", 
+        "fineract"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T15:05:30Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-540", 
+    "id": 5448876184043520, 
+    "categories": [
+        1
+    ], 
+    "name": "Add \"Saving Balance\" To Dashboard"
+}

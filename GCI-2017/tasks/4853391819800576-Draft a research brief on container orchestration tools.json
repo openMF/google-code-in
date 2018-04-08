@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "The brand new Generation 3 Mifos Architecture, Apache Fineract CN, is completely cloud-native, and requires the skillset to deploy and maintain containers to run the various micro-services. We want to share with the community recommendation on which orchestration tools are the best to use. You should researc the various tools (inclusive of at least the 8 listed at https://www.linux.com/news/8-open-source-CONTAINER-ORCHESTRATION-TOOLS-KNOW) and give a brief synopsis of each one, its pros and cons. You should share a Google Doc which includes this summary research as well as a Google Sheet which provides a matrix comparing the orchestration tools on the following criteria such as ease of use, code base used, scalability, cost, cloud it works with, etc You can look at https://www.weave.works/blog/comparing-container-orchestration/ and http://hub.scalr.com/blog/chef-vs-puppet-vs-ansible-comparing-orchestration-systems-2", 
+    "tags": [
+        " documentation", 
+        " docker", 
+        " orchestration", 
+        "cloud", 
+        " kubernetes"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "avikganguly010@gmail.com", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T14:18:08Z", 
+    "external_url": "", 
+    "id": 4853391819800576, 
+    "categories": [
+        3
+    ], 
+    "name": "Draft a research brief on container orchestration tools"
+}

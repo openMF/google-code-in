@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Vaibhav Vijay", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 4921469735796736, 
+    "tags": [
+        " documentation", 
+        " flow diagrams", 
+        "github", 
+        " workflow", 
+        " processes"
+    ], 
+    "student_id": 6329140703657984, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-04 17:59:14", 
+    "max_instances": "3", 
+    "id": 6172387617800192, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-04 17:59:13", 
+    "deadline": "2017-12-07 17:25:40", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Create a Flow Diagram describing our Github Workflow", 
+    "categories": [
+        "3"
+    ], 
+    "description": "Using Google Drawings or Lucid Charts or Microsoft Visio, create a flow diagram which documents and describes how to fork our code on Github and how to make a pull request. Please search Google for documentation on this topic or reach out to mentors to learn more."
+}

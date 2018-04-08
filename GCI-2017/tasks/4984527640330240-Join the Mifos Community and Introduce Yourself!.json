@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "We have a number of collaborative tools to engage with the community. \n\nMailing lists are the primary communication channels in most open source projects so it\u2019s essential you get comfortable with conversing openly via them. \n\nThis task involves signing up for various community accounts for Mifos & Apache Fineract and then sending an email to the lists (mifos-developer@lists.sourceforge.net and dev@fineract.apache.org) introducing yourself including the following: name, current year in school, where you\u2019re located, what you\u2019re studying & what you hope to gain by participating in GCI with the Mifos Initiative.\n\nAs your deliverable, please include a screenshot of the sent email and a list of your usernames for the various accounts you signed up for.\n\n# Apache Fineract\n\n- Fineract Developers Mailing List by sending a blank email to dev-subscribe@fineract.apache.org\n- Apache Fineract Issue Tracker - https://issues.apache.org/jira/secure/Signup!default.jspa\n- Apache Fineract Wiki - https://cwiki.apache.org/confluence/signup.action\n\n# Mifos \n- Developer Mailing List at https://lists.sourceforge.net/lists/listinfo/mifos-developer\n- MifosForge Account (for creating tickets on our issue tracker and editing wiki pages) https://mifosforge.jira.com/admin/users/sign-up\n- Mobilize.io Profile - individual profile for our global community directory - https://mifos.mobilize.io/registrations/groups/5014\n- MifosConnect (AnswerHub - Q & A site for our community): http://mifos.cloud.answerhub.com/users/register.html", 
+    "tags": [
+        "community management", 
+        "communications", 
+        "intro", 
+        "mailing lists", 
+        "beginner"
+    ], 
+    "is_beginner": true, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 50, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-02T15:23:16Z", 
+    "external_url": null, 
+    "id": 4984527640330240, 
+    "categories": [
+        1, 
+        2, 
+        3, 
+        4, 
+        5
+    ], 
+    "name": "Join the Mifos Community and Introduce Yourself!"
+}

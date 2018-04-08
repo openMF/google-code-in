@@ -1,0 +1,19 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5542926044102656 | Task Definition ID 5819483643969536
+Max instances: 1
+
+Title: Fix Bug : Optional Field In Loan Product/Account Shows Mandatory But It Is Not
+Description: The field of "Calculate interest for exact days in partial period" in loan product creation and loan application shows it is mandatory while it is not.
+
+For the configuration of the loan which does not require this field to be selected, users get unexpected result and hence it is a problem for new users
+Tags: community-app
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: santoshmath99@gmail.com, gkrishnan724@gmail.com
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2018-01-03 10:44:12)
+Last modified: 2018-01-01 13:32:25

@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Akash Bhave", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6040112792076288, 
+    "tags": [
+        "javascript", 
+        "community-app", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "student_id": 6479705412730880, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-03 12:50:14", 
+    "max_instances": "1", 
+    "id": 5845217116684288, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-03 12:50:09", 
+    "deadline": "2018-01-05 09:39:54", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "santoshmath99@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Fix Issue Where Upon Editing Existing Weekly Charge, It Doesn't Show The Repeats Every Field Hence Cannot Edit Repeats Every.", 
+    "categories": [
+        "1"
+    ], 
+    "description": ">> Create savings account with weekly charge, \n>> Click on submit, to submit new savings application, \n>> click on Undo approval, \n>> In the modification savings page, for weekly charge - Repeats every field is not available. \nExpected:- \n>> Repeats every field should be displayed for weekly charge on the modification page."
+}

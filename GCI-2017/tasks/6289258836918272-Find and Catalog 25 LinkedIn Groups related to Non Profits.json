@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "One of our objectives as a non-profit initiative, is to serve as a thought leader for open source, fintech, and technology-enabled financial inclusion. LinkedIn and its expansive network of experts and professionals provides a good forum for us to position ourselves as a thought leader. There exist various LinkedIn Groups in the domains we operate in where we could network, promote our accomplishments, and participate in valuable discussions. \n\nThis task centers around researching and cataloging LinkedIn Groups that we could join. For this task, you need to research and put in our Google Sheet Database, 25 LinkedIn Groups for the specific domain. Don't duplicate groups others have listed. \n\nNon Profits: These can help us be aware of trends related to non-profits and tips and resources for fundraising, philanthropic giving, and volunteer recruitment  Search terms related to these groups include non-profits, NGOs, fundraising, philanthropy, volunteers, social entrepreneurship. \n\nFor each group you find, you must input the following in the Google Sheet at https://goo.gl/kSoTWW\n\n* Group Name\n* Category of Group\n* Description of Group (what is listed under about this Group)\n* URL for Group\n* Number of Members in Group\n\nTo search for groups by name or keyword:\nGo to Linkedin.com (while logged in) and in the search box at the top of your LinkedIn homepage, type keywords or group names of interest, and click Search.\nOn the search results page, click the Groups tab.", 
+    "tags": [
+        "nonprofits", 
+        "social media", 
+        "outreach", 
+        "linkedin", 
+        "research"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com", 
+        "etoth@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-23T18:44:16Z", 
+    "external_url": "https://goo.gl/Au2qD6", 
+    "id": 6289258836918272, 
+    "categories": [
+        5
+    ], 
+    "name": "Find and Catalog 25 LinkedIn Groups related to Non Profits"
+}

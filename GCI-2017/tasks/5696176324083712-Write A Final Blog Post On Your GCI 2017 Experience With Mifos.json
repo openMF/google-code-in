@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "This task is reserved for the dying days of Google Code-In 2017. Kindly write down your entire Google Code-In 2017 experiences with the Mifos Initiative. Tell us about yourself, how many tasks you worked on,  describe your best and worst week and what you plan to do next. Note that this task is mandatory. Share the document you've written in https://goo.gl/wHk89G with the mentor.", 
+    "tags": [
+        "blogging", 
+        "visibility"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com", 
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:29:13Z", 
+    "external_url": null, 
+    "id": 5696176324083712, 
+    "categories": [
+        5
+    ], 
+    "name": "Write A Final Blog Post On Your GCI 2017 Experience With Mifos"
+}

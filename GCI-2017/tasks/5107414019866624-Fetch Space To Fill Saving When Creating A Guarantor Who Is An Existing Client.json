@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "program_year": 2017, 
+    "description": "Apply a loan account to a client who has a saving account.\nView the loan before approving it, go to More -> Create Guarantor\nLeave the 'existing client' selected, fill the name of the same client\nThe system will display the client details but will not display the place to fill the saving account and amount for guarantee.\n\nRefer the link for screenshots:", 
+    "tags": [
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in", 
+        "gkrishnan724@gmail.com", 
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:22:58Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2468", 
+    "id": 5107414019866624, 
+    "categories": [
+        1
+    ], 
+    "name": "Fetch Space To Fill Saving When Creating A Guarantor Who Is An Existing Client"
+}

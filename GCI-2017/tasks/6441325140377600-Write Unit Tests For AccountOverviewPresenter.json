@@ -1,0 +1,24 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Write Unit tests for AccountOverviewPresenter.\n\nExample for unit testing of AccountPresenter ( https://github.com/openMF/mifos-mobile/blob/development/app/src/main/java/org/mifos/mobilebanking/presenters/AccountsPresenter.java ) can be seen in AccountsPresenterTest ( https://github.com/openMF/mifos-mobile/blob/development/app/src/test/java/org/mifos/mobilebanking/AccountsPresenterTest.java )", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "chetanmann95@gmail.com", 
+        "dilpreet2028@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-07T13:52:11Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/492", 
+    "id": 6441325140377600, 
+    "categories": [
+        1
+    ], 
+    "name": "Write Unit Tests For AccountOverviewPresenter"
+}

@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 6634853883707392 | Task Definition ID 5725733483708416
+Max instances: 1
+
+Title: Create a How-To Guide On Submitting A Bug Report in GitHub Issues
+Description: We recently started using GitHub issues for reporting bugs and new feature requests for our web and mobile apps that are powered by Apache Fineract. We need to create a simple guide on how to use the issue tracker and how to report a good issue as a GitHub wiki page. You can follow the previous guide at: Bug Entry Guidelines ( https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines ). Please explain what each field is, take screenshots of the steps. Bonus - create an issue template in GitHub
+Tags: qa, issuetracking, documentation, qualityassurance, github
+
+Categories: Documentation & Training, Quality Assurance
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org, danCarl758@gmail.com
+Student: Chirag Gupta (ID 6471766769664000)
+
+Status: COMPLETED (2017-12-12 20:21:34)
+Last modified: 2017-12-10 10:01:35

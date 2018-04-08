@@ -1,0 +1,388 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Good work", 
+        "created": "2017-12-07T07:11:40Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5082325438169088, 
+        "id": 4921275615019008, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-07T07:11:35Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5082325438169088, 
+        "id": 5728031534481408, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "", 
+        "created": "2017-12-07T07:09:21Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5594950001491968, 
+        "id": 4983079120666624, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "@StevenJin I suggest you to learn git after this task", 
+        "created": "2017-12-07T07:02:12Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 6712897264680960, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "This should get your fork in your machine. then do `cd community-app` so that your working directory will be the community-app folder. Then follow the instructions in the PR.", 
+        "created": "2017-12-07T07:01:19Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 4982104699961344, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Hi Steven, for getting the code in your pc, do git clone https://github.com/Stevenjin8/community-app.git", 
+        "created": "2017-12-07T06:59:40Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 4527509322334208, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-07T05:10:23Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 4801533268983808, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Good job, but you need to squash the commits. I have given the instructions in the PR, please have a look.", 
+        "created": "2017-12-07T05:10:13Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 4793175195516928, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "", 
+        "created": "2017-12-06T17:29:37Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5594950001491968, 
+        "id": 4886498191081472, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "I made the changes on the pr", 
+        "created": "2017-12-06T17:29:37Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5594950001491968, 
+        "id": 5120235680038912, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-06T10:17:07Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 5417738468065280, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Good job, it's the correct fix :) but there are some problems, changes suggested in the PR please have a look.", 
+        "created": "2017-12-06T10:16:59Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 5727797794308096, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "", 
+        "created": "2017-12-05T21:58:16Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5594950001491968, 
+        "id": 5795729412980736, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "https://github.com/openMF/community-app/pull/2633 now?", 
+        "created": "2017-12-05T21:58:10Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5594950001491968, 
+        "id": 4699167085559808, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2017, 
+            "id": 5144858282950656
+        }, 
+        "text": "yes if you have completed the task make a PR and send me the link and I'll take a look", 
+        "created": "2017-12-05T15:52:35Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5144858282950656, 
+        "id": 6643191421861888, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "*pr not pc", 
+        "created": "2017-12-04T21:15:56Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5594950001491968, 
+        "id": 4903732594606080, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "should I make a pc on git, if so where should I put the file", 
+        "created": "2017-12-04T18:20:00Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5594950001491968, 
+        "id": 5759119220801536, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5241219472949248/", 
+                "filename": "Datepicker.js", 
+                "id": 5241219472949248, 
+                "file_size": 218.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 6350365358292992, 
+        "author": {
+            "display_name": "Steven Jin", 
+            "program_year": 2017, 
+            "id": 5594950001491968
+        }, 
+        "text": "", 
+        "created": "2017-12-04T17:40:04Z", 
+        "task_definition_name": "Make January  1st The Default Minimum Date Value In All Date Pickers", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5594950001491968, 
+        "id": 6518450916687872, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

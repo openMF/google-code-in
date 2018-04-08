@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Summary:\nWhenever a user is making any type of Transfer and If the request failed due to some reasons like No Internet or Socket Exception etc. It's showing empty Snack Bar without a message. It should show message Unable to make Transfer, Please Transfer later\n\nSteps to reproduce:\nGo to Transfer in Navigation and enter details and disconnect the internet.\n\nExpected behavior:\nIt should show a proper message, So the user should know what happened, why a user can't make transfer right now.\n\nObserved behavior:\nIt's showing empty Snack Bar", 
+    "tags": [
+        "mifos-mobile"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-09T19:42:55Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/452", 
+    "id": 4728490840555520, 
+    "categories": [
+        1
+    ], 
+    "name": "Show Error Message Whenever Transfer Request Fails"
+}

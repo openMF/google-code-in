@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": ">> Create \"Account number preferences\" for client. Ex: select type as office_name. \n>> Create Fixed deposit account with default values click on submit button.\nExpected: \n>> Should show account number as - automated generate digits.\nExisting behaviour:\n>> Generated account number is displayed with the client account number preferences.", 
+    "tags": [
+        "community-app"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "avikganguly010@gmail.com", 
+        "apacheEnthu@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:42:07Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1721", 
+    "id": 5983026771132416, 
+    "categories": [
+        1
+    ], 
+    "name": "Fix Issue Where Account Number Is Fetching Client Account Number Preference"
+}

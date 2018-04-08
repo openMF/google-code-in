@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Chirag Gupta", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6513579979177984, 
+    "tags": [
+        "javascript", 
+        "css", 
+        "sass", 
+        "angularjs"
+    ], 
+    "student_id": 6471766769664000, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-01-04 05:43:11", 
+    "max_instances": "1", 
+    "id": 5304831579258880, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2018-01-04 05:43:07", 
+    "deadline": "2018-01-06 06:25:07", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "sett.raunak@gmail.com"
+    ], 
+    "task_definition_name": "'Total Loan Accounts' and 'Total Loan' values are exceeding the boundaries in web self service app", 
+    "categories": [
+        "1"
+    ], 
+    "description": "The amounts are overflowing on the web self service app dashboard. Fix minor css changes to contain the amounts inside the card."
+}

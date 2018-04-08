@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "The android-client app has a feature to draw signature (in the options menu of any client details) and upload it to the server. It also allows uploading the signature (image) from gallery. \n\nThe task is to document the abovementioned feature in the official documentation: https://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide\n\n*Add screenshots/GIF/screencasts to elucidate the feature.*\n\nNOTE: To request write privileges, open the above-mentioned link and create an account. After creating the account, email to `edcable@mifos.org` requesting edit permissions.", 
+    "tags": [
+        "android-client", 
+        "documentation"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "last_modified": "2018-01-13T10:37:37Z", 
+    "external_url": null, 
+    "id": 4856055748100096, 
+    "categories": [
+        3
+    ], 
+    "name": "Add documentation for Signature feature of android-client"
+}

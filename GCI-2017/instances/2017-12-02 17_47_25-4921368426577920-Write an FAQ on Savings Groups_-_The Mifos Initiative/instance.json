@@ -1,0 +1,32 @@
+{
+    "student_display_name": "Yibin Long", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 6464990250795008, 
+    "tags": [
+        " savings groups", 
+        " financial inclusion", 
+        " FAQ", 
+        " fintech", 
+        "research"
+    ], 
+    "student_id": 5828654942650368, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-02 17:47:25", 
+    "max_instances": "3", 
+    "id": 4921368426577920, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-12-02 17:47:22", 
+    "deadline": "2017-12-04 14:31:01", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "edcable@mifos.org"
+    ], 
+    "task_definition_name": "Write an FAQ on Savings Groups", 
+    "categories": [
+        "3", 
+        "5"
+    ], 
+    "description": "For those volunteers and community members who are new to the domain, it's valuable for them to understand what financial inclusion is. You should create a list of ten FAQs related to Savings Groups in a Google Doc which we will later publish on our wiki. Please make sure you cite websites from where you find information and link back to them. Link to relevant videos, PDFs, white papers, etc. You can come up with the list of the ten questions based on your research.\n\nResearch includes: what are savings groups? What are the different methodologies? how are they run? How are they different from microfinance\n\nPlease share a Google Doc with your FAQ and links to source materials as your deliverable."
+}

@@ -1,0 +1,480 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-02T06:54:58Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5082325438169088, 
+        "id": 5426860282347520, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Good job :)", 
+        "created": "2017-12-02T06:54:51Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 6092204269371392, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-02T06:29:45Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 5187597787725824, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Should be done now :)", 
+        "created": "2017-12-02T06:29:39Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 6404188680486912, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-02T06:05:22Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 6234926301052928, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Still some minor changes required :( . I have commented on the PR please take a look. Do ask if you have any questions :)", 
+        "created": "2017-12-02T06:04:38Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 6250566558679040, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-01T20:30:03Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 6051621794480128, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Alright, hopefully I've done everything right this time haha.  Link to PR: https://github.com/openMF/community-app/pull/2620", 
+        "created": "2017-12-01T20:29:58Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 5101767228391424, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-01T06:37:39Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 5721967485255680, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Good job. but the fix is not complete, I have suggested changes in the PR please have a look :)", 
+        "created": "2017-12-01T06:37:28Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 6517618699665408, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "https://github.com/openMF/community-app/pull/2611", 
+        "created": "2017-12-01T06:18:38Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 5073305285427200, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-01T06:18:34Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 4552921008046080, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-01T05:44:22Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 6695338205249536, 
+        "old_task_instance_status": 2, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-12-01T05:42:37Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 4529584303243264, 
+        "id": 6328095306940416, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "Oh!  I see now, thank you.  I'll try to get this done soon.", 
+        "created": "2017-12-01T03:39:21Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4529584303243264, 
+        "id": 5140508772925440, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "feel free to ping me if you have any doubts :)", 
+        "created": "2017-12-01T03:34:23Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 6523859488473088, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "", 
+        "created": "2017-12-01T03:33:35Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5082325438169088, 
+        "id": 5857717912600576, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "This issue essentially has to be solved in apache-fineract ( back-end) however, It would be great if you could deal with the community-app side issue. So, try to make the value field mandatory, and try to make the necessary front-end validation in the `add collateral via more button` please ignore the new loan account method since we might need to solve that in the back-end.", 
+        "created": "2017-12-01T03:33:14Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 5696812130238464, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "GopalaKrishnan P", 
+            "program_year": 2017, 
+            "id": 5082325438169088
+        }, 
+        "text": "Hi, Matthew the issue does exist, When creating a loan application, try adding the collateral initially with a value. Then once it's added,  you can remove the value and submit. It still submits without an error.  Also, try to submit collateral using the more drop-down button in the loan account view, you will notice that the value and description are not mandatory. Please see the attached gif.", 
+        "created": "2017-12-01T03:27:42Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5082325438169088, 
+        "id": 5903624334999552, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5073473191804928/", 
+                "filename": "collateral.gif", 
+                "id": 5073473191804928, 
+                "file_size": 1567766.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-11-30T21:53:27Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4529584303243264, 
+        "id": 5503137156694016, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "As far as I can tell, this issue has either already been addressed or did not exist in the first place.  I spent about an hour looking through the code and there doesn't seem to be a problem.  I've attached a screencast of me trying to reproduce the bug, but everything seems to be working as intended.  If no collateral is added fully in the form then none show up in the final \"viewloanaccount\" screen.  Please let me know if I'm missing something.", 
+        "created": "2017-11-30T21:53:19Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 5424912380461056, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5614232659820544/", 
+                "filename": "Nov-30-2017-1_37-PM.mp4", 
+                "id": 5614232659820544, 
+                "file_size": 6988168.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2017, 
+        "task_instance_id": 5355098626588672, 
+        "author": {
+            "display_name": "Matthew Katz", 
+            "program_year": 2017, 
+            "id": 4529584303243264
+        }, 
+        "text": "", 
+        "created": "2017-11-30T20:29:13Z", 
+        "task_definition_name": "The Value Field For Collateral Should Be Mandatory", 
+        "organization_id": 6239808655458304, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4529584303243264, 
+        "id": 6408863618170880, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

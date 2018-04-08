@@ -1,0 +1,23 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "## Description\n\nWe should create an Issue Template for the Mifos X Web App project. The template should ask the following:\n\n1. Description\n2. Steps to reproduce\n3. Expected behaviour\n4. Observed behaviour\n5. Settings\n  1. Mifos X version\n  2. Browser used\n6. Screenshots, if any\n\nWe should place the same in `.github` folder under the root directory.\n\n## References\nThe following link explains how to create an Issue Template:\nhttps://help.github.com/articles/creating-an-issue-template-for-your-repository/", 
+    "tags": [
+        "templates", 
+        "documentation"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "manrajsinghgrover@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T09:29:30Z", 
+    "external_url": null, 
+    "id": 4903149108199424, 
+    "categories": [
+        3
+    ], 
+    "name": "Mifos X Web App - Create an Issue Template for the project"
+}

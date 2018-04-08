@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "For a client who is in state of \"transfer on hold\", there are actions which should not be displayed in the profile\n\nPlease refer to URL for further details.", 
+    "tags": [
+        "web", 
+        "html", 
+        "bug", 
+        "javascript", 
+        "angularjs"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-27T06:27:24Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2559", 
+    "id": 6203026203213824, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X web app  - Activities not to be seen for a client who is on state of \"transfer on hold\""
+}

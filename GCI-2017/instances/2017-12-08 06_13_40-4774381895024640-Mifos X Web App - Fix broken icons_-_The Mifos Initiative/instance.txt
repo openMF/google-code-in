@@ -1,0 +1,29 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 4774381895024640 | Task Definition ID 6301414970097664
+Max instances: 1
+
+Title: Mifos X Web App - Fix broken icons
+Description: When we moved from the old skin to new skin, a lot of icons are missing in buttons and inputs due to switching from `icon` classes to `fa` classes. Many of the classes are spelled incorrectly in the code. For this task, you are supposed to identify at least 10 places where icons are missing and fix them accordingly. 
+
+For retrieving the old-skin, you would need to revert back the develop branch before the new skin commit by doing 
+git checkout 15b7cbca20484e0deb3dd418808ba481854da038.  
+
+You could compare this version in the hosted demo which contains the latest skin:
+https://staging.openmf.org/
+
+You could check out the original classes in:
+http://fontawesome.io/icons/
+
+
+For screenshots, please refer to the GitHub ticket:
+Tags: icons, code, html, bug, bootstrap
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: gkrishnan724@gmail.com
+Student: Yibin Long (ID 5828654942650368)
+
+Status: ABANDONED
+Last modified: 2017-12-08 06:13:40

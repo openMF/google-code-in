@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "1. Create a group under head office or some branch office.\n2. Create a center  under same office and while creating center try to attach group.", 
+    "tags": [
+        "javascript", 
+        "fintech", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "santoshmath99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-11-28T12:01:18Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2555", 
+    "id": 5678658276556800, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Not Able To Attach Group While Creating Center"
+}

@@ -1,0 +1,26 @@
+{
+    "student_display_name": "Katrina Florendo", 
+    "status": "COMPLETED", 
+    "program_year": 2017, 
+    "task_definition_id": 5716163642261504, 
+    "tags": [], 
+    "student_id": 6287327183765504, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-11-29 04:59:02", 
+    "max_instances": "40", 
+    "id": 4998089133785088, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2017-11-29 04:48:27", 
+    "deadline": "2017-12-02 04:14:28", 
+    "is_beginner": "True", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "14bcs030@smvdu.ac.in"
+    ], 
+    "task_definition_name": "Make your first PR by adding some information about yourself in Mifos community app", 
+    "categories": [
+        "1", 
+        "3"
+    ], 
+    "description": "To introduce you to github workflow, we would like to help you to make your first PR in our community app branch - 'GCI-Contributors'\n\nYou have to edit 'Contributors.md' file and add your name, github link and a short bio and create a PR - You can see one example in that file in the repo\n\nRepo link (GCI-Contributors branch) - https://github.com/openMF/community-app/tree/GCI-contributors\n\nFile link - https://github.com/openMF/community-app/blob/GCI-contributors/CONTRIBUTORS.md"
+}

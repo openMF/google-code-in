@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Go to Client >> Apply share Account >> Approve >> Undo Approval\nWithout adding Note it submit successfully\nAfter adding Note it throw error.\n\nFor screenshots , refer the link:", 
+    "tags": [
+        "community-app", 
+        "angular", 
+        "angularjs", 
+        "web development"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-13T14:40:39Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2439", 
+    "id": 5703136905789440, 
+    "categories": [
+        1
+    ], 
+    "name": "Mifos X Web App - Cannot Undo Approval Share Account After Adding Note"
+}

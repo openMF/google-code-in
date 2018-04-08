@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "program_year": 2017, 
+    "description": "Digital financial inclusion services delivered via mobile money have the potential to have dramatic impact on the unbanked. Their are hundreds of mobile money services deployed that allow clients to conduct financial transactions via the mobile phone - this includes sending payments to other users, paying bills, repaying loans, opening savings accounts, opening loans, etc.\n\nThis task involves doing research on the mobile money services available in a given region. For each country in that region, you will research and input into a spreadsheet various facts/details about the mobile money service including # of subscribers, products offered, date started, etc. Each country will likely have multiple mobile money services so don't forget to research all.\n\nFor Africa, some of this information is already in the sheet but needs to be updated for current info and for the missing providers. \n\nEdit and input the data in the respective tab for the specific region in the Google Sheet: http://goo.gl/YdwmRo. Tab will have list of countries to research. \n\nA helpful place to start to see where the various mobile money services have been deployed is the GSMA MMU Mobile Money Tracker: https://www.gsma.com/mobilefordevelopment/m4d-tracker/mobile-money-deployment-tracker. GSMA also produces other publications to summarize the global landscape of mobile money services for the unbanked: https://gsmaintelligence.com/topics/3363/dashboard/\n\nYou can also view CGAP Technology Blog (http://goo.gl/96IH1o)", 
+    "tags": [
+        " fintech", 
+        " digital financial services", 
+        "research", 
+        " due diligence", 
+        " mobile money"
+    ], 
+    "is_beginner": false, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "edcable@mifos.org", 
+        "justin.d128@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "last_modified": "2017-12-30T09:21:59Z", 
+    "external_url": "", 
+    "id": 4593295487401984, 
+    "categories": [
+        5
+    ], 
+    "name": "Research Mobile Money Services in Central Africa"
+}

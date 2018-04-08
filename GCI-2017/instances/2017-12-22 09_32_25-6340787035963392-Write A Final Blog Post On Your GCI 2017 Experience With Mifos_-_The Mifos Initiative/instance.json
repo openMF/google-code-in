@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Rudraksh Tyagi", 
+    "status": "ABANDONED", 
+    "program_year": 2017, 
+    "task_definition_id": 5696176324083712, 
+    "tags": [
+        "blogging", 
+        "visibility"
+    ], 
+    "student_id": 5959161483362304, 
+    "time_to_complete_in_days": "3", 
+    "modified": "2017-12-22 09:32:25", 
+    "max_instances": "1", 
+    "id": 6340787035963392, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2017-12-24 13:06:35", 
+    "is_beginner": "False", 
+    "organization_id": 6239808655458304, 
+    "mentors": [
+        "isaac.kamga@mifos.org", 
+        "sanyam.bvcoe96@gmail.com", 
+        "justin.d128@gmail.com"
+    ], 
+    "task_definition_name": "Write A Final Blog Post On Your GCI 2017 Experience With Mifos", 
+    "categories": [
+        "5"
+    ], 
+    "description": "This task is reserved for the dying days of Google Code-In 2017. Kindly write down your entire Google Code-In 2017 experiences with the Mifos Initiative. Tell us about yourself, how many tasks you worked on,  describe your best and worst week and what you plan to do next. Note that this task is mandatory. Share the document you've written in https://goo.gl/wHk89G with the mentor."
+}

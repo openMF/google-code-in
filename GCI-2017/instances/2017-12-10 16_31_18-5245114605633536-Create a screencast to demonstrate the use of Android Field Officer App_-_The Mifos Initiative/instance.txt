@@ -1,0 +1,45 @@
+The Mifos Initiative (Org ID 6239808655458304)
+Task ID 5245114605633536 | Task Definition ID 5351311136522240
+Max instances: 3
+
+Title: Create a screencast to demonstrate the use of Android Field Officer App
+Description: The **Android Field Officer App** has many features, but currently there is no proper step by step guide demonstrating the use of the app. Most first time users will find it really helpful if there were a video demonstrating the use of the app.
+
+Your task will be to create a short demo video (not exceeding 10 minutes). Your demo video should include the following - 
+
+1-> How to login/logout of the app.
+
+2-> How to Search & View Client, Group, Account Details
+
+3-> How to create Client, Group and Centers 
+
+4-> How to add in relevant information for a particular client ( i.e. How to add Charges, How to add Savings Account, How to add a Loan Account, How to upload, download, update and remove a Document, How to upload a Signature, How to add and remove Identifiers, How to fill out a Survey, How to view Notes )
+
+5-> How to add clients in a Group 
+
+6-> How to use Path Tracker
+
+7-> How to use the offline Sync feature
+
+**Note - ** You can currently skip the Collection Sheet feature, as it has been recently added and there is no proper documentation regarding it's use. Also, ***please build the app from [source](https://github.com/openMF/android-client)***. You can either build the app from the terminal by typing ```./gradlew build``` or through the android studio.  
+
+You can use any software or app of your liking to prepare the screencast. You may also refer to the user guide given below to know more about the features present in the Android Field Officer App.
+
+**References -**
+
+1-> [Mifos Android Client User Guide](https://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide "User Guide")
+
+2-> [How to build an app from source](https://developer.android.com/studio/build/building-cmdline.html)
+
+3-> [Source](https://github.com/openMF/android-client)
+Tags: mobile, android, screencasts, videos, documentation
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 6 days
+
+Mentors: edcable@mifos.org, abhilash.ag1997@gmail.com
+Student: Akash Bhave (ID 6479705412730880)
+
+Status: COMPLETED (2017-12-13 23:15:28)
+Last modified: 2017-12-10 16:31:18
