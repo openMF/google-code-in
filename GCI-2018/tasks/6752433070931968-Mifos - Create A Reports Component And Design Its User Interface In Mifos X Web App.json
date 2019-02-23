@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Objective\nThe objective is to create a reports component and design its user interface.\n\n### Description\n1. Create a reports component under the system section.\n2. Connect it via routing from the system component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the reports component using angular material components and flex layout directives to ensure responsiveness. \n\n#### References\nYou may have a look at the current implemented components in the `accounting` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\n**Please Note:** This task does not involve writing the code for functionality (API requests) and documentation (comments) which could be expected as a separate task after the completion of this task. Although, it would be highly appreciated if the student is able to complete the same here itself. Do remember, quality over quantity is the key!", 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "abhay.chawla97@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2018-11-18T09:56:49Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/173", 
+    "id": 6752433070931968, 
+    "available_count": 1, 
+    "name": "Mifos - Create A Reports Component And Design Its User Interface In Mifos X Web App"
+}

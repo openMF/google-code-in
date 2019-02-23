@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Palash", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5503510620667904, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 5510056989687808, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-05 09:29:41", 
+    "max_instances": "2", 
+    "id": 6568933126569984, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-05 09:21:23", 
+    "deadline": "2018-11-08 06:41:42", 
+    "submitted_date": "2018-11-05 08:30:18", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Bug Fix: On employee creation, \"joined on\" field has no sign of showing it mandatory", 
+    "categories": [
+        "1"
+    ], 
+    "description": "When creating an employee, a joined on filled has no sign of showing its mandatory\nGo to Admin, then Organisation, then manage employee, create employee, fill all the fields except the \"joined on\" field, when you submit you will get an error that the filed can not be blank\nExpected Behaviour\nThe field should have the sign to show that it should not be left blank\nActual Behaviour\nThere is no sign to show the field is mandatory\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal."
+}

@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "You have to create a proper feature Screencast for Self-Service which should explain the features of the app. This screencast will help users in future to learn and get a little overview of the functionality on how to use the app.\n\nProject Link - https://github.com/openMF/mifos-mobile\nDemo (for another Mifos Project, last year during GCI) - https://www.youtube.com/watch?v=8RpfL_9BUIM", 
+    "tags": [
+        "mifos mobile", 
+        "documentation", 
+        "screencast"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2018-11-15T04:45:13Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile", 
+    "id": 5110297439240192, 
+    "available_count": 1, 
+    "name": "Mifos Self-Service App - Features Screencast"
+}

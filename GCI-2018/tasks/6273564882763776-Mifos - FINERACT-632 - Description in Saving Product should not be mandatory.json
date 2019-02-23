@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "The description field in savings product should not be mandatory. The UI is correct in showing that it shouldn't be mandatory but on the back-end the validation is enforcing that a value be added there.\n\nTo test out go to https://demo.openmf.org (mifos/password). Go to Admin --> Products --> Savings Products --> Create New. Try to create a savings product by just filling out all the mandatory fields. Upon submission you will receive error.\n\nThis task involves removing the distinction this requiring this field to be mandatory\n\nSee https://issues.apache.org/jira/browse/FINERACT-632", 
+    "tags": [
+        "banking", 
+        "mifos", 
+        "fintech", 
+        "fineract", 
+        "java"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-21T14:33:06Z", 
+    "external_url": "https://issues.apache.org/jira/browse/FINERACT-632", 
+    "id": 6273564882763776, 
+    "available_count": 0, 
+    "name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory"
+}

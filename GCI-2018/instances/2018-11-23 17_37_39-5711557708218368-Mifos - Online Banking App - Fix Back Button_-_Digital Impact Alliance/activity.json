@@ -1,0 +1,443 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "", 
+        "created": "2018-11-23T17:37:35Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5746296582307840, 
+        "id": 6579204335337472, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-23T16:07:37Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5997896164966400, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-23T16:07:37Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 6013970851823616, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "https://github.com/openMF/web-self-service-app/pull/146", 
+        "created": "2018-11-23T16:07:34Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4769267418398720, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "Yeah, sure", 
+        "created": "2018-11-23T15:18:21Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 5869652468039680, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I would still like to call to clear up some details. :)", 
+        "created": "2018-11-23T15:17:22Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6393055000133632, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "I have commented on github and added a gif regarding the solution for this task https://github.com/openMF/web-self-service-app/issues/116 . If you still have doubt let me know I'll clear it during the hangouts call :)", 
+        "created": "2018-11-23T13:52:37Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 5082963910852608, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "That is ok. I was planning on waking up early but now I can sleep and wake up regular.", 
+        "created": "2018-11-23T12:21:25Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6232614315753472, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "In the meantime you can work on other task or might find an another approach for this task. I did check your problem, I am also having the same problem with \"md-selected\". The issue with md-selected is that it is not assignable using function I guess. Let me get through this properly and find a proper solution for this.", 
+        "created": "2018-11-23T04:26:37Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 4791343550300160, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "Task deadline extended by 1.0 days", 
+        "created": "2018-11-23T04:21:57Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 5794605497843712, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "I have some work at 18:00 IST, can we get on call at 21:00 IST, if you have no problem with that. Sorry for the trouble.", 
+        "created": "2018-11-23T04:21:56Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 6126073893879808, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I will be available. My email is jonathanzhang53@gmail.com\n\nThank you for helping!", 
+        "created": "2018-11-23T02:35:39Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6309464165580800, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "I am free around 18:00 IST. If you are free around this time we can have a video call on Hangouts.", 
+        "created": "2018-11-23T02:33:49Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 4867799101997056, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I will be on for the next 6 hours if you have time to maybe voice chat or chat to deal with this :)", 
+        "created": "2018-11-22T22:42:06Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4895456896221184, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Ok, so this is what I have done. I made md-selected attached to a function called vm.tabIndex. Then, I made a vm.tabIndex = tabIndex function that executes a conditional. I also made routingSlug a global variable so that tabIndex function can access it (when user clicks an account, they get routed and routingSlug changes). This is my code, but when I run it, no tabs appear when you go to account list and you have to click on the tabs to get the content to appear, and same happens when I click back button from an account.\n\nhttps://dpaste.de/Q0uL#L (account-list.html)\nhttps://dpaste.de/APDA (account-list.component.html)\n\nI can commit this to my repository if you want to pull it and test yourself.", 
+        "created": "2018-11-22T22:22:31Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4859653327421440, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Ok I will let you know if I have any issue. These tasks take time but are making me more familiar with angular. Good learning experience!", 
+        "created": "2018-11-22T17:17:29Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6240209428545536, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "You got the half part correct. What i simply meant here is the value for md-selected will change if a person views a particular account details. Here's an example: If I select savings tab and then select a savings account for its details, so when I click for the details the value of md-selected should also be changed to 1 so, when I press back button it will show me the savings list and then if I select any loan account then value of md-selected should become 0, so it will then focus on loan account tab. Basically you need to create a function that will handle this task and return values to md-selected so that changes can ocur. You can modify it if you think something else can be done here.", 
+        "created": "2018-11-22T04:06:38Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 4839019599888384, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Ah thank you!!! I didn't even see md-selected while I was going through the documentation. Here's what I gathered from what you said:\n\nBasically, put an md-selected value on the md-tabs tag. Then, when someone clicks the savings tab, md-selected changes to savings for app.accounts route. Then, when back button reroutes, it goes back to app.accounts, which has an md-selected of whatever savings is.\n\nI will have to test whether the data is lost after you click an account. That might be an issue. I have to sleep now but I will look tomorrow and hopefully find a solution.", 
+        "created": "2018-11-22T03:59:54Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5855474512560128, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "Ankit Raj Ojha", 
+            "program_year": 2018, 
+            "id": 5746296582307840
+        }, 
+        "text": "What I think you can do here is that you can either use 'md-selected=\"selectedIndex of the tab\" ' or 'md-active=\"true\" ' . I'll prefer 'md-selected'. What you can do is make a function that will return you the value of the selected tab, its like if someone selects savings tab and views any of the savings account details, you can make the selected tab as savings account tab. So, even when back button is pressed it will come back to the last visited account tab. Hope you understood what I meant here.", 
+        "created": "2018-11-22T03:49:41Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5746296582307840, 
+        "id": 5127335050215424, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Hello I am having some issue with this task.\n\nI have added a back button that routes itself back to accounts by using $state.go('app.accounts');\n\nObviously, the issue with loans being default tab still exists. \n\nI have come up with an idea to attach \n    md-active = true \nto the tab on account-list.html.\n\nHowever, I am having trouble doing this from the controller in savings-account-detail.component.js\n\nI've spent hours on google and can't seem to find a good solution.", 
+        "created": "2018-11-21T22:17:16Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4761049938001920, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5711557708218368, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-21T21:59:23Z", 
+        "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5172347502854144, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

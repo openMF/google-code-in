@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6551558771703808 | Task Definition ID 5199479243276288
+Max instances: 1
+
+Title: Mifos Self-Service App - Transfer button size shrinks on Confirmation Page
+Description: Summary:
+
+Transfer button size shrinks on Confirmation Page
+
+Steps to reproduce:
+
+Complete a Transfer (normal Transfer or 3rd Party Transfer)
+
+Expected behaviour:
+
+Submit button should be properly visible
+
+Observed behaviour:
+
+Submit button is not properly visible
+
+Device and Android version:
+
+Xiaomi, Marshmallow
+Tags: code, mifos-self-service-app
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 7 days
+
+Mentors: sakshamhandu@gmail.com
+Student: ethan627hsu (ID 5293817197494272)
+
+Status: COMPLETED (2018-12-12 16:59:59)
+Last modified: 2018-12-12 02:26:07

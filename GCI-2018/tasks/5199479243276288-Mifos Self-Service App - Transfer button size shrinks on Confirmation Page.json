@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Summary:\n\nTransfer button size shrinks on Confirmation Page\n\nSteps to reproduce:\n\nComplete a Transfer (normal Transfer or 3rd Party Transfer)\n\nExpected behaviour:\n\nSubmit button should be properly visible\n\nObserved behaviour:\n\nSubmit button is not properly visible\n\nDevice and Android version:\n\nXiaomi, Marshmallow", 
+    "tags": [
+        "code", 
+        "mifos-self-service-app"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-03T09:26:31Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/958", 
+    "id": 5199479243276288, 
+    "available_count": 0, 
+    "name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page"
+}

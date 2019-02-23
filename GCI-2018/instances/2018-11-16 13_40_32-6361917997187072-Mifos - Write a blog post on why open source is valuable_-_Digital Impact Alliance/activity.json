@@ -1,0 +1,275 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-16T13:40:31Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5768230007209984, 
+        "id": 6540268997181440, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "", 
+        "created": "2018-11-16T05:26:11Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6284796914302976, 
+        "id": 5690525555359744, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "https://opensoruce.blogspot.com/2018/11/open-source-i-think-open-source-is.html", 
+        "created": "2018-11-16T05:25:45Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6284796914302976, 
+        "id": 5353371360821248, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-15T23:35:37Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 5923469045792768, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "It however at least needs to be at least 500 words so perhaps you could write about how it benefits you personally or educational benefits of open source.", 
+        "created": "2018-11-15T23:35:30Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 6298928241704960, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Grammatically you could make some improvements but I'm glad that you worked on addressing the plagiarism issue and summarized and synthesized some external content.", 
+        "created": "2018-11-15T23:34:13Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 5974388433223680, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "", 
+        "created": "2018-11-15T19:39:34Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6284796914302976, 
+        "id": 5824725969272832, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "https://opensoruce.blogspot.com/2018/11/open-source-i-think-open-source-is.html", 
+        "created": "2018-11-15T19:39:30Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6284796914302976, 
+        "id": 6076544599457792, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-14T17:21:09Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 4570195080249344, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "You nearly word for word just copied your text from this page: https://www.bigcommerce.com/ecommerce-answers/what-open-source-and-why-it-important/. We can't tolerate plagiarism so I'll give you one more shot to attempt to write a blog post in your own words about why open source is important, especially for financial inclusion. Otherwise, I'll just un-assign you from the task.", 
+        "created": "2018-11-14T17:21:01Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 4651454955520000, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "", 
+        "created": "2018-11-14T16:28:09Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6284796914302976, 
+        "id": 4605187520987136, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "https://opensoruce.blogspot.com/2018/11/open-source-i-think-thatopen-source-is.html", 
+        "created": "2018-11-14T16:27:51Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6284796914302976, 
+        "id": 5872758903799808, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6361917997187072, 
+        "author": {
+            "display_name": "Orastie", 
+            "program_year": 2018, 
+            "id": 6284796914302976
+        }, 
+        "text": "", 
+        "created": "2018-11-14T12:42:15Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6284796914302976, 
+        "id": 5884389675237376, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

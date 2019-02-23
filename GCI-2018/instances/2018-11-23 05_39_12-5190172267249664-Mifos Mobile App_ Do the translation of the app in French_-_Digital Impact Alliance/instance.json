@@ -1,0 +1,32 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5446250498359296, 
+    "tags": [
+        "transalation", 
+        "andriod", 
+        "french", 
+        "mifos-mobile"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-23 05:39:12", 
+    "max_instances": "1", 
+    "id": 5190172267249664, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-23 05:39:11", 
+    "deadline": "2018-11-26 18:44:03", 
+    "submitted_date": "2018-11-22 20:01:08", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile App: Do the translation of the app in French", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into French Language. We already have French language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in French and translate the existing ones in French.\n\nThis would enable the localization feature app which is very much awaited feature in the community."
+}

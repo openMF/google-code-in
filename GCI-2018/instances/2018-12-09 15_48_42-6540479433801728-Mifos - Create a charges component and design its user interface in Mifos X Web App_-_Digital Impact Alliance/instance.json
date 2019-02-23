@@ -1,0 +1,33 @@
+{
+    "student_display_name": "jz53", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6391847476789248, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 4890377967370240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-12-09 15:48:42", 
+    "max_instances": "1", 
+    "id": 6540479433801728, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-09 15:48:38", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-09 14:20:48", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Create a charges component and design its user interface in Mifos X Web App", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "## Objective\nThe objective is to create a charges component and design its user interface.\n\n### Description\n1. Create a charges component under the products section.\n2. Connect it via routing from the products component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the charges component using angular material components and flex layout directives to ensure responsiveness. \n\n#### References\nYou may have a look at the current implemented components in the `accounting` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\n**Please Note:** This task does not involve writing the code for functionality (API requests) and documentation (comments) which could be expected as a separate task after the completion of this task. Although, it would be highly appreciated if the student is able to complete the same here itself. Do remember, quality over quantity is the key!"
+}

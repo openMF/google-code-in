@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Define financial activity for migrate opening balances(Accounting>Accounts linked to financial activity) )\nGo to Accounting>Migrate opening balances, select the offiece.\nprovide and debit and credit amount same.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:39:44Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2938", 
+    "id": 5672465775722496, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: 'Submit' button not working in 'Migrate Opening Balances' in Accounting and throwing improper error"
+}

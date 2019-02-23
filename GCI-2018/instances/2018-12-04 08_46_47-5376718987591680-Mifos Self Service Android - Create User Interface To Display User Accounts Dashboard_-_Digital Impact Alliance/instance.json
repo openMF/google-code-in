@@ -1,0 +1,29 @@
+{
+    "student_display_name": "shauryanathan", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5029735932362752, 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "student_id": 5450150987169792, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-12-04 08:46:47", 
+    "max_instances": "3", 
+    "id": 5376718987591680, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-04 08:46:10", 
+    "deadline": "2018-12-11 08:09:36", 
+    "submitted_date": "2018-12-04 08:20:42", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self Service Android - Create User Interface To Display User Accounts Dashboard", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Create User Interface to display the User Accounts Dashboard which should have fields similar to the GIF (added in the link). Explain the flow of the design and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)"
+}

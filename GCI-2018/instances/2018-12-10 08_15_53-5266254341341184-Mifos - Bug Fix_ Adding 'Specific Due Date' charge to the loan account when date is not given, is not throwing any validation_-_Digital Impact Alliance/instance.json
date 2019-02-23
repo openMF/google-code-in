@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "ABANDONED", 
+    "program_year": 2018, 
+    "task_definition_id": 6277372660678656, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-12-10 08:15:53", 
+    "max_instances": "1", 
+    "id": 5266254341341184, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": null, 
+    "deadline": "2018-12-12 11:05:33", 
+    "submitted_date": null, 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Create a loan Account for a client.\nCreate a specific due date charge.\nIn Loan account, click on 'Add charge' and select specific due date charge, but don't give date and try to submit it.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal."
+}

@@ -1,0 +1,33 @@
+{
+    "student_display_name": "mitchLui", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5825884792553472, 
+    "tags": [
+        " Mobile Wallet", 
+        "Mifos", 
+        " Video", 
+        " Tutorial"
+    ], 
+    "student_id": 5625942031466496, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-12-09 20:01:27", 
+    "max_instances": "5", 
+    "id": 4636424063156224, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-09 20:00:38", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-09 19:24:31", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "gupta.hemant65@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Make A Tutorial Video Demonstrating Money Transafer via VPA, Mobile Number And QR Code", 
+    "categories": [
+        "3"
+    ], 
+    "description": "Currently, MifosPay supports three options to transfer the amount from one account to another. The objective is to create a tutorial video that demonstrate money transfer via VPA, Mobile Number and QR Code.The link to the APK of the MifosPay App is an external URL to this task. \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too."
+}

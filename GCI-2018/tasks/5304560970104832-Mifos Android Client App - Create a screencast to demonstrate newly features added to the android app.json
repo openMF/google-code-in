@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": true, 
+    "program_year": 2018, 
+    "description": "This task involves creating a screencast to demonstrate the latest features added to the Mifos Android Client app. \n\nA lot of new features have been added to the app during the course of GSoC 2018. Your task will be to create a short demo video (not exceeding 10 minutes). Your demo video should include all the features added to the app which can be found in [this](https://medium.com/@gaksh007/my-gsoc-journey-with-mifos-initiative-7165a961ea55) blog post.\n\nYou have to build the app from source in order to get the latest features that have added to the app. You can either build the app from [Android Studio](https://developer.android.com/studio/install) or you can use ```./gradlew build``` command. \n\nYou can use any software or app of your liking to prepare the screencast. \n\nWhile making the screencast if you do decide to include audio files or any template please make sure that they are either open source or you have the permission of the author(s) who made the audio files/templates. \n\n**References-**\n\n1. [Source](https://github.com/openMF/android-client)\n1. [How to build an app from source](https://github.com/openMF/android-client/wiki/Building-up-Code)\n1. [Newly added features](https://medium.com/@gaksh007/my-gsoc-journey-with-mifos-initiative-7165a961ea55)", 
+    "tags": [
+        "mobile", 
+        "screencast", 
+        "video", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "max_instances": 5, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2018-11-22T12:03:16Z", 
+    "external_url": null, 
+    "id": 5304560970104832, 
+    "available_count": 5, 
+    "name": "Mifos Android Client App - Create a screencast to demonstrate newly features added to the android app"
+}

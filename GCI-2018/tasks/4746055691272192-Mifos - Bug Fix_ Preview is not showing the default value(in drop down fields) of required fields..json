@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Preview is not showing the default value(in drop-down fields)of required fields until they are changed to some other value.\n\n\nSteps to Reproduce\nCreate any of the stated forms. Fill all the required fields and don't change the default values in the drop downs of required fields.\n\nExpected Behaviour\nThe default value should be displayed in the preview.\n\nActual Behaviour\nThe default value is not displayed in the preview.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ankit123rudra@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:40:04Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2932", 
+    "id": 4746055691272192, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: Preview is not showing the default value(in drop down fields) of required fields."
+}

@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2018, 
+    "description": "## Objective\nThe objective is to setup everything you need to start contributing code to Mifos Web App.\n\n### Getting started\n1. Install a web development IDE. [Install Visual Studio Code](https://code.visualstudio.com/) (recommended)\n2. Make sure you are familiar with git and create an account on [GitHub](https://github.com/) if you haven't already.\n3. Fork the project from [https://github.com/openMF/web-app](https://github.com/openMF/web-app).\n4. Go through `README.md and CONTRIBUTING.md` files and follow the steps to clone and build the project to get started with development on your system. \n5. Review the project's wiki to get familiar with the workflow [here](https://github.com/openMF/web-app/wiki).\n\n## What to Submit\n1. A link to your forked GitHub project repository.\n2. A screenshot of the running application.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).", 
+    "tags": [
+        "Web App", 
+        "Angular", 
+        "Mifos"
+    ], 
+    "claimed_count": 3, 
+    "completed_count": 3, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "max_instances": 25, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        3
+    ], 
+    "last_modified": "2018-11-18T09:51:46Z", 
+    "external_url": "", 
+    "id": 5119512224464896, 
+    "available_count": 22, 
+    "name": "Mifos - Install A Web IDE And Setup Mifos X Web App Development Environment"
+}

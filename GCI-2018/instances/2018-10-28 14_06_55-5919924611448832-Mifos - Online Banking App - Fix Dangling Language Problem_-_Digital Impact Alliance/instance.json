@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Nail An\u0131l \u00d6rc\u00fcn", 
+    "status": "ABANDONED", 
+    "program_year": 2018, 
+    "task_definition_id": 5647414674325504, 
+    "tags": [
+        " AngularJS", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 5384896206864384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-10-28 14:06:55", 
+    "max_instances": "1", 
+    "id": 5919924611448832, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": null, 
+    "deadline": "2018-10-30 19:22:56", 
+    "submitted_date": null, 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Online Banking App - Fix Dangling Language Problem", 
+    "categories": [
+        "1"
+    ], 
+    "description": "When a language is selected in Online Banking App ( Eg: Hindi )  and the page is refreshed, the language flips back to English. Try Changing the language at the log-In page to another language different from English and then refresh the page. You would expect that the new selected language should be there event after refreshing the page. Unfortunately,this does not happen and this task will be considered done when new language is displayed upon refresh."
+}

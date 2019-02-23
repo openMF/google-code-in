@@ -1,0 +1,37 @@
+{
+    "student_display_name": "mitchLui", 
+    "status": "ABANDONED", 
+    "program_year": 2018, 
+    "task_definition_id": 5748749226737664, 
+    "tags": [
+        "qa", 
+        "web", 
+        "usability", 
+        "bugs", 
+        "mifos"
+    ], 
+    "student_id": 5625942031466496, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-27 19:05:19", 
+    "max_instances": "30", 
+    "id": 6479994298564608, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": null, 
+    "deadline": "2018-11-30 08:32:10", 
+    "submitted_date": null, 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "guptachirag2002@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "shruthi@confluxtechnologies.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Find And Report Three Bugs Or Usability Improvements In the Mifos X Community App", 
+    "categories": [
+        "3", 
+        "4"
+    ], 
+    "description": "## Objective\nHaving a fresh set of eyes on our software is a great way to identify new bugs or ways to improve the usability of the software. \n\n## How to Complete this Task \nFor this task, you'll get to assume the role of a staff person at a microfinance institution and perform some typical scenarios like creating a new client, opening a new loan, creating a new product, etc based on instructions in our User Manual - https://mifosforge.jira.com/wiki/spaces/docs/pages/52035622/User+Manual\n\nYou can do this on our demo3 server at https://demo3.openmf.org with credentials - mifos/password\n\nYou will document your experience including general feedback and how to improve the overall user experience and use our GitHub issue tracker to report three specific issues or usability improvements along with screenshots and a clear explanation that you can find. See here for tips on writing a good issue viz Bug Entry Guidelines ( https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines )\n\nIssues will be reported here: https://github.com/openMF/community-app\n\n## Task Difficulty Level\n\nLow - while not a beginner task, this is a good task to begin with."
+}

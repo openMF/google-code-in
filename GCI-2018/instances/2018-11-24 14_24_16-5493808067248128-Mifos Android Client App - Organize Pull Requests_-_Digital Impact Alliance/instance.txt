@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5493808067248128 | Task Definition ID 4937408396132352
+Max instances: 5
+
+Title: Mifos Android Client App - Organize Pull Requests
+Description: The objective is to separate the ready-to-be-merged Pull Requests (PR) from the others
+
+1. Go through the Android Client's [PR](https://github.com/openMF/android-client/pulls)
+2. Check if the PR has been reviewed by someone
+  a - If it has been reviewed, and no change has been asked by the reviewer, mark it Reviewed - Ready to be Merged
+  b - If it has been reviewed, and some change has been asked by the reviewer, mark it Reviewed - Changes Needed
+  c - If it has not been reviewed, mark it Reviewed - NEED REVIEW
+
+You have to submit a spreadsheet (you can use Microsoft Excel or Libre Office or Google sheets etc) with four columns
+1. First column => link to the PR
+2. Second column => name/heading as mentioned in the PR
+3. The third column should be the Status as described in the description above. Use color coding:
+   a - Green => ready to be merged
+   b - Blue => Reviewed but changes needed
+   c - Red => Need Review
+4. Fourth column => Date on which you checked the status. 
+5. The submission should have at least 15 records. More records will add to the weight of your task. However, duplicate records - adding the same PR more than once - will have a negative effect. 
+
+If you need help, you can either contact the mentor assigned for the task or contact the public channel for the Android Client.
+Tags: QA, documentation
+
+Categories: Documentation & Training
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, abhilash.ag1997@gmail.com
+Student: letelete (ID 6278250746609664)
+
+Status: COMPLETED (2018-11-27 05:30:10)
+Last modified: 2018-11-24 14:24:16

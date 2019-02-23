@@ -1,0 +1,36 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6465060126851072, 
+    "tags": [
+        "front-end", 
+        "web", 
+        "fintech", 
+        "angular", 
+        "mifos"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-12-13 07:32:55", 
+    "max_instances": "1", 
+    "id": 5871817248997376, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-13 05:45:49", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-12 16:12:16", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankit123rudra@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Add UI for editing submitted on date for groups", 
+    "categories": [
+        "1"
+    ], 
+    "description": "This ticket at https://github.com/openMF/community-app/issues/2935 is to implement the UI screen to allow for the submitted on date to be edited for a group that has already been created as requested in Apache Fineract at https://issues.apache.org/jira/browse/FINERACT-618"
+}

@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": true, 
+    "program_year": 2018, 
+    "description": "The Recent Transactions fragment shows a navigation bar every time when opened. This navigation bar should not pop-up when you navigate from Navigation Drawer --> Recent Transactions. This task shall be regarded as completed when the navigation bar no longer turns up.", 
+    "tags": [
+        "Android"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-28T13:41:48Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/899", 
+    "id": 5689684601602048, 
+    "available_count": 0, 
+    "name": "Mifos Self Service Android - Fix Recent Transactions' Snackbar Issue"
+}

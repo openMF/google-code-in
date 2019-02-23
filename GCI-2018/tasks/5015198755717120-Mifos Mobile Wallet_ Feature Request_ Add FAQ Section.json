@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 6, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "**Summary:**\n\nAs of now, there is no FAQ section which would explain about the features of the app or organisation using it.\n\n**Steps to reproduce:**\n\nNo steps to reproduce as feature doesn't exists.\n\n**Expected behavior:**\n\nThere would be a FAQ section which would clarify about app's features. The FAQ section will be added under settings option in Profile Fragment. Create a button to launch an activity which would display FAQ. Add Dummy questions as of now.\n\n**Observed behavior:**\n\nThere wasn't any FAQ section.\n\n**Device and Android version:**\n\nAndroid Marshmallow Pixel 2 Android Emulator", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-09T05:31:20Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/77", 
+    "id": 5015198755717120, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet: Feature Request: Add FAQ Section"
+}

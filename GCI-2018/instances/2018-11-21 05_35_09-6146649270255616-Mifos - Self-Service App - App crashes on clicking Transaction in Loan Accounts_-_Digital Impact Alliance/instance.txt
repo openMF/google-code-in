@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6146649270255616 | Task Definition ID 5684138100129792
+Max instances: 1
+
+Title: Mifos - Self-Service App - App crashes on clicking Transaction in Loan Accounts
+Description: Summary:
+
+App crashes on clicking Transaction in Loan Accounts
+
+Steps to reproduce:
+
+Accounts > Loan Account > Any withdrawn Loan Account > Transaction
+
+Expected behaviour:
+
+App should not crash
+
+Observed behaviour:
+
+App crash
+
+Device and Android version:
+
+Marshmallow, Xiaomi
+Tags: android, code, mifos-mobile
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 7 days
+
+Mentors: sakshamhandu@gmail.com, guptachirag2002@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-27 16:57:42)
+Last modified: 2018-11-21 05:35:09

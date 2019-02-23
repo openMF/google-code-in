@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "##Summary\nthis task concerns the payment of disbursement charges. this does not appear as \"paid\" in the recap table.\n\nI will not say that it is an error, just an omission, in fact when a loan is raised with a charge to be disbursed, when the disbursement is made it does not appear in the recapitulation table. in the transaction section it appears but at the top it does not exist. this gives the impression that the charges have not been paid.\n\nyour objective would be to display the amount that was paid on disbursement in the recapture table that appears in the details of the loan.\n\n\n##", 
+    "tags": [
+        "", 
+        " Agular", 
+        "loan", 
+        " web"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "bragolight@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2018-10-25T18:44:11Z", 
+    "external_url": "", 
+    "id": 5495364309221376, 
+    "available_count": 1, 
+    "name": "DRAFT - Mifos - loan recap"
+}

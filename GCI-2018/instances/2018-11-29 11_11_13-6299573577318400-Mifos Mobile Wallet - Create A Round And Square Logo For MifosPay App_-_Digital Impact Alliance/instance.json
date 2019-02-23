@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Adarsh Pratap", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6088856144183296, 
+    "tags": [
+        "logo", 
+        " Photoshop", 
+        " Mobile Wallet", 
+        " Mifos", 
+        " FinTech"
+    ], 
+    "student_id": 5664881366794240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-29 11:11:13", 
+    "max_instances": "23", 
+    "id": 6299573577318400, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-29 11:11:09", 
+    "deadline": "2018-12-02 19:03:04", 
+    "submitted_date": "2018-11-29 10:47:55", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "gupta.hemant65@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+    "categories": [
+        "2"
+    ], 
+    "description": "MifosPay doesn\u2019t have a logo of its own. The objective is to create a round and a square logo for MifosPay App. Some Suggestions - Try playing letter \u2018M\u2019 and \u2018P\u2019 with something like money. It is only a suggestion and you can create it differently too. Also, the best logo chosen will be the official logo for the MifosPay App. You have to submit a high res, native file of the logo as well as png (transparent)  and jpg of logo. \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too.\n\nHigh Resolution Mifos Logo - https://drive.google.com/drive/folders/0ByeK44WJrHIvYnk1M0ZFemJSNkE"
+}

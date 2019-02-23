@@ -1,0 +1,32 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Go to Organization >> Teller/Cashier Management .. New Teller, Set End date .. submit\nEdit Teller, empty end date field, submit,, nothing happen\nit shouldn't act as a mandatory, since when creating teller it is not mandatory\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-10T13:53:55Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2540", 
+    "id": 6051360307937280, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: End Date shouldn't act as a mandatory field when editing teller"
+}

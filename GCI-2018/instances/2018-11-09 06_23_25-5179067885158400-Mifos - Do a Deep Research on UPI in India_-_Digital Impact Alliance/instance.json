@@ -1,0 +1,34 @@
+{
+    "student_display_name": "the keshav agarwal", 
+    "status": "OUT_OF_TIME", 
+    "program_year": 2018, 
+    "task_definition_id": 5766939453423616, 
+    "tags": [
+        " UPI", 
+        " Indian Payment System", 
+        " FinTech", 
+        " Research", 
+        "Mifos"
+    ], 
+    "student_id": 5994539232788480, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-09 06:23:25", 
+    "max_instances": "5", 
+    "id": 5179067885158400, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": null, 
+    "deadline": "2018-11-09 06:23:23", 
+    "submitted_date": null, 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "gupta.hemant65@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Do a Deep Research on UPI in India", 
+    "categories": [
+        "5"
+    ], 
+    "description": "### Summary\nUPI in India is growing at a very fast pace. Hence, it has become a very important thing in FinTech sector in India. So in this task you have to do a extensive research that what are the technologies behind it, why it is growing so fast (numeric and statistical data would be a bonus), how it works etc. The report should be in layman terms so that anyone who is not much familiar with the payment system in India can also understand that.\n\n### Bonus\nIf you could also make a small FAQ to explain UPI in layman terms.\n\nMore Info about UPI: [NPCI](https://www.npci.org.in/)\n\n**Note:** You could either write the research report on some cloud service like Google Doc or you would simply upload your doc file here."
+}

@@ -1,0 +1,17 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6551915392401408 | Task Definition ID 5265436322037760
+Max instances: 1
+
+Title: Mifos Self Service Android - Fix Progress Bar Above Input Fields
+Description: There is a Progress Bar shown above Input Fields.  When you click on an Beneficiary on the list of Beneficiaries, input fields should be absent and when fetching is done, the progress bar should be displayed. Given that the progress bar is not displayed, this task is considered complete when the progress bar gets displayed upon fetching data.
+Tags: Android
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: sakshamhandu@gmail.com, guptachirag2002@gmail.com
+Student: ethan627hsu (ID 5293817197494272)
+
+Status: COMPLETED (2018-11-01 18:12:18)
+Last modified: 2018-10-29 07:18:21

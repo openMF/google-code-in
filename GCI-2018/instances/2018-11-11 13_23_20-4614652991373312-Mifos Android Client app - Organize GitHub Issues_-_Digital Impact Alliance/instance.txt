@@ -1,0 +1,37 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 4614652991373312 | Task Definition ID 6612874869866496
+Max instances: 5
+
+Title: Mifos Android Client app - Organize GitHub Issues
+Description: ## Objective
+This task involves separating opened issues from issues with Pull Requests (PRs) have been sent.
+
+1. Go through the Android Client's [Issues](https://github.com/openMF/android-client/issues)
+2. Sort the list by 'Newest'.
+3. Check if the status of the issue - whether it has been listed has been referenced by some PR. If not, check if the PR has been sent for it from the [PR](https://github.com/openMF/android-client/pulls)
+  a - If PR has been sent and merged - Closed
+  b - If PR has been sent - In progress
+  c - If PR hasn't been sent - Open
+
+You have to submit a spreadsheet (you can use Microsoft Excel or Libre Office or Google sheets etc) with four columns: 
+1. First Column => Links to Issues
+2. Second Column => Name ( As stated On Github )
+3. Third Column => Status
+   a - Green - open
+   b - Blue - in progress
+   c - Red - closed
+4. Fourth Column => Date ( When you last checked the issue's status). 
+5. The submission should have at least 10 records. More records will add to the weight of your task. However, duplicate records - adding the same PR more than once - will have a negative effect. 
+
+If you need help, you can either contact the mentor assigned for the task or contact the public channel for the Android Client.
+Tags: QA,  Documentation,  Github,  Mifos
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, abhilash.ag1997@gmail.com
+Student: Sara Zeb Afridi (ID 6189096855666688)
+
+Status: COMPLETED (2018-11-14 23:27:17)
+Last modified: 2018-11-11 13:23:20

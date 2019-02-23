@@ -1,0 +1,34 @@
+{
+    "student_display_name": "jz53", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6085281691205632, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 4890377967370240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-12-08 16:06:38", 
+    "max_instances": "1", 
+    "id": 4644215670702080, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-08 16:06:34", 
+    "deadline": "2018-12-10 19:25:10", 
+    "submitted_date": "2018-12-08 12:56:28", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "abhay.chawla97@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Create A Hooks Component And Design Its User Interface In Mifos X Web App", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "## Objective\nThe objective is to create a hooks component and design its user interface.\n\n### Description\n1. Create a hooks component under the system section.\n2. Connect it via routing from the system component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the hooks component using angular material components and flex layout directives to ensure responsiveness. \n\n#### References\nYou may have a look at the current implemented components in the `accounting` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\n**Please Note:** This task does not involve writing the code for functionality (API requests) and documentation (comments) which could be expected as a separate task after the completion of this task. Although, it would be highly appreciated if the student is able to complete the same here itself. Do remember, quality over quantity is the key!"
+}

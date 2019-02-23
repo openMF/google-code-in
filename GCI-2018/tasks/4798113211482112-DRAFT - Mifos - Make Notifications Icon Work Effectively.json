@@ -1,0 +1,25 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2018, 
+    "description": "The icon which harbors notifications in the taskbar at the top is expected to display  different notifications of the current tasks for the user which it currently doesn't. This task is considered completed when this notifications icons works as expected.", 
+    "tags": [
+        " WebApp", 
+        " Angular", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        2
+    ], 
+    "last_modified": "2018-10-25T18:37:08Z", 
+    "external_url": "", 
+    "id": 4798113211482112, 
+    "available_count": 1, 
+    "name": "DRAFT - Mifos - Make Notifications Icon Work Effectively"
+}

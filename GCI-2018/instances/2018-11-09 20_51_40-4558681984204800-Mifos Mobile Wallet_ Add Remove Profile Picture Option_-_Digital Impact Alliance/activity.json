@@ -1,0 +1,170 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-09T20:51:35Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 5573595506933760, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-09T19:41:31Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 5990584889114624, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-09T19:12:07Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4667900406267904, 
+        "id": 5692116941406208, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-09T19:08:18Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4532846245969920, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Done. https://github.com/openMF/mobile-wallet/pull/82", 
+        "created": "2018-11-09T19:08:16Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 6087209573679104, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "For now, focus on UI/UX (frontend) only. Don't bother with server code. But when you tap on 'remove picture', it should remove picture from the imageview. Test the feature thoroughly.", 
+        "created": "2018-11-09T16:33:02Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4667900406267904, 
+        "id": 5997009958862848, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Hey, I'm not sure if I've understood the task. I've created BottomSheetDialog with 'change profile picture' and 'remove profile picture' labels, but I've noticed that change picture feature is not connected with database.\n\nDo I only need to create a method with empty body where remove profile picture feature will be implemented later?", 
+        "created": "2018-11-09T16:06:46Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 6156911457075200, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4558681984204800, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-09T07:21:19Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5333848419205120, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

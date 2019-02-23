@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Miguel Dinis", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4584604292874240, 
+    "tags": [
+        "portuguese", 
+        "translation", 
+        "mifos-mobile", 
+        "andriod"
+    ], 
+    "student_id": 4707482623541248, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-25 17:53:33", 
+    "max_instances": "1", 
+    "id": 4619002081968128, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-25 17:53:29", 
+    "deadline": "2018-11-26 06:51:35", 
+    "submitted_date": "2018-11-25 11:05:30", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile App: Do the translation of the app in Portuguese", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into Portuguese Language. We already have Portuguese language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in Portuguese and translate the existing ones into Portuguese.\n\nThis would enable the localization feature app which is very much awaited feature in the community."
+}

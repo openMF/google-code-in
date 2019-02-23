@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Try to approve following share account.\n\nhttps://staging.openmf.org/#/shareaccount/20/approve\n\nusername/password : mifos/password\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "max_instances": 0, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-24T15:32:27Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2951", 
+    "id": 6669356474826752, 
+    "available_count": 0, 
+    "name": "Mifos - Bug Fix: Unable to approve share account which is already submitted"
+}

@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "MifosPay has different KYC Levels, out of which, only KYC Level 1 and 2 are functional. The objective is to create a tutorial video that demonstrate the KYC Level 1, KYC Level 2 Usecases. The link to the APK of the MifosPay App is an external URL from this task.\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too.", 
+    "tags": [
+        " Mobile Wallet", 
+        "Mifos", 
+        " Video", 
+        " Tutorial"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "gupta.hemant65@gmail.com"
+    ], 
+    "max_instances": 5, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2018-10-26T22:43:35Z", 
+    "external_url": "https://drive.google.com/open?id=1cp7jCcqIuISmBxJ-obNU7tspcU8kOA3D", 
+    "id": 5486278976995328, 
+    "available_count": 4, 
+    "name": "Mifos Mobile Wallet - Make A Tutorial Video Demonstrating KYC Level 1 & 2 Use Cases"
+}

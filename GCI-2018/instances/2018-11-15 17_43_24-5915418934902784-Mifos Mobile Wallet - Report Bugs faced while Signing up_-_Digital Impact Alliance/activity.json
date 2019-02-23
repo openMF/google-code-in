@@ -1,0 +1,220 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-11-15T17:43:18Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 6223342353776640, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-11-15T17:43:18Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 6667844524703744, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-11T19:15:00Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4667900406267904, 
+        "id": 6481835061149696, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Hey Ribin.\nWe expect one detailed report which includes the observed bugs, steps to reproduce, screenshots if any, etc. Please make your report detailed and structured.", 
+        "created": "2018-11-11T19:14:47Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4667900406267904, 
+        "id": 5427152557178880, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Ribin", 
+            "program_year": 2018, 
+            "id": 6354002124996608
+        }, 
+        "text": "I have tested the app, and the result is attached as a pdf file.", 
+        "created": "2018-11-11T14:52:23Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6354002124996608, 
+        "id": 6054313613852672, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5066452613726208/", 
+                "filename": "Screenshot_20181111_183035.jpg", 
+                "id": 5066452613726208, 
+                "file_size": 193362.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5586305120468992/", 
+                "filename": "Screenshot_20181111_182819.jpg", 
+                "id": 5586305120468992, 
+                "file_size": 168929.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5725478569639936/", 
+                "filename": "BUGREPORT.pdf", 
+                "id": 5725478569639936, 
+                "file_size": 175969.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Ribin", 
+            "program_year": 2018, 
+            "id": 6354002124996608
+        }, 
+        "text": "", 
+        "created": "2018-11-11T14:38:55Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6354002124996608, 
+        "id": 5606495493292032, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "@Ribin Can you please convert this into a pdf or doc file and mark the issues in bullets and then submit again.", 
+        "created": "2018-11-11T13:22:08Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4833426516475904, 
+        "id": 5230269243064320, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Ribin", 
+            "program_year": 2018, 
+            "id": 6354002124996608
+        }, 
+        "text": "I have tested the app. Firstly there was the login screen and then i choose the signup option as consumer. Then there was a Google sign-in option and then I selected my account for signing up and the next screen appeared with a alert in the bottom says \"Google sign-in Failed\". Even after failing it transfers it to the next screen and there is the phone number verification. Where I entered my Phone number and waited for my otp I waited for many time and I didn't receive any OTP. Then without entering the otp I just simply clicked the next button and then near to the otp box it showed that \"verifying otp\" (I haven't entered any OTP) then simply without verification I was able to move on to the next screen where I have to enter my details and without any fail I was able to signup. So that i can conclude that the app was not able to verify the user's details and without verifying anything a user can create an account. Here by I attach the screenshots of the bugs which I found.", 
+        "created": "2018-11-11T13:15:11Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6354002124996608, 
+        "id": 6289937734303744, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5948662652862464/", 
+                "filename": "Screenshot_20181111_182819.jpg", 
+                "id": 5948662652862464, 
+                "file_size": 168929.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6475536357392384/", 
+                "filename": "Screenshot_20181111_183035.jpg", 
+                "id": 6475536357392384, 
+                "file_size": 193362.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5915418934902784, 
+        "author": {
+            "display_name": "Ribin", 
+            "program_year": 2018, 
+            "id": 6354002124996608
+        }, 
+        "text": "", 
+        "created": "2018-11-11T13:05:10Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6354002124996608, 
+        "id": 5156455599570944, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

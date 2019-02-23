@@ -1,0 +1,31 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6434245565218816, 
+    "tags": [
+        "mobile wallet", 
+        "mifospay", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-11-30 14:05:14", 
+    "max_instances": "1", 
+    "id": 4997669953994752, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-30 14:05:10", 
+    "deadline": "2018-12-04 14:09:32", 
+    "submitted_date": "2018-11-30 14:00:26", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Propose new UI/UX layout for MifosPay", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Propose a new UI/UX layout for MifosPay. Make sure it is your own work and matches the standard of other famous competitors like Paytm, Google Pay, PhonePe, etc.\n\nThe repository is at https://github.com/openMF/mobile-wallet.\n\nPlease find the attached latest build of MifosPay app. \n\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mobile-wallet) too."
+}

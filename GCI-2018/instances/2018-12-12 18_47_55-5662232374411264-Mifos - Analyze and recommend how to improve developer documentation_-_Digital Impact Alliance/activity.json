@@ -1,0 +1,212 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-12-12T18:47:51Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5768230007209984, 
+        "id": 4897894424379392, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Thank you Jonathan!", 
+        "created": "2018-12-12T18:47:48Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 5344123809693696, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I am going to start first with community-app, as that seems the biggest repo. I will start by migrating dev documentation to the wiki and making the wiki neat and navigable. And I found out I don't need write permissions or to commit/make PR to edit the wiki so I will get on that.", 
+        "created": "2018-12-12T01:49:46Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5377126942375936, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-12-12T00:11:19Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5134767776333824, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I\u2019m going to submit since I\u2019ve technically fufilled the task and competition is about to end. I will do the stuff to actually move documentation in the next few days. Thanks for the review Ed.", 
+        "created": "2018-12-12T00:11:15Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5039742161780736, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Yep I'm going to try and split this into documentation for each project, and then bite size steps for migrating the documentation to the GitHub and README. Also, I believe that the main website documentation subpage should be a parent for all of the documentation that exists by either linking to a JIRA page or directly to the documentation. There just needs to be a tree structure instead of a bunch of separate doc trees.", 
+        "created": "2018-12-11T22:06:04Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6091079355990016, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "My bad - I had forgotten the deadline to claim new tasks had already passed. If you take up implementing the changes as part of this task, we'll certainly be aware and appreciative of that and factor it into your overall body of work.", 
+        "created": "2018-12-11T14:12:27Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5768230007209984, 
+        "id": 5452493082329088, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "I like your suggestions Jonathan. Thank you for sharing your experience as a developer in only ever accessing what was on GitHub and not on MifosForge/JIRA. Originaly MifosForge - both Confluence and JIRA was used for all of the Mifos-based projects prior to switching to GitHub for issue management. \n\nI do think we should have updated and clear docs for each project in the README like you suggested but we should likewise maintain a consolidated but updated page in MifosForge as well because we still do send people there for docs purposes (although content needs to be streamlined/updated).\n\nOnce you submit this task, if you want we can create another task for implementing this that you could claim. Good luck in the final day and great work thus far along with your engagement and support of the community. \n\nEd", 
+        "created": "2018-12-11T14:10:26Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5768230007209984, 
+        "id": 4667512177295360, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I will likely finish up my documentation suggestions in the next 24 hours and submit for review. If you guys like my suggestions, I can start migrating documentation, etc after GCI ends in order to complete my work. \n\nHere is wip doc: https://docs.google.com/document/d/1X8Q6kUcb6OhotWd5J8FVeCIeHaoY4xPPyTTqvkavb8Q/edit?usp=sharing", 
+        "created": "2018-12-11T05:32:24Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5602313218555904, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5662232374411264, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-12-10T16:51:07Z", 
+        "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4783134945050624, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

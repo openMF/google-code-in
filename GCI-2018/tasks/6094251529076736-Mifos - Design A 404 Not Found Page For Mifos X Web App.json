@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Objective\nThe objective is to design a 404 not found page when a user tries to access unintended routes.\n\n### Description\nCurrently, when a user tries to access unintended routes he/she is redirected back to the home page. Design a 404 error page in the NotFoundComponent using HTML and SCSS. Design maybe simple, use your imagination to make it look cool and beautiful.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).", 
+    "tags": [
+        "SCSS", 
+        "HTML", 
+        "Web App", 
+        "Angular", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2018-11-18T09:59:36Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/110", 
+    "id": 6094251529076736, 
+    "available_count": 0, 
+    "name": "Mifos - Design A 404 Not Found Page For Mifos X Web App"
+}

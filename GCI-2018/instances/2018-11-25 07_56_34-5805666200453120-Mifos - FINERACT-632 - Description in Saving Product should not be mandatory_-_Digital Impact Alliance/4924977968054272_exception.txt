@@ -1,0 +1,115 @@
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':tomcatRunWar'.
+> An error occurred starting the Tomcat server.
+
+* Try:
+Run with --info or --debug option to get more log output.
+
+* Exception is:
+org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':tomcatRunWar'.
+        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeActions(ExecuteActionsTaskExecuter.java:69)
+        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:46)
+        at org.gradle.api.internal.tasks.execution.PostExecutionAnalysisTaskExecuter.execute(PostExecutionAnalysisTaskExecuter.java:35)
+        at org.gradle.api.internal.tasks.execution.SkipUpToDateTaskExecuter.execute(SkipUpToDateTaskExecuter.java:64)
+        at org.gradle.api.internal.tasks.execution.ValidatingTaskExecuter.execute(ValidatingTaskExecuter.java:58)
+        at org.gradle.api.internal.tasks.execution.SkipEmptySourceFilesTaskExecuter.execute(SkipEmptySourceFilesTaskExecuter.java:52)
+        at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:52)
+        at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:53)
+        at org.gradle.api.internal.tasks.execution.ExecuteAtMostOnceTaskExecuter.execute(ExecuteAtMostOnceTaskExecuter.java:43)
+        at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker.execute(DefaultTaskGraphExecuter.java:203)
+        at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker.execute(DefaultTaskGraphExecuter.java:185)
+        at org.gradle.execution.taskgraph.AbstractTaskPlanExecutor$TaskExecutorWorker.processTask(AbstractTaskPlanExecutor.java:66)
+        at org.gradle.execution.taskgraph.AbstractTaskPlanExecutor$TaskExecutorWorker.run(AbstractTaskPlanExecutor.java:50)
+        at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor.process(DefaultTaskPlanExecutor.java:25)
+        at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter.execute(DefaultTaskGraphExecuter.java:110)
+        at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:37)
+        at org.gradle.execution.DefaultBuildExecuter.execute(DefaultBuildExecuter.java:37)
+        at org.gradle.execution.DefaultBuildExecuter.access$000(DefaultBuildExecuter.java:23)
+        at org.gradle.execution.DefaultBuildExecuter$1.proceed(DefaultBuildExecuter.java:43)
+        at org.gradle.execution.DryRunBuildExecutionAction.execute(DryRunBuildExecutionAction.java:32)
+        at org.gradle.execution.DefaultBuildExecuter.execute(DefaultBuildExecuter.java:37)
+        at org.gradle.execution.DefaultBuildExecuter.execute(DefaultBuildExecuter.java:30)
+        at org.gradle.initialization.DefaultGradleLauncher$4.run(DefaultGradleLauncher.java:154)
+        at org.gradle.internal.Factories$1.create(Factories.java:22)
+        at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:90)
+        at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:52)
+        at org.gradle.initialization.DefaultGradleLauncher.doBuildStages(DefaultGradleLauncher.java:151)
+        at org.gradle.initialization.DefaultGradleLauncher.access$200(DefaultGradleLauncher.java:32)
+        at org.gradle.initialization.DefaultGradleLauncher$1.create(DefaultGradleLauncher.java:99)
+        at org.gradle.initialization.DefaultGradleLauncher$1.create(DefaultGradleLauncher.java:93)
+        at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:90)
+        at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:62)
+        at org.gradle.initialization.DefaultGradleLauncher.doBuild(DefaultGradleLauncher.java:93)
+        at org.gradle.initialization.DefaultGradleLauncher.run(DefaultGradleLauncher.java:82)
+        at org.gradle.launcher.exec.InProcessBuildActionExecuter$DefaultBuildController.run(InProcessBuildActionExecuter.java:94)
+        at org.gradle.tooling.internal.provider.ExecuteBuildActionRunner.run(ExecuteBuildActionRunner.java:28)
+        at org.gradle.launcher.exec.ChainingBuildActionRunner.run(ChainingBuildActionRunner.java:35)
+        at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:43)
+        at org.gradle.launcher.exec.InProcessBuildActionExecuter.execute(InProcessBuildActionExecuter.java:28)
+        at org.gradle.launcher.exec.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:78)
+        at org.gradle.launcher.exec.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:48)
+        at org.gradle.launcher.exec.DaemonUsageSuggestingBuildActionExecuter.execute(DaemonUsageSuggestingBuildActionExecuter.java:51)
+        at org.gradle.launcher.exec.DaemonUsageSuggestingBuildActionExecuter.execute(DaemonUsageSuggestingBuildActionExecuter.java:28)
+        at org.gradle.launcher.cli.RunBuildAction.run(RunBuildAction.java:43)
+        at org.gradle.internal.Actions$RunnableActionAdapter.execute(Actions.java:170)
+        at org.gradle.launcher.cli.CommandLineActionFactory$ParseAndBuildAction.execute(CommandLineActionFactory.java:237)
+        at org.gradle.launcher.cli.CommandLineActionFactory$ParseAndBuildAction.execute(CommandLineActionFactory.java:210)
+        at org.gradle.launcher.cli.JavaRuntimeValidationAction.execute(JavaRuntimeValidationAction.java:35)
+        at org.gradle.launcher.cli.JavaRuntimeValidationAction.execute(JavaRuntimeValidationAction.java:24)
+        at org.gradle.launcher.cli.CommandLineActionFactory$WithLogging.execute(CommandLineActionFactory.java:206)
+        at org.gradle.launcher.cli.CommandLineActionFactory$WithLogging.execute(CommandLineActionFactory.java:169)
+        at org.gradle.launcher.cli.ExceptionReportingAction.execute(ExceptionReportingAction.java:33)
+        at org.gradle.launcher.cli.ExceptionReportingAction.execute(ExceptionReportingAction.java:22)
+        at org.gradle.launcher.Main.doAction(Main.java:33)
+        at org.gradle.launcher.bootstrap.EntryPoint.run(EntryPoint.java:45)
+        at org.gradle.launcher.bootstrap.ProcessBootstrap.runNoExit(ProcessBootstrap.java:54)
+        at org.gradle.launcher.bootstrap.ProcessBootstrap.run(ProcessBootstrap.java:35)
+        at org.gradle.launcher.GradleMain.main(GradleMain.java:23)
+        at org.gradle.wrapper.BootstrapMainStarter.start(BootstrapMainStarter.java:30)
+        at org.gradle.wrapper.WrapperExecutor.execute(WrapperExecutor.java:129)
+        at org.gradle.wrapper.GradleWrapperMain.main(GradleWrapperMain.java:61)
+Caused by: org.gradle.api.GradleException: An error occurred starting the Tomcat server.
+        at org.gradle.api.plugins.tomcat.AbstractTomcatRunTask.startTomcat(AbstractTomcatRunTask.groovy:248)
+        at org.gradle.api.plugins.tomcat.AbstractTomcatRunTask$_validateConfigurationAndStartTomcat_closure1.doCall(AbstractTomcatRunTask.groovy:121)
+        at org.gradle.api.plugins.tomcat.AbstractTomcatRunTask$_validateConfigurationAndStartTomcat_closure1.doCall(AbstractTomcatRunTask.groovy)
+        at org.gradle.api.plugins.tomcat.internal.LoggingHandler.withJdkFileLogger(LoggingHandler.groovy:52)
+        at org.gradle.api.plugins.tomcat.internal.LoggingHandler$withJdkFileLogger.callStatic(Unknown Source)
+        at org.gradle.api.plugins.tomcat.AbstractTomcatRunTask.validateConfigurationAndStartTomcat(AbstractTomcatRunTask.groovy:120)
+        at org.gradle.api.plugins.tomcat.AbstractTomcatRunTask.start(AbstractTomcatRunTask.groovy:82)
+        at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:75)
+        at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.doExecute(AnnotationProcessingTaskFactory.java:227)
+        at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.execute(AnnotationProcessingTaskFactory.java:220)
+        at org.gradle.api.internal.project.taskfactory.AnnotationProcessingTaskFactory$StandardTaskAction.execute(AnnotationProcessingTaskFactory.java:209)
+        at org.gradle.api.internal.AbstractTask$TaskActionWrapper.execute(AbstractTask.java:585)
+        at org.gradle.api.internal.AbstractTask$TaskActionWrapper.execute(AbstractTask.java:568)
+        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeAction(ExecuteActionsTaskExecuter.java:80)
+        at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeActions(ExecuteActionsTaskExecuter.java:61)
+        ... 60 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardServer[-1]]
+        at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+        at org.apache.catalina.startup.Tomcat.start(Tomcat.java:341)
+        at org.apache.catalina.startup.Tomcat$start$1.call(Unknown Source)
+        at org.gradle.api.plugins.tomcat.embedded.Tomcat7xServer.start(Tomcat7xServer.groovy:152)
+        at org.gradle.api.plugins.tomcat.embedded.TomcatServer$start$6.call(Unknown Source)
+        at org.gradle.api.plugins.tomcat.AbstractTomcatRunTask.startTomcat(AbstractTomcatRunTask.groovy:235)
+        ... 74 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardService[Tomcat]]
+        at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+        at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:731)
+        at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+        ... 79 more
+Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Tomcat]]
+        at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:154)
+        at org.apache.catalina.core.StandardService.startInternal(StandardService.java:443)
+        at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+        ... 81 more
+Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+        at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:1131)
+        at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:300)
+        at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+        ... 83 more
+
+
+BUILD FAILED

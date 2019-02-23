@@ -1,0 +1,614 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-07T10:52:24Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 5630998738894848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good job", 
+        "created": "2018-11-07T10:52:19Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 4835099569815552, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-07T05:22:32Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5560984597954560, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Here is the gist with a relevant explanation: https://gist.github.com/ethan627hsu/50c34feacd824de3765a504331e013ba\n\nI am now familiarized with the task types and codebase, and wish to make more meaningful impact on the project, thanks for helping me out!", 
+        "created": "2018-11-07T05:22:26Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 5486308001579008, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-07T04:31:13Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6488045034405888, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good job,\n\nCreate a Github Gist and explain the flow there.", 
+        "created": "2018-11-07T04:31:06Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5760176536682496, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-06T21:45:13Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 6089544962146304, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "My new design includes several different features from the original design. It includes close and save icons in the toolbar to help the user navigate throughout the flow, a link to the settings page (where they can edit their name and info), and a dialog to help configure the product id that appears when the user clicks on the product id. A verification screen is also added for clarity and it includes a back button to go back to the editor. I hope my design will help add new features and better user experiences!", 
+        "created": "2018-11-06T21:44:50Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 4912938402971648, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4931810757705728/", 
+                "filename": "Mocks.png", 
+                "id": 4931810757705728, 
+                "file_size": 254853.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Hi Ethan,\n\nYou can even create design like this, https://i.imgur.com/KpXEIhX.gifv\nThis type of designs are more capable of being used in future, since they are more similar to the theme of the app.", 
+        "created": "2018-11-05T04:26:26Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6271567207071744, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-03T15:27:29Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6145748623163392, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "It almost the same, try to use any designing tool. Let me show you an example,\nhttps://gist.github.com/tcehcrhistie/c1fd19a56469917fb21d6f90a9f63580\n\nThis one is made by another GCI participant.\n\nTry to showcase some newer User Design for this task.", 
+        "created": "2018-11-03T15:27:16Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5565065500557312, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-02T19:33:00Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 4878255669641216, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I have attached my new design, it includes better description and includes a verification screen!", 
+        "created": "2018-11-02T19:32:55Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 5450630928793600, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6112343252533248/", 
+                "filename": "ApplySavingsAccountUI.pdf", 
+                "id": 6112343252533248, 
+                "file_size": 232353.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-02T09:58:53Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6210875896627200, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Task deadline extended by 4.9 days", 
+        "created": "2018-11-02T09:58:42Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5907021858603008, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "You need to create new user interface, then explain the flow of the interface.", 
+        "created": "2018-11-02T09:58:24Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5624214179545088, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I have submitted the task with an attached PDF document in a previous comment. The document contains the UI design, with a report on the qualities the UI utilizes to help guide the user throughout the flow. I see that you are very busy, and I would like to help out with Mifos related organization as much as possible, if their is some basic, time-consuming task stopping you from mentoring contributors!", 
+        "created": "2018-11-01T21:00:19Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5871837486514176, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-01T20:57:02Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 6555121954586624, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-01T20:56:43Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5195344099934208, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5672081321623552/", 
+                "filename": "ApplySavingsAccountUI.pdf", 
+                "id": 5672081321623552, 
+                "file_size": 120476.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "They are demo fields, currently API is under progress. Just assume them as field. And then create you design.", 
+        "created": "2018-11-01T10:50:54Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5305383225655296, 
+        "id": 4580372697317376, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Can you help explain the productId and productName fields to me? I am unable to understand their purpose and what they stand for. What is a product? Is the id just an identifier for a product? How do products relate to the app?", 
+        "created": "2018-11-01T03:19:44Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6110929939857408, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Can you help explain the productId and productName fields to me? I am unable to understand their purpose and what they stand for. What is a product? Is the id just an identifier for a product? How do products relate to the app?", 
+        "created": "2018-10-31T04:37:20Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6326411523522560, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "For future UI enhancement, if UI provided by you, is good we may implement it in future.", 
+        "created": "2018-10-30T14:13:25Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5305383225655296, 
+        "id": 4749121358397440, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "But why do I need to create UI mocks when you already have an implementation in the gif?", 
+        "created": "2018-10-30T02:10:17Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 4556666591772672, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "You nee to create using tools like Adobe XP No need to write code. Show you creativity without hindering the User Experience.", 
+        "created": "2018-10-30T02:02:41Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5305383225655296, 
+        "id": 6277178514735104, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Do I create a UI mock, or do I create layout XML? What form should my end result be in? Can you help clarify the intent of this task? I am confused about the impact of my action as you already have a UI mock yourself.", 
+        "created": "2018-10-29T17:24:45Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5452920871976960, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Do I create a UI mock, or do I create layout XML? What form should my end result be in?", 
+        "created": "2018-10-29T14:10:51Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5707489287864320, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6091158515089408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-29T14:09:51Z", 
+        "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 4558788070735872, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,17 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6432463325757440 | Task Definition ID 5235708571680768
+Max instances: 1
+
+Title: Mifos Self Service Android - Fix Calendar On Creating Loans
+Description: The calendar used to create loans has an issue with it's date pickers. In order to reproduce this error, try creating a new loan. Notice that date pickers for Submission date and Expected Disbursement offer selectable dates from the past which is an anomaly. We expect that the Submission Date's date picker should offer Today's date while offering previous dates as non-selectable. Also, the Expected Disbursement Date should offer selectable future dates ( after Today's date ).
+Tags: Android
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: sakshamhandu@gmail.com, guptachirag2002@gmail.com
+Student: Miguel Dinis (ID 4707482623541248)
+
+Status: COMPLETED (2018-11-11 14:28:21)
+Last modified: 2018-11-06 08:43:00

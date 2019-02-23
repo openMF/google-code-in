@@ -1,0 +1,115 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5543977630564352, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-12-02T02:49:30Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on GDPR", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5768230007209984, 
+        "id": 4862436181016576, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5543977630564352, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Well done.", 
+        "created": "2018-12-02T02:49:17Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on GDPR", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 5679799193305088, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5543977630564352, 
+        "author": {
+            "display_name": "Rohan2003", 
+            "program_year": 2018, 
+            "id": 6322359221878784
+        }, 
+        "text": "", 
+        "created": "2018-12-01T19:17:01Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on GDPR", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6322359221878784, 
+        "id": 6375869124706304, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5543977630564352, 
+        "author": {
+            "display_name": "Rohan2003", 
+            "program_year": 2018, 
+            "id": 6322359221878784
+        }, 
+        "text": "Greetings Dear Mentor,\nI've created a well systemised and formatted research document on the General Data Protection Regulation framework for the completion of this task. It is an 18-page brief containing additional visual information such as graphs and infographics. The contents are listed below:- \n\n1) Introduction to the Regulation\n2) Timeline of the Framework\n3) Brief History\n4) General Impact \n5) Footprint on Banks\n7) Compliance with Corporations\n8) Customer Engagement\n9) Plummeting for Third Party Cookies\n10) Resurgence for contextual targeting\n11) Distinguished features from the former\n12) Enabled Opportunities \n13) Aligned Nations with Brexit Inputs\n14) GDPR For US Marketers\n15) Creation of economic challenges\n16) Sources\n\nA separate page for the different sources that served as the document backbend is linked for reference. Attached down below, is a pdf version of the research brief as well as a shared link to the Google Doc.\n\nPDF Document :-\nResearch_Brief_on_the_General_Data_Protection_Regulation_Framework.pdf (471.0 kB)\n\nShared link to the Doc:- https://docs.google.com/document/d/10lqbYMVnC62wpHiMw8vboQANzS3EoYLQEDP98M6eq2Y/edit?usp=sharing\n\nThanks a lot :)\nRohan Bhasin", 
+        "created": "2018-12-01T19:16:56Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on GDPR", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6322359221878784, 
+        "id": 6139640286281728, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6751070672912384/", 
+                "filename": "Research_Brief_on_the_General_Data_Protection_Regulation_Framework.pdf", 
+                "id": 6751070672912384, 
+                "file_size": 482308.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5543977630564352, 
+        "author": {
+            "display_name": "Rohan2003", 
+            "program_year": 2018, 
+            "id": 6322359221878784
+        }, 
+        "text": "", 
+        "created": "2018-11-30T13:40:35Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on GDPR", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6322359221878784, 
+        "id": 4564484568907776, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

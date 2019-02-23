@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "**Summary:**\n\n`./gradlew check` throws an error with following message:\n`Task :core:findbugs\nNo files to be analyzed`\n\n**Steps to reproduce:**\n\n1. Open terminal on Android Studio\n2. Run `./gradlew check` \n\n**Expected behavior:**\n\n`./gradlew check` to be executed successfully\n\n**Observed behavior:**\n\n`./gradlew check` throws an error with following message:\n`Task :core:findbugs\nNo files to be analyzed`", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos", 
+        "gradle"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-11T19:36:29Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/85", 
+    "id": 5984246423355392, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet - Error while running gradle check"
+}

@@ -1,0 +1,41 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 4989183702597632 | Task Definition ID 4965967089106944
+Max instances: 1
+
+Title: Mifos Mobile Wallet - Bad keyboard behavior during "new passcode" flow
+Description: **Summary:**
+
+When adding a new passcode, the EditTexts allow the user to type in letters (for a only number password), and an infinite amount of characters (for a 4 digit passcode). 
+To change the passcode, we'll be directing user to mifos-passcode library. If you want to work on the task to change passcode, please visit:-
+https://github.com/openMF/mifos-passcode
+
+**Steps to reproduce:**
+
+Visit the profile section and go to the editor by pressing the edit icon in the top right. In the editor, try updating the passcode. The EditTexts should have the behavior described in the summary.
+
+**Expected behavior:**
+
+The EditTexts should only allow valid 4-digit number passcodes
+
+**Observed behavior:**
+
+The EditTexts allow the user to type in letters (for a only number password), and an infinite amount of characters (for a 4 digit passcode)
+
+**Device and Android version:**
+
+Google Pixel, Android 9.0 Pie
+
+**Screenshots:**
+
+![image](https://user-images.githubusercontent.com/24931732/48317533-ad538b00-e5a8-11e8-8478-6d03197e9f4c.png)
+Tags: mobile wallet, android, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: ankur16225@iiitd.ac.in
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-19 14:54:33)
+Last modified: 2018-11-16 12:01:05

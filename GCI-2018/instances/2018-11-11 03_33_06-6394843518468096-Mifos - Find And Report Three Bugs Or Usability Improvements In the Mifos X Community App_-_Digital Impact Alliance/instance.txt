@@ -1,0 +1,31 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6394843518468096 | Task Definition ID 5748749226737664
+Max instances: 30
+
+Title: Mifos - Find And Report Three Bugs Or Usability Improvements In the Mifos X Community App
+Description: ## Objective
+Having a fresh set of eyes on our software is a great way to identify new bugs or ways to improve the usability of the software. 
+
+## How to Complete this Task 
+For this task, you'll get to assume the role of a staff person at a microfinance institution and perform some typical scenarios like creating a new client, opening a new loan, creating a new product, etc based on instructions in our User Manual - https://mifosforge.jira.com/wiki/spaces/docs/pages/52035622/User+Manual
+
+You can do this on our demo3 server at https://demo3.openmf.org with credentials - mifos/password
+
+You will document your experience including general feedback and how to improve the overall user experience and use our GitHub issue tracker to report three specific issues or usability improvements along with screenshots and a clear explanation that you can find. See here for tips on writing a good issue viz Bug Entry Guidelines ( https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines )
+
+Issues will be reported here: https://github.com/openMF/community-app
+
+## Task Difficulty Level
+
+Low - while not a beginner task, this is a good task to begin with.
+Tags: qa, web, usability, bugs, mifos
+
+Categories: Documentation & Training, Quality Assurance
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org, guptachirag2002@gmail.com, santosh@confluxtechnologies.com, shruthi@confluxtechnologies.com, rahul.usit12@gmail.com
+Student: jz53 (ID 4890377967370240)
+
+Status: COMPLETED (2018-11-13 04:55:41)
+Last modified: 2018-11-11 03:33:06

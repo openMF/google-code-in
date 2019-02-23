@@ -1,0 +1,31 @@
+{
+    "student_display_name": "jz53", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4961905211867136, 
+    "tags": [
+        " AngularJs", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 4890377967370240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-23 17:37:39", 
+    "max_instances": "1", 
+    "id": 5711557708218368, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-23 17:37:35", 
+    "deadline": "2018-11-25 21:59:22", 
+    "submitted_date": "2018-11-23 16:07:37", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Online Banking App - Fix Back Button", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Pressing back button from details of any account ( Loan, Savings or Shares ) goes back to the list of Loan accounts. \n\nTo reproduce this error, open Savings account details and then press back button of your browser. You will be see the Loan account list page rather than the savings account list page. You would expect that after pressing the back button the account list of that type of account should be displayed of which the details were checked. E.g: If details of a savings account is checked and the back button is pressed then it should show the list of savings accounts."
+}

@@ -1,0 +1,32 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2018, 
+    "description": "##Summary\non the website page http://mifos.org/resources/marketing-resources/#top\nall documents are written in English.\n\n##Goal\nYour tasks will consist in translating three documents in FRENCH this is: Mifos X Business White peper, Mifos Initiative Brochure and Mifos X Data Sheet.\nit would be necessary to train so that one can understand in the simplest way possible by the populations which are not of French origin like the French of West Africa.\nThen you will have to make a training video in French.", 
+    "tags": [
+        "marketing", 
+        "ressources", 
+        "mifos", 
+        "training", 
+        "research"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "bragolight@gmail.com"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "categories": [
+        2, 
+        3, 
+        4, 
+        5
+    ], 
+    "last_modified": "2018-10-29T17:30:06Z", 
+    "external_url": null, 
+    "id": 6218051444801536, 
+    "available_count": 4, 
+    "name": "Mifos Ressources- Marketing ressources"
+}

@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4882952451260416, 
+    "tags": [
+        "banking", 
+        "mifos", 
+        "java", 
+        "fineract", 
+        "fintech"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-29 11:37:36", 
+    "max_instances": "1", 
+    "id": 5461705803956224, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-29 05:23:16", 
+    "deadline": "2018-11-30 00:19:51", 
+    "submitted_date": "2018-11-28 19:27:34", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "shruthi@confluxtechnologies.com", 
+        "mohitbajo36@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos - FINERACT-618 - Allow for Submitted On Date to be Edited for Groups", 
+    "categories": [
+        "1"
+    ], 
+    "description": "This a minor feature request made by one of our community members for an enhancement to the Fineract platform. There is a corresponding front-end UI task that can be completed as well.\n\n## Task Description ##\nJust as one can edit the submitted on date for a client after it's been created, so should a user be able to edit the submitted on date for a group after it's been created.\n\nFull details at https://issues.apache.org/jira/browse/FINERACT-618\n\nCorresponding UI ticket on Github Issues for Mifos X Web App https://github.com/openMF/community-app/issues/2935"
+}

@@ -1,0 +1,488 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "Nice work Jonathan!", 
+        "created": "2018-11-01T15:38:46Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5812858106413056, 
+        "id": 5286679364501504, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-01T04:53:52Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 5295701379514368, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I made it a lot more aesthetic. Hope you like it!", 
+        "created": "2018-11-01T04:51:02Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 4643851575754752, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4940468929429504/", 
+                "filename": "MifosPaySquare_png.png", 
+                "id": 4940468929429504, 
+                "file_size": 13975.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5508912078913536/", 
+                "filename": "MifosPaySquare_jpg.jpg", 
+                "id": 5508912078913536, 
+                "file_size": 23072.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6288073101934592/", 
+                "filename": "MifosPaySquare.svg", 
+                "id": 6288073101934592, 
+                "file_size": 7992.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5237979971846144/", 
+                "filename": "MifosPayCircle_png.png", 
+                "id": 5237979971846144, 
+                "file_size": 15899.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4818013774675968/", 
+                "filename": "MifosPayCircle_jpg.jpg", 
+                "id": 4818013774675968, 
+                "file_size": 23105.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6698342135365632/", 
+                "filename": "MifosPayCircle.svg", 
+                "id": 6698342135365632, 
+                "file_size": 22094.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I thought those logos were TOO minimalistic to count as good quality. I will correct my work though. THank you!", 
+        "created": "2018-11-01T03:53:40Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 4581008318922752, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "I would recommend you to see logos of Paytm, Mobikwik, Freecharge, PhonePe, Google Pay, Niki AI etc.\n\nThat would give you a idea how to make a minimal beautiful logo. I know that you aren't any professional graphic designer, so we are okay with this but if you want to do quality tasks, I would recommend you to improve this.", 
+        "created": "2018-11-01T03:45:58Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 5465382115606528, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I tried to keep it simple because an app logo is very small. I started out with some more complex art but it got too complicated and when you zoom out, the details weren't visible. \n\nI could make a more complex one for like in-app display perhaps during like a loading phase or something?", 
+        "created": "2018-11-01T03:42:30Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 6454446914535424, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "If you think you can improve it, then go ahead. Otherwise, I will approve it.", 
+        "created": "2018-11-01T03:34:37Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 5706646400532480, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Please reference this upload for the fixed set of files.\n\nI have attached svg's as my 'high res native files,' although I don't really know what 'native' means. I have also attached png and jpeg. \n\nThe concept behind the logo is green for money, and it's the same green on the mifos globe logo. The edge is supposed to look like a gold coin, kind of showing the integration of physical and digital money.", 
+        "created": "2018-11-01T01:44:27Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 4515423866322944, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6201952699416576/", 
+                "filename": "MifosPayCircle_png.png", 
+                "id": 6201952699416576, 
+                "file_size": 14815.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6181921240383488/", 
+                "filename": "MifosPayCircle.svg", 
+                "id": 6181921240383488, 
+                "file_size": 353846.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5008911514992640/", 
+                "filename": "MifosPaySquare_jpg.jpg", 
+                "id": 5008911514992640, 
+                "file_size": 21084.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5224345732382720/", 
+                "filename": "MifosPaySquare_png.png", 
+                "id": 5224345732382720, 
+                "file_size": 10727.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4965523352715264/", 
+                "filename": "MifosPayCircle_jpg.jpg", 
+                "id": 4965523352715264, 
+                "file_size": 27223.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5451337773875200/", 
+                "filename": "MifosPaySquare.svg", 
+                "id": 5451337773875200, 
+                "file_size": 34030.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-01T01:41:34Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5056021333540864, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Let me reupload. I found some errors in my design and conversions.", 
+        "created": "2018-11-01T01:37:02Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 4931999857901568, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-01T01:23:28Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 6280863798001664, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I have attached svg's as my 'high res native files,' although I don't really know what that means. I have also attached png and jpeg. \n\nThe concept behind the logo is green for money, and it's the same green on the mifos globe logo. The edge is supposed to look like a gold coin, kind of showing the integration of physical and digital money.", 
+        "created": "2018-11-01T01:23:24Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5227478441263104, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5265747082215424/", 
+                "filename": "MifosPaySquare.png", 
+                "id": 5265747082215424, 
+                "file_size": 10820.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5582015710625792/", 
+                "filename": "MifosPaySquare.svg", 
+                "id": 5582015710625792, 
+                "file_size": 33483.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5005347765878784/", 
+                "filename": "MifosPayCircle.jpg", 
+                "id": 5005347765878784, 
+                "file_size": 38118.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5115623198687232/", 
+                "filename": "MifosPayCircle.png", 
+                "id": 5115623198687232, 
+                "file_size": 14555.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4909986351153152/", 
+                "filename": "MifosPaySquare.jpg", 
+                "id": 4909986351153152, 
+                "file_size": 29344.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5725557141536768/", 
+                "filename": "MifosPayCircle.svg", 
+                "id": 5725557141536768, 
+                "file_size": 332873.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-01T00:55:05Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 4657615805087744, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-01T00:28:44Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 6301936585277440, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Hey jz53.\nYeah. Keep the same design for both.", 
+        "created": "2018-10-31T16:36:48Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4667900406267904, 
+        "id": 6121970644025344, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Should the round and square logos be the same? Just one round and one square but same design.", 
+        "created": "2018-10-31T16:33:29Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6690097542987776, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4833955552428032, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-10-31T15:32:29Z", 
+        "task_definition_name": "Mifos Moble Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6165405648289792, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

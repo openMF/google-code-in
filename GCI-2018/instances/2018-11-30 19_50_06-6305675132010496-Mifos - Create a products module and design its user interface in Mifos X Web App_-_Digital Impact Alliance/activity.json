@@ -1,0 +1,304 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Yep I'm going to claim the manage tax configurations one soon, and it'll be done sometime tomorrow on my end. :)", 
+        "created": "2018-11-30T19:50:03Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 4890377967370240, 
+        "id": 5864044364824576, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-30T19:42:30Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4574209805123584, 
+        "id": 6297388663701504, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Good work, looking forward to more contributions from your side!", 
+        "created": "2018-11-30T19:42:18Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4574209805123584, 
+        "id": 4793923684794368, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Updated icons and commit name and gif. Thank you for the review.", 
+        "created": "2018-11-30T19:39:52Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5082973087989760, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-30T19:35:34Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5166591890161664, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-30T19:16:17Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 4516591673802752, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Jonathan, I have reviewed your PR. Please have a look at make the required changes.", 
+        "created": "2018-11-30T19:16:04Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4574209805123584, 
+        "id": 6003083814371328, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-29T18:17:31Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5309399737303040, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "https://github.com/openMF/web-app/pull/332\n\nI have finished with the code. I will submit and let me know what I might need to fix.", 
+        "created": "2018-11-29T18:06:13Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5123751470432256, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Ah thank you. I should\u00e2\u20ac\u2122ve looked at the those guides more closely", 
+        "created": "2018-11-29T13:01:44Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5966159695314944, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Have a look at my reply on the issue and make the required changes! :)", 
+        "created": "2018-11-29T09:04:14Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4574209805123584, 
+        "id": 6049821698818048, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "I also commented more on the issue page: https://github.com/openMF/web-app/issues/328", 
+        "created": "2018-11-29T02:18:50Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4586901882273792, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Hi I am having issue with loading in the products module with the app.module.ts file. My repository is linked below with branch 'productsmodule' being the one I am working on. When I run ng serve after adding in the import in app.module.ts, the client is stuck on the initial loading screen. I have done all of the files in products folder identical to accounting except for accounting specific elements.\n\nhttps://github.com/jonathanzhang53/web-app/tree/productsmodule\n\nI have closely followed the format of accounting module, but I am not sure where I am going wrong. I get an error which I am attaching as an image.", 
+        "created": "2018-11-29T02:14:30Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4671519717326848, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4817171403243520/", 
+                "filename": "error.PNG", 
+                "id": 4817171403243520, 
+                "file_size": 73626.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6305675132010496, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-29T01:58:09Z", 
+        "task_definition_name": "Mifos - Create a products module and design its user interface in Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5209765824167936, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

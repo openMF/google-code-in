@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 6, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Pagination is not working in Beneficiaries list. When page is changed no new data is shown and there should be only 5 names in one page. Try to change the page number in Beneficiary list and see there is no change in the names. This task is considered done when pagination is fixed with each page displaying 5 beneficiaries.", 
+    "tags": [
+        " AngularJs", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ankit123rudra@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-25T18:39:15Z", 
+    "external_url": "https://github.com/openMF/web-self-service-app/issues/118", 
+    "id": 5765314009628672, 
+    "available_count": 1, 
+    "name": "Mifos - Online Banking App - Fix Pagination In Beneficiary."
+}

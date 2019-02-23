@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into Russian Language. We already have Russian language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in Russian and translate the existing ones into Russian.\n\nThis would enable the localization feature app which is very much awaited feature in the community.", 
+    "tags": [
+        "russian", 
+        "translation", 
+        "mifos-mobile", 
+        "andriod"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-19T13:51:05Z", 
+    "external_url": null, 
+    "id": 6399742884970496, 
+    "available_count": 0, 
+    "name": "Mifos Mobile App: Do the translation of the app in Russian Language"
+}

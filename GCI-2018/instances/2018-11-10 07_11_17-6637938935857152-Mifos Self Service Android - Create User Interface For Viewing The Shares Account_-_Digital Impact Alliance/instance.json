@@ -1,0 +1,30 @@
+{
+    "student_display_name": "ethan627hsu", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4770800776249344, 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "student_id": 5293817197494272, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-11-10 07:11:17", 
+    "max_instances": "3", 
+    "id": 6637938935857152, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-10 07:09:50", 
+    "deadline": "2018-11-16 04:59:39", 
+    "submitted_date": "2018-11-10 03:08:37", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "manishk16x@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self Service Android - Create User Interface For Viewing The Shares Account", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Create A User Interface for Viewing Shares Account which should have fields similar to the GIF (added in the link). Explain the flow of the design and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)"
+}

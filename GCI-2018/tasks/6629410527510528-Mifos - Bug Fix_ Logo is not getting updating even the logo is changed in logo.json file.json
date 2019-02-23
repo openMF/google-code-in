@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "In login page , the logo next to MifosX (check the screenshot) is not getting updated even the logo is changed in logo.json file.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:41:50Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2934", 
+    "id": 6629410527510528, 
+    "available_count": 0, 
+    "name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file"
+}

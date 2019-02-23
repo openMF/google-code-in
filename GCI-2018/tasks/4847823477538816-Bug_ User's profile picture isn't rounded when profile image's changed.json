@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "**Summary:**\n\nUser's profile image should be always rounded.\n\n**Steps to reproduce:**\n\nDashboard > Profile > Edit Profile > Change profile picture\n\n**Expected behavior:**\n\nRounded profile image\n\n**Observed behavior:**\n\nThe image is a rectangle shape.\n\n**Device and Android version:**\n\nHuawei p10, Android 8.0\n\n**Screenshots:**\n\n![44](https://user-images.githubusercontent.com/18665370/48284421-a705c780-e45f-11e8-9a7c-5d595321e6e4.PNG)", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "max_instances": 0, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-11T19:42:35Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/83", 
+    "id": 4847823477538816, 
+    "available_count": 0, 
+    "name": "Bug: User's profile picture isn't rounded when profile image's changed"
+}

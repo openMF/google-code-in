@@ -1,0 +1,174 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-12-09T14:14:16Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 6048124180103168, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-12-06T22:41:52Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 5420907624398848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "I don't know if you inadvertently posted that PDF but it's a getting started guide for Acrobat. You also need to do a more thorough research brief on the specific country, Kenya, and submit it as a Google Doc per instructions - not comments on the task. A lot more work is needed. Please follow the instructions. They are quite clear.", 
+        "created": "2018-12-06T22:41:47Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 5256012891160576, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Chandu", 
+            "program_year": 2018, 
+            "id": 5092260149460992
+        }, 
+        "text": "Is it  correct", 
+        "created": "2018-12-06T01:26:55Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5092260149460992, 
+        "id": 5758707607535616, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Chandu", 
+            "program_year": 2018, 
+            "id": 5092260149460992
+        }, 
+        "text": "Mobile money and digital currency could transform financial inclusion for refugees.\n\nAid agencies deliver more than $5 billion of emergency assistance per year. The concept of giving cash directly to refugees (rather than food or supplies) has been debated and tested since the 1980s. Three decades later, the mobile revolution has transformed how organizations can do that: electronic payments have become an increasingly common refugee assistance mechanism.\n\n\u201cThe underlying tech behind much of this is simply peer-to-peer transfer technology based off of mobile phones,\u201d explained Dan Kleinbaum, co-founder and chief operating officer of Beyonic, a tech firm facilitating mobile money payments in Kenya and Uganda; rapid demand is driving expansion to 25 more countries. \u201cPretty much anywhere you don\u2019t have widespread access to bank accounts but [do have] very high penetration of mobile phones \u2013 I\u2019m talking 50 percent to 90 percent \u2013 is a good recipe for mobile money and P2P transfers.\u201d\n\nA total of 75 percent of the world\u2019s 7 billion mobile phone subscriptions are in developing countries and similarly high levels of usage are found among refugees. A research study in Uganda found that 89 percent of refugees in urban settings and 46 percent of refugees in rural settlements use mobile phones in their main income-generating activity.\n\nWhen it comes to aid, refugees want to receive it the way they are already using cash.\n\nMobile money has been widely adopted by users because its process is identical to managing one\u2019s mobile phone account. \u201cPsychologically you\u2019re already handing money to an agent, so it\u2019s no different if that money becomes air time on my phone or it becomes e-cash I can send home to my village,\u201d Kleinbaum said.\n\nThere are 255 mobile money services in 89 countries, according to the GSMA, a mobile money industry group. Besides Kenya\u2019s M-Pesa, top providers are Rwanda\u2019s mVisa; Tanzania\u2019s Tigo", 
+        "created": "2018-12-06T01:24:40Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5092260149460992, 
+        "id": 5068891467284480, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Chandu", 
+            "program_year": 2018, 
+            "id": 5092260149460992
+        }, 
+        "text": "", 
+        "created": "2018-12-06T01:21:50Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5092260149460992, 
+        "id": 5118607357902848, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Chandu", 
+            "program_year": 2018, 
+            "id": 5092260149460992
+        }, 
+        "text": "", 
+        "created": "2018-12-06T01:21:40Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5092260149460992, 
+        "id": 6244989240606720, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5648887843913728/", 
+                "filename": "Getting_Started.pdf", 
+                "id": 5648887843913728, 
+                "file_size": 59057.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4885479016103936, 
+        "author": {
+            "display_name": "Chandu", 
+            "program_year": 2018, 
+            "id": 5092260149460992
+        }, 
+        "text": "", 
+        "created": "2018-12-05T16:52:07Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Kenya", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5092260149460992, 
+        "id": 4925921770340352, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

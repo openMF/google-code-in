@@ -1,0 +1,731 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Rahul Goel", 
+            "program_year": 2018, 
+            "id": 6193476682121216
+        }, 
+        "text": "Nice work Jonathan.", 
+        "created": "2018-11-18T15:09:28Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 6193476682121216, 
+        "id": 4783358199463936, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Good work, Thanks!", 
+        "created": "2018-11-18T09:18:28Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4574209805123584, 
+        "id": 5969823721848832, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-18T09:18:15Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4574209805123584, 
+        "id": 6366367767855104, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-17T23:50:36Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5910806295216128, 
+        "id": 6464472186093568, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "here it is", 
+        "created": "2018-11-17T23:50:33Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 6388748053905408, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Jonathan, the component's html file is still not fully cleaned up.", 
+        "created": "2018-11-17T07:48:34Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5709070385283072, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-17T07:48:12Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5941112133910528, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-16T18:15:07Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5910806295216128, 
+        "id": 5199401547988992, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "Yep, applied them.", 
+        "created": "2018-11-16T18:15:01Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 6710730142253056, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Jonathan, a few changes were still left out. Have a look at the PR's review for the comments.", 
+        "created": "2018-11-16T09:21:14Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 6198536434614272, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-16T09:20:24Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5022181969887232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-15T20:33:07Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5910806295216128, 
+        "id": 5739415906287616, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "Sorry, I've applied the changes.", 
+        "created": "2018-11-15T20:32:35Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 6576145999855616, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Jonathan, some more work is needed on the PR. Please have a look at my review comments and do the same.", 
+        "created": "2018-11-15T17:00:26Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5086108967763968, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-15T16:59:30Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5766576608378880, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-14T21:04:36Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5910806295216128, 
+        "id": 5746768957407232, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "I've got particles js working and applied the changes. Here's the pull request: https://github.com/openMF/web-app/pull/327", 
+        "created": "2018-11-14T21:04:30Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 4776241673535488, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Task deadline extended by 2.0 days", 
+        "created": "2018-11-14T16:40:37Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5050576535552000, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Jonathan, add the particles.json file to the assets folder and access it as `assets/particles.json`. It should work. Any assets (images/scss/files) that you want to load (use) in angular are supposed to be added here as mentioned in the configuration file `angular.json` for the project.", 
+        "created": "2018-11-14T16:40:13Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5456145331257344, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "If there's no way to add it, I'll just submit the version without the particle background.", 
+        "created": "2018-11-13T23:56:13Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 6248168439152640, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "Hi, I've applied most of the requested changes to my commit. My only issue now is referencing the local particles.json file in not-found.component.ts module. I'm wondering if I'm getting the local path wrong. Here's the snippets of the code and console error:", 
+        "created": "2018-11-13T23:55:25Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 6537813047640064, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5380881901420544/", 
+                "filename": "console.PNG", 
+                "id": 5380881901420544, 
+                "file_size": 26691.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6088777471623168/", 
+                "filename": "Capture.PNG", 
+                "id": 6088777471623168, 
+                "file_size": 48050.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Task deadline extended by 2.9 days", 
+        "created": "2018-11-11T21:49:23Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5481748705050624, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Jonathan, I have reviewed your PR. Please take a look at my comments and make the required changes. Let me know if you have any queries. I'll be extending your deadline to make sure you are able to complete this.", 
+        "created": "2018-11-11T21:49:09Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 4819035519713280, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-11T21:47:25Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5649872704241664, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-11T06:01:32Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5910806295216128, 
+        "id": 6731235222093824, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "I've created a pull request: https://github.com/openMF/web-app/pull/326", 
+        "created": "2018-11-11T06:01:26Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5910806295216128, 
+        "id": 5790998887137280, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Task deadline extended by 3.0 days", 
+        "created": "2018-11-07T16:16:45Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5288817029283840, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "", 
+        "created": "2018-11-07T16:16:19Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4574209805123584, 
+        "id": 5773707092951040, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-07T03:42:55Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5910806295216128, 
+        "id": 5633476867915776, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "Sorry I'll have to submit now as the timer will probably expire by the time I get back online.", 
+        "created": "2018-11-07T03:42:51Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5910806295216128, 
+        "id": 5347316161576960, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "Hi, thanks for getting back. I've asked a few more questions to clarify on the Github issue page. Could I get an extension on this task while I wait for a response?", 
+        "created": "2018-11-07T03:42:13Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5910806295216128, 
+        "id": 5032365270237184, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Hi Jonathan, you'll have to create a new component which will be named as NotFoundComponent and write the code for the design of required 404 page over there. The app routing module specifies the code which currently redirects to home when any unintended route is accessed. You'll need to modify that so the NotFoundComponent is displayed instead. The 404.html that currently exists cannot be used and needs to be deleted. Feel free to reach out incase you need any more clarification or help!", 
+        "created": "2018-11-06T14:42:17Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4574209805123584, 
+        "id": 6196202476404736, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "Hi guys, I'm currently working on designing the webpage. I'm wondering where the NotFoundComponent is, and how to disable the automatic redirect to the homepage. I've made changes to the src/404.html page, and there's some js that needs to be hosted to be tested. I'm unable to do that while the 404 page automatically redirects. Thanks!", 
+        "created": "2018-11-05T21:57:03Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5910806295216128, 
+        "id": 4888810551771136, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6471144472313856, 
+        "author": {
+            "display_name": "Jonathan", 
+            "program_year": 2018, 
+            "id": 5910806295216128
+        }, 
+        "text": "", 
+        "created": "2018-11-03T02:33:46Z", 
+        "task_definition_name": "Mifos - Design A 404 Not Found Page For Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5910806295216128, 
+        "id": 6052661850800128, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "In this task, you can review any use case of the app. [Report the bugs(if any) or suggest the changes](https://github.com/openMF/mobile-wallet/issues) that you would like to make in the use case you're reviewing. \n\nThe repository is at https://github.com/openMF/mobile-wallet.\n\nPlease find the attached latest build of MifosPay app. \n\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mobile-wallet) too.", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 4, 
+    "completed_count": 4, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 10, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        3, 
+        4, 
+        5
+    ], 
+    "last_modified": "2018-11-28T00:22:54Z", 
+    "external_url": "https://drive.google.com/open?id=1pQ4kXyfWNVBGgibQgmbasdlQ0_867MKL", 
+    "id": 5160318285119488, 
+    "available_count": 6, 
+    "name": "Mifos Mobile Wallet - Review MifosPay App"
+}

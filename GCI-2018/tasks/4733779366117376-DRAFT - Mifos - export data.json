@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "### Summary\nThis task will consist of exporting the customers (Group, Company, Individual) in Excel, PD form, if possible with the products and balances corresponding to each client\n##example\nI want to get the list of individual customers, group or company on excel or PDF\nI also want to list customers with their accounts and their balance.", 
+    "tags": [
+        "WEB", 
+        " Angular", 
+        "pentaho"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "bragolight@gmail.com"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2018-10-25T18:44:11Z", 
+    "external_url": "", 
+    "id": 4733779366117376, 
+    "available_count": 4, 
+    "name": "DRAFT - Mifos - export data"
+}

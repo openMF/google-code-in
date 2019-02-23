@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Palash", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6430885361483776, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 5510056989687808, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-08 04:13:53", 
+    "max_instances": "1", 
+    "id": 4975694653161472, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-08 04:13:52", 
+    "deadline": "2018-11-10 01:57:12", 
+    "submitted_date": "2018-11-07 02:05:31", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "danCarl758@gmail.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Bug Fix: Drop-down calendar is not displaying properly when creating Fixed Deposit Product", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Create FDP > Interest Rate Chart > select End Date\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal."
+}

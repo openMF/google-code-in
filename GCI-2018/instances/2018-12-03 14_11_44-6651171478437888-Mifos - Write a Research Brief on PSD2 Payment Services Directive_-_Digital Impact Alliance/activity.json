@@ -1,0 +1,94 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6651171478437888, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-12-03T14:11:40Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on PSD2 Payment Services Directive", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5768230007209984, 
+        "id": 6295511008018432, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6651171478437888, 
+        "author": {
+            "display_name": "Rohan2003", 
+            "program_year": 2018, 
+            "id": 6322359221878784
+        }, 
+        "text": "", 
+        "created": "2018-12-02T18:33:10Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on PSD2 Payment Services Directive", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6322359221878784, 
+        "id": 5596210422349824, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6651171478437888, 
+        "author": {
+            "display_name": "Rohan2003", 
+            "program_year": 2018, 
+            "id": 6322359221878784
+        }, 
+        "text": "Greetings Dear Mentor,\nI've created the required document on the Directive for the completion of this task. The document endows wonderful flow charts and eye captivating visual infographics that add to the accurate research. The document is neatly presented in a pdf version. Here are the sub-topics around which the brief was woven:-\n\n1) Introduction \n2) History of the Payment Services Directory System\n3) General Impact on the Payment Landscape\n4) Timeline of the Directive\n5) Scope for the Directive\n6) PSD2 for the Banking Sector\n7) A look at Card Systems\n8) Footprint on the Consumers\n9) Increased Competition\n10) International Payments\n11) Key changes from the former\n12) Enabled Opportunities for Financial Institutions\n13) Challenging Consequences Created\n14) Operating Model Implications\n15) Sources\n\nAll the sources that served as the written basis for this brief are listed under the sources subheading and link to the different articles used for the brief. I've attached the pdf version of the Document as well as a shared link. Hope you consider it :)\n\nLink to the Doc:- https://docs.google.com/document/d/1KqHb59IPgg2za9PSYpAJtRyGOL0LmRqYWRWkxvejhZU/edit?usp=sharing\n\nPDF version : RESEARCH_BRIEF_ON_THE_REVISED_PAYMENT_SERVICE_DIRECTIVE_FRAMEWORK.pdf (480.8 kB)\n\nBest Regards,\nRohan Bhasin", 
+        "created": "2018-12-02T18:33:05Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on PSD2 Payment Services Directive", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6322359221878784, 
+        "id": 6413890322694144, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6420986145538048/", 
+                "filename": "RESEARCH_BRIEF_ON_THE_REVISED_PAYMENT_SERVICE_DIRECTIVE_FRAMEWORK.pdf", 
+                "id": 6420986145538048, 
+                "file_size": 492343.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6651171478437888, 
+        "author": {
+            "display_name": "Rohan2003", 
+            "program_year": 2018, 
+            "id": 6322359221878784
+        }, 
+        "text": "", 
+        "created": "2018-12-02T13:56:36Z", 
+        "task_definition_name": "Mifos - Write a Research Brief on PSD2 Payment Services Directive", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6322359221878784, 
+        "id": 5716195836690432, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

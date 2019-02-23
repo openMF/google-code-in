@@ -1,0 +1,149 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-01T09:16:33Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5625942031466496, 
+        "id": 5872760950620160, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Read the guidelines and the wiki, explore the codebase to get an idea.", 
+        "created": "2018-12-01T09:13:23Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4574209805123584, 
+        "id": 5784464257974272, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "I am sorry but I am just lost right now. I am quite sure what I am doing. I know I have to create a ts component using Angular and link the external services, but I do not know how all the components fit together, which module to import etc etc.", 
+        "created": "2018-12-01T09:06:22Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 5140319491325952, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Okay, I will try my best! Thank you.", 
+        "created": "2018-12-01T08:34:23Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 5716664122343424, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Hi Mitch, you can find the code for the accounting section over here: https://github.com/openMF/web-app/tree/master/src/app/accounting Yes I do believe that this task is good enough for you to try out as a beginner to Angular.", 
+        "created": "2018-12-01T07:37:40Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4574209805123584, 
+        "id": 6268553092136960, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Hi, I am picking this task to challenge myself. I have experience in writing HTML and CSS etc. Reading through the documentation on Angular material components and flex layout directives I have a good enough understanding. But I cannot find the accounting section for reference. Is this task appropriate for me if I am not experienced enough or do you believe I can try it out? Thanks!", 
+        "created": "2018-11-30T23:01:30Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 6460621177487360, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4771428709695488, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-11-30T22:59:16Z", 
+        "task_definition_name": "Mifos - Create An External Services Component And Design Its User Interface In Mifos X Web App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 5413329288822784, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

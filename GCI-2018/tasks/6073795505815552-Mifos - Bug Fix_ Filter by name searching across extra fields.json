@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "The \"Filter by name\" search box present in the list of users is searching across the fields other than the name of the user. I think this problem is also present in other pages and is a fundamental issue with the search fields.\nAdmin >> Users >> Search for a user using \"Filter by name\"\nExpected Behaviour\nAs mentioned in the placeholder of the input field, it should filter only by the name of the user.\nActual Behaviour\nThe search field is searching across all the data of the users. Even the data which is not there in the table (screenshot attached).\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-31T13:03:27Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2909", 
+    "id": 6073795505815552, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: \"Filter by name\" searching across extra fields"
+}

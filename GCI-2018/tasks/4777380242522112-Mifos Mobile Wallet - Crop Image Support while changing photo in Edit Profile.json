@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "**Summary:**\n\nProvide the support to crop an image when user tries to change the profile picture", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-11T06:38:15Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/90", 
+    "id": 4777380242522112, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet - Crop Image Support while changing photo in Edit Profile"
+}

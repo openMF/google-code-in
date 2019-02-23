@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Approve in 'view checker inbox' for updation of datatable is not working, on clicking 'approve', loading gif comes and then comes back without anything happening.\nHere is an example - https://demo.openmf.org#/viewcheckerinbox/14130\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:41:45Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2182", 
+    "id": 5170889025912832, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: Nothing Happens on clicking approve in 'view checker inbox' for updating datatable entry"
+}

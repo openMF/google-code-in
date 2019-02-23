@@ -1,0 +1,32 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "The deactivate button in Manage Surveys is not working properly, rather than deleting the survey when clicked it is redirecting to view the survey.\n\nSteps to Reproduce\nAdmin >> System >> Manage Surveys >> Click on deactivate on any of the surveys.\n\nExpected Behaviour\nThe survey which is selected to be deleted should be removed from the list.\n\nActual Behaviour\nWhen clicked it is redirecting to view the survey.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 0, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-10T13:54:36Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2913", 
+    "id": 6220612855922688, 
+    "available_count": 0, 
+    "name": "Mifos - Bug Fix: Deactivate button in Manage Surveys not working properly"
+}

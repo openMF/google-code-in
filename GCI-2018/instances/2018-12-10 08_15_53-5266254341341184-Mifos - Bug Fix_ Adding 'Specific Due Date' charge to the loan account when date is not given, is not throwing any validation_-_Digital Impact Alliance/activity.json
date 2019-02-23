@@ -1,0 +1,199 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Shruthi", 
+            "program_year": 2018, 
+            "id": 5341608540110848
+        }, 
+        "text": "We have updated the task description. @Malaal Dehlvi  you can work on this if you want to!.", 
+        "created": "2018-12-10T08:15:50Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 2, 
+        "author_id": 5341608540110848, 
+        "id": 5291355036188672, 
+        "old_task_instance_status": 2, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-12-10T00:41:29Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5288972474384384, 
+        "id": 5400991491948544, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I'm abandoning the task. I have to be more careful in future. \u011f\u0178\u02dc\ufffd Thanks for replying! \u011f\u0178\u02dc\u0160", 
+        "created": "2018-12-10T00:41:18Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 5985673845669888, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I don't think abandoning the task is a positive thing to do. Can you unassign me? If yes please do or if you can change the task description to this issue: https://github.com/openMF/community-app/issues/1802 I can work on this. If abandoning the task is the only option let me know I will abandon it. :(", 
+        "created": "2018-12-09T21:31:03Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 6386987402526720, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "abhaychawla", 
+            "program_year": 2018, 
+            "id": 4574209805123584
+        }, 
+        "text": "Hi Malaal, please go ahead and abandon this task. I see that the issue is no longer reproducible. We currently do not have much time left to get a final confirmation on that so its better you go ahead with some other task. I am sorry for the inconvenience caused.", 
+        "created": "2018-12-09T18:45:07Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4574209805123584, 
+        "id": 5273033141911552, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I'm not sure what should I do. :/\nFor this task may I work on this issue: https://github.com/openMF/community-app/issues/1802\n\nTomorrow is the last day to claim a task and I want to work on another task. It will be very helpful if anyone could please review this task. Thanks! :)", 
+        "created": "2018-12-09T18:06:30Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 5391408245506048, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-12-09T11:16:00Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 5455178175086592, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I'm not able to reproduce the bug. A validation error is thrown (see screenshot for reference). :/", 
+        "created": "2018-12-09T11:11:56Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5288972474384384, 
+        "id": 4692136701198336, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5966312267317248/", 
+                "filename": "Screenshot_from_2018-12-09_16-39-30.png", 
+                "id": 5966312267317248, 
+                "file_size": 89075.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5266254341341184, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-12-09T11:05:34Z", 
+        "task_definition_name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5288972474384384, 
+        "id": 5164147231686656, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "The General Data Protection Regulation (GDPR) is a legal framework that sets guidelines for the collection and processing of personal information of individuals within the European Union (EU. GDPR came into effect across the EU on May 25, 2018. As more interest in the Mifos/Fineract platform comes from the region, we need to be aware of what must be incorporated into our framew to ensure compliance. \n\nIt will have profound impact on the financial services sector in Europe and is being watched by other countries. It will have a huge impact on the open banking and open API movement as well.\n\nThis research brief should concisely summarize what GDPR is, its history, when it is taking effect what is the impact it will have, what it means for banks, what it means for customers, what are the major changes from the previous data privacy regulations, what opportunities it will enable, what challenges it might create, etc.\n\nYou should also create a repository of links to at least 10 articles that talk about GDPR and were used for your sources\n\nSee https://goo.gl/iyCWor for some good examples of quality research briefs.", 
+    "tags": [
+        " europe", 
+        " fintech", 
+        " mifos", 
+        " digital financial services", 
+        "research"
+    ], 
+    "claimed_count": 3, 
+    "completed_count": 3, 
+    "mentors": [
+        "rbrown@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        5
+    ], 
+    "last_modified": "2018-11-13T20:11:48Z", 
+    "external_url": "https://goo.gl/7Wk47F", 
+    "id": 6398378444324864, 
+    "available_count": 0, 
+    "name": "Mifos - Write a Research Brief on GDPR"
+}

@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5612000970276864 | Task Definition ID 4878033673519104
+Max instances: 1
+
+Title: Mifos - Self-Service App - App crashes on Updating Beneficiary
+Description: Summary:
+
+App crashes on Updating Beneficiary
+
+Steps to reproduce:
+
+Beneficiary > Click any Beneficiary > Update > Submit
+
+Expected behaviour:
+
+App should not crash
+
+Observed behaviour:
+
+App crash
+
+Device and Android version:
+
+Xiaomi, Marshmallow
+Tags: android, code, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 7 days
+
+Mentors: sakshamhandu@gmail.com
+Student: Miguel Dinis (ID 4707482623541248)
+
+Status: COMPLETED (2018-11-23 18:31:16)
+Last modified: 2018-11-17 09:40:09

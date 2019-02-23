@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Steps to Reproduce\nCreate loan Product with Accrual Accounting, submit\nthen edit product\nPenalties Receivable tool-tip under Asset is not translated.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:41:19Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/3003", 
+    "id": 6508517432229888, 
+    "available_count": 0, 
+    "name": "Mifos - Bug Fix: Penalties Receivable tooltip translation in Loan product"
+}

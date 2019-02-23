@@ -1,0 +1,212 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-08T08:16:23Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 5803791459811328, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good job,\n\nSimilarly, do this for all the bug that you have created and solved.", 
+        "created": "2018-11-08T08:16:19Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6383879339376640, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-08T06:47:45Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 4744419052879872, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Ok, here is the pull request for the multidex issue: https://github.com/openMF/mifos-mobile/pull/909\n\nAnd the issue:\nhttps://github.com/openMF/mifos-mobile/issues/910", 
+        "created": "2018-11-08T06:47:39Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 5859158151659520, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-08T06:43:07Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5008642219704320, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Add the link for the issue and PR that got merged.", 
+        "created": "2018-11-08T06:42:52Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 4576750576074752, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Add one relevant issue for 1 task.", 
+        "created": "2018-11-08T06:42:19Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 4730872122048512, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-08T05:43:22Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5864619403902976, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I have fixed two important issues that are very relevant to the project (one of them should suit your needs):\n\nSplash Screen Image Stretching (Issue #920): https://github.com/openMF/mifos-mobile/issues/920\nPR:\nhttps://github.com/openMF/mifos-mobile/pull/921\n\nAdapter Attachment Error in RecyclerView (Issue #919):\nhttps://github.com/openMF/mifos-mobile/issues/919\nPR:\nhttps://github.com/openMF/mifos-mobile/pull/922\n\nBoth of their solutions are not approved yet, and updated, making them new and recent.", 
+        "created": "2018-11-08T05:43:18Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5564852497022976, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5120296873885696, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-08T05:38:07Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix relevant Bug", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 4643207141916672, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,36 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5149297264820224 | Task Definition ID 5984246423355392
+Max instances: 1
+
+Title: Mifos Mobile Wallet - Error while running gradle check
+Description: **Summary:**
+
+`./gradlew check` throws an error with following message:
+`Task :core:findbugs
+No files to be analyzed`
+
+**Steps to reproduce:**
+
+1. Open terminal on Android Studio
+2. Run `./gradlew check` 
+
+**Expected behavior:**
+
+`./gradlew check` to be executed successfully
+
+**Observed behavior:**
+
+`./gradlew check` throws an error with following message:
+`Task :core:findbugs
+No files to be analyzed`
+Tags: mobile wallet, android, mifos, gradle
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: ankur16225@iiitd.ac.in
+Student: Miguel Dinis (ID 4707482623541248)
+
+Status: ABANDONED
+Last modified: 2018-11-10 14:05:53

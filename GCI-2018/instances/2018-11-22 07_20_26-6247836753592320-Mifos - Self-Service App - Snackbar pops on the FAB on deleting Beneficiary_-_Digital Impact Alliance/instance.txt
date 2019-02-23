@@ -1,0 +1,42 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6247836753592320 | Task Definition ID 5489459312197632
+Max instances: 1
+
+Title: Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary
+Description: Summary:
+
+Snackbar pops on the FAB on deleting Beneficiary
+
+Steps to reproduce:
+
+Beneficiary > Click on any Beneficiary or create new Beneficiary > Delete it from menu
+
+Create new Beneficiary using details,
+
+Account Number = 000000001
+Office Number = Head Office
+
+Rest information can be anything.
+
+Expected behaviour:
+
+FAB should animate upwards so that it doesn't get covered by Snackbar
+
+Observed behaviour:
+
+Instead, FAB doesn't animate.
+
+Device and Android version:
+
+Xiaomi, Marshmallow
+Tags: android, code, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 7 days
+
+Mentors: sakshamhandu@gmail.com
+Student: ethan627hsu (ID 5293817197494272)
+
+Status: COMPLETED (2018-11-25 04:00:45)
+Last modified: 2018-11-22 07:20:26

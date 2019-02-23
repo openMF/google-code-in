@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Summary:\n\nSnackbar pops on the FAB on deleting Beneficiary\n\nSteps to reproduce:\n\nBeneficiary > Click on any Beneficiary or create new Beneficiary > Delete it from menu\n\nCreate new Beneficiary using details,\n\nAccount Number = 000000001\nOffice Number = Head Office\n\nRest information can be anything.\n\nExpected behaviour:\n\nFAB should animate upwards so that it doesn't get covered by Snackbar\n\nObserved behaviour:\n\nInstead, FAB doesn't animate.\n\nDevice and Android version:\n\nXiaomi, Marshmallow", 
+    "tags": [
+        "android", 
+        "code", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-16T13:47:35Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/932", 
+    "id": 5489459312197632, 
+    "available_count": 0, 
+    "name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary"
+}

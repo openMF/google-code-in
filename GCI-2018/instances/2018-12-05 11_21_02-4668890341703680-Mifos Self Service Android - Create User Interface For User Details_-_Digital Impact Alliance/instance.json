@@ -1,0 +1,30 @@
+{
+    "student_display_name": "mitchLui", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5273023348211712, 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "student_id": 5625942031466496, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-12-05 11:21:02", 
+    "max_instances": "3", 
+    "id": 4668890341703680, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-05 11:20:58", 
+    "deadline": "2018-12-09 15:51:11", 
+    "submitted_date": "2018-12-04 22:07:08", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self Service Android - Create User Interface For User Details", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Create User Interface to display User Details which should have fields similar to the GIF (added in the link). Explain the flow of the design and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)"
+}

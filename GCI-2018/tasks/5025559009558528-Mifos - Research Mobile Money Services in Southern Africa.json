@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "### Objective\nThere are hundreds of mobile money services that allow clients to conduct financial transactions via the mobile phone - this includes P2P payments, bill payments, repaying loans, opening savings, loans, etc. We must stay aware of the popular mobile money services so we know which ones to integrate with.\n\n### Description\nYou will research mobile money services available in a given region. For each country in that region, you will input into a Google Sheet various details about the mobile money service including # of subscribers, products offered, date started, etc. Each country wiil have multiple mobile money services so don't forget to research all.\n\nThere are multiple tasks for this research area with each task corresponding to a region. For each region, there is one example to help you. \n\n### Getting Started\nInput the data in the respective tab for the specific region in the Google Sheet: https://goo.gl/EaxriZ. Tab will have list of countries to research for that region. Find all of the providers you can for the region. There will usually be several major ones per country. \n\nHelpful resources include:\n* [GSMA MMU Mobile Money Tracker](https://www.gsma.com/mobilefordevelopment/m4d-tracker/mobile-money-deployment-tracker) \n* [Global landscape of mobile money services for the unbanked](https://gsmaintelligence.com/topics/3363/dashboard/)\n* [CGAP Tech Blog](http://goo.gl/96IH1o)\n### How to Submit\nShare the link to Google Sheet, saying what rows were completed.", 
+    "tags": [
+        " DFS", 
+        " fintech", 
+        " mifos", 
+        "research", 
+        " mobile money"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "rbrown@mifos.org", 
+        "edcable@mifos.org"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        5
+    ], 
+    "last_modified": "2018-10-26T10:18:59Z", 
+    "external_url": "https://goo.gl/EaxriZ", 
+    "id": 5025559009558528, 
+    "available_count": 2, 
+    "name": "Mifos - Research Mobile Money Services in Southern Africa"
+}

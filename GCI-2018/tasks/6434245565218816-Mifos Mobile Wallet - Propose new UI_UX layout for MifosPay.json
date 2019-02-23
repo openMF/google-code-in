@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Propose a new UI/UX layout for MifosPay. Make sure it is your own work and matches the standard of other famous competitors like Paytm, Google Pay, PhonePe, etc.\n\nThe repository is at https://github.com/openMF/mobile-wallet.\n\nPlease find the attached latest build of MifosPay app. \n\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mobile-wallet) too.", 
+    "tags": [
+        "mobile wallet", 
+        "mifospay", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        2
+    ], 
+    "last_modified": "2018-11-29T14:09:17Z", 
+    "external_url": "https://drive.google.com/open?id=1pQ4kXyfWNVBGgibQgmbasdlQ0_867MKL", 
+    "id": 6434245565218816, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet - Propose new UI/UX layout for MifosPay"
+}

@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Miguel Dinis", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6729742385414144, 
+    "tags": [
+        "android", 
+        "code"
+    ], 
+    "student_id": 4707482623541248, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-11-19 14:25:09", 
+    "max_instances": "1", 
+    "id": 5588255136284672, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-19 14:25:09", 
+    "deadline": "2018-11-22 13:07:00", 
+    "submitted_date": "2018-11-19 10:15:25", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Self-Service App - Transfer Confirmation Details are scrollable", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nTransfer Confirmation Details are scrollable\n\nSteps to reproduce:\n\nTransfer > Click any Transfer from pop-up > Fill Details and Review\n\nExpected behaviour:\n\nConfirmation Details are scrollable\n\nObserved behaviour:\n\nInstead, they should be non-scrollable, for better User Experience\n\nDevice and Android version:\n\nMarshmallow, Xiaomi"
+}

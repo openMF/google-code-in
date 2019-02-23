@@ -1,0 +1,21 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 4863646707482624 | Task Definition ID 6629410527510528
+Max instances: 1
+
+Title: Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file
+Description: In login page , the logo next to MifosX (check the screenshot) is not getting updated even the logo is changed in logo.json file.
+
+### How to Submit
+
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+Tags:  Community App,  Bugfix,  Angular,  Web, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: shruthi@confluxtechnologies.com, santosh@confluxtechnologies.com, danCarl758@gmail.com
+Student: jz53 (ID 4890377967370240)
+
+Status: COMPLETED (2018-11-30 22:37:43)
+Last modified: 2018-11-28 15:57:45

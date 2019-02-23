@@ -1,0 +1,149 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Ansaf S.A", 
+            "program_year": 2018, 
+            "id": 5551261127540736
+        }, 
+        "text": "", 
+        "created": "2018-11-06T04:16:28Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5551261127540736, 
+        "id": 4824047947874304, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-05T20:39:06Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4667900406267904, 
+        "id": 5854268721463296, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "Please make a document of these and then resubmit the task.", 
+        "created": "2018-11-05T18:09:37Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 6206244659396608, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-05T18:09:03Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 5665722609958912, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Ansaf S.A", 
+            "program_year": 2018, 
+            "id": 5551261127540736
+        }, 
+        "text": "", 
+        "created": "2018-11-05T16:14:34Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5551261127540736, 
+        "id": 5124202945314816, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Ansaf S.A", 
+            "program_year": 2018, 
+            "id": 5551261127540736
+        }, 
+        "text": "The account signup as both Consumer as well as Merchant crashes the application , after choosing signup as merchant or Consumer we are given 2 options , signup using the Email ID that is currently registered in your device or signup with another account. Choosing 'Use current Email ID' in Merchant signup as well as Consumer signup will crash the app showing that 'Mifos mobile wallet unfortunately stopped'\nsince the login panel or signup panel does not lead us to any where , we are having limited knowledge about the user interface . The signup panel helps the users to signup easily as it is having an default enabled option named  'ease my signup using Google account ' .But the frequent crashing of the application during Signup may annoy the users.\nThe login panel is well designed , its comfortable to use.", 
+        "created": "2018-11-05T16:14:28Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5551261127540736, 
+        "id": 6067964563423232, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6202007539941376, 
+        "author": {
+            "display_name": "Ansaf S.A", 
+            "program_year": 2018, 
+            "id": 5551261127540736
+        }, 
+        "text": "", 
+        "created": "2018-11-05T15:35:22Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5551261127540736, 
+        "id": 5373845021130752, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

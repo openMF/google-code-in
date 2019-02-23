@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Create a Review button while adding Beneficiary which displays a dialogue box displaying the details of the beneficiary which is to be added ( just like 'Review Transfer' in Third Part Transfers'). Try doing a Third Party Transfer and observe the dialogue box showing the details when clicking on 'Review Transfer'. Create a similar review feature for Beneficiaries.", 
+    "tags": [
+        " AngularJs", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-25T18:50:15Z", 
+    "external_url": "https://github.com/openMF/web-self-service-app/issues/47", 
+    "id": 6005575151255552, 
+    "available_count": 0, 
+    "name": "Mifos - Online Banking App - Create A Review feature While Adding Beneficiary"
+}

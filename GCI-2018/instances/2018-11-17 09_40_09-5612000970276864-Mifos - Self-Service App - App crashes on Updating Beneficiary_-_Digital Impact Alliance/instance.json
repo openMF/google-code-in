@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Miguel Dinis", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4878033673519104, 
+    "tags": [
+        "android", 
+        "code", 
+        "mifos"
+    ], 
+    "student_id": 4707482623541248, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-11-17 09:40:09", 
+    "max_instances": "1", 
+    "id": 5612000970276864, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-17 09:40:08", 
+    "deadline": "2018-11-23 18:31:16", 
+    "submitted_date": "2018-11-16 19:15:06", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Self-Service App - App crashes on Updating Beneficiary", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nApp crashes on Updating Beneficiary\n\nSteps to reproduce:\n\nBeneficiary > Click any Beneficiary > Update > Submit\n\nExpected behaviour:\n\nApp should not crash\n\nObserved behaviour:\n\nApp crash\n\nDevice and Android version:\n\nXiaomi, Marshmallow"
+}

@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Create a loan Account for a client.\nCreate a specific due date charge.\nIn Loan account, click on 'Add charge' and select specific due date charge, but don't give date and try to submit it.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:41:12Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2658", 
+    "id": 6277372660678656, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: Adding 'Specific Due Date' charge to the loan account when date is not given, is not throwing any validation"
+}

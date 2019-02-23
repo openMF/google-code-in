@@ -1,0 +1,30 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6450184159494144, 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-11-17 18:33:19", 
+    "max_instances": "3", 
+    "id": 4982015301517312, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-17 18:33:18", 
+    "deadline": "2018-11-24 15:16:09", 
+    "submitted_date": "2018-11-17 16:59:05", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Create User Interface to display User Details which should have fields similar to the GIF (added in the link). Explain the flow of the design on GITHUB Gist and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)"
+}

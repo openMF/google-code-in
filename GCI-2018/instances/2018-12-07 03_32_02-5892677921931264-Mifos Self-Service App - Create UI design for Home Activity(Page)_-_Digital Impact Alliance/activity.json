@@ -1,0 +1,588 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-12-07T03:31:58Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 5391761439457280, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "We can increase the size of the cards to cover it, make that change in the design and update the gist. I'm approving the task, but make that change.", 
+        "created": "2018-12-07T03:31:49Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 4979649797947392, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Although the space at bottom doesn't look good.\nAnyways, Good job :)", 
+        "created": "2018-12-07T03:30:46Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6097751319248896, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-06T19:19:45Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5625942031466496, 
+        "id": 5964034693136384, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "https://gist.github.com/mitchLui/00be8b64a19379b59a88ba7d3fc2c542", 
+        "created": "2018-12-06T19:19:39Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5737780849147904, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "This will be the final design, good?", 
+        "created": "2018-12-06T14:53:35Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5460591511601152, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5359697092673536/", 
+                "filename": "Home_Light3x.png", 
+                "id": 5359697092673536, 
+                "file_size": 232679.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Do you mean the text on the buttons? If I remove it then the buttons will be smaller, will that be ok?", 
+        "created": "2018-12-06T14:49:23Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5536342520889344, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Remove the text. \nSmaller the content, cleaner and better the design :)", 
+        "created": "2018-12-06T14:47:57Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6119575524474880, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Final design - good?", 
+        "created": "2018-12-06T14:43:17Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6015700800897024, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4824524102041600/", 
+                "filename": "Home_Light3x.png", 
+                "id": 4824524102041600, 
+                "file_size": 338429.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Ok, you are right. So what do you think about the content of the buttons? Should I add extra info or not?", 
+        "created": "2018-12-06T13:39:42Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5912092600172544, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "It's good. Use light mode, dark mode is not a use-case for Banking App, they are used in Apps where user spends more time like FB, Twitter, Reddit etc. User wouldn't spend more time Banking App, hence it of no use.\n\nPrepare the gist\n:+1:", 
+        "created": "2018-12-06T13:32:38Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5790670754152448, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "here is a light mode if you prefer that too.", 
+        "created": "2018-12-06T12:43:23Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6391938728067072, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6373987878699008/", 
+                "filename": "Home_Light3x.png", 
+                "id": 6373987878699008, 
+                "file_size": 233049.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "What do you think about this? The blank space in the buttons can either be reduced and a contact button can be added OR be used to display any extra information you may want to add.", 
+        "created": "2018-12-06T12:16:18Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5702210164883456, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4517715998932992/", 
+                "filename": "Home3x.png", 
+                "id": 4517715998932992, 
+                "file_size": 471448.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Ok, so no lists and yes to having a profile pic, is that right?", 
+        "created": "2018-12-06T11:26:04Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5154454631350272, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "These sort of list (Accounts, Transfer, ...) is not a good design. Try to search for an alternative if possible, so that we may implement it in future in the Self-Service App. Look into some designs on Dribbble or try to come up with your design. \n\nMoreover, removing user profile pic and showing Mifos Logo is not a good design.", 
+        "created": "2018-12-06T10:52:40Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 4523511251992576, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Here was an alternative design that I came up with, what do you think?", 
+        "created": "2018-12-06T09:43:18Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6255870104043520, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5455269577359360/", 
+                "filename": "Home2x.png", 
+                "id": 5455269577359360, 
+                "file_size": 170424.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "What exactly do you think is 'inappropriate'? Tell me more about what you would prefer to see and I will modify it to your liking :D", 
+        "created": "2018-12-06T09:19:11Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6014020126507008, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-12-06T09:14:49Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6268220114731008, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Can you come up with something new, it doesn't look appropriate ?", 
+        "created": "2018-12-06T09:14:41Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5840326280347648, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-05T20:10:03Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5625942031466496, 
+        "id": 4822793028894720, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "https://gist.github.com/mitchLui/00be8b64a19379b59a88ba7d3fc2c542", 
+        "created": "2018-12-05T20:10:00Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 4769617978327040, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": ":+1:", 
+        "created": "2018-12-05T12:02:38Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5305383225655296, 
+        "id": 5631534028554240, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "I got to be very familiar with Sketch last year when I was redesigning an app's UI (MTR Mobile in HK)", 
+        "created": "2018-12-05T11:30:37Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 5770549453127680, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "I use sketch for most of the work, but if I have to do prototyping with animations I use Figma.", 
+        "created": "2018-12-05T11:29:35Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 5904392227127296, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Which tool are you using ?", 
+        "created": "2018-12-05T11:27:06Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5305383225655296, 
+        "id": 4510476428902400, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5892677921931264, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-05T11:22:50Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Home Activity(Page)", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 5253092665720832, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

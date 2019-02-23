@@ -1,0 +1,34 @@
+{
+    "student_display_name": "jz53", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6326175514230784, 
+    "tags": [
+        " usability", 
+        " developers", 
+        "documentation", 
+        " mifos", 
+        " tech writing"
+    ], 
+    "student_id": 4890377967370240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-12-12 18:47:55", 
+    "max_instances": "5", 
+    "id": 5662232374411264, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-12 18:47:51", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-12 00:11:19", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Analyze and recommend how to improve developer documentation", 
+    "categories": [
+        "3"
+    ], 
+    "description": "As the Mifos Initiative transitions development to the Apache Fineract community and to development on top of the Generation 3 architecture, Apache Fineract CN, we have not properly organized and synthesized our developer and technical documentation. Documentation is spread across the Mifos Forge wiki, the Apache Fineract wiki, and Github. Duplicate and out of date information makes it confusing for new contributors.\n\nThis task involves cataloging the existing documentation, highlighting the problem areas and recommending ways to resolve.\n\nDocument this in a Google doc with your recommendations.\n\nBonus - you can even begin implementing these recommendations directly on the wiki"
+}

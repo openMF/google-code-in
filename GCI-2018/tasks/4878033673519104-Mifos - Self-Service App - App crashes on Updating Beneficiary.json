@@ -1,0 +1,27 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Summary:\n\nApp crashes on Updating Beneficiary\n\nSteps to reproduce:\n\nBeneficiary > Click any Beneficiary > Update > Submit\n\nExpected behaviour:\n\nApp should not crash\n\nObserved behaviour:\n\nApp crash\n\nDevice and Android version:\n\nXiaomi, Marshmallow", 
+    "tags": [
+        "android", 
+        "code", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-16T13:47:17Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/931", 
+    "id": 4878033673519104, 
+    "available_count": 0, 
+    "name": "Mifos - Self-Service App - App crashes on Updating Beneficiary"
+}

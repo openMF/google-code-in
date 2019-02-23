@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Objective \nThe PPI (Poverty Probability Index) is a ten-question survey with lookup tables to assess how much a client a is moving out of poverty. It's a valuable social impact measurement tool and we have support in Mifos for capturing these surveys. However the surveys must be in XML format. Please refer to the main ticket https://mifosforge.jira.com/browse/MIFOSX-2407 and complete the manual conversion process for the three countries listed in the title.", 
+    "tags": [
+        "xml", 
+        "data migration", 
+        "statistics", 
+        "surveys", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-10T14:06:22Z", 
+    "external_url": null, 
+    "id": 4550800467558400, 
+    "available_count": 1, 
+    "name": "Mifos - Convert PPI Scorecard and Lookup Tables for Egypt, Fiji, Jordan"
+}

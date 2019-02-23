@@ -1,0 +1,34 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Objective\nHaving a fresh set of eyes on our software is a great way to identify new bugs or ways to improve the usability of the software. \n\n## How to Complete this Task \nFor this task, you'll get to assume the role of a staff person at a microfinance institution and perform some typical scenarios like creating a new client, opening a new loan, creating a new product, etc based on instructions in our User Manual - https://mifosforge.jira.com/wiki/spaces/docs/pages/52035622/User+Manual\n\nYou can do this on our demo3 server at https://demo3.openmf.org with credentials - mifos/password\n\nYou will document your experience including general feedback and how to improve the overall user experience and use our GitHub issue tracker to report three specific issues or usability improvements along with screenshots and a clear explanation that you can find. See here for tips on writing a good issue viz Bug Entry Guidelines ( https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines )\n\nIssues will be reported here: https://github.com/openMF/community-app\n\n## Task Difficulty Level\n\nLow - while not a beginner task, this is a good task to begin with.", 
+    "tags": [
+        "qa", 
+        "web", 
+        "usability", 
+        "bugs", 
+        "mifos"
+    ], 
+    "claimed_count": 2, 
+    "completed_count": 2, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "guptachirag2002@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "shruthi@confluxtechnologies.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "max_instances": 30, 
+    "private_metadata": "", 
+    "categories": [
+        3, 
+        4
+    ], 
+    "last_modified": "2018-11-01T08:17:23Z", 
+    "external_url": "https://mifosforge.jira.com/wiki/spaces/MIFOS/pages/4850267/Bug+Entry+Guidelines", 
+    "id": 5748749226737664, 
+    "available_count": 28, 
+    "name": "Mifos - Find And Report Three Bugs Or Usability Improvements In the Mifos X Community App"
+}

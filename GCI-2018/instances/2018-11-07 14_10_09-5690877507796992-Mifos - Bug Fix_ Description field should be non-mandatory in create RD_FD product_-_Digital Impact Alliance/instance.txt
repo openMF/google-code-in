@@ -1,0 +1,24 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5690877507796992 | Task Definition ID 6501573577408512
+Max instances: 1
+
+Title: Mifos - Bug Fix: Description field should be non-mandatory in create RD/FD product
+Description: Go to Admin>products and then either Recurring Deposit Products(RD) or Fixed Deposit(FD) products.
+Click on 'Create Fixed Deposit product' or 'Create Recurring Deposit product'
+
+After furnishing all the details, There is a field 'Description' which is mandatory. It should not be mandatory.
+
+### How to Submit
+
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+Tags:  Community App,  Bugfix,  Angular,  Web, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: gkrishnan724@gmail.com, shruthi@confluxtechnologies.com, santosh@confluxtechnologies.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-09 23:19:01)
+Last modified: 2018-11-07 14:10:09

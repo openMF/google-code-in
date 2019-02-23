@@ -1,0 +1,233 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-22T07:20:25Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 6751858413535232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-22T06:54:20Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5336629376974848, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Ok, I will adapt my solution to use CoordiantorLayout!", 
+        "created": "2018-11-21T09:37:24Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 4948625990877184, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "The solution you proposed is a work-around not a perfect solution.", 
+        "created": "2018-11-21T08:54:30Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5324294700662784, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I don't get why you want layout xml to be changed, the problem is in what layout the snackbar is being put into, not how it is being put into the layout.\n\nThe snackbar is not inflated in the same layout as the fab, so you would not be able to setup the CoordinatorLayout to connect the fab to snackbar.\n\nCan you address my concerns with the issue? I have not heard a clear response yet that explains my side of the solution.", 
+        "created": "2018-11-21T08:07:48Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 4520025802145792, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "To be frank, you can complete design/documentation tasks in to increase the number of completed tasks, but try to make COOL design so that they can be used by us in future. Moreover, you can create more issues like you have done before, solve them. I will ensure that all of tasks apart from those on GCI will also be considered while evaluation process.", 
+        "created": "2018-11-21T04:02:05Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6527145389064192, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "What's the issue you are facing? \n\nThis task should be solved with some changes in layout and java file.\nTry to follow up the link I gave on github and tell me if you face any issue. \n:+1:", 
+        "created": "2018-11-21T03:57:51Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6684268513198080, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-19T08:11:52Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5467165378478080, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-19T07:54:54Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 6709779612303360, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Hi Saksham, I have completed the task and solved the issue. The task was a pleasure to do and I had a lot of fun tinkering with different components and structures! Here is my Github pull request with my solution:\n\nPull Request #939: https://github.com/openMF/mifos-mobile/pull/939\n\nThanks for posting tasks covering critical UX, I am planning to start working on more 7-day issue tasks. For maximum impact should I do these tasks or continue with design-oriented tasks? In other words, which type of task do others tend to leave behind? I wish to pick up where others wish not to!", 
+        "created": "2018-11-19T07:54:49Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5170578156683264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6247836753592320, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-18T03:43:49Z", 
+        "task_definition_name": "Mifos - Self-Service App - Snackbar pops on the FAB on deleting Beneficiary", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 4619594149920768, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

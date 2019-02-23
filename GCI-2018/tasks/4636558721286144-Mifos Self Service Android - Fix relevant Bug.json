@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Create an issue and fix that issue (Issue should be relevant)\nI have added a link to the Github Repo of the project in the external Url field.", 
+    "tags": [
+        "android"
+    ], 
+    "claimed_count": 3, 
+    "completed_count": 3, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 5, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        4
+    ], 
+    "last_modified": "2018-11-07T05:43:51Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile", 
+    "id": 4636558721286144, 
+    "available_count": 2, 
+    "name": "Mifos Self Service Android - Fix relevant Bug"
+}

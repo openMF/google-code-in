@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "In supporting Internet Explorer but this was a pretty major issues and we should be more explicit in recommending Firefox/Chrome or highlighting known issues with IE.\nAs reported by Helene Dudley of TCP Global, when selecting activation dates for clients, groups, centers, etc - the dates don't get properly saved/displayed\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ankit123rudra@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-27T00:58:23Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1688", 
+    "id": 5816700843851776, 
+    "available_count": 2, 
+    "name": "Mifos- IE: Dates don't get properly displayed - show as NaN undefined 0NaN"
+}

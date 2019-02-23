@@ -1,0 +1,477 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-25T06:11:43Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4833426516475904, 
+        "id": 5048943458123776, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-25T04:42:38Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6459132488974336, 
+        "id": 4893584743464960, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-25T04:42:26Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 5279166170660864, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6133412181049344/", 
+                "filename": "IMG_0332.psd", 
+                "id": 6133412181049344, 
+                "file_size": 18000188.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-25T04:39:30Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 4514366343872512, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5833530450903040/", 
+                "filename": "IMG_0331.psd", 
+                "id": 5833530450903040, 
+                "file_size": 18000188.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-25T04:36:44Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 6744780441649152, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5205282230632448/", 
+                "filename": "IMG_0330.psd", 
+                "id": 5205282230632448, 
+                "file_size": 18000188.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-25T04:12:02Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 5161742939193344, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Can you please share just the design graphics on a transparent background or as a layered psd.", 
+        "created": "2018-11-25T04:11:57Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 4886299908505600, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-24T14:38:18Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6459132488974336, 
+        "id": 6044106389192704, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "T-shirt and icons are all from unsplash.com where all the photos are openly licensed", 
+        "created": "2018-11-24T14:38:14Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 4987958143746048, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-24T14:35:42Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 6501664153403392, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6030949629296640/", 
+                "filename": "1DE7EB8D-CC1A-492B-84A0-54CBF9CEF85E.jpeg", 
+                "id": 6030949629296640, 
+                "file_size": 252969.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6062198989258752/", 
+                "filename": "F145741A-C7B8-41F4-819A-D23872B76885.jpeg", 
+                "id": 6062198989258752, 
+                "file_size": 259815.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5254268949889024/", 
+                "filename": "38065CB9-2E7A-41AE-9115-5C19B598CB3C.jpeg", 
+                "id": 5254268949889024, 
+                "file_size": 269165.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6746664388788224/", 
+                "filename": "B30A96F3-34B3-4EE3-9DEA-12E22A496FCB.jpeg", 
+                "id": 6746664388788224, 
+                "file_size": 265359.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "No, you can unlimited designs at a time.\n\nYou should mention the source of the t-shirt image that from where you have picked up, is it open source or you have taken permission from the author or tell us if you have made yourselves?", 
+        "created": "2018-11-24T14:15:33Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4833426516475904, 
+        "id": 5949956645978112, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "and is it necessary to submit only one type of design at one time?", 
+        "created": "2018-11-24T14:04:01Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 4982856527904768, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "How can I confirm the authenticity of the design? Should I get my work CC0 license?", 
+        "created": "2018-11-24T13:42:19Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 6225067789778944, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-24T13:26:28Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4833426516475904, 
+        "id": 5360847288270848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "Hi Abhi,\n\nCan you confirm on the authenticity of design that you have created.I see there are crosses all over the t-shirt. Generally, crosses are put by companies who meant to copyright it.\n\nMoreover, I see that a image is used 5-6 times in the t-shirt alone which doesn't looks more nice so you might think to re-design the t-shirt.", 
+        "created": "2018-11-24T13:09:51Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 6053712419094528, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-24T12:31:05Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6459132488974336, 
+        "id": 5169654000517120, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-24T12:31:00Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6459132488974336, 
+        "id": 6404195440656384, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5459127682727936/", 
+                "filename": "IMG_0318.JPG", 
+                "id": 5459127682727936, 
+                "file_size": 276507.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4973031203012608/", 
+                "filename": "IMG_0317.PNG", 
+                "id": 4973031203012608, 
+                "file_size": 1139545.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-24T12:29:53Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6459132488974336, 
+        "id": 5422995666370560, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6035870722293760/", 
+                "filename": "IMG_0317.psd", 
+                "id": 6035870722293760, 
+                "file_size": 3189215.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6094337776549888, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-11-24T03:44:14Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6459132488974336, 
+        "id": 6528988064251904, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

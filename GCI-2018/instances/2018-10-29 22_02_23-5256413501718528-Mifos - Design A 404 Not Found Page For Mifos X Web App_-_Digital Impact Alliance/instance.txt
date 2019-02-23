@@ -1,0 +1,24 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5256413501718528 | Task Definition ID 6094251529076736
+Max instances: 1
+
+Title: Mifos - Design A 404 Not Found Page For Mifos X Web App
+Description: ## Objective
+The objective is to design a 404 not found page when a user tries to access unintended routes.
+
+### Description
+Currently, when a user tries to access unintended routes he/she is redirected back to the home page. Design a 404 error page in the NotFoundComponent using HTML and SCSS. Design maybe simple, use your imagination to make it look cool and beautiful.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+Tags: SCSS, HTML, Web App, Angular, Mifos
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: sanyam.bvcoe96@gmail.com, abhay.chawla97@gmail.com, rahul.usit12@gmail.com
+Student: irisv (ID 4944102605979648)
+
+Status: OUT_OF_TIME
+Last modified: 2018-10-29 22:02:23

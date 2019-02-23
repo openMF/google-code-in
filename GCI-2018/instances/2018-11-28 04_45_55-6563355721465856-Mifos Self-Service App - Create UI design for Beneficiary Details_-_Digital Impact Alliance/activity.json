@@ -1,0 +1,107 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6563355721465856, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-28T04:45:51Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Beneficiary Details", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 6213025221574656, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6563355721465856, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good job !\n:+1:", 
+        "created": "2018-11-28T04:45:46Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Beneficiary Details", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6244624235495424, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6563355721465856, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-27T17:11:14Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Beneficiary Details", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 5461577424699392, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6563355721465856, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "It was difficult to present the perfect way of the design flow in the Adobe XD using prototypes(changing layout on tap etc...), so the GIF attached to the readme is just a small preview.\n\nObviously we would like to avoid the scroll effect and use some ConstraintLayout here which could hide the beneficiary profile image when needed.\n\n https://github.com/letelete/mifos-mobile-ui-ux/tree/master/layout_parts/beneficiary_details", 
+        "created": "2018-11-27T17:11:08Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Beneficiary Details", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 6250712938840064, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6563355721465856, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-27T17:08:08Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for Beneficiary Details", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5642276345741312, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

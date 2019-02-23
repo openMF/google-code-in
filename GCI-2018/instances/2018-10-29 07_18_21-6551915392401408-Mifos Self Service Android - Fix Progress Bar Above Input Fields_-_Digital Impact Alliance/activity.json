@@ -1,0 +1,191 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-10-29T07:18:15Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 6615658176446464, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good Job\nWork on task from the portal. I will be adding more Coding task this weekend.", 
+        "created": "2018-10-29T07:18:09Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6336959761874944, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-29T04:33:01Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5455803935883264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I added the last bit of your changes to my pull request with the solution, pull request #917 (https://github.com/openMF/mifos-mobile/pull/917). My request is merge-quality!\n\nCan you give me any recommendations for tasks I should do, to make the most meaningful impact?", 
+        "created": "2018-10-29T04:32:56Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6145804994609152, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Just make the change, i requested you. Then you are good.", 
+        "created": "2018-10-28T17:59:09Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5305383225655296, 
+        "id": 5039496077770752, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I pushed your recommendations to the pull request but I still see \"Changes requested\" at the status point, can you explain how I work with the interface or help me resolve it?", 
+        "created": "2018-10-28T16:05:41Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 4951644031680512, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I am formed my solution and submitted it as pull request #917: \nhttps://github.com/openMF/mifos-mobile/pull/917\nCan you provide further feedback on my solution (ex. the location of the solution). I would like to be able to improve the quality and clarity of my solution as much as possible!", 
+        "created": "2018-10-28T02:14:33Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6190986205069312, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "It's nice to work with you again!", 
+        "created": "2018-10-27T18:12:47Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 4896851053510656, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551915392401408, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-27T18:12:19Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix Progress Bar Above Input Fields", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5590588599566336, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

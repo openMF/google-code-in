@@ -1,0 +1,31 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6399742884970496, 
+    "tags": [
+        "russian", 
+        "translation", 
+        "mifos-mobile", 
+        "andriod"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-25 06:18:07", 
+    "max_instances": "1", 
+    "id": 6096063917195264, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-25 06:18:03", 
+    "deadline": "2018-11-28 20:22:43", 
+    "submitted_date": "2018-11-24 20:24:15", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile App: Do the translation of the app in Russian Language", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into Russian Language. We already have Russian language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in Russian and translate the existing ones into Russian.\n\nThis would enable the localization feature app which is very much awaited feature in the community."
+}

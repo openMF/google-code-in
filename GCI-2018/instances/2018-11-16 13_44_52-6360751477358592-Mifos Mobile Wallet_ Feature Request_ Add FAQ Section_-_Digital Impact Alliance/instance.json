@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Miguel Dinis", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5015198755717120, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 4707482623541248, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "6", 
+    "modified": "2018-11-16 13:44:52", 
+    "max_instances": "1", 
+    "id": 6360751477358592, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-16 13:44:51", 
+    "deadline": "2018-11-20 09:44:57", 
+    "submitted_date": "2018-11-16 13:43:38", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet: Feature Request: Add FAQ Section", 
+    "categories": [
+        "1"
+    ], 
+    "description": "**Summary:**\n\nAs of now, there is no FAQ section which would explain about the features of the app or organisation using it.\n\n**Steps to reproduce:**\n\nNo steps to reproduce as feature doesn't exists.\n\n**Expected behavior:**\n\nThere would be a FAQ section which would clarify about app's features. The FAQ section will be added under settings option in Profile Fragment. Create a button to launch an activity which would display FAQ. Add Dummy questions as of now.\n\n**Observed behavior:**\n\nThere wasn't any FAQ section.\n\n**Device and Android version:**\n\nAndroid Marshmallow Pixel 2 Android Emulator"
+}

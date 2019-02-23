@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4720373779136512, 
+    "tags": [
+        "android", 
+        "bug", 
+        "mifos"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-12-01 17:07:32", 
+    "max_instances": "1", 
+    "id": 5623174562578432, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-01 16:35:23", 
+    "deadline": "2018-12-03 07:15:08", 
+    "submitted_date": "2018-11-30 15:47:30", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Pay: Bug: Back button is not working correctly on Transfers and Profile Tab", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary:\n\nWhen I click mobile's back button while I am either on Transfers or Profile Tab, it closes the app whereas in a ideal situation user should be taken to Home tab.\n\n## Steps to reproduce:\n\nOpen the app -> Go to either Transfers or Profile Tab -> Press back button of Mobile\n\n## Expected behaviour:\n\nWhen back button is pressed, user is taken to the Home Screen/Tab.\n\n## Observed behaviour:\n\nWhen back button is pressed, the app gets closed.\n\n## Device and Android version:\n\nPixel 2 XL"
+}

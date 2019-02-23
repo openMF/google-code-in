@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "For this case, username: mifos and password: password. The system allow username: MIFOS as valid username.\n\nIn my suggestion, It is not a good practice as this is a credentials, not the name of the user. Thus, the system should test the exact username without ignoring cases.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:41:38Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2460", 
+    "id": 6160159714836480, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: System ignore cases in username field in the login page"
+}

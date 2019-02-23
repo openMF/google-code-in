@@ -1,0 +1,31 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5138917356470272 | Task Definition ID 5760290407841792
+Max instances: 1
+
+Title: Mifos Mobile Wallet - Mobile Number is not formatted
+Description: **Summary:**
+
+Mobile number is not correctly formatted, it is in raw form.
+
+**Steps to reproduce:**
+
+Go to Transfer Tab from Dashboard
+
+**Expected behavior:**
+
+I expected that mobile number would be well formatted according to its country code.
+
+**Observed behavior:**
+
+The mobile number was not formatted
+Tags: Mobile Wallet,  Mifos,  Android
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-07 17:59:25)
+Last modified: 2018-11-04 12:53:22

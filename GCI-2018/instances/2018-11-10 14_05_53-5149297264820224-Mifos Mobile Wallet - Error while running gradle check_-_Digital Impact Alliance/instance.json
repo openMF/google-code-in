@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Miguel Dinis", 
+    "status": "ABANDONED", 
+    "program_year": 2018, 
+    "task_definition_id": 5984246423355392, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos", 
+        "gradle"
+    ], 
+    "student_id": 4707482623541248, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-11-10 14:05:53", 
+    "max_instances": "1", 
+    "id": 5149297264820224, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": null, 
+    "deadline": "2018-11-15 13:48:32", 
+    "submitted_date": null, 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Error while running gradle check", 
+    "categories": [
+        "1"
+    ], 
+    "description": "**Summary:**\n\n`./gradlew check` throws an error with following message:\n`Task :core:findbugs\nNo files to be analyzed`\n\n**Steps to reproduce:**\n\n1. Open terminal on Android Studio\n2. Run `./gradlew check` \n\n**Expected behavior:**\n\n`./gradlew check` to be executed successfully\n\n**Observed behavior:**\n\n`./gradlew check` throws an error with following message:\n`Task :core:findbugs\nNo files to be analyzed`"
+}

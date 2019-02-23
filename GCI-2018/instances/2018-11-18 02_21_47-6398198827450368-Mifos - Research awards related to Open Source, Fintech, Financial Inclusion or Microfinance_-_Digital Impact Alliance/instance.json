@@ -1,0 +1,36 @@
+{
+    "student_display_name": "jk60", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5587326920032256, 
+    "tags": [
+        " outreach", 
+        "marketing", 
+        " mifos", 
+        " awards", 
+        " hfoss"
+    ], 
+    "student_id": 4618070128590848, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-18 02:21:47", 
+    "max_instances": "6", 
+    "id": 6398198827450368, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-18 02:21:46", 
+    "deadline": "2018-11-20 23:48:03", 
+    "submitted_date": "2018-11-18 00:15:08", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "rahul.usit12@gmail.com", 
+        "rbrown@mifos.org", 
+        "edcable@mifos.org", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Research awards related to Open Source, Fintech, Financial Inclusion or Microfinance", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Awards are a great way for us to increase visibility of our project and initiative as well as member of our ecosystem and community. For this task, do research on various awards for open source software projects, HFOSS, humanitarian technology, ICT4D fintech, financial inclusion, or microfinance-related projects. \n\nSearch on Google and list out the details of each award in this sheet - https://goo.gl/KA5JRH including its purpose, application date, application requirements, amount/prize, etc. \n\nAn example of the award is: https://www.tides.org/awards-prizes/pizzigati-prize/\n\nYou can also use terms like prize, challenge, etc.\n\nYou should find at least 12 awards for this task. If the award is already listed, please update it with current info for this year. \n\nIn your submission, let us know which rows you've updated."
+}

@@ -1,0 +1,443 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-12-12T02:26:03Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 5710374595723264, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good job :+1:", 
+        "created": "2018-12-12T02:25:55Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6580325355356160, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-12-11T19:38:50Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5316023113744384, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Just finished applying your improvements: https://github.com/openMF/mifos-mobile/pull/966", 
+        "created": "2018-12-11T19:38:46Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 6710135910039552, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Ok, I will remove the layout work I did, add the changes and edit my PR message. Thanks for the help!", 
+        "created": "2018-12-11T15:51:23Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 5419947766317056, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Yeah, that the only way to solve this issue by adding scroll view.", 
+        "created": "2018-12-11T15:50:17Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5100187451129856, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "So my PR is just going to remove his previous work?", 
+        "created": "2018-12-11T15:47:38Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 6231348961345536, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "The link I have send you. Scroll down.", 
+        "created": "2018-12-11T15:36:03Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5502138810630144, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Where are you sending me the instructions?", 
+        "created": "2018-12-11T15:34:31Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 6122646828744704, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "It won't be a problem from device to device. All the fields will be aligned as per devices so it won't be a problem.\nJust follow up the link I send you. Undo the changes.", 
+        "created": "2018-12-11T15:33:21Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6563034722992128, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Layout gravity won't help achieve the effect of centering text, the amount of gravity would be different for each device", 
+        "created": "2018-12-11T15:10:43Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 5815665383440384, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Use layout_gravity", 
+        "created": "2018-12-11T15:09:07Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6213441564966912, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Then how would you center the text in the title?", 
+        "created": "2018-12-11T15:08:08Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 6635920854876160, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Make the changes accordingly from the link.", 
+        "created": "2018-12-11T15:04:04Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5714621781508096, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Its possible. Actually, this arises bcoz of another GCI task which got merged.\nhttps://github.com/openMF/mifos-mobile/pull/938/files", 
+        "created": "2018-12-11T15:03:38Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 5702874911735808, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Linearlayout it's not the correct layout, when use horizontally, it does not allow centering in parent", 
+        "created": "2018-12-11T14:59:28Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 4880340255506432, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-12-11T10:09:52Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6316565608792064, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Make the changes that I have added to github.", 
+        "created": "2018-12-11T10:09:43Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6700641884831744, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-12-11T03:20:05Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5227900719595520, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Hi, I have patched the issue. I thought that this problem gave way to many solutions, it was interesting and challenging to choose between them. Hopefully you enjoy my solution to the issue:\n\nhttps://github.com/openMF/mifos-mobile/pull/966", 
+        "created": "2018-12-11T03:20:01Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5838315363237888, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6551558771703808, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-12-10T15:56:11Z", 
+        "task_definition_name": "Mifos Self-Service App - Transfer button size shrinks on Confirmation Page", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6722611884064768, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

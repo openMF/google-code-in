@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6360751477358592 | Task Definition ID 5015198755717120
+Max instances: 1
+
+Title: Mifos Mobile Wallet: Feature Request: Add FAQ Section
+Description: **Summary:**
+
+As of now, there is no FAQ section which would explain about the features of the app or organisation using it.
+
+**Steps to reproduce:**
+
+No steps to reproduce as feature doesn't exists.
+
+**Expected behavior:**
+
+There would be a FAQ section which would clarify about app's features. The FAQ section will be added under settings option in Profile Fragment. Create a button to launch an activity which would display FAQ. Add Dummy questions as of now.
+
+**Observed behavior:**
+
+There wasn't any FAQ section.
+
+**Device and Android version:**
+
+Android Marshmallow Pixel 2 Android Emulator
+Tags: mobile wallet, android, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 6 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: Miguel Dinis (ID 4707482623541248)
+
+Status: COMPLETED (2018-11-20 09:44:57)
+Last modified: 2018-11-16 13:44:52

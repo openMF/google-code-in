@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5011068192555008 | Task Definition ID 6393517703168000
+Max instances: 1
+
+Title: Mifos Mobile Wallet - Error while transferring money
+Description: **Summary:**
+
+When I tried to send money to other random UPI address, it is showing error in Toast ‘Error fetching Receiver’. Firstly, it should be shown in SnackBar and the error should be more clear like ‘Error finding Virtual Payment Address’ and the loader goes off in a infinite loop.
+
+Also, the wallet balance at that time was 0 so my suggestion is that we should first check if balance is enough and then find the receiver.
+
+**Steps to reproduce:**
+
+Keep wallet Balance 0.
+
+Dashboard -> Transfer (Send) -> Enter a Random UPI Address and amount greater than balance (in our case greater than 0)
+
+**Expected behavior:**
+
+The app should firstly search for if balance is enough or not and then if receiver is not find, the error should be shown in a SnackBar with a error message something like `Error finding Virtual Payment Address`.
+
+**Observed behavior:**
+
+The firstly searches for a receiver without taking care of balance. Also, shows the error message in a Toast ‘Error fetching Receiver’.
+Tags: Mobile Wallet,  Mifos,  Android
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-07 17:58:49)
+Last modified: 2018-11-03 17:48:40

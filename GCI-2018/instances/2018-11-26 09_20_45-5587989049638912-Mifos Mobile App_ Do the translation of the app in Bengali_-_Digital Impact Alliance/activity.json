@@ -1,0 +1,149 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-26T09:20:41Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4833426516475904, 
+        "id": 6408110169128960, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-25T18:19:35Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4931561548939264, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Since strings.xml in the master branch has Mifos Mobile string, I just get rid of this 'Self service app' string to get the string value from the main strings.xml file.", 
+        "created": "2018-11-25T18:19:32Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6278250746609664, 
+        "id": 5493259653611520, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-25T17:57:54Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4833426516475904, 
+        "id": 6026237228089344, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-25T10:30:15Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 5729211198210048, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Done: https://github.com/openMF/mifos-mobile/pull/954", 
+        "created": "2018-11-25T10:30:10Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 6550586045497344, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5587989049638912, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-25T10:28:04Z", 
+        "task_definition_name": "Mifos Mobile App: Do the translation of the app in Bengali", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5633805881704448, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

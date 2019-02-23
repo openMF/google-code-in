@@ -1,0 +1,199 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "If you are interested in the design of my logo, I would be able to adapt the design of my logo to another icon.", 
+        "created": "2018-11-19T07:56:57Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 5293817197494272, 
+        "id": 6169759650414592, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Great! Thanks for addressing my problem", 
+        "created": "2018-11-09T15:06:23Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 5293817197494272, 
+        "id": 5722975409012736, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "demo server is up now. It gets down sometimes.", 
+        "created": "2018-11-09T10:44:01Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 5485302387834880, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Thanks, I'm trying to contribute to the mobile wallet repo, but I am having some issues, when trying to authenticate with the server (demo.openmf.org through the web), the response speaks of the /fineract-provider not existing. This also happens on the android app, making the \"Error logging in\" toast appear.\n\nHere is the exact REST call the android app runs: \nhttps://demo.openmf.org/fineract-provider/api/v1/self/authentication?username=mifospay&password=Password1\n\nCan you help get the server up and running, so I can enter the app? How can I pass authentication with demo credentials?", 
+        "created": "2018-11-09T04:54:07Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 5293817197494272, 
+        "id": 5700523333255168, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-09T04:33:47Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 5179121752604672, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Hey ethan627hsu. Good Job. Keep Going!!", 
+        "created": "2018-11-09T04:33:40Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4667900406267904, 
+        "id": 6616235795021824, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-09T03:36:28Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5724201085304832, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I have finished my logo design and have successfully implemented my idea for the logo. Attached is a .zip file containing all three image formats, a .png file, a .jpg file, and a .svg (scalable vector graphics) file, which should be easily convertible into the native editor of your choosing. My logo depicts a dollar sign ($) with the Mifos styling, color scheme and lines!", 
+        "created": "2018-11-09T03:36:24Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5888816767303680, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5237602429960192/", 
+                "filename": "mifospay-logo.zip", 
+                "id": 5237602429960192, 
+                "file_size": 92789.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4726591314722816, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-11-09T00:13:12Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 5331885954695168, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

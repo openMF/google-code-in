@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Summary:\n\nThere is option to change the email ID but it gives an error.\n\nSteps to reproduce:\n\nDashboard -> Profile -> Edit Profile -> Change Email.\n\nExpected behavior:\n\nI would be able to change the email ID without any error.\n\nObserved behavior:\n\nWhen tried to change the email Id, error pops up.", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-09T05:31:38Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/75", 
+    "id": 5352577530068992, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email"
+}

@@ -1,0 +1,29 @@
+{
+    "student_display_name": "mitchLui", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5324284252651520, 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "student_id": 5625942031466496, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-12-09 15:37:06", 
+    "max_instances": "3", 
+    "id": 4888815400386560, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-09 15:36:25", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-09 14:33:47", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self-Service App - Create UI design for Beneficiary Details", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Create User Interface to display User Details which should have fields similar to the GIF (added in the link). Explain the flow of the design on GITHUB Gist and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)"
+}

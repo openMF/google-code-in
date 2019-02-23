@@ -1,0 +1,29 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6249057921007616, 
+    "tags": [
+        "Android"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-11-01 10:39:16", 
+    "max_instances": "1", 
+    "id": 5963730358632448, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-01 10:39:10", 
+    "deadline": "2018-11-04 17:39:53", 
+    "submitted_date": "2018-10-31 21:39:16", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self Service Android - Fix EditText Errors On SignUp Screen", 
+    "categories": [
+        "1"
+    ], 
+    "description": "When the SignUp Button is clicked, Error text beneath EditText should always be shown. To reproduce this error, try logging into the app with wrong credentials. You would expect that errors for all EditText be shown as on apps like Paypal. This doesn't happen and this task is considered fixed when error text is displayed normally."
+}

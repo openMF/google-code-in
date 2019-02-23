@@ -1,0 +1,480 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-12T14:34:22Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 4788096441778176, 
+        "id": 5519741314662400, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-12T06:33:46Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4667900406267904, 
+        "id": 5875881881894912, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T17:44:16Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4788096441778176, 
+        "id": 6028762920517632, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-11T16:06:28Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4833426516475904, 
+        "id": 6668093565698048, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "If you haven't find any bugs then you can suggest new features that we can implement in Edit Profile.", 
+        "created": "2018-11-11T16:06:21Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 6131530012295168, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T14:44:53Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4788096441778176, 
+        "id": 4533372144582656, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "I am really sorry to say I have not found any bugs in the case of edit profile as stated in the review , my experience was upto the mark and I don't think I encountered any problem as such to report", 
+        "created": "2018-11-11T14:44:48Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4788096441778176, 
+        "id": 4611468675776512, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "", 
+        "created": "2018-11-11T13:13:04Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4833426516475904, 
+        "id": 5465758004936704, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2018, 
+            "id": 4833426516475904
+        }, 
+        "text": "I don't see any improvement in this PDF too, you have mention all the issues that you encountered and how can we further improve the app and this must be quiet detailed as we will be seriously looking them and then converting them into Github Issues to fix them later.", 
+        "created": "2018-11-11T13:12:31Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4833426516475904, 
+        "id": 5722262041788416, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T13:04:36Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4788096441778176, 
+        "id": 5013515128537088, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T13:04:25Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4788096441778176, 
+        "id": 4898115128655872, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4585486929625088/", 
+                "filename": "Untitled_document-2.pdf", 
+                "id": 4585486929625088, 
+                "file_size": 34431.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-11T12:03:03Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4667900406267904, 
+        "id": 6123081463496704, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "I think you have misunderstood the task. The task is to test the edit profile use case and give a detailed bugs report about the User Interface and User Experience.", 
+        "created": "2018-11-11T12:02:58Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4667900406267904, 
+        "id": 4766518337339392, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T11:59:43Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4788096441778176, 
+        "id": 6642247983431680, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T11:59:39Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4788096441778176, 
+        "id": 5759622620119040, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6636043781537792/", 
+                "filename": "Untitled_document.pdf", 
+                "id": 6636043781537792, 
+                "file_size": 44530.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-11T10:27:22Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4667900406267904, 
+        "id": 5283101287645184, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Hey Anubhav Sigdel.\nPlease create a Google Doc or a PDF for your report. Thanks.", 
+        "created": "2018-11-11T10:27:18Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4667900406267904, 
+        "id": 5455934072553472, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "Security issues such as while creating the account I kind of felt it could be more secure by adding more information which could help avoid creation of fake accounts", 
+        "created": "2018-11-11T08:46:31Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4788096441778176, 
+        "id": 5920423779762176, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Rahul Goel", 
+            "program_year": 2018, 
+            "id": 6193476682121216
+        }, 
+        "text": "Hi Anubhav, Can you please elaborate on what kind of security issues you faces?", 
+        "created": "2018-11-11T07:42:57Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6193476682121216, 
+        "id": 4655479608311808, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T06:53:20Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4788096441778176, 
+        "id": 4671923146457088, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "This is a great app but really slow. It has a very simple interface which makes it user friendly. Easy to log in to and to create accounts. Has some security issues. Easy to transfer and receive the money. It took a while to really understand the difference between the merchant account and costumer account. Over all it needs to be more secure and specific", 
+        "created": "2018-11-11T06:53:16Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4788096441778176, 
+        "id": 4624687981133824, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6143903141986304, 
+        "author": {
+            "display_name": "Anubhav Sigdel", 
+            "program_year": 2018, 
+            "id": 4788096441778176
+        }, 
+        "text": "", 
+        "created": "2018-11-11T05:32:18Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4788096441778176, 
+        "id": 4980638898716672, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

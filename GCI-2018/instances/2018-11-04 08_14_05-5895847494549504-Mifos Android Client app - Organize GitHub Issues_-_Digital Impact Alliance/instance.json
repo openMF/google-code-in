@@ -1,0 +1,32 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6612874869866496, 
+    "tags": [
+        "QA", 
+        " Documentation", 
+        " Github", 
+        " Mifos"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-04 08:14:05", 
+    "max_instances": "5", 
+    "id": 5895847494549504, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-04 05:33:22", 
+    "deadline": "2018-11-04 23:12:22", 
+    "submitted_date": "2018-11-03 09:49:54", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+    "categories": [
+        "3"
+    ], 
+    "description": "## Objective\nThis task involves separating opened issues from issues with Pull Requests (PRs) have been sent.\n\n1. Go through the Android Client's [Issues](https://github.com/openMF/android-client/issues)\n2. Sort the list by 'Newest'.\n3. Check if the status of the issue - whether it has been listed has been referenced by some PR. If not, check if the PR has been sent for it from the [PR](https://github.com/openMF/android-client/pulls)\n  a - If PR has been sent and merged - Closed\n  b - If PR has been sent - In progress\n  c - If PR hasn't been sent - Open\n\nYou have to submit a spreadsheet (you can use Microsoft Excel or Libre Office or Google sheets etc) with four columns: \n1. First Column => Links to Issues\n2. Second Column => Name ( As stated On Github )\n3. Third Column => Status\n   a - Green - open\n   b - Blue - in progress\n   c - Red - closed\n4. Fourth Column => Date ( When you last checked the issue's status). \n5. The submission should have at least 10 records. More records will add to the weight of your task. However, duplicate records - adding the same PR more than once - will have a negative effect. \n\nIf you need help, you can either contact the mentor assigned for the task or contact the public channel for the Android Client."
+}

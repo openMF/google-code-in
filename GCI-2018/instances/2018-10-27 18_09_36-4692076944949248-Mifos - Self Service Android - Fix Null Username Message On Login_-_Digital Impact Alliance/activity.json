@@ -1,0 +1,275 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-10-27T18:09:30Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 6499181951713280, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Good job", 
+        "created": "2018-10-27T18:09:21Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5228198318047232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I have now sumbitted the task! It has been a joy working with you and learning about the Mifos community. I am planning on doing more Mifos-related tasks in the future and hope to meet with you again. I am so glad to be a part of an organization that is helpung the world!", 
+        "created": "2018-10-27T18:06:57Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 6588102404472832, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-27T18:05:02Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5202522399571968, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I have submitted my solution for the task as pull request to the repository:\n\nPull request #915: https://github.com/openMF/mifos-mobile/pull/915\n\nIf you have any suggestions, please comment telling me all of the comments, I live in the exact opposite timezone, so clear communication is key to my success!", 
+        "created": "2018-10-26T19:05:04Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 4825888731430912, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "I would love more feedback on pull request #909 (https://github.com/openMF/mifos-mobile/pull/909). Can you give me all of your suggestions so that I can get the request merged in a timely fashion?", 
+        "created": "2018-10-25T20:10:40Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5293817197494272, 
+        "id": 6571379647315968, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-10-25T19:24:04Z", 
+        "task_definition_name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6212729711886336, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Ok, I submitted my previous changes in a new pull request, can you merge it? My solution cannot run without the fix, and I keep getting build errors without changes, locally and through Travis CI.\n\nPull Request #909: https://github.com/openMF/mifos-mobile/pull/909", 
+        "created": "2018-10-24T21:05:27Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix \"Null\" username message on login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 4763842694348800, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Hi Ethan,\n\nGood Job, This is the correct solution that I was looking for. I have made some suggestions. You can make those changes.\n\nApart from task, couple of things I saw you were doing wrong while reviewing your PR. Firstly, create a new branch for every PR you send. You seem to work on the same development branch. This will create problems when you will be working on different Issue, as these changes will also be pushed. Secondly, you should not try to resolve multiple issues in a single PR. A single PR acts as a checkpoint for us in future for debugging.", 
+        "created": "2018-10-24T10:03:21Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix \"Null\" username message on login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6669701213061120, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-24T07:10:52Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix \"Null\" username message on login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5293817197494272, 
+        "id": 5852181199585280, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "Hi Saksham! I was very excited to take on the challenge that would help me get deep in understanding the Mifos codebase. I also love the purpose of the app, and all of the work the Digital Impact Alliance has done through open source!\n\nThe task I tackled involved correctly placing data from the Mifos' Retrofit API, as the problem seemed to be that the username was not flowing into the User object from the API. When Retrofit flows data from the JSON response of the Mifos' REST API to the User object, it matches JSON values with fields by matching data with a JSON keyname (from the key-value pair) to a field with the same name. However, the username was unable to go through this process as the JSON key for the username, \"username\", does not match the field name \"userName\".\n\nTo solve the issue of matching, we can annotate the userName field (of the User class) with @SerializedName(\"username\"). Annotating will make Retrofit read the \"field name\" as \"username\" instead of the actual field name \"userName\". This will end up matching the two (JSON value and field) correctly.\n\nOn the Github page, I saw someone attempt this same problem. But his solution was not to fix the architecture of the API, but to naively ignore the problem by remembering the username beforehand, and then matching it afterward. This solution is bad, as it doesn't address future uses of the authentication system and it causes the app to loose a point of validity, the API sends back the username as a \"just to make sure\" kind of action. Without a valid username, the server could be mistakenly giving access to another account and the user would be unknowingly compromising another user's data.\n\nI hope you enjoy my solution, the pull request (#905) with a link to my solution is here:\nhttps://github.com/openMF/mifos-mobile/pull/905\n\nI would like to hear further instructions, if I need to add configuration to my pull request, or if my solution didn't address a concern.", 
+        "created": "2018-10-24T07:10:44Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix \"Null\" username message on login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6081008735617024, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-24T05:15:54Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix \"Null\" username message on login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6609098050109440, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4692076944949248, 
+        "author": {
+            "display_name": "ethan627hsu", 
+            "program_year": 2018, 
+            "id": 5293817197494272
+        }, 
+        "text": "", 
+        "created": "2018-10-24T01:04:45Z", 
+        "task_definition_name": "Mifos Self Service Android - Fix \"Null\" username message on login", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5293817197494272, 
+        "id": 6264850683527168, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

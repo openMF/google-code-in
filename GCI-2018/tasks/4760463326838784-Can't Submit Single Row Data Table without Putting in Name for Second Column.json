@@ -1,0 +1,30 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Can't submit single row data table unless a column name is put in for second column.\n\n\nCreate a new data table and name the data table\nLeave multi-row unchecked.\nAdd a row to the data table by filling in the fields and clicking the plus sign.\nExpected Behaviour\nShould be able to successfully submit data table.\nActual Behaviour\nCan't submit data table because the field for Column Name in the Add Columns row is highlighted red, saying it's required.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ankit123rudra@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-27T00:58:07Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2954", 
+    "id": 4760463326838784, 
+    "available_count": 2, 
+    "name": "Can't Submit Single Row Data Table without Putting in Name for Second Column"
+}

@@ -1,0 +1,31 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4632352685817856, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-10 14:53:38", 
+    "max_instances": "1", 
+    "id": 6152936632614912, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-10 14:53:37", 
+    "deadline": "2018-11-13 22:04:04", 
+    "submitted_date": "2018-11-10 14:49:38", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the mobile number", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nThere is option to change the mobile number but it gives an error.\n\nSteps to reproduce:\n\nDashboard -> Profile -> Edit Profile -> Change Mobile Number.\n\nExpected behavior:\n\nI would be able to change the Mobile Number without any error.\n\nObserved behavior:\n\nWhen tried to change the email Id, error pops up.\n\nDevice and Android version:\n\nAndroid Emulator Pixel 2 (Marshmallow)"
+}

@@ -1,0 +1,254 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Alright, I've send you a feedback there.", 
+        "created": "2018-11-28T22:39:22Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 6071848170160128, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Check your gitter personal chat.", 
+        "created": "2018-11-28T22:30:51Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 4823223951687680, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I'm glad you like it! All of these layouts are mine and made using Adobe XD according to the newest material design style.\n\nIt is a heavy task, but the MifosPay layout structure isn't so nested and so there are not too many connections between layouts. Redesigning the app could make it much better, but It might take some time to accomplish it.\n\nI look forward to hearing your decision.", 
+        "created": "2018-11-28T22:09:03Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 6192723330596864, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "This looks great. Make sure these are your own mock ups. As changing an activities layout is a heavy task. Let me discuss with the community members and I'll get back to you.", 
+        "created": "2018-11-28T20:08:38Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 6747758447820800, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I've created some entry proposal for the app UI/UX. Would you like me to finish the layout proposal for all activities? \n\nhttps://i.imgur.com/xD8hLJv.png\n\nThe home page will be a very clean and elegant page where user can view his account balance and **limited** transaction history which is a BottomSheetDialog. It's expandable and on expand there will be a button in the bottom of it to display a complete history. That will move user to the Payments / History\n\nI've splitted all buttons from the home activity and created bottom navigation sections where all of these will be available.\n\nI've also made use of some much more expressive color which makes the app layout more dynamic\n\nIf you have any comments, please let me know.", 
+        "created": "2018-11-28T16:46:00Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 4629923177168896, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Thank you! I will start working on that tomorrow after school then.", 
+        "created": "2018-11-27T17:14:11Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 5353613405716480, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Yeah sure. Go ahead. You can create Github issues for the same. Excellent Job. :)", 
+        "created": "2018-11-27T17:08:10Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 6330769602510848, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I've created a gist where I've included my report. Generally speaking there are a lot of UI issues, and also unintuitive solutions which might make user annoyed while using the app. According to the UI/UX I could prepare some proposal if you would like to.", 
+        "created": "2018-11-27T17:06:31Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 5718577245061120, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-27T17:05:46Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 6126264013291520, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-27T17:03:42Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4799453102866432, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "https://gist.github.com/letelete/f889c74c930a0fe2787815bcbd28892e", 
+        "created": "2018-11-27T17:03:37Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5680222331469824, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5530874977189888, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-26T14:33:14Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Review MifosPay App", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 6063441929306112, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

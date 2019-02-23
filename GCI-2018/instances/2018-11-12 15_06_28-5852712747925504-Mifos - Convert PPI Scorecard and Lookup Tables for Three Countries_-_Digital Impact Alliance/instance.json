@@ -1,0 +1,33 @@
+{
+    "student_display_name": "jz53", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4886136250957824, 
+    "tags": [
+        "xml", 
+        " statistics", 
+        " data migration", 
+        " Mifos", 
+        " surveys"
+    ], 
+    "student_id": 4890377967370240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-12 15:06:28", 
+    "max_instances": "9", 
+    "id": 5852712747925504, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-12 15:06:27", 
+    "deadline": "2018-11-14 03:33:37", 
+    "submitted_date": "2018-11-11 20:47:20", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Convert PPI Scorecard and Lookup Tables for Three Countries", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \nThe PPI (Poverty Probability Index) is a ten-question survey with lookup tables to assess how much a client a is moving out of poverty. It's a valuable social impact measurement tool and we have support in Mifos for capturing these surveys. However the surveys must be in XML format. Please refer to the main ticket https://mifosforge.jira.com/browse/MIFOSX-2407 and complete the manual conversion process for three countries starting from the top of the list and moving down working on the sub-tasks that aren't in progress or resolved."
+}

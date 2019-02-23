@@ -1,0 +1,30 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5250860591349760, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-12 11:12:09", 
+    "max_instances": "1", 
+    "id": 5660232580595712, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-12 11:12:05", 
+    "deadline": "2018-11-14 19:36:23", 
+    "submitted_date": "2018-11-12 08:47:39", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Add the suitable travis.yml file for the repo", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Mobile Wallet repository does not support Continuous Integration because of missing  travis file. Your task is to add that file to the repository."
+}

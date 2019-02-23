@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Summary:\n\nThere should be some checks which are required for when we store cards. Currently, we do not have any checks.\n\nSteps to reproduce:\n\nDashboard -> Saved Cards -> Add Card -> Try different things like leave some TextField empty or input a expired date.\n\nExpected behavior:\n\nThere would be various checks while a user is adding a card like if a user has left any field empty then there would be some error.\n\nObserved behavior:\n\nThere were no checks and user can even store a empty card.", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-09T05:32:09Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/56", 
+    "id": 4841843373113344, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet: Add Checks while storing cards"
+}

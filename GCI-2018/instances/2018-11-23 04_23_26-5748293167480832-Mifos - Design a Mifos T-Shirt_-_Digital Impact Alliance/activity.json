@@ -1,0 +1,181 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-11-23T04:23:20Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 6347110225018880, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "nakssharma", 
+            "program_year": 2018, 
+            "id": 4671188518305792
+        }, 
+        "text": "its the logo i took from the ones provided by mifos at https://drive.google.com/open?id=0ByeK44WJrHIvYnk1M0ZFemJSNkE", 
+        "created": "2018-11-20T05:32:20Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4671188518305792, 
+        "id": 5146673509564416, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-20T04:43:29Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 5731271440334848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Could you explain the t-shirt front design?", 
+        "created": "2018-11-19T20:36:31Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 5458923202019328, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "nakssharma", 
+            "program_year": 2018, 
+            "id": 4671188518305792
+        }, 
+        "text": "also the \".s\" after mifos is to hammer home the fact that it is supportive", 
+        "created": "2018-11-19T16:35:13Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4671188518305792, 
+        "id": 4690976003063808, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "nakssharma", 
+            "program_year": 2018, 
+            "id": 4671188518305792
+        }, 
+        "text": "", 
+        "created": "2018-11-19T16:28:13Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4671188518305792, 
+        "id": 6219409740791808, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "nakssharma", 
+            "program_year": 2018, 
+            "id": 4671188518305792
+        }, 
+        "text": "1.i didn't have a lot of resources so i made this template with using all i had\n2.Also at the back of the tshirt.mifos is written in greek", 
+        "created": "2018-11-19T16:27:59Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4671188518305792, 
+        "id": 4799272932343808, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5690910894456832/", 
+                "filename": "mifosfront.jpg", 
+                "id": 5690910894456832, 
+                "file_size": 52081.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4802960430202880/", 
+                "filename": "mifosback.jpg", 
+                "id": 4802960430202880, 
+                "file_size": 52991.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5748293167480832, 
+        "author": {
+            "display_name": "nakssharma", 
+            "program_year": 2018, 
+            "id": 4671188518305792
+        }, 
+        "text": "", 
+        "created": "2018-11-19T15:58:53Z", 
+        "task_definition_name": "Mifos - Design a Mifos T-Shirt", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4671188518305792, 
+        "id": 6062041501532160, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6106327429414912, 
+    "tags": [
+        "mifos mobile", 
+        "translation", 
+        "android"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-12-07 05:53:00", 
+    "max_instances": "1", 
+    "id": 5894108330590208, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-07 03:28:28", 
+    "deadline": "2018-12-09 20:20:38", 
+    "submitted_date": "2018-12-07 01:28:01", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Add Urdu Translation in Mifos Moblie App", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Urdu is one of the popular language in India and other Islamic countries where we may expand in future.\n\nWe are working towards internationalization of the app and this would contribute in the same."
+}

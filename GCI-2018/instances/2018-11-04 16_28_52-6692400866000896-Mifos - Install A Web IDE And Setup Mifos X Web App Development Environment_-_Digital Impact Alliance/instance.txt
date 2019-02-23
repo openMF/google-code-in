@@ -1,0 +1,32 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6692400866000896 | Task Definition ID 5119512224464896
+Max instances: 25
+
+Title: Mifos - Install A Web IDE And Setup Mifos X Web App Development Environment
+Description: ## Objective
+The objective is to setup everything you need to start contributing code to Mifos Web App.
+
+### Getting started
+1. Install a web development IDE. [Install Visual Studio Code](https://code.visualstudio.com/) (recommended)
+2. Make sure you are familiar with git and create an account on [GitHub](https://github.com/) if you haven't already.
+3. Fork the project from [https://github.com/openMF/web-app](https://github.com/openMF/web-app).
+4. Go through `README.md and CONTRIBUTING.md` files and follow the steps to clone and build the project to get started with development on your system. 
+5. Review the project's wiki to get familiar with the workflow [here](https://github.com/openMF/web-app/wiki).
+
+## What to Submit
+1. A link to your forked GitHub project repository.
+2. A screenshot of the running application.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+Tags: Web App, Angular, Mifos
+
+Categories: Coding, Documentation & Training
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: sanyam.bvcoe96@gmail.com, abhay.chawla97@gmail.com, rahul.usit12@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-07 13:07:43)
+Last modified: 2018-11-04 16:28:52

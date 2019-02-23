@@ -1,0 +1,149 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "", 
+        "created": "2018-11-11T10:20:16Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4667900406267904, 
+        "id": 4774255888695296, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-11T09:59:32Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4528430918926336, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Done. https://github.com/openMF/mobile-wallet/pull/92", 
+        "created": "2018-11-11T09:59:27Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 6742573935755264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Sure. I will work on email validation then.", 
+        "created": "2018-11-11T08:02:12Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5370418320900096, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "Ankur Sharma", 
+            "program_year": 2018, 
+            "id": 4667900406267904
+        }, 
+        "text": "Hey letelete.\nThe error could be because of the server. \nIf you've tested the feature and it's working fine, then you can work on email formatting such that only valid emails can be passed to the server. Is it fine for you? Sorry for the inconvenience.", 
+        "created": "2018-11-11T06:20:11Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4667900406267904, 
+        "id": 6011758004142080, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Hey, I've changed email and tried different combinations like: \"test@gmail.com\", \"test@poczta.onet.pl\", even \"test@\" and everything works fine. I can easily change email with no errors. Could you verify the issue?", 
+        "created": "2018-11-10T21:41:13Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 4629849646825472, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4997377023803392, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-10T15:30:40Z", 
+        "task_definition_name": "Mifos Mobile Wallet: Bug Fix - Cannot change the email", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 4555377073979392, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

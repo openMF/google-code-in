@@ -1,0 +1,29 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6218784441368576, 
+    "tags": [
+        "Android"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-02 09:55:31", 
+    "max_instances": "1", 
+    "id": 5979567111012352, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-02 01:06:31", 
+    "deadline": "2018-11-11 12:03:08", 
+    "submitted_date": "2018-11-01 19:14:45", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self Service Android - Fix EditText Errors On Login Screen", 
+    "categories": [
+        "1"
+    ], 
+    "description": "When the Login Button is clicked, Error text beneath EditText should always be shown. To reproduce this error, try logging into the app with wrong credentials. You would expect that errors for all EditText be shown as on apps like Paypal. This doesn't happen and this task is considered fixed when error text is displayed normally."
+}

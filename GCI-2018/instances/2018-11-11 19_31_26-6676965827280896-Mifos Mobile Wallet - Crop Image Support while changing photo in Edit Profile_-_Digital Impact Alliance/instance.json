@@ -1,0 +1,30 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4777380242522112, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-11 19:31:26", 
+    "max_instances": "1", 
+    "id": 6676965827280896, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-11 19:31:20", 
+    "deadline": "2018-11-14 19:29:38", 
+    "submitted_date": "2018-11-11 19:29:47", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Crop Image Support while changing photo in Edit Profile", 
+    "categories": [
+        "1"
+    ], 
+    "description": "**Summary:**\n\nProvide the support to crop an image when user tries to change the profile picture"
+}

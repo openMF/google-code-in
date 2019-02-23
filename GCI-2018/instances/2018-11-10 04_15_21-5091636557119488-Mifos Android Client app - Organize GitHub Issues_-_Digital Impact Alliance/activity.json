@@ -1,0 +1,275 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "", 
+        "created": "2018-11-10T04:15:15Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5348715419140096, 
+        "id": 5421530713423872, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Hello Janice,\n\nAmazing work! \nThank you so much for your contribution. The google sheet that you have attached will greatly help in organizing our GitHub repository. \n\n\\(^_^)/\nAll the best!", 
+        "created": "2018-11-10T04:15:07Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5348715419140096, 
+        "id": 4877083210678272, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "", 
+        "created": "2018-11-10T04:02:16Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4618070128590848, 
+        "id": 5662997264465920, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "Hello!\nI've fixed the error.\n\nAll the best,\nJanice", 
+        "created": "2018-11-10T04:02:07Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4618070128590848, 
+        "id": 5022439533707264, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "", 
+        "created": "2018-11-10T03:53:28Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5348715419140096, 
+        "id": 6117913154027520, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Hello jk60, \n\nGreat job! \nYou did an amazing work. Nearly all the issues are well classified. However, I noticed a minor discrepancy in the issue mentioned in the cell 122A. For this particular issue a pull request was sent but it never got merged and hence it should be classified as \"open\" and not \"closed\". \n\nCan you please make this change and then get back to us? \n\nOther than this everything else is perfect. \n\nAmazing job! \\(^_^)/\n\nI apologize for the delay in my reply. Please excuse me.", 
+        "created": "2018-11-10T03:53:20Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5348715419140096, 
+        "id": 5333743259615232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "", 
+        "created": "2018-11-09T06:47:00Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4618070128590848, 
+        "id": 6594344279605248, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "Hello,\nAttached is the link to the new Google Sheet: \nhttps://docs.google.com/spreadsheets/d/1Yek-5pbJLGNNtyPKebof5kgMcOnCw2VqBOHjpw25swc/edit?usp=sharing\n\nAll the best,\nJanice", 
+        "created": "2018-11-09T06:46:55Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4618070128590848, 
+        "id": 5703037956915200, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "", 
+        "created": "2018-11-09T05:06:25Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5348715419140096, 
+        "id": 5881306962460672, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Hello jk60,\n\nIn this task, you have to classify issues present in the Android Client repository as \"open\", \"closed\", or \"in-progress\". \n\nHere are some examples for each of the classifications mentioned in the task - \n\n1. Open (e.g - https://github.com/openMF/android-client/issues/982)\n2. In-progress (e.g - https://github.com/openMF/android-client/issues/940)\n3. Closed (e.g - https://github.com/openMF/android-client/issues/835)\n\nI have noticed that you have classified pull requests instead of issues. I believe that you must have done so because of the external link provided in the task. \n\nI'm terribly sorry, I believe an incorrect external link was entered while creating this task. I have changed the external link now.\n\nHowever, there is another task where you have to classify pull requests. That task can be found here - \n\nhttps://codein.withgoogle.com/dashboard/tasks/4937408396132352/\n\nYou can submit the google sheet for that task as you have almost completed it. The google sheet that you have submitted still requires a few changes which can be done after reading the above-mentioned task.\n\nWe, unfortunately, cannot approve this task as it requires issues to be classified and not pull requests. Can you please classify all the issues and then get back to us? \n\nI apologize again for the terrible blunder in this issue. Kindly excuse us.\n\nIf you need any assistance please let us know. We will help you out.", 
+        "created": "2018-11-09T05:05:35Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5348715419140096, 
+        "id": 4662197776023552, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "", 
+        "created": "2018-11-08T17:43:09Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4618070128590848, 
+        "id": 5082455125000192, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "Hello!\nBelow is a link to the Google Sheet: https://docs.google.com/spreadsheets/d/1jzIboQJprQiNjBqOS-xrXgaU31DVZ8qyazPkPda63-o/edit?usp=sharing\n\nAll the best,\nJanice", 
+        "created": "2018-11-08T17:43:00Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4618070128590848, 
+        "id": 5717551737733120, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5091636557119488, 
+        "author": {
+            "display_name": "jk60", 
+            "program_year": 2018, 
+            "id": 4618070128590848
+        }, 
+        "text": "", 
+        "created": "2018-11-08T16:34:33Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4618070128590848, 
+        "id": 6568224771538944, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

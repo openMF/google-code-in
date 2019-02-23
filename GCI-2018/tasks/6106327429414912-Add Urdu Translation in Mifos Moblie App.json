@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Urdu is one of the popular language in India and other Islamic countries where we may expand in future.\n\nWe are working towards internationalization of the app and this would contribute in the same.", 
+    "tags": [
+        "mifos mobile", 
+        "translation", 
+        "android"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-06T20:19:32Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/963", 
+    "id": 6106327429414912, 
+    "available_count": 0, 
+    "name": "Add Urdu Translation in Mifos Moblie App"
+}

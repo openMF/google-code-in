@@ -1,0 +1,212 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-12-06T22:43:17Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5768230007209984, 
+        "id": 4852744922857472, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-12-06T02:49:51Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6459132488974336, 
+        "id": 6211837797335040, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "https://docs.google.com/document/d/178Ecn8UmEuHCYWDkGzUI0utLfgKM12vpkcHv0_dxPSM", 
+        "created": "2018-12-06T02:48:44Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 5184171711397888, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "https://docs.google.com/document/d/15eoasxTWvb4mYLgFNggkeY8l4ijCicckv98u6Revb0s", 
+        "created": "2018-12-06T02:48:28Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6459132488974336, 
+        "id": 5068871636615168, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-12-05T19:12:25Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 5225341791502336, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Can you include more details on interoperability? You didn't include anything specific to Brazil and just the same text as in other research briefs.", 
+        "created": "2018-12-05T19:12:19Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 6104948627472384, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-12-05T17:04:47Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6459132488974336, 
+        "id": 5642799861989376, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "Sources - https://docs.google.com/document/d/178Ecn8UmEuHCYWDkGzUI0utLfgKM12vpkcHv0_dxPSM", 
+        "created": "2018-12-05T17:04:24Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6459132488974336, 
+        "id": 5754780396814336, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "https://docs.google.com/document/d/15eoasxTWvb4mYLgFNggkeY8l4ijCicckv98u6Revb0s", 
+        "created": "2018-12-05T17:03:51Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6459132488974336, 
+        "id": 6262938311589888, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6607335247052800, 
+        "author": {
+            "display_name": "Abhi Kulshrestha", 
+            "program_year": 2018, 
+            "id": 6459132488974336
+        }, 
+        "text": "", 
+        "created": "2018-12-05T13:57:47Z", 
+        "task_definition_name": "Mifos - Write a Fintech Research Brief on Digital Financial Services in Brazil", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6459132488974336, 
+        "id": 5366255054749696, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,33 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5636663578460160, 
+    "tags": [
+        "swahili", 
+        "translation", 
+        "andriod", 
+        "mifos-mobile", 
+        "kiswahili"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-25 09:53:05", 
+    "max_instances": "1", 
+    "id": 5323876276895744, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-25 09:53:02", 
+    "deadline": "2018-11-29 06:47:16", 
+    "submitted_date": "2018-11-25 06:48:43", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile App: Do the translation of the app in Swahili (Kiswahili)", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into Swahili (Kiswahili) Language. We already have Swahili (Kiswahili) language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in Swahili (Kiswahili) and translate the existing ones into Swahili (Kiswahili).\n\nThis would enable the localization feature app which is very much awaited feature in the community."
+}

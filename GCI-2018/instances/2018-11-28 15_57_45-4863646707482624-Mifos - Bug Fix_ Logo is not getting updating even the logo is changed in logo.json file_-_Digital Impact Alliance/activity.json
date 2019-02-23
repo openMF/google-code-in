@@ -1,0 +1,191 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "Nice work jz53!\nChanges looks good to me as well!", 
+        "created": "2018-11-28T15:57:41Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4739197668687872, 
+        "id": 5901510455066624, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2018, 
+            "id": 6193081494798336
+        }, 
+        "text": "", 
+        "created": "2018-11-28T14:36:09Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 6193081494798336, 
+        "id": 5078649465208832, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2018, 
+            "id": 6193081494798336
+        }, 
+        "text": "Just reviewed the work and it looks good. Yeah I also noticed the issue with 'grunt validate'. Its not from your end.", 
+        "created": "2018-11-28T14:36:02Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6193081494798336, 
+        "id": 4850267548811264, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "Daniel Carlson", 
+            "program_year": 2018, 
+            "id": 6193081494798336
+        }, 
+        "text": "Hi jz53, I'll take a look and get back to you", 
+        "created": "2018-11-28T14:32:45Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6193081494798336, 
+        "id": 5887889083727872, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "No problem at all.", 
+        "created": "2018-11-28T14:30:34Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 6735467878809600, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Apologies for the delay. One of our mentors has been working on a release and not able to review yet. I've pinged some other mentors.", 
+        "created": "2018-11-28T14:16:49Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 6412837569167360, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-27T22:48:16Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 4738882470936576, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "https://github.com/openMF/community-app/pull/3054\n\nI had some errors running 'grunt validate' and opening 'SpecRunner.html' but I believe those tests may be dysfunctional for some reason? I didn't make big changes to the code so please review and see if it is good for merge.", 
+        "created": "2018-11-27T22:48:11Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6588902790922240, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 4863646707482624, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-11-27T22:37:43Z", 
+        "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5435623390314496, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

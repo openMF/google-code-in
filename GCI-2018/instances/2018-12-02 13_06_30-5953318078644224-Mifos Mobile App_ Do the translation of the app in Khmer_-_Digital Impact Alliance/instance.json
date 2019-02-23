@@ -1,0 +1,32 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4937021949739008, 
+    "tags": [
+        "translation", 
+        "khmer", 
+        "andriod", 
+        "mifos-mobile"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-12-02 13:06:30", 
+    "max_instances": "1", 
+    "id": 5953318078644224, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-02 13:06:26", 
+    "deadline": "2018-12-05 17:21:52", 
+    "submitted_date": "2018-12-01 17:24:25", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile App: Do the translation of the app in Khmer", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into Khmer Language. We already have Khmer language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in Khmer and translate the existing ones into Khmer.\n\nThis would enable the localization feature app which is very much awaited feature in the community."
+}

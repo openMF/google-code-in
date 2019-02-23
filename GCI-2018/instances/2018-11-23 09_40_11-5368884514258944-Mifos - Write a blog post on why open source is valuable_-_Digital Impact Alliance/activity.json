@@ -1,0 +1,296 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "", 
+        "created": "2018-11-23T09:40:10Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5829865723920384, 
+        "id": 5949885812572160, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-22T15:23:03Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 5657421222510592, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "Anuj, we'll give you one shot to rectify this as we know you're learning but plagiarism is not acceptable. This blog post is supposed to be your own personal reflections and writings. While you of course can and should research external sources you must cite or quote anything you're copying directly. \n\nA significant portion of your post is directly copied from https://www.infoq.com/articles/vulnerability-open-source", 
+        "created": "2018-11-22T15:22:52Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 5780209103011840, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "", 
+        "created": "2018-11-22T13:40:43Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5829865723920384, 
+        "id": 6572576278052864, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "https://docs.google.com/document/d/1koh0BQPGy9dsJTPv4EF8Vr9-PKx_GtBmF1S3GKy-I9A/edit", 
+        "created": "2018-11-22T13:40:39Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5829865723920384, 
+        "id": 5076514111488000, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "now see", 
+        "created": "2018-11-22T13:40:18Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5829865723920384, 
+        "id": 6313237965438976, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-21T01:58:34Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 6347756886032384, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "", 
+        "created": "2018-11-21T01:58:34Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5768230007209984, 
+        "id": 6631138559787008, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "edcable@mifos.org is my address.", 
+        "created": "2018-11-21T01:58:32Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 4904579859742720, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "Edward Cable", 
+            "program_year": 2018, 
+            "id": 5768230007209984
+        }, 
+        "text": "You need to share with me so I can read. I don't have access to the Google Doc.", 
+        "created": "2018-11-21T01:58:24Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5768230007209984, 
+        "id": 6163531578736640, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "", 
+        "created": "2018-11-20T14:57:30Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5829865723920384, 
+        "id": 4611439785410560, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "or   https://drive.google.com/drive/my-drive?ogsrc=32", 
+        "created": "2018-11-20T14:57:25Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5829865723920384, 
+        "id": 5691644159459328, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "https://docs.google.com/document/d/1koh0BQPGy9dsJTPv4EF8Vr9-PKx_GtBmF1S3GKy-I9A/edit", 
+        "created": "2018-11-20T14:56:48Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5829865723920384, 
+        "id": 5701421618954240, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5368884514258944, 
+        "author": {
+            "display_name": "anuj gupta", 
+            "program_year": 2018, 
+            "id": 5829865723920384
+        }, 
+        "text": "", 
+        "created": "2018-11-20T14:56:24Z", 
+        "task_definition_name": "Mifos - Write a blog post on why open source is valuable", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5829865723920384, 
+        "id": 5852949071790080, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

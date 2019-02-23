@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Go to Admin>products and then either Recurring Deposit Products(RD) or Fixed Deposit(FD) products.\nClick on 'Create Fixed Deposit product' or 'Create Recurring Deposit product'\n\nAfter furnishing all the details, There is a field 'Description' which is mandatory. It should not be mandatory.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-31T12:39:56Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2335", 
+    "id": 6501573577408512, 
+    "available_count": 0, 
+    "name": "Mifos - Bug Fix: Description field should be non-mandatory in create RD/FD product"
+}

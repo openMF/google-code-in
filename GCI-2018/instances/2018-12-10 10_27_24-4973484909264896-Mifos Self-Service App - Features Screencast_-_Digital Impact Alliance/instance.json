@@ -1,0 +1,31 @@
+{
+    "student_display_name": "ethan627hsu", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5110297439240192, 
+    "tags": [
+        "mifos mobile", 
+        "documentation", 
+        "screencast"
+    ], 
+    "student_id": 5293817197494272, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-12-10 10:27:24", 
+    "max_instances": "2", 
+    "id": 4973484909264896, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-10 10:27:20", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-10 08:19:13", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self-Service App - Features Screencast", 
+    "categories": [
+        "3"
+    ], 
+    "description": "You have to create a proper feature Screencast for Self-Service which should explain the features of the app. This screencast will help users in future to learn and get a little overview of the functionality on how to use the app.\n\nProject Link - https://github.com/openMF/mifos-mobile\nDemo (for another Mifos Project, last year during GCI) - https://www.youtube.com/watch?v=8RpfL_9BUIM"
+}

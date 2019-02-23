@@ -1,0 +1,33 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "if you again click on disbursement date then the error 'Required Field' error goes. It happens in other date picker scenarios as well. Most of the time, this issue arises when data picker field is empty, ie.. not filled by the system.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "mohitbajo36@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:39:32Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2972", 
+    "id": 5607383800741888, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: While Creating loan application if you select disbursement date , it still shows 'Required field'"
+}

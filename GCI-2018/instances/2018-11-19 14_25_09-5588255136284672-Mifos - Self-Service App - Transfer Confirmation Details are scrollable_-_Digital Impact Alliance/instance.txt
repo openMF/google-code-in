@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5588255136284672 | Task Definition ID 6729742385414144
+Max instances: 1
+
+Title: Mifos - Self-Service App - Transfer Confirmation Details are scrollable
+Description: Summary:
+
+Transfer Confirmation Details are scrollable
+
+Steps to reproduce:
+
+Transfer > Click any Transfer from pop-up > Fill Details and Review
+
+Expected behaviour:
+
+Confirmation Details are scrollable
+
+Observed behaviour:
+
+Instead, they should be non-scrollable, for better User Experience
+
+Device and Android version:
+
+Marshmallow, Xiaomi
+Tags: android, code
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: sakshamhandu@gmail.com
+Student: Miguel Dinis (ID 4707482623541248)
+
+Status: COMPLETED (2018-11-22 13:07:00)
+Last modified: 2018-11-19 14:25:09

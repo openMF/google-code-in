@@ -1,0 +1,31 @@
+{
+    "student_display_name": "letelete", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6290740154990592, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 6278250746609664, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-11-09 20:51:40", 
+    "max_instances": "1", 
+    "id": 4558681984204800, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-09 20:51:35", 
+    "deadline": "2018-11-14 07:25:08", 
+    "submitted_date": "2018-11-09 19:41:31", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet: Add Remove Profile Picture Option", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nCurrently, we are only having feature of Changing the Profile Picture. We want a Remove Profile Picture Option too. This can be achieved by when an user clicks on the profile picture a BottomSheetDialog comes up and shows both the option.\n\nSteps to reproduce:\n\nDashboard -> Profile -> Edit Profile -> Change Photo.\n\nExpected behavior:\n\nApp would provide me the option of Removing the profile picture too.\n\nObserved behavior:\n\nThere was no option to remove profile picture."
+}

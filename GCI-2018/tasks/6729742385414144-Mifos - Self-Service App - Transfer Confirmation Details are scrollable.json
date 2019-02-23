@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Summary:\n\nTransfer Confirmation Details are scrollable\n\nSteps to reproduce:\n\nTransfer > Click any Transfer from pop-up > Fill Details and Review\n\nExpected behaviour:\n\nConfirmation Details are scrollable\n\nObserved behaviour:\n\nInstead, they should be non-scrollable, for better User Experience\n\nDevice and Android version:\n\nMarshmallow, Xiaomi", 
+    "tags": [
+        "android", 
+        "code"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-16T13:46:41Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/930", 
+    "id": 6729742385414144, 
+    "available_count": 0, 
+    "name": "Mifos - Self-Service App - Transfer Confirmation Details are scrollable"
+}

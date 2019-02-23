@@ -1,0 +1,229 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": null, 
+        "text": "", 
+        "created": "2018-11-01T19:13:09Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 5985338238435328, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "", 
+        "created": "2018-10-30T04:58:25Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5348715419140096, 
+        "id": 6642772774748160, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Hello cweckle, \n\nYou have to list only open issues in the sheet. You can find the list of all open issues here - \n\nhttps://github.com/openMF/android-client/issues\n\nFrom these issues, you have to sort issues as \"open\", \"closed\" or \"in-progress\"\n\nYou can classify an issue as \"closed\" if someone sent a pull request to that issue and the pull request for that issue got merged. \n\nHere's an example - \n\nhttps://github.com/openMF/android-client/issues/716\n\nPlease notice that the issue mentioned above is still open and not closed. It has the green coloured \"open\" tag below the name of the issue. You have to include issues similar to the one mentioned above in the sheet.\n\nI have noticed that you have included several closed issues in the sheet, can you please remove them and add relevant issues like the one mentioned above. While adding issues to the sheet please make sure to only include those issues that are open, as we only want to sort open issues present in our GitHub repository\n\nAlso, you have incorrectly marked the status of the issue mentioned in cell 17A, the issue mentioned in this cell has already recieved a pull request, hence its status should be \"in-progress\" and it should be marked with \"blue\" colour and not \"green\"\n\nAlso, the issue mentioned in the cell 12A was recently closed and hence should be removed from the sheet as we only want to sort open issues. \n\nEverything else in the sheet is perfect; you are doing great. Can you please make these changes and then get back to us?  (^_^)", 
+        "created": "2018-10-30T04:58:13Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5348715419140096, 
+        "id": 5475877673500672, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "cweckle", 
+            "program_year": 2018, 
+            "id": 6311206064226304
+        }, 
+        "text": "", 
+        "created": "2018-10-30T02:19:25Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6311206064226304, 
+        "id": 5149717387280384, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "cweckle", 
+            "program_year": 2018, 
+            "id": 6311206064226304
+        }, 
+        "text": "https://docs.google.com/spreadsheets/d/1X8Qu4hH1cJfTE19P9boOJyjgWalYa96jdorM4lniVjY/edit?usp=sharing\n\nI updated the last two rows, I had marked them as Open because I couldn't find a pull request for them, but the issues were closed without a pull request, so that makes sense. Not sure what you mean with row 13? Please look at the updated spreadsheet and let me know if there's anything else I should change. Thanks!", 
+        "created": "2018-10-30T02:19:21Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6311206064226304, 
+        "id": 5136983950098432, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2018, 
+            "id": 4943981172490240
+        }, 
+        "text": "", 
+        "created": "2018-10-29T16:54:30Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4943981172490240, 
+        "id": 4925192737390592, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2018, 
+            "id": 4943981172490240
+        }, 
+        "text": "Can you update the file by verifying the last two issues - those seem to be out of sync with the status and the one I changed - row#13?", 
+        "created": "2018-10-29T16:54:25Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4943981172490240, 
+        "id": 5207352694276096, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2018, 
+            "id": 4943981172490240
+        }, 
+        "text": "I've closed an issue - row #13. I did that by going through your submission only. So, don't worry.", 
+        "created": "2018-10-29T16:48:23Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4943981172490240, 
+        "id": 5304995084763136, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "cweckle", 
+            "program_year": 2018, 
+            "id": 6311206064226304
+        }, 
+        "text": "", 
+        "created": "2018-10-29T00:03:57Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6311206064226304, 
+        "id": 5154946140864512, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "cweckle", 
+            "program_year": 2018, 
+            "id": 6311206064226304
+        }, 
+        "text": "https://docs.google.com/spreadsheets/d/1X8Qu4hH1cJfTE19P9boOJyjgWalYa96jdorM4lniVjY/edit?usp=sharing", 
+        "created": "2018-10-29T00:03:51Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6311206064226304, 
+        "id": 4987887180316672, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5761868875431936, 
+        "author": {
+            "display_name": "cweckle", 
+            "program_year": 2018, 
+            "id": 6311206064226304
+        }, 
+        "text": "", 
+        "created": "2018-10-28T23:42:42Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6311206064226304, 
+        "id": 4756323750117376, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

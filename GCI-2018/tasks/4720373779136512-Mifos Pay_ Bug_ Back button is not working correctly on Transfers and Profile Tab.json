@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Summary:\n\nWhen I click mobile's back button while I am either on Transfers or Profile Tab, it closes the app whereas in a ideal situation user should be taken to Home tab.\n\n## Steps to reproduce:\n\nOpen the app -> Go to either Transfers or Profile Tab -> Press back button of Mobile\n\n## Expected behaviour:\n\nWhen back button is pressed, user is taken to the Home Screen/Tab.\n\n## Observed behaviour:\n\nWhen back button is pressed, the app gets closed.\n\n## Device and Android version:\n\nPixel 2 XL", 
+    "tags": [
+        "android", 
+        "bug", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-26T13:11:10Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/108", 
+    "id": 4720373779136512, 
+    "available_count": 0, 
+    "name": "Mifos Pay: Bug: Back button is not working correctly on Transfers and Profile Tab"
+}

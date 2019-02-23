@@ -1,0 +1,35 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6152936632614912 | Task Definition ID 4632352685817856
+Max instances: 1
+
+Title: Mifos Mobile Wallet: Bug Fix - Cannot change the mobile number
+Description: Summary:
+
+There is option to change the mobile number but it gives an error.
+
+Steps to reproduce:
+
+Dashboard -> Profile -> Edit Profile -> Change Mobile Number.
+
+Expected behavior:
+
+I would be able to change the Mobile Number without any error.
+
+Observed behavior:
+
+When tried to change the email Id, error pops up.
+
+Device and Android version:
+
+Android Emulator Pixel 2 (Marshmallow)
+Tags: mobile wallet, android, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: letelete (ID 6278250746609664)
+
+Status: COMPLETED (2018-11-13 22:04:04)
+Last modified: 2018-11-10 14:53:38

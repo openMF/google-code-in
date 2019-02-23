@@ -1,0 +1,31 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 4588433088446464 | Task Definition ID 4841843373113344
+Max instances: 1
+
+Title: Mifos Mobile Wallet: Add Checks while storing cards
+Description: Summary:
+
+There should be some checks which are required for when we store cards. Currently, we do not have any checks.
+
+Steps to reproduce:
+
+Dashboard -> Saved Cards -> Add Card -> Try different things like leave some TextField empty or input a expired date.
+
+Expected behavior:
+
+There would be various checks while a user is adding a card like if a user has left any field empty then there would be some error.
+
+Observed behavior:
+
+There were no checks and user can even store a empty card.
+Tags: mobile wallet, android, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-14 14:42:30)
+Last modified: 2018-11-10 08:38:44

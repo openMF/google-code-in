@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "The calendar used to create loans has an issue with it's date pickers. In order to reproduce this error, try creating a new loan. Notice that date pickers for Submission date and Expected Disbursement offer selectable dates from the past which is an anomaly. We expect that the Submission Date's date picker should offer Today's date while offering previous dates as non-selectable. Also, the Expected Disbursement Date should offer selectable future dates ( after Today's date ).", 
+    "tags": [
+        "Android"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-25T17:48:30Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/898", 
+    "id": 5235708571680768, 
+    "available_count": 0, 
+    "name": "Mifos Self Service Android - Fix Calendar On Creating Loans"
+}

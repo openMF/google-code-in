@@ -1,0 +1,26 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 6568933126569984 | Task Definition ID 5503510620667904
+Max instances: 2
+
+Title: Mifos - Bug Fix: On employee creation, "joined on" field has no sign of showing it mandatory
+Description: When creating an employee, a joined on filled has no sign of showing its mandatory
+Go to Admin, then Organisation, then manage employee, create employee, fill all the fields except the "joined on" field, when you submit you will get an error that the filed can not be blank
+Expected Behaviour
+The field should have the sign to show that it should not be left blank
+Actual Behaviour
+There is no sign to show the field is mandatory
+
+### How to Submit
+
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+Tags:  Community App,  Bugfix,  Angular,  Web, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: gkrishnan724@gmail.com, shruthi@confluxtechnologies.com, santosh@confluxtechnologies.com, ankit123rudra@gmail.com
+Student: Palash (ID 5510056989687808)
+
+Status: COMPLETED (2018-11-08 06:41:42)
+Last modified: 2018-11-05 09:29:41

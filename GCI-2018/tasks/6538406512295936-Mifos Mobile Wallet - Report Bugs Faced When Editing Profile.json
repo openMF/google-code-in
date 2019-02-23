@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "One can change current password, passcode, email, mobile number in edit profile option of the MifosPay App. The objective of this task is to test the edit profile use case and give a detailed bugs report about the User Interface and User Experience.\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too.", 
+    "tags": [
+        "Mifos", 
+        " Mobile Wallet", 
+        " Testing", 
+        " Edit Profile", 
+        " Bug Report"
+    ], 
+    "claimed_count": 5, 
+    "completed_count": 5, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "rahul.usit12@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 6, 
+    "private_metadata": "", 
+    "categories": [
+        4
+    ], 
+    "last_modified": "2018-11-11T13:45:37Z", 
+    "external_url": "https://drive.google.com/open?id=1cp7jCcqIuISmBxJ-obNU7tspcU8kOA3D", 
+    "id": 6538406512295936, 
+    "available_count": 1, 
+    "name": "Mifos Mobile Wallet - Report Bugs Faced When Editing Profile"
+}

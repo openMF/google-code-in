@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Implement the initial layouts as proposed here: https://xd.adobe.com/view/8581e34d-8b91-49ec-7c21-000d98c8f18b-f3b0/?hints=off\n\nThe repository is at https://github.com/openMF/mobile-wallet.\n\nPlease find the attached latest build of MifosPay app. \n\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mobile-wallet) too.", 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-04T17:26:30Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/113", 
+    "id": 5135634554421248, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet - Implement Initial Layouts for Redesign"
+}

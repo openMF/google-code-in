@@ -1,0 +1,25 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "You have to write a proper step-by-step features Documentation with proper images for Self-Service which should explain the features of the app. This documentation will help users in future to learn and get a brief overview of the functionality on how to use the app.\n\nProject Link - https://github.com/openMF/mifos-mobile", 
+    "tags": [
+        "documentation"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2018-11-15T04:45:37Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile", 
+    "id": 6290631505739776, 
+    "available_count": 2, 
+    "name": "Mifos Self-Service App - Features Documentation"
+}

@@ -1,0 +1,18 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5852712747925504 | Task Definition ID 4886136250957824
+Max instances: 9
+
+Title: Mifos - Convert PPI Scorecard and Lookup Tables for Three Countries
+Description: ## Objective 
+The PPI (Poverty Probability Index) is a ten-question survey with lookup tables to assess how much a client a is moving out of poverty. It's a valuable social impact measurement tool and we have support in Mifos for capturing these surveys. However the surveys must be in XML format. Please refer to the main ticket https://mifosforge.jira.com/browse/MIFOSX-2407 and complete the manual conversion process for three countries starting from the top of the list and moving down working on the sub-tasks that aren't in progress or resolved.
+Tags: xml,  statistics,  data migration,  Mifos,  surveys
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: edcable@mifos.org, guptachirag2002@gmail.com
+Student: jz53 (ID 4890377967370240)
+
+Status: COMPLETED (2018-11-14 03:33:37)
+Last modified: 2018-11-12 15:06:28

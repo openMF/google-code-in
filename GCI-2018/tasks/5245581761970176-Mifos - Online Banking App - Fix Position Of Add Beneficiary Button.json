@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "The \"Add Beneficiary\" button is not well positioned as it dangles when the page is scrolled up and down. This task is considered done when the \"Add Beneficiary\" button remains in place even when scrolling happens.", 
+    "tags": [
+        " AngularJs", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ankit123rudra@gmail.com", 
+        "gkrishnan724@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-25T18:32:40Z", 
+    "external_url": "https://github.com/openMF/web-self-service-app/issues/118", 
+    "id": 5245581761970176, 
+    "available_count": 1, 
+    "name": "Mifos - Online Banking App - Fix Position Of Add Beneficiary Button"
+}

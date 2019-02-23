@@ -1,0 +1,359 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "No problem! It was a fun experience :D", 
+        "created": "2018-12-04T11:01:23Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 5625942031466496, 
+        "id": 6628646992216064, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "Great Job!\n\n+1 for making the gif of Level 1", 
+        "created": "2018-12-04T10:10:26Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5812858106413056, 
+        "id": 5568972461178880, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "", 
+        "created": "2018-12-04T10:09:12Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5812858106413056, 
+        "id": 4660031032131584, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-04T08:50:30Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5625942031466496, 
+        "id": 6176392908636160, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Ok, thank you very much :) I still went ahead and made a gif of level 1 since it works perfectly.\n\nhttps://gist.github.com/mitchLui/8c4ea97f0ba8b8a4a7aae6572c82b50b", 
+        "created": "2018-12-04T08:50:06Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6002927366832128, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "Please submit the task so that I can approve it.", 
+        "created": "2018-12-04T08:43:43Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5812858106413056, 
+        "id": 5910627580116992, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "Hey mitchLui,\n\nI have checked the upload document functionality and unfortunately, it is not working. We will soon fix this issue.\n\nFor the time being, I am approving your task. Go ahead and pick a new one :)\n\nAll the best!", 
+        "created": "2018-12-04T08:42:57Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5812858106413056, 
+        "id": 5954277265637376, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "I tried using PDF, PNG and JPG, nothing works.", 
+        "created": "2018-12-03T20:00:18Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6034007629234176, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Hi, I keep on trying to upload the document for Level 2 KYC but I'm getting errors. What can I do to resolve this?", 
+        "created": "2018-12-03T19:48:21Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 5186329613697024, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "Ok, I\u00e2\u20ac\u2122ll get to work right now!", 
+        "created": "2018-12-03T09:41:48Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5625942031466496, 
+        "id": 6661380364042240, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "", 
+        "created": "2018-12-03T09:32:49Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5812858106413056, 
+        "id": 6187792372596736, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "Hemant Gupta", 
+            "program_year": 2018, 
+            "id": 5812858106413056
+        }, 
+        "text": "Hey mitchLui,\n\nWonderful work so far! \n\nOne thing that you can improve that instead of just putting snapshots of the features, compile them into a gif which demonstrates filling all the fields with sample data for each KYC Level. \n\nYou can skip KYC Level 3 as it is not functional yet.", 
+        "created": "2018-12-03T09:32:44Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5812858106413056, 
+        "id": 6632157658218496, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "https://gist.github.com/mitchLui/8c4ea97f0ba8b8a4a7aae6572c82b50b\n\nplease use this link, I changed my username haha", 
+        "created": "2018-12-02T22:05:40Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5625942031466496, 
+        "id": 5557600545406976, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-02T20:45:58Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5625942031466496, 
+        "id": 4869364433027072, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "https://gist.github.com/TechieWeirdo/8c4ea97f0ba8b8a4a7aae6572c82b50b\n\nI went ahead and included a description for level 3. If you want me to remove it just let me know! :D", 
+        "created": "2018-12-02T20:45:51Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 6633714986516480, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "I see that level 3 is not functional but it is showing the UI. Would you like me to include level 3 as well or just write about levels 1 and 2 only?", 
+        "created": "2018-12-02T18:29:45Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 6341677074612224, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6549320372322304, 
+        "author": {
+            "display_name": "mitchLui", 
+            "program_year": 2018, 
+            "id": 5625942031466496
+        }, 
+        "text": "", 
+        "created": "2018-12-02T14:28:16Z", 
+        "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost Demonstrating The KYC Level 1 & 2 Use Cases", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5625942031466496, 
+        "id": 4550124077318144, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

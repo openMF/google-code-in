@@ -1,0 +1,19 @@
+Problems while signing up in Mifos Wallet:
+
+(1) After selecting 'Merchant'/'Customer' and keeping 'Ease my sign up using Google Account', there is no loading screen when loading the list of Google accounts. It seems the app has frozen.
+
+(2) Sign up using Google account fails every time.
+
+(3) The keyboard should only show numbers (only numerical keyboard) when typing in mobile number instead of the complete keyboard with numbers.
+
+(4) The mobile number edit text is very small in size, as a result, the last digit is not completely visible. So the next button should be moved below the edit text but should be kept above the keyboard to avoid it being hidden by keyboard (as in attached image).
+
+(5) Next button gets hidden after the keyboard comes up when the user is entering OTP after entering the mobile number for signing up (Create one > Merchant or Customer > Enter Number > OTP).
+
+(6) The username field should not contain any whitespace characters.
+
+(7) There should be a check on password field for a minimum number of characters (usually 8).
+
+(8) Email id should be validated. Text without `@` is being accepted as an email id.
+
+(9) 'Name of Business' field should not be mandatory for customer sign up.

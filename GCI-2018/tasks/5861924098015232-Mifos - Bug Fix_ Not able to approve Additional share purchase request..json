@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "I am able to apply additional shares but not able to approve them . Check here:\n\nhttps://demo.openmf.org/#/shareaccount/108/approveadditionalshares (mifos/password)\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-05T08:39:04Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2977", 
+    "id": 5861924098015232, 
+    "available_count": 1, 
+    "name": "Mifos - Bug Fix: Not able to approve Additional share purchase request."
+}

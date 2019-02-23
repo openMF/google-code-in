@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Summary\n\nYou have to do translation of the our Mifos Mobile App into Kannada Language. We already have Kannada language file, but currently it have English String values only and some String values are missing. You have to add the missing values String values in Kannada and translate the existing ones in Kannada.\n\nThis would enable the localization feature app which is very much awaited feature in the community.", 
+    "tags": [
+        "translation", 
+        "mifos-mobile", 
+        "andriod", 
+        "kannada"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-19T13:44:15Z", 
+    "external_url": null, 
+    "id": 6712406924328960, 
+    "available_count": 0, 
+    "name": "Mifos Mobile App: Do the translation of the app in Kannada"
+}

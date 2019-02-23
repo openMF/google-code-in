@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "**NOTICE** \n\n**Remember to checkout and send a pull request to the [redesign](https://github.com/openMF/mobile-wallet/tree/redesign)  branch.**\n\n---\n\nWe are working on the app redesign. The prototype is done and can be found here: [show prototype](https://xd.adobe.com/view/8581e34d-8b91-49ec-7c21-000d98c8f18b-f3b0/?hints=off), and source files here: [show repository](https://github.com/letelete/mifos-pay-app-design). We will be working on the redesign implementation now.\n\nThis issue is about redesigning a profile section.\n\n**NOTICE** Don't implement the connection between edit profile yet. We will add it when the edit profile layout will be redesigned. Just add methods like OnClick and leave a `// TODO: EDIT PROFILE` comment. \n\nThat's what we want to achieve:\n\n* Add OnClick method for the user image\n* Add onClick method for the `EDIT PROFILE` button\n\n![image](https://user-images.githubusercontent.com/18665370/49588636-89952200-f967-11e8-9eb7-89c2e317229e.png)", 
+    "tags": [
+        "redesign", 
+        "android", 
+        "mifos pay"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2018-12-06T19:14:54Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/120", 
+    "id": 5865054386782208, 
+    "available_count": 0, 
+    "name": "Redesign Profile Section of Mifos Pay App"
+}

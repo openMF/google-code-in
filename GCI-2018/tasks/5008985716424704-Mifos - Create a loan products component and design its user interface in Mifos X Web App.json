@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Objective\nThe objective is to create a loan products component and design its user interface.\n\n### Description\n1. Create a loan products component under the products section.\n2. Connect it via routing from the products component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the loan products component using angular material components and flex layout directives to ensure responsiveness. \n\n#### References\nYou may have a look at the current implemented components in the `accounting` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\n**Please Note:** This task does not involve writing the code for functionality (API requests) and documentation (comments) which could be expected as a separate task after the completion of this task. Although, it would be highly appreciated if the student is able to complete the same here itself. Do remember, quality over quantity is the key!", 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2018-11-19T03:18:27Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/187", 
+    "id": 5008985716424704, 
+    "available_count": 1, 
+    "name": "Mifos - Create a loan products component and design its user interface in Mifos X Web App"
+}

@@ -1,0 +1,17 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5979567111012352 | Task Definition ID 6218784441368576
+Max instances: 1
+
+Title: Mifos Self Service Android - Fix EditText Errors On Login Screen
+Description: When the Login Button is clicked, Error text beneath EditText should always be shown. To reproduce this error, try logging into the app with wrong credentials. You would expect that errors for all EditText be shown as on apps like Paypal. This doesn't happen and this task is considered fixed when error text is displayed normally.
+Tags: Android
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: sakshamhandu@gmail.com, guptachirag2002@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-11 12:03:08)
+Last modified: 2018-11-02 09:55:31

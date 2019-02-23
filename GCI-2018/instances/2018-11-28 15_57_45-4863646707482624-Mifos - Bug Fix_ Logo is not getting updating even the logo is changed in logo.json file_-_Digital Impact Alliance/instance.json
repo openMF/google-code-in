@@ -1,0 +1,34 @@
+{
+    "student_display_name": "jz53", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 6629410527510528, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 4890377967370240, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-28 15:57:45", 
+    "max_instances": "1", 
+    "id": 4863646707482624, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-28 14:36:10", 
+    "deadline": "2018-11-30 22:37:43", 
+    "submitted_date": "2018-11-27 22:48:16", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "danCarl758@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Bug Fix: Logo is not getting updating even the logo is changed in logo.json file", 
+    "categories": [
+        "1"
+    ], 
+    "description": "In login page , the logo next to MifosX (check the screenshot) is not getting updated even the logo is changed in logo.json file.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal."
+}

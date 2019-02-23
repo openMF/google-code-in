@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Create User Interface to display User Details which should have fields similar to the GIF (added in the link). Explain the flow of the design on GITHUB Gist and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)", 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "claimed_count": 3, 
+    "completed_count": 3, 
+    "mentors": [
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        2
+    ], 
+    "last_modified": "2018-12-03T05:01:30Z", 
+    "external_url": "https://imgur.com/YYsuIq7", 
+    "id": 6562927319449600, 
+    "available_count": 0, 
+    "name": "Mifos Self-Service App - Create UI design for Login Activity"
+}

@@ -1,0 +1,30 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4965967089106944, 
+    "tags": [
+        "mobile wallet", 
+        "android", 
+        "mifos"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2018-11-16 12:01:05", 
+    "max_instances": "1", 
+    "id": 4989183702597632, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-16 12:01:04", 
+    "deadline": "2018-11-19 14:54:33", 
+    "submitted_date": "2018-11-16 11:01:16", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Bad keyboard behavior during \"new passcode\" flow", 
+    "categories": [
+        "1"
+    ], 
+    "description": "**Summary:**\n\nWhen adding a new passcode, the EditTexts allow the user to type in letters (for a only number password), and an infinite amount of characters (for a 4 digit passcode). \nTo change the passcode, we'll be directing user to mifos-passcode library. If you want to work on the task to change passcode, please visit:-\nhttps://github.com/openMF/mifos-passcode\n\n**Steps to reproduce:**\n\nVisit the profile section and go to the editor by pressing the edit icon in the top right. In the editor, try updating the passcode. The EditTexts should have the behavior described in the summary.\n\n**Expected behavior:**\n\nThe EditTexts should only allow valid 4-digit number passcodes\n\n**Observed behavior:**\n\nThe EditTexts allow the user to type in letters (for a only number password), and an infinite amount of characters (for a 4 digit passcode)\n\n**Device and Android version:**\n\nGoogle Pixel, Android 9.0 Pie\n\n**Screenshots:**\n\n![image](https://user-images.githubusercontent.com/24931732/48317533-ad538b00-e5a8-11e8-8478-6d03197e9f4c.png)"
+}

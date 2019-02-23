@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5684138100129792, 
+    "tags": [
+        "android", 
+        "code", 
+        "mifos-mobile"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-11-21 05:35:09", 
+    "max_instances": "1", 
+    "id": 6146649270255616, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-21 03:54:48", 
+    "deadline": "2018-11-27 16:57:42", 
+    "submitted_date": "2018-11-20 18:36:47", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Self-Service App - App crashes on clicking Transaction in Loan Accounts", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nApp crashes on clicking Transaction in Loan Accounts\n\nSteps to reproduce:\n\nAccounts > Loan Account > Any withdrawn Loan Account > Transaction\n\nExpected behaviour:\n\nApp should not crash\n\nObserved behaviour:\n\nApp crash\n\nDevice and Android version:\n\nMarshmallow, Xiaomi"
+}

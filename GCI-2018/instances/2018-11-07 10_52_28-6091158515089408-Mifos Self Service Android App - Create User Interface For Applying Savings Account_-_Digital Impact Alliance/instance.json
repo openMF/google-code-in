@@ -1,0 +1,30 @@
+{
+    "student_display_name": "ethan627hsu", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5676435567017984, 
+    "tags": [
+        "android", 
+        "design"
+    ], 
+    "student_id": 5293817197494272, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2018-11-07 10:52:28", 
+    "max_instances": "0", 
+    "id": 6091158515089408, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-07 10:52:24", 
+    "deadline": "2018-11-10 05:52:10", 
+    "submitted_date": "2018-11-07 05:22:32", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "sakshamhandu@gmail.com", 
+        "manishk16x@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Self Service Android App - Create User Interface For Applying Savings Account", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Create User Interface for Applying Savings Account which should have fields similar to the GIF (added in the link). Explain the flow of the design and try to be as creative as possible without compromising the User Experience of the user\n\nRecommended Tools: Adobe XD (or any similar tool)"
+}

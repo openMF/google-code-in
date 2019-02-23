@@ -1,0 +1,33 @@
+{
+    "student_display_name": "mitchLui", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4654313746989056, 
+    "tags": [
+        " Blog", 
+        "Mifos", 
+        " Mobile Wallet", 
+        " Tutorial"
+    ], 
+    "student_id": 5625942031466496, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-12-02 14:20:50", 
+    "max_instances": "5", 
+    "id": 6358311214514176, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-02 14:20:15", 
+    "deadline": "2018-12-06 06:36:05", 
+    "submitted_date": "2018-12-02 14:09:59", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "gupta.hemant65@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Write A Blogpost To Demonstrate The Saved Cards and Bank Account Use cases", 
+    "categories": [
+        "3"
+    ], 
+    "description": "MifosPay has features to save credit cards, add new bank account, set UPI. The objective is to create a blog that demonstrate the Saved Cards Use cases and Bank Account Use cases. The link to the APK of the MifosPay App is provided as external link from this task.\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too."
+}

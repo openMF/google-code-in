@@ -1,0 +1,23 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5805666200453120 | Task Definition ID 6273564882763776
+Max instances: 1
+
+Title: Mifos - FINERACT-632 - Description in Saving Product should not be mandatory
+Description: The description field in savings product should not be mandatory. The UI is correct in showing that it shouldn't be mandatory but on the back-end the validation is enforcing that a value be added there.
+
+To test out go to https://demo.openmf.org (mifos/password). Go to Admin --> Products --> Savings Products --> Create New. Try to create a savings product by just filling out all the mandatory fields. Upon submission you will receive error.
+
+This task involves removing the distinction this requiring this field to be mandatory
+
+See https://issues.apache.org/jira/browse/FINERACT-632
+Tags: banking, mifos, fintech, fineract, java
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: shruthi@confluxtechnologies.com, santosh@confluxtechnologies.com, sanyam.bvcoe96@gmail.com, rahul.usit12@gmail.com
+Student: Malaal Dehlvi (ID 5288972474384384)
+
+Status: COMPLETED (2018-11-25 21:35:42)
+Last modified: 2018-11-25 07:56:34

@@ -1,0 +1,32 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "When viewing a Client, the list of DataTables does not scroll in the proper direction. Each button should scroll in its corresponding direction, but instead, both the right and the left buttons scroll in the right direction.\nOn the top nav-bar, click on Clients > Clients.\nSelect any Client from the list of clients.\nRight below the Client's name, there should be a horizontal list of DataTable names. These include \"General\", \"Address\", \"Family Members\", \nThere should be two arrow buttons on each side of the list, left (<) and right (>). Click on these buttons to scroll the list.\nExpected Behavior\nClicking the right (>) button should scroll the list in the right direction. Clicking the left (<) button should scroll the list in the left direction.\nActual Behavior\nClicking the right (>) button scrolls the list in the right direction. Clicking the left (<) button also scrolls the list in the right direction.\n\n### How to Submit\n\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Angular", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "shruthi@confluxtechnologies.com", 
+        "santosh@confluxtechnologies.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "max_instances": 0, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-12-10T13:55:21Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2779", 
+    "id": 5889349544574976, 
+    "available_count": 0, 
+    "name": "Mifos - Bug Fix: When viewing a Client, scroll button does not move in the proper direction"
+}

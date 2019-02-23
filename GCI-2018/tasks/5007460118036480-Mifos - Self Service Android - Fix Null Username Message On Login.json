@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Username is shown as \"null\" on login Try logging into app and observe that username is not displayed. This task is considered done when the username gets displayed on login.", 
+    "tags": [
+        "Android"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "rahul.usit12@gmail.com", 
+        "manishk16x@gmail.com", 
+        "guptachirag2002@gmail.com", 
+        "sakshamhandu@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-11-08T14:08:40Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/897", 
+    "id": 5007460118036480, 
+    "available_count": 0, 
+    "name": "Mifos - Self Service Android - Fix \"Null\" Username Message On Login"
+}

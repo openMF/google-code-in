@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Ishan Bhardwaj", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 4786984078802944, 
+    "tags": [
+        " Register Process", 
+        "Mifos", 
+        " Mobile Wallet", 
+        " Testing", 
+        " Bug Report"
+    ], 
+    "student_id": 6133265367826432, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-11 06:23:24", 
+    "max_instances": "5", 
+    "id": 5597289163784192, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-11 06:23:23", 
+    "deadline": "2018-11-15 06:10:13", 
+    "submitted_date": "2018-11-11 06:11:08", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Report Bugs faced while Signing up", 
+    "categories": [
+        "4"
+    ], 
+    "description": "One can signup on MifosPay as a consumer or a merchant. The objective is to test the sign-up use case (for both consumer and merchant) and give a detailed bugs report and feedback about the User Interface and experience. The link to the APK of the MifosPay \n App is provided as an external URL.\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too."
+}

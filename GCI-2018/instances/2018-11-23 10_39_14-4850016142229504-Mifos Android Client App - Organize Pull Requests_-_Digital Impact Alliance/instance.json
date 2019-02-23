@@ -1,0 +1,30 @@
+{
+    "student_display_name": "ahltrin", 
+    "status": "ABANDONED", 
+    "program_year": 2018, 
+    "task_definition_id": 4937408396132352, 
+    "tags": [
+        "QA", 
+        "documentation"
+    ], 
+    "student_id": 5418903837605888, 
+    "is_beginner": "True", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2018-11-23 10:39:14", 
+    "max_instances": "5", 
+    "id": 4850016142229504, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": null, 
+    "deadline": "2018-11-26 10:37:07", 
+    "submitted_date": null, 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "abhilash.ag1997@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Android Client App - Organize Pull Requests", 
+    "categories": [
+        "3"
+    ], 
+    "description": "The objective is to separate the ready-to-be-merged Pull Requests (PR) from the others\n\n1. Go through the Android Client's [PR](https://github.com/openMF/android-client/pulls)\n2. Check if the PR has been reviewed by someone\n  a - If it has been reviewed, and no change has been asked by the reviewer, mark it Reviewed - Ready to be Merged\n  b - If it has been reviewed, and some change has been asked by the reviewer, mark it Reviewed - Changes Needed\n  c - If it has not been reviewed, mark it Reviewed - NEED REVIEW\n\nYou have to submit a spreadsheet (you can use Microsoft Excel or Libre Office or Google sheets etc) with four columns\n1. First column => link to the PR\n2. Second column => name/heading as mentioned in the PR\n3. The third column should be the Status as described in the description above. Use color coding:\n   a - Green => ready to be merged\n   b - Blue => Reviewed but changes needed\n   c - Red => Need Review\n4. Fourth column => Date on which you checked the status. \n5. The submission should have at least 15 records. More records will add to the weight of your task. However, duplicate records - adding the same PR more than once - will have a negative effect. \n\nIf you need help, you can either contact the mentor assigned for the task or contact the public channel for the Android Client."
+}

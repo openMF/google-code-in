@@ -1,0 +1,31 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 5694552775065600 | Task Definition ID 5229179646771200
+Max instances: 1
+
+Title: Redesign Finances Tab of Mifos Pay app
+Description: **NOTICE** 
+
+**Remember to checkout and send a pull request to the [redesign](https://github.com/openMF/mobile-wallet/tree/redesign)  branch.**
+
+---
+
+We are working on the app redesign. The prototype is done and can be found here: [show prototype](https://xd.adobe.com/view/8581e34d-8b91-49ec-7c21-000d98c8f18b-f3b0/?hints=off), and source files here: [show repository](https://github.com/letelete/mifos-pay-app-design). We will be working on the redesign implementation now.
+
+This issue is about **preparing** a layout for the Finance section redesign and new features implementation. You will need to create a fragment for finances and tab layout for sections (Leave tabs empty for now), prepare fragments for the sections and check if you can easily move around these tabs.
+
+**NOTICE** This issue is NOT about redesigning a layout or implementing new features, and only about preparing Finance section for that.
+
+That's what we want to achieve:
+
+![image](https://user-images.githubusercontent.com/18665370/49590184-80a64f80-f96b-11e8-9b86-43d431dcc91f.png)
+Tags: redesign, android, mifos pay
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: letelete (ID 6278250746609664)
+
+Status: COMPLETED (2018-12-12 16:59:59)
+Last modified: 2018-12-09 11:51:15

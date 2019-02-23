@@ -1,0 +1,380 @@
+[
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-21T08:54:09Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 5835681256439808, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-21T08:40:53Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5305383225655296, 
+        "id": 5902141983031296, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Yeah, good job.\nAdd it to the gist.\n:+1:", 
+        "created": "2018-11-21T08:40:48Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5550044489973760, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-21T07:37:33Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 6453747686309888, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I've prepared a couple proposals. Is any of these match your concept? https://i.imgur.com/1Rn2R48.png", 
+        "created": "2018-11-21T07:37:28Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6278250746609664, 
+        "id": 5354828881461248, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-21T03:54:02Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6204126535876608, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "2 circle sin a row and 1 circle in a row above, but in-between the two circles in the row below. \n\nhttps://www.pelennapatchworks.co.uk/user/products/large/paper%20triangles.jpg\n\nEach vertex is one circular button.", 
+        "created": "2018-11-21T03:52:56Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 4922030882291712, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-20T17:16:34Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 5119998004559872, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I'm sorry, but I'm quite confused about what did you say. Would you like me to create something like this with these buttons? https://i.pinimg.com/564x/0c/a8/22/0ca822f47229c0eafdd3d11228e5eb35.jpg \n\nIf so, I don't really think it will look better because we have an odd number of buttons and creating some triangle shape of it might look really weird.\n\nI've created some 3 proposals tho, where I've completely removed gaps from layout. https://i.imgur.com/tR7wkSd.png", 
+        "created": "2018-11-20T17:16:31Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6278250746609664, 
+        "id": 5206509081329664, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "By this way the gap will be closed. All the buttons will be of shape Area. And design may look better.", 
+        "created": "2018-11-20T14:36:50Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6408648248000512, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "", 
+        "created": "2018-11-20T14:36:10Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5305383225655296, 
+        "id": 6129698980495360, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "Instead, of using irregular shape 3 rectangular buttons.", 
+        "created": "2018-11-20T14:35:58Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 6643000789696512, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "Saksham Handu", 
+            "program_year": 2018, 
+            "id": 5305383225655296
+        }, 
+        "text": "It's good. Don't you think if we add 3 circular buttons in shape of a triangle in the middle ? Wouldn't it look good.", 
+        "created": "2018-11-20T14:35:19Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5305383225655296, 
+        "id": 5086998562865152, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I've removed the gap between the UI elements, and the good thing is the action buttons are still in the green thumb zone.", 
+        "created": "2018-11-20T11:50:56Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4833770982080512, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-20T11:49:46Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4641305310265344, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "And design for this task is here: https://gist.github.com/letelete/3652d8c217b6051b854df586c6ad8c5e", 
+        "created": "2018-11-20T11:49:39Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 4899422174445568, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Just because I've made a lot of design tasks, I've prepared a preview gist, where I gathered all of these design proposals into one file and modified them all to achieve the consistent effect.\n\nYou can find it here: https://gist.github.com/letelete/66533ee00878ebe74ac498eeff14969f", 
+        "created": "2018-11-20T11:48:37Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 4521563266220032, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5121772262260736, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-20T11:26:47Z", 
+        "task_definition_name": "Mifos Self-Service App - Create UI design for selecting Beneficiary Mode", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5618129888608256, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

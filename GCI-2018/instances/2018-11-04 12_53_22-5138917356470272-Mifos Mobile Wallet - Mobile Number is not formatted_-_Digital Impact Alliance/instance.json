@@ -1,0 +1,31 @@
+{
+    "student_display_name": "Malaal Dehlvi", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5760290407841792, 
+    "tags": [
+        "Mobile Wallet", 
+        " Mifos", 
+        " Android"
+    ], 
+    "student_id": 5288972474384384, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-11-04 12:53:22", 
+    "max_instances": "1", 
+    "id": 5138917356470272, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-11-04 11:22:59", 
+    "deadline": "2018-11-07 17:59:25", 
+    "submitted_date": "2018-11-04 10:47:48", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Mobile Number is not formatted", 
+    "categories": [
+        "1"
+    ], 
+    "description": "**Summary:**\n\nMobile number is not correctly formatted, it is in raw form.\n\n**Steps to reproduce:**\n\nGo to Transfer Tab from Dashboard\n\n**Expected behavior:**\n\nI expected that mobile number would be well formatted according to its country code.\n\n**Observed behavior:**\n\nThe mobile number was not formatted"
+}

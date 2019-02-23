@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Our MifosForge wiki is used to house all of our user-facing documentation, how-to's and tutorials on the Mifos X distribution, and notes on community engagement and volunteer collaboration through programs like GSOC and GCI. You can find and fix broken links in our Mifos X User Zone, our Mifos X space, Community Engagement space, or our Mifos Developer Zone, As we've migrated content to Apache Fineract and new features are released, links sometimes tend to break. You should browse through the wiki and find/fix fifteen broken links. Once you've identified and fixed the broken link, please document these in a Google Sheet that you can share for completion of the task. If you have questions about where a link, should point to, please send an email to our mifos-users and Apache Fineract users mailing list. You should have write privileges to the wiki once you've created an account.\n\nSections of the wiki include:\n\n* User Zone: https://mifosforge.jira.com/wiki/spaces/docs/overview\n* Mifos X: https://mifosforge.jira.com/wiki/spaces/MIFOSX/overview\n* Community Engagement: https://mifosforge.jira.com/wiki/spaces/RES/overview", 
+    "tags": [
+        " wiki", 
+        " usability", 
+        "documentation", 
+        " mifos", 
+        " tech writing"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "santosh@confluxtechnologies.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 10, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2018-11-13T20:12:31Z", 
+    "external_url": "", 
+    "id": 6306602140303360, 
+    "available_count": 10, 
+    "name": "Mifos - Find/Fix Fifteen Broken Links on our MifosForge Wiki"
+}

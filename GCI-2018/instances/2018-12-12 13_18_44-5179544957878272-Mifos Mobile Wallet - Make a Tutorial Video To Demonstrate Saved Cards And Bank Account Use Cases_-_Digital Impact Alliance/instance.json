@@ -1,0 +1,33 @@
+{
+    "student_display_name": "mitchLui", 
+    "status": "COMPLETED", 
+    "program_year": 2018, 
+    "task_definition_id": 5432762577190912, 
+    "tags": [
+        " Mobile Wallet", 
+        "Mifos", 
+        " Video", 
+        " Tutorial"
+    ], 
+    "student_id": 5625942031466496, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2018-12-12 13:18:44", 
+    "max_instances": "5", 
+    "id": 5179544957878272, 
+    "organization_name": "Digital Impact Alliance", 
+    "completion_date": "2018-12-12 13:18:40", 
+    "deadline": "2018-12-12 16:59:59", 
+    "submitted_date": "2018-12-11 18:31:51", 
+    "organization_id": 4752143387983872, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "gupta.hemant65@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet - Make a Tutorial Video To Demonstrate Saved Cards And Bank Account Use Cases", 
+    "categories": [
+        "3", 
+        "5"
+    ], 
+    "description": "MifosPay has features to save credit cards, add new bank account, set UPI. The objective is to create a tutorial video that demonstrate the Saved Cards Use cases and Bank Account Use cases. The link to the APK of the MifosPay app is provided as external link below. \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or email the corresponding mentors assigned to the task or you can message on [Gitter Channel](https://gitter.im/openMF/mifos) too."
+}

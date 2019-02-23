@@ -1,0 +1,31 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 4997377023803392 | Task Definition ID 5352577530068992
+Max instances: 1
+
+Title: Mifos Mobile Wallet: Bug Fix - Cannot change the email
+Description: Summary:
+
+There is option to change the email ID but it gives an error.
+
+Steps to reproduce:
+
+Dashboard -> Profile -> Edit Profile -> Change Email.
+
+Expected behavior:
+
+I would be able to change the email ID without any error.
+
+Observed behavior:
+
+When tried to change the email Id, error pops up.
+Tags: mobile wallet, android, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: ankur16225@iiitd.ac.in, guptachirag2002@gmail.com
+Student: letelete (ID 6278250746609664)
+
+Status: COMPLETED (2018-11-14 15:30:39)
+Last modified: 2018-11-11 10:20:18

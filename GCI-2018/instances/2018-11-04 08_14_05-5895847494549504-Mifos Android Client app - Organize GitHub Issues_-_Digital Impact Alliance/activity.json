@@ -1,0 +1,233 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Thank you. I'm glad you like it!", 
+        "created": "2018-11-04T08:14:02Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 6278250746609664, 
+        "id": 6147099121942528, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2018, 
+            "id": 4943981172490240
+        }, 
+        "text": "", 
+        "created": "2018-11-04T05:33:22Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4943981172490240, 
+        "id": 6253062676021248, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2018, 
+            "id": 4943981172490240
+        }, 
+        "text": "Hi letelete,\nYou have done a really commendable job with this submission. Ive gone through the excel file and have verified almost 50 rows and they are correct. Hence, I'm approving the task.\n\nI didn't get a chance to build the script you made for it. But I'll surely do so once I get some time (forking it in the meantime). It's definitely very impressive work you did there.", 
+        "created": "2018-11-04T05:33:14Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4943981172490240, 
+        "id": 4767891640549376, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-03T09:49:54Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 6498294772531200, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "I did some status logic improvements. Now it should work well.", 
+        "created": "2018-11-03T09:49:49Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6278250746609664, 
+        "id": 5904290259402752, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "", 
+        "created": "2018-11-03T05:09:41Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5348715419140096, 
+        "id": 6232927936446464, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Hello letelete, \n\nAmazing work!\n\nThe python script that you wrote is really impressive \\(^_^)/. Also, we are really impressed by the way you chose to do this task. Great job! \n\nI found few minor issues that were present in your sheet, can you please fix them? Some issues (e.g issue mentioned in cell 94A) have a pull requests that were sent to them but the pull requests were later closed because they couldn't resolve the issue. In such a case, the issue would have to be classified as \"open\". \n\nI apologize for not mentioning this in the task. Can you please fix these minor errors and then get back to us? \n\nOther than that, everything else is perfect. Amazing work! \\(^_^)/", 
+        "created": "2018-11-03T05:09:34Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5348715419140096, 
+        "id": 6433291080040448, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Oh and just wanted to add that everything is done by myself. I wasn't re-using someone's work, only made use of google spreadsheets and python api.", 
+        "created": "2018-11-02T18:40:20Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 5809203575783424, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-02T18:38:38Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6278250746609664, 
+        "id": 4872515848503296, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "Hey, I wrote a python script to automatize, this, documentation process. \n\nIt's available on my GitHub account under MIT license (https://github.com/letelete/Easy-Issues-Documentation). I've made some entry testing and everything looks fine for now. I'm not the Python guy, so the code quality might not be amazing, but It gets its job done.\n\nFurthermore, I've run that on my google spreadsheet for the android-client repo, to get this task done and give you some preview. https://docs.google.com/spreadsheets/d/1sysJ09YMN4m8Ex1ZufGfm3iMadkIIX8SKPXPHIlJaAY/edit?usp=sharing\n\nAs you might notice, there is some extra-status-value: 'multiple_prs'. It's because script found multiple, but unique prs reference to currently checked issue. For example: when pr#999, pr#988 and pr#996 reference issue #800 - the status will be 'multiple_prs'. It's sometimes hard to tell if some issue got resolved by any of these references, so I decided to do that in this way.\n\nWould love to get your feedback :)", 
+        "created": "2018-11-02T18:38:34Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5879304421376000, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5895847494549504, 
+        "author": {
+            "display_name": "letelete", 
+            "program_year": 2018, 
+            "id": 6278250746609664
+        }, 
+        "text": "", 
+        "created": "2018-11-01T12:41:21Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6278250746609664, 
+        "id": 5116189865934848, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

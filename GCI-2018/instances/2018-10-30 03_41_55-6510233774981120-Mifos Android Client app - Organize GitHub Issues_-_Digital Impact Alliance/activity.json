@@ -1,0 +1,233 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "", 
+        "created": "2018-10-30T03:41:54Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5348715419140096, 
+        "id": 6636316063170560, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Awesome work!", 
+        "created": "2018-10-30T03:41:48Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5348715419140096, 
+        "id": 5449188948049920, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "Removed 9A and I thought I had submitted it. Guess not :P", 
+        "created": "2018-10-30T03:38:17Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 5038024413937664, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-10-30T03:37:21Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4890377967370240, 
+        "id": 6495241856090112, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Also, can you please submit this task for review, so that I can approve it? :)", 
+        "created": "2018-10-30T03:34:09Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5348715419140096, 
+        "id": 5243932259647488, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "Abhilash G", 
+            "program_year": 2018, 
+            "id": 5348715419140096
+        }, 
+        "text": "Hello jz53, \n\nAmazing work! This task couldn't have been done any better. Thank you so much for taking your time to sort of all the issues out. This will greatly help us to work on the issues that are still present in the app. \n\nCan you please remove the entry of the cell 9A as the issue mentioned in that cell has been closed. I am approving your task as everything else is perfect.  \n\nAwesome work! \\(^_^)/", 
+        "created": "2018-10-30T03:32:34Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5348715419140096, 
+        "id": 6117591153115136, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "https://docs.google.com/spreadsheets/d/1i-0vydPZE4jIqiweMRzpFeP1KP4iK1kj1fWoNgrcp9U/edit?usp=sharing\n\nAbove is the spreadsheet. I have done all the issues that were present on 10/28/2018. However, I think one of the issues was closed because the count went from 164 to 163. \n\nAll good on the response. I just realized someone else also had this task and did not hear from you so I was worried about that. Good to know you are here!", 
+        "created": "2018-10-29T22:01:17Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5451034844463104, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "Tarun Mudgal", 
+            "program_year": 2018, 
+            "id": 4943981172490240
+        }, 
+        "text": "Hi jz53, Apologies for not responding promptly. I didn't receive any notification. And yes, you can continue what you are doing. That 'special' tag is indeed an added advantage.", 
+        "created": "2018-10-29T16:22:53Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4943981172490240, 
+        "id": 5840720616226816, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "https://docs.google.com/spreadsheets/d/1i-0vydPZE4jIqiweMRzpFeP1KP4iK1kj1fWoNgrcp9U/edit?usp=sharing\n\nThis is where I am working on it. I have done some tweaks to the formatting and I want to pass it through the mentors. Please tell me if it is fine and if I need to change anything.", 
+        "created": "2018-10-28T22:09:00Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 6406807774822400, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "@tarun0 @AbhilashG97 For organizing the issues in android client repo, can I create a column that tells what PR references the issue if the issue is \"In Progress\"\nAlso, some issues may be duplicates and could also be mislabeled as an issue and never closed. Can I label those as \"special\" or something?\n\nAlso asked in Gitter.", 
+        "created": "2018-10-28T20:10:41Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 4578676185235456, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 6510233774981120, 
+        "author": {
+            "display_name": "jz53", 
+            "program_year": 2018, 
+            "id": 4890377967370240
+        }, 
+        "text": "", 
+        "created": "2018-10-28T19:13:08Z", 
+        "task_definition_name": "Mifos Android Client app - Organize GitHub Issues", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4890377967370240, 
+        "id": 5641251094265856, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

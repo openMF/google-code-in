@@ -1,0 +1,24 @@
+Digital Impact Alliance (Org ID 4752143387983872)
+Task ID 4860170636099584 | Task Definition ID 6508517432229888
+Max instances: 1
+
+Title: Mifos - Bug Fix: Penalties Receivable tooltip translation in Loan product
+Description: Steps to Reproduce
+Create loan Product with Accrual Accounting, submit
+then edit product
+Penalties Receivable tool-tip under Asset is not translated.
+
+### How to Submit
+
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+Tags:  Community App,  Bugfix,  Angular,  Web, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: shruthi@confluxtechnologies.com, santosh@confluxtechnologies.com, danCarl758@gmail.com
+Student: Palash (ID 5510056989687808)
+
+Status: COMPLETED (2018-11-11 04:37:51)
+Last modified: 2018-11-08 05:57:26

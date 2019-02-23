@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "## Summary\n\nYou need to create a guide that how a client can be converted into a Self Service User. A client can be created by Admin in Web App or Mobile App and you laid down the steps that how a client can register as a Self Service User and use all the Self Service Services like Checking Savings Account Balance, Doing a Third Party Transfer etc.\n\n## Procedure\n\nCreate a client in the web app ([community-app](https://github.com/openMF/community-app)) with the Email or Moblie Number provided for the client. Then go to the [Mifos Mobile App](https://github.com/openMF/mifos-mobile) and register a Self Service User with the Account Number same of the client you created. Verify with email and that's it. \n\nYou need to properly document this with the screenshots and mention troubleshooting tips too (if you face any).", 
+    "tags": [
+        "documentation", 
+        "how-to guide", 
+        "self service", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2018-11-08T20:02:40Z", 
+    "external_url": null, 
+    "id": 4863930544422912, 
+    "available_count": 2, 
+    "name": "Mifos: Create a guide on how to create Self Service User"
+}

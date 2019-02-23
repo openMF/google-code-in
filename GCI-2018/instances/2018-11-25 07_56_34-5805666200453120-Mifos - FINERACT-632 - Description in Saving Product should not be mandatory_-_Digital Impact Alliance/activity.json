@@ -1,0 +1,587 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "", 
+        "created": "2018-11-25T07:56:30Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 4739197668687872, 
+        "id": 5258317208223744, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-11-24T21:29:44Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 5615156194181120, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "Now I'm able to test the changes using the rest client. You can see the screenshot for reference. One of the screenshot says \"The request was invalid.\" which is the one where I have removed the field \"name\" which is mandatory. The other screenshot is the one where I have removed the description field and the request completes successfully without validation errors.\n\nThis is my first time working on back-end and sometimes it's difficult to balance GCI with my high school. Although, there wasn't much coding involved in this task but I have learned something new.\n\nThank you for being so helpful. :)", 
+        "created": "2018-11-24T21:29:39Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 5312539777826816, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4808994188165120/", 
+                "filename": "Screenshot_from_2018-11-25_02-50-09.png", 
+                "id": 4808994188165120, 
+                "file_size": 94875.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4672074925735936/", 
+                "filename": "Screenshot_from_2018-11-25_02-51-05.png", 
+                "id": 4672074925735936, 
+                "file_size": 103629.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "Sorry for the late reply. I have tried both the methods(i.e. using postman and openMF community app) but I'm getting no response from either.\n\nI get this line when I run ./gradlew tomcatRunWar:\n`Started Tomcat Server\nThe Server is running at http://localhost:8080/fineract-provider`\n\nI have ran the community app which is running fine on demo server but when I use this url:\nhttp://localhost:9002/?baseApiUrl=http://localhost:8080&tenantIdentifier=default#/\n\nIt says:\n\"Couldn't connect to server. Make sure you are using correct settings.\"", 
+        "created": "2018-11-24T18:28:41Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 5169434470645760, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "", 
+        "created": "2018-11-24T16:02:49Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 5310391488872448, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "Have you tested your changes via rest client or with the angular app?", 
+        "created": "2018-11-24T10:07:48Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4739197668687872, 
+        "id": 5934600627945472, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-11-24T09:27:11Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 5212567434690560, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "The server instance is running but I have dependencies errors in IntelliJ Idea as you can see in the screenshot. It is unable to resolve external dependencies like: `import org.joda.time.MonthDay;`\n\nI have updated the PR, can you please review. :)\nhttps://github.com/apache/fineract/pull/493", 
+        "created": "2018-11-24T09:27:03Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 5692265621094400, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "Task deadline extended by 0.9 days", 
+        "created": "2018-11-24T09:15:31Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 5334216477769728, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "The server instance is running!\nFineract is running on your platform!\nYou can check the api's via any RestClient\nPlease refer the link below for how to test api's using restClient\nyou can aslo use postman to test API's\nhttps://cwiki.apache.org/confluence/display/FINERACT/Using+rest+client+for+passing+api+requests", 
+        "created": "2018-11-24T09:15:30Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 4606332045885440, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I have that also but `./gradlew tomcatRunWar` command doesn't get completed, it is stuck on 92% after hours too. You can see the attached screenshot.\nIf you think this will not work, please let me know how to set up this on eclipse if there are any commands/methods for that. Or I just need to make a simple import of the project?", 
+        "created": "2018-11-24T08:45:46Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 6751305906257920, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6580836573904896/", 
+                "filename": "Screenshot_from_2018-11-24_14-12-09.png", 
+                "id": 6580836573904896, 
+                "file_size": 257578.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "Please see rat report as said in error message\nmaybe It's because of the intelliJ editor\nsome internal files of IntelliJ like .ipr, .iwr might give you an error\n\nyou have to remove those files to run the fineract-provider\n\nif none of it works, then you can also use eclipse", 
+        "created": "2018-11-24T07:34:57Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 5957454752907264, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I have configured all the dependencies and have run all the commands but the last command(./gradlew tomcatRunWar) was failing with the exception:\nFAILURE: Build failed with an exception. * What went wrong: Execution failed for task ':rat'. > Found 2 files with unapproved/unknown licenses. See file:/Desktop/fineract/build/reports/rat/rat-report.txt\n\nAfter searching on StackOverflow, I found the fix is to add `failOnError = false` to rat task in build.gradle. But after doing so, this command gets stuck on 92%. :/", 
+        "created": "2018-11-23T22:50:30Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 5559641325961216, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "yes, initially ignore that error\nrun the following commands in the same order\n\n./gradlew rat\n./gradlew clean war\n./gradlew cleanIdea idea\n./gradlew tomcatRunWar\n\nmake sure you have configured all dependencies on your OS according to the document: https://cwiki.apache.org/confluence/display/FINERACT/Installing+Fineract-platform\n\n\nOr you can use eclipse to configure fineract-provider", 
+        "created": "2018-11-22T03:45:35Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 5167315390824448, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I'm getting this build error after importing fineract-provider:\nCould not find method providedCompile() for arguments [] on object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler.\n\nI'm unable to find it on StackOverflow or any other such website.", 
+        "created": "2018-11-22T03:29:27Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 4898749710073856, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "You have to import fineract-provider\n\nhttps://mifosforge.jira.com/wiki/spaces/MDZ/pages/93093944/IntelliJ+IDEA+Setup", 
+        "created": "2018-11-21T18:39:00Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 5317932713246720, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "Here is the import statment error for classes residing in the project itself. I have searched stackoverflow but it didn't help. :(", 
+        "created": "2018-11-21T18:27:17Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 5230527612190720, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6544453335515136/", 
+                "filename": "Screenshot_from_2018-11-21_23-54-51.png", 
+                "id": 6544453335515136, 
+                "file_size": 254175.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "Apart from external dependencies, it is not recognising the import statements of the classes within our same project. Do I have to import fineract as the project in IntelliJ Idea or fineract-provider? Currently, I have imported fineract as the project.\nThe first command is failing with the exception attached in the file.", 
+        "created": "2018-11-21T18:23:18Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 6475014955073536, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4924977968054272/", 
+                "filename": "exception.txt", 
+                "id": 4924977968054272, 
+                "file_size": 10553.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "./gradlew tomcatRunWar --stacktrace  (start server)\n\n./gradlew cleanIdea idea (refresh IntelliJ  after adding dependencies)\n\nThese are the few commands which will help you to download all dependecies in intelliJ IDEA", 
+        "created": "2018-11-21T17:23:08Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 4601160284504064, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "I'm not able to build this project using IntelliJ Idea. I get the following error:\n\"Cannot resolve symbol\" \non the import statements. Can you please help with this?\nHow should I test my changes?\nThanks for the links!", 
+        "created": "2018-11-21T16:59:19Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5288972474384384, 
+        "id": 6349973928017920, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Rahul Goel", 
+            "program_year": 2018, 
+            "id": 6193476682121216
+        }, 
+        "text": "Hi Malaal Dehlvi, Please make sure you test your changes as well before raising PR.", 
+        "created": "2018-11-21T16:37:50Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6193476682121216, 
+        "id": 5817764699701248, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "", 
+        "created": "2018-11-21T16:21:02Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4739197668687872, 
+        "id": 4885174123757568, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Sanyam Goel", 
+            "program_year": 2018, 
+            "id": 4739197668687872
+        }, 
+        "text": "Hi,\nCan you please refer to code for optional parameters required for SavingProduct\n\nAPI-Documentation link: https://demo.openmf.org/api-docs/apiLive.htm#savingsproducts_create\n\nGithub repo file link: https://github.com/apache/fineract/blob/develop/fineract-provider/src/main/java/org/apache/fineract/portfolio/savings/data/SavingsProductDataValidator.java#L178\n\n\nYou just removed the notBlank() from the description validator\nYou have to implement like other optional parameters are implemented", 
+        "created": "2018-11-21T16:20:53Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4739197668687872, 
+        "id": 5622172358803456, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-11-21T09:51:39Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5288972474384384, 
+        "id": 6181327373074432, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "Here's the link to the PR:\nhttps://github.com/apache/fineract/pull/493\nIf I didn't get this right, can you please give me some code pointers? The code base is huge for me, so it will be great if you can tell which files are to be changed to fix this issue.", 
+        "created": "2018-11-21T09:51:34Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5288972474384384, 
+        "id": 6644392728199168, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2018, 
+        "task_instance_id": 5805666200453120, 
+        "author": {
+            "display_name": "Malaal Dehlvi", 
+            "program_year": 2018, 
+            "id": 5288972474384384
+        }, 
+        "text": "", 
+        "created": "2018-11-21T08:30:44Z", 
+        "task_definition_name": "Mifos - FINERACT-632 - Description in Saving Product should not be mandatory", 
+        "organization_id": 4752143387983872, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5288972474384384, 
+        "id": 5795838119903232, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

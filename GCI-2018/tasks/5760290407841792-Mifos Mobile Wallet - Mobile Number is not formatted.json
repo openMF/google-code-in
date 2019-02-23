@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "**Summary:**\n\nMobile number is not correctly formatted, it is in raw form.\n\n**Steps to reproduce:**\n\nGo to Transfer Tab from Dashboard\n\n**Expected behavior:**\n\nI expected that mobile number would be well formatted according to its country code.\n\n**Observed behavior:**\n\nThe mobile number was not formatted", 
+    "tags": [
+        "Mobile Wallet", 
+        " Mifos", 
+        " Android"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ankur16225@iiitd.ac.in", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-31T12:54:22Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/57", 
+    "id": 5760290407841792, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet - Mobile Number is not formatted"
+}

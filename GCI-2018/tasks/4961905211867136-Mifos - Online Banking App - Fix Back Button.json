@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2018, 
+    "description": "Pressing back button from details of any account ( Loan, Savings or Shares ) goes back to the list of Loan accounts. \n\nTo reproduce this error, open Savings account details and then press back button of your browser. You will be see the Loan account list page rather than the savings account list page. You would expect that after pressing the back button the account list of that type of account should be displayed of which the details were checked. E.g: If details of a savings account is checked and the back button is pressed then it should show the list of savings accounts.", 
+    "tags": [
+        " AngularJs", 
+        " Web", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "gkrishnan724@gmail.com", 
+        "ankit123rudra@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2018-10-25T18:40:52Z", 
+    "external_url": "https://github.com/openMF/web-self-service-app/issues/116", 
+    "id": 4961905211867136, 
+    "available_count": 0, 
+    "name": "Mifos - Online Banking App - Fix Back Button"
+}
