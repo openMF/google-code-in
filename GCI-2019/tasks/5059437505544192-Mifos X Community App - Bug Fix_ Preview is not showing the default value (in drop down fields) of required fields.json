@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "### Description:\nPreview is not showing the default value(in drop-down fields)of required fields until they are changed to some other value.\n\n\n### Steps to Reproduce:\nCreate any of the stated forms. Fill all the required fields and don't change the default values in the drop downs of required fields.\n\n### Expected Behaviour:\nThe default value should be displayed in the preview.\n\n### Actual Behaviour:\nThe default value is not displayed in the preview.\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n**Note:** Please specify atleast two forms that you will be correcting as part of this task in a comment at the GCI Portal and the linked issue.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "ashusingh15673@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com", 
+        "jonathanzhang53@gmail.com"
+    ], 
+    "max_instances": 5, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-15T21:14:09Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2932", 
+    "id": 5059437505544192, 
+    "available_count": 4, 
+    "name": "Mifos X Community App - Bug Fix: Preview is not showing the default value (in drop down fields) of required fields"
+}

@@ -1,0 +1,25 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "Write a descriptive blog post regarding the libraries used for the smooth application development my the organization. You can look through the code-base and find the libraries used and then draft a post regarding the used libraries.", 
+    "tags": [], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "shivangisingh1702@gmail.com"
+    ], 
+    "max_instances": 5, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2019-12-05T13:40:39Z", 
+    "external_url": null, 
+    "id": 5231176873148416, 
+    "available_count": 5, 
+    "name": "Blog on Android libraries used in App development"
+}

@@ -1,0 +1,37 @@
+{
+    "student_display_name": "punwai", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5665065945006080, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "student_id": 6452370628673536, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-15 21:07:47", 
+    "max_instances": "1", 
+    "id": 4529059468410880, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-14 08:41:27", 
+    "deadline": "2019-12-16 17:03:02", 
+    "submitted_date": "2019-12-13 20:35:57", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "jivjyotsingh@gmail.com", 
+        "ashusingh15673@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Community App - Bug Fix: \"Filter by name\" is searching across extra fields", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Description:\nThe \"Filter by name\" search box present in the list of users is searching across the fields other than the name of the user.\n\n### Steps to reproduce:\nAdmin >> Users >> Search for a user using \"Filter by name\"\n\n### Expected Behaviour:\nAs mentioned in the placeholder of the input field, it should filter only by the name of the user.\n\n### Actual Behaviour:\nThe search field is searching across all the data of the users. Even the data which is not there in the table (screenshot attached).\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app)."
+}

@@ -1,0 +1,32 @@
+{
+    "student_display_name": "bl6", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 6506158148288512, 
+    "tags": [
+        " neobank", 
+        " fintech", 
+        " digital financial services", 
+        "research"
+    ], 
+    "student_id": 6661629287071744, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-30 17:18:28", 
+    "max_instances": "3", 
+    "id": 5289861485953024, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-02 17:04:48", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com"
+    ], 
+    "task_definition_name": "Conduct a regional landscape analysis of neobanks and challenger banks for Eastern Europe", 
+    "categories": [
+        "5"
+    ], 
+    "description": "## Objective ##\nAs the functional footprint and support for digital financial services within Mifos/Fineract extends with our brand new Fineract CN architecture, a new target market for adoption of our software is the growing class of neobanks and challenger banks starting up. Across each region we'd like to make a comprehensive database of these leading new banks so we can track the sector and build awareness amongst the major players. This page has a [nice defnition and overview of these banks](https://www.paconsulting.com/insights/what-is-a-neobank-really/).\n\n##Work to Do##\nEach task is focused on one region and for that region, you should research ten challenger/neo-banks, filling out the corresponding details in the Google Sheet linked to this page. \n\nThe details for each bank to record include: \n* Website, Email, URL for LinkedIn, Facebook, Twitter\n* Regions/Countries Served\n* Target Market & Focus on Financial Inclusion\n* Number of Customers, Portfolio Size\n* Current Level of Investment, Growth Rate, Launch Date\n* Description, Value Proposition\n* Products & Services Offered\n* Tech Stack\n* Notable partner or announcements\n\nPlease include the link to the Google Sheet in your submission and reference the rows that you completed."
+}

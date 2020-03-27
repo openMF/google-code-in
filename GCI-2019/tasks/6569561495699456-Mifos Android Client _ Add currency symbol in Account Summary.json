@@ -1,0 +1,33 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nNeed to add currency symbol with the amount whenever charges or balance are mentioned in the account summary. This would make it easier for the user and cause less confusion.\n\nSteps to reproduce:\n\nOpen a client, expand any account (loan or savings) and click on\nit to get to account summary.\nFor Screenshots refer the ticket URL.", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-12-02T15:56:32Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/1112", 
+    "id": 6569561495699456, 
+    "available_count": 0, 
+    "name": "Mifos Android Client : Add currency symbol in Account Summary"
+}

@@ -1,0 +1,37 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6407755884134400, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 10:59:29", 
+    "max_instances": "2", 
+    "id": 5140658491228160, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-03 10:54:39", 
+    "deadline": "2019-12-06 02:52:20", 
+    "submitted_date": "2019-12-03 10:10:51", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: Remove hardcoded dimens from xml layout files", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nRemove hardcoded dimen resources from xml layout files.\n\nSteps to reproduce:\n\nGo through the project codebase and layout files.\n\nExpected behaviour:\n\nRemove hardcoded dimen resources from xml layout files.\n\nObserved behaviour:\n\nMove hardcoded dimension(ex: 10dp) to dimens.xml file\n\nDevice and Android version:\n\nAndroid Pi."
+}

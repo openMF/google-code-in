@@ -1,0 +1,34 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "# Description:\n\nIf home button pressed when applying for loan the app crashes.\n\n# Steps to reproduce:\n\n1. Click on Apply for Loan\n2. Press home button and try to reopen app\n\n# Expected behaviour:\n\nApp should resume activity when opened again\n\n# Observed behaviour:\n\nApp crashes when opened again\n\n# Submission\n\nSubmit a PR [here](https://github.com/openMF/mifos-mobile/)", 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "govinddixit93@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-12T05:08:43Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/1118", 
+    "id": 6400636170534912, 
+    "available_count": 0, 
+    "name": "Mifos Mobile: App crashes if home button pressed when applying for loan"
+}

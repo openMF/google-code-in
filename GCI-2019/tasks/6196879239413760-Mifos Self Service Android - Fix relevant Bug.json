@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Setup the `mifos-mobile` app from an external URL in your local. Go through various user-flows in App and if you find any inconsistency or say bug in the app. Create an Issue for it, start working on its fix and raise the PR for the same.", 
+    "tags": [
+        "android", 
+        "self-service-app"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "academic.rahul@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2, 
+        4
+    ], 
+    "last_modified": "2020-01-07T10:42:55Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile", 
+    "id": 6196879239413760, 
+    "available_count": 1, 
+    "name": "Mifos Self Service Android - Fix relevant Bug"
+}

@@ -1,0 +1,107 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5755792003694592, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-26T02:43:46Z", 
+        "task_definition_name": "Research the hourly rates of lead full-stack developers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6487001595904000, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5755792003694592, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Good work!", 
+        "created": "2019-12-26T02:43:43Z", 
+        "task_definition_name": "Research the hourly rates of lead full-stack developers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6702344629125120, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5755792003694592, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-25T23:36:25Z", 
+        "task_definition_name": "Research the hourly rates of lead full-stack developers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 4839553022558208, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5755792003694592, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "How this Spreadsheet is organized:\n1. All regions have 2-3 different countries (with the exception of Central Asia which only has 1). Major countries (defined in task) are underlined, indented, and are the first ones listed per region. Borders divide each by region.\n2. Profession: First choice will always be Full Stack Developer as defined in the task, followed by Full Stack Software Developer, Software Engineer (which according to various online resources is similar to Full Stack Developer), then Sr. Software Developer. \n3. Experience: Since task said it should be 7-10yr experience level, Mid-Career (which is about 5-10yrs) is the closest and is the one used.\n4. If the Hourly/Yearly rate has a \"*\", it means the amount was manually found.\n5. If the category is listed as N/A, it means that the info could not be found.\n6. All sources are from payscale to keep data consistent and therefore more comparable.\n\nLink: https://docs.google.com/spreadsheets/d/11t-Tw4RUNwQEWdUU1wVD8IYKmYcjcCgF680NhXjG8Yk/edit?usp=sharing", 
+        "created": "2019-12-25T23:36:14Z", 
+        "task_definition_name": "Research the hourly rates of lead full-stack developers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 5371672962531328, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5755792003694592, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-24T19:25:34Z", 
+        "task_definition_name": "Research the hourly rates of lead full-stack developers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 5779037054566400, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

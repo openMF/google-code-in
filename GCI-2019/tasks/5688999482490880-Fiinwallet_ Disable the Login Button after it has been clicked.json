@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "## Objective \nTo avoid multiple API calls for the same credentials \n### Description\n1. In the  Login Page, find the click function for the login function.\n2. Set the logic to disable the login button, till the api call is in progress.\n4. Manually test the behaviour of the button so that it does not prohibit the user to retry after the first ever click on the page\n\n###References\nhttps://forum.ionicframework.com/t/disable-button-after-it-has-been-clicked/68302/5\nPlease try better options by Googling\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos).\n\n## Footnotes\nIf you are not familiar with how to make a pr, please go through https://opensource.com/article/19/7/create-pull-request-github\n\n Submit the PR link as submission.", 
+    "tags": [
+        "mifos", 
+        "typescript", 
+        "mobile-app", 
+        "fiinwallet", 
+        "ionic"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "1MANISH2222@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-01T10:19:24Z", 
+    "external_url": "https://github.com/openMF/fiinwallet/issues/12", 
+    "id": 5688999482490880, 
+    "available_count": 1, 
+    "name": "Fiinwallet: Disable the Login Button after it has been clicked"
+}

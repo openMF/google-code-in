@@ -1,0 +1,34 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6390437695193088 | Task Definition ID 5070289747050496
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: Admin can uncheck "ALL FUNCTION" permission checkbox which removes the admin priviledges.
+Description: ### Description:
+Admin user is allowed to uncheck "ALL FUNCTION" permission on Permissions: Special screen. It drops the admin privileges for all the other admin users as well.
+
+### Steps to Reproduce:
+Login to community app as admin.
+Navigate to Admin>>System>>Manage Roles And Permissions and select an admin user. Then on Permission:Special edit screen, uncheck "ALL FUNCTION" checkbox and check "ALL FUNCTION READ" checkbox and save. Now the admin role has only read privileges.
+
+### Expected Behaviour:
+"ALL FUNCTION" checkbox should not be editable, as it drops all admin privileges.
+
+### Actual Behaviour:
+After unchecking the "ALL FUNCTION" checkbox, admin user does not have write privileges.
+
+### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jonathanzhang53@gmail.com, abhay.chawla97@gmail.com, santosh@confluxtechnologies.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-22 14:24:05)
+Last modified: 2019-12-20 18:24:12

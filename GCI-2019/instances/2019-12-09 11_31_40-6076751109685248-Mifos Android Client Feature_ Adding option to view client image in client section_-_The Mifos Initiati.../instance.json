@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5375923981910016, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-09 11:31:40", 
+    "max_instances": "1", 
+    "id": 6076751109685248, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-09 11:31:36", 
+    "deadline": "2019-12-11 18:08:20", 
+    "submitted_date": "2019-12-08 18:45:20", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Feature: Adding option to view client image in client section", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nAdding option to view client image in client section currently, there is no such option to view the image on full screen.\n\nSteps to reproduce:\nClients->Pick a Client->Click on image.\n\nRefer the ticket URL for screeshots"
+}

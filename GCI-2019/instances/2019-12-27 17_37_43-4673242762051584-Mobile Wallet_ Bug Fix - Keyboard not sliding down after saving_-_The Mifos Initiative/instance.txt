@@ -1,0 +1,38 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4673242762051584 | Task Definition ID 4592211358908416
+Max instances: 1
+
+Title: Mobile Wallet: Bug Fix - Keyboard not sliding down after saving
+Description: ## Summary:
+
+The keyboard doesn't slide back down after clicking on the save option after editing in the text field in Edit Profile fragment
+
+## Steps to reproduce:
+
+Go to Profile Activity
+Click on Edit text in any field, edit something
+Click on save button
+
+## Expected behaviour:
+
+Keyboard should slide down
+
+## Observed behaviour:
+
+The keyboard is not sliding down
+
+## Device and Android version:
+
+Realme 2 Pro
+Android version 8.1.0
+Tags: android, bug, mifos-pay
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: shivansh16tiwari@gmail.com, jsahil730@gmail.com, guptachirag2002@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-29 20:12:26)
+Last modified: 2019-12-27 17:37:43

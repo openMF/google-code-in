@@ -1,0 +1,35 @@
+{
+    "student_display_name": "laxya", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 5801875081789440, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-15 07:37:56", 
+    "max_instances": "1", 
+    "id": 6726797899595776, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2019-12-17 20:56:45", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Summary:\n\nOn adding a loan account for client, followed by adding associated datatables and submitting, the loan account application screen is shown again.\n\nSteps to reproduce:\n\nClients -> any client -> Options -> Add loan account -> Enter external id -> Submit -> Add required entries for datatable -> Save the datatable. \n\n\n\nExpected behaviour:\n\nClient details activity should be visible\n\nObserved behaviour:\n\nLoan account fragment is visible\n\nDevice and Android version:\n\nAndroid 8.0.0, OnePlus 5\n\nFor  the screenshot/video, refer the ticket URL."
+}

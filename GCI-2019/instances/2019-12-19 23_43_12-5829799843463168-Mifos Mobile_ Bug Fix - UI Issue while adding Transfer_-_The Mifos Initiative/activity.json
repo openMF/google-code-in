@@ -1,0 +1,304 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-19T23:43:05Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5169845344141312, 
+        "id": 6142878263279616, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "", 
+        "created": "2019-12-19T07:30:37Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4528657880580096, 
+        "id": 6488691984302080, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "@rradzzio theres Checkstyle rule violations with your PR which led to build failure resolve it to and update your PR make sure to squash your PR", 
+        "created": "2019-12-19T07:30:30Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4528657880580096, 
+        "id": 6017793615462400, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "Task deadline extended by 0.9 days", 
+        "created": "2019-12-19T07:30:23Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4528657880580096, 
+        "id": 6355649600946176, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-18T17:35:20Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5169845344141312, 
+        "id": 6340015919988736, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Hello, I've made a PR in mifos-mobile :) here's the link: https://github.com/openMF/mifos-mobile/pull/1253", 
+        "created": "2019-12-18T17:35:08Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5169845344141312, 
+        "id": 6049209690619904, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "Task deadline extended by 1.0 days", 
+        "created": "2019-12-17T19:15:46Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4528657880580096, 
+        "id": 5683657272983552, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "", 
+        "created": "2019-12-17T19:15:33Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4528657880580096, 
+        "id": 5658452190298112, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "Hello rradzzio you make commit in your forked repository. Make PR in mifos-mobile ?", 
+        "created": "2019-12-17T19:14:25Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4528657880580096, 
+        "id": 5631823325954048, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-16T20:32:59Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5169845344141312, 
+        "id": 6177007281373184, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Hello :) I completed the task, here's the link: https://github.com/openMF/mifos-mobile/commit/7025e034c010eb7f5aad6b822d750f41927f0e35", 
+        "created": "2019-12-16T20:32:53Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 5897314112110592, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "Sahil Jain", 
+            "program_year": 2019, 
+            "id": 4826148060528640
+        }, 
+        "text": "https://github.com/openMF/mifos-mobile/wiki", 
+        "created": "2019-12-14T18:07:23Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4826148060528640, 
+        "id": 4535008467877888, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Hello :) I have a question. I'm trying to log in to the app with default credentials (login: mifos  password: password) but it says \"You are not authorized\". How should I log in to the app? Are there any other credentials? I tried to log in on a Genymotion emulator (device: Samsung Galaxy S8, Android 9.0 - API 28). The screenshot of the message is attached", 
+        "created": "2019-12-13T21:09:15Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 5191903985795072, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6135140946804736/", 
+                "filename": "screenshot-2019-12-13_22.06.09.855.png", 
+                "id": 6135140946804736, 
+                "file_size": 141172.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5829799843463168, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-13T20:40:36Z", 
+        "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 4544089505136640, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

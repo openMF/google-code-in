@@ -1,0 +1,17 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5491468978880512 | Task Definition ID 5645358546288640
+Max instances: 1
+
+Title: Fix the survey option selection in the vision-ppi app
+Description: In the vision-ppi app, we have an issue where once an option has been selected and then the user swipes to the next question and returns back to it, the option is no longer selected.
+Tags: android, vision-ppi
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: apoorva.mk99@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2020-01-23 17:59:59)
+Last modified: 2020-01-23 14:41:25

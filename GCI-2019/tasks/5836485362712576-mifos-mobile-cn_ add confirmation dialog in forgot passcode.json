@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nAdd confirmation dialog in forgot passcode \n\n## Description\nWhen the user taps forgot passcode, he's directly directed to the login page without a confirmation dialog. The task here is to add the confirmation dialog.\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/mifos-mobile-cn/issues/86\n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "gci", 
+        "android", 
+        "code"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "harshshinde07@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-16T03:18:47Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile-cn/issues/86", 
+    "id": 5836485362712576, 
+    "available_count": 1, 
+    "name": "mifos-mobile-cn: add confirmation dialog in forgot passcode"
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4742038541565952, 
+    "tags": [
+        "duplicate code", 
+        "dialog box", 
+        "android"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2019-12-24 10:12:18", 
+    "max_instances": "1", 
+    "id": 5950728573550592, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-24 10:12:14", 
+    "deadline": "2019-12-26 14:04:28", 
+    "submitted_date": "2019-12-23 07:00:16", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "rahul.usit12@gmail.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "jddeep003@gmail.com", 
+        "shivansh16tiwari@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet : Common function for all the Dialog Boxes", 
+    "categories": [
+        "1", 
+        "4"
+    ], 
+    "description": "The app requires a lot of confirmation and dialog boxes, which is causing a lot of repeated code throughout the codebase.\n\nThe task is to make a common function for all these dialog boxes, maybe in the utility function.\nIt is up to you how efficiently you can manage to get things done."
+}

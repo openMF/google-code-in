@@ -1,0 +1,26 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "For every failed request, the spinner duplicates all the list items. The task here is to prevent this behavior.", 
+    "tags": [
+        "android", 
+        "java"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "elirehemapaulo@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-02T14:22:11Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/1230", 
+    "id": 5665847092183040, 
+    "available_count": 1, 
+    "name": "Select Account Type Spinner not working properly"
+}

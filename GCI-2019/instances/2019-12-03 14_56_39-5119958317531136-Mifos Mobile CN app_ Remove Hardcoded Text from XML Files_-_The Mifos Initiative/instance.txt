@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5119958317531136 | Task Definition ID 4904209435066368
+Max instances: 1
+
+Title: Mifos Mobile CN app: Remove Hardcoded Text from XML Files
+Description: ## Objective
+Remove hardcoded text from the xml files
+
+### Description
+1. Click on Analyze in Android Studio, Select Run Inspection by name and type in "hardcoded text"
+2. Wait for inspection to be complete and find the strings that are hardcoed and replace them by extracting String resource
+
+####References
+https://stackoverflow.com/questions/25043809/how-can-i-find-all-hard-coded-strings-in-my-project-in-android-studio
+https://developer.android.com/guide/topics/resources/string-resource
+https://stackoverflow.com/questions/30099281/how-to-enable-extract-string-resource-popup-in-android-studio
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).
+Tags: xml, Android, good first issue, mifos-mobile-cn
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: abhijitramesh2k@gmail.com, jddeep003@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-06 08:42:28)
+Last modified: 2019-12-03 14:56:39

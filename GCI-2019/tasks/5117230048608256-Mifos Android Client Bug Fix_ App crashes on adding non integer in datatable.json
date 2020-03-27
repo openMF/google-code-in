@@ -1,0 +1,33 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nApp crashes when a non integer is added in a datatable while adding loan account\n\nSteps to reproduce:\n\nClients -> any client -> Options -> Add loan account -> Enter external id -> Submit -> Add non integer entry in datatable -> Save the datatable\n\nExpected behaviour:\n\nApp should not crash", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 0, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-12-12T05:08:44Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/940", 
+    "id": 5117230048608256, 
+    "available_count": 0, 
+    "name": "Mifos Android Client Bug Fix: App crashes on adding non integer in datatable"
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "rg", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5943901530095616, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 4531853520797696, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-10 12:46:09", 
+    "max_instances": "1", 
+    "id": 5816602281377792, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-10 12:46:05", 
+    "deadline": "2019-12-12 14:20:48", 
+    "submitted_date": "2019-12-09 16:17:39", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Bug Fix: Text and image saying charges not found even if charges are present in Client Charges layout", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\nDisplays messages \"No charges to display\" while simultaneously displaying charges\n\nSteps to reproduce:\nGo to a particular client's charges page where a few charges are already present and you will observe the issue.\n\nExpected behaviour:\nText and image which says charges not found should not be displayed\n\nObserved behaviour:\nText and image which says charges not found is displayed which might cause a common user to get confused, and in general is not correct information being provided to the user.\n\nDevice and Android version:\nOnePlus 3T, Android 8.0, Stock ROM"
+}

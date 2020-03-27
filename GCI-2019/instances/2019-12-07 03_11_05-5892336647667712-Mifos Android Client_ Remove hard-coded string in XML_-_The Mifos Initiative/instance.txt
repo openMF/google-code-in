@@ -1,0 +1,29 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5892336647667712 | Task Definition ID 4834524429549568
+Max instances: 1
+
+Title: Mifos Android Client: Remove hard-coded string in XML
+Description: ## Objective 
+Reomve the Hard-coded string xml file
+
+## Description
+1. Open Android Studio and Find out hard-coded text in XML file.
+2. Convert them into String resource file.
+
+####References 
+https://stackoverflow.com/questions/34130513/how-to-solve-this-issue-of-hardcoded-string/34130992
+https://developer.android.com/guide/topics/resources/string-resource
+
+##How to get help, be sure to post your questoin to our [developer mailing list](http://mifos.org/resources/
+community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).
+Tags: xml, GCI, Android, good first issue
+
+Categories: Coding
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: jddeep003@gmail.com, rajanmaurya154@gmail.com, guptachirag2002@gmail.com, sanyam.bvcoe96@gmail.com, Sukhbeer940@gmail.com, jonathanzhang53@gmail.com
+Student: PiyushSharma99 (ID 6483083604262912)
+
+Status: COMPLETED (2019-12-08 13:34:10)
+Last modified: 2019-12-07 03:11:05

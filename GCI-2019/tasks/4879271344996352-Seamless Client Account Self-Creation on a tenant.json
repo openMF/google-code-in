@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 6, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "The present self account creation is a bit complex. we want to explore people filling simple forms with 3-5 inputs to create account, while client await acceptance/approval of self client recreation.", 
+    "tags": [
+        "easy client account creation"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "david.e.alozie@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2, 
+        3
+    ], 
+    "last_modified": "2020-01-19T11:42:28Z", 
+    "external_url": null, 
+    "id": 4879271344996352, 
+    "available_count": 1, 
+    "name": "Seamless Client Account Self-Creation on a tenant"
+}

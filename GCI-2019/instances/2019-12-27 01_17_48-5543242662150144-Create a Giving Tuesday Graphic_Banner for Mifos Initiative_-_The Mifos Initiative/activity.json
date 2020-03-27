@@ -1,0 +1,150 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5543242662150144, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2019-12-27T01:17:40Z", 
+        "task_definition_name": "Create a Giving Tuesday Graphic/Banner for Mifos Initiative", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5685108493778944, 
+        "id": 5830486534914048, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5543242662150144, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-26T15:13:20Z", 
+        "task_definition_name": "Create a Giving Tuesday Graphic/Banner for Mifos Initiative", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 5831281976279040, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5543242662150144, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "I created 3 different banners (same style, different sizes). For each size, I clipped the .ai, .png, and .jpg version down below and put it in the shared folder under katdhoGCI \"Giving Tuesday\". Since I created these using Google Slides, (and one of the requirements was to include the native file in the form of an .ai, .psd, or .eps, I converted it to .ai in case you needed it, and clipped it down below).\n\nHere are the slide shared links (native file): \n\nFacebook (1200x630): https://docs.google.com/presentation/d/1ahAF4dXiGQ8Kt4lsWUXqj_dVDSs_MQYhlJWuWXawPJI/edit?usp=sharing\n\nInstagram (1080x1080):\nhttps://docs.google.com/presentation/d/17bpEVLCex9jsMXRL6KfxsqKV2azfu1hHxtPiXXTgAo4/edit?usp=sharing\n\nIdeal-sized (650x150):\nhttps://docs.google.com/presentation/d/19JJt_1pmvrfPhC5sqUbvq84xfHJ5TBTJYVp5SPjRdTY/edit?usp=sharing", 
+        "created": "2019-12-26T04:29:22Z", 
+        "task_definition_name": "Create a Giving Tuesday Graphic/Banner for Mifos Initiative", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6199886874148864, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6057844923695104/", 
+                "filename": "650x150.ai", 
+                "id": 6057844923695104, 
+                "file_size": 329757.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6319482251771904/", 
+                "filename": "1080x1080.jpg", 
+                "id": 6319482251771904, 
+                "file_size": 141589.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5756682286661632/", 
+                "filename": "1080x1080.png", 
+                "id": 5756682286661632, 
+                "file_size": 1681275.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5986169569935360/", 
+                "filename": "1200x630.jpg", 
+                "id": 5986169569935360, 
+                "file_size": 108939.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4787569624088576/", 
+                "filename": "650x150.png", 
+                "id": 4787569624088576, 
+                "file_size": 320849.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5775876898160640/", 
+                "filename": "1200x630.png", 
+                "id": 5775876898160640, 
+                "file_size": 1273783.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5486074583842816/", 
+                "filename": "1080x1080.ai", 
+                "id": 5486074583842816, 
+                "file_size": 1712095.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5359500488343552/", 
+                "filename": "1200x630.ai", 
+                "id": 5359500488343552, 
+                "file_size": 1291972.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6655132201123840/", 
+                "filename": "650x150.jpg", 
+                "id": 6655132201123840, 
+                "file_size": 35354.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5543242662150144, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-26T02:56:42Z", 
+        "task_definition_name": "Create a Giving Tuesday Graphic/Banner for Mifos Initiative", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6182562720907264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

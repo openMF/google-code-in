@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5763873546698752 | Task Definition ID 6300630977609728
+Max instances: 1
+
+Title: Mifos Mobile CN app: Open Profile Activity on Clicking the picture in Dashboard Activity
+Description: ## Objective 
+The User should be able to view their profile picture on clicking on the picture icon in Dashboard Fragment 
+### Description
+1. Go to Dashboard Activity 
+2. in OnViewCreated function set a onclicklistner for iv_user_image
+3. Create a new function to start an intent to open CustomerProfileActivity
+4. in the OnClick function add a new line mapping the iv_user_image to the new fucntion you have created
+
+####References
+https://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click
+https://stackoverflow.com/questions/51672231/kotlin-button-onclicklistener-event-inside-a-fragment
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).
+Tags: GCI, kotlin, Android, good first issue, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: abhijitramesh2k@gmail.com, jddeep003@gmail.com
+Student: Aayushman (ID 5167955919241216)
+
+Status: ABANDONED
+Last modified: 2019-12-03 10:22:24

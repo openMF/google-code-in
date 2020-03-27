@@ -1,0 +1,254 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "jonathanzhang53", 
+            "program_year": 2019, 
+            "id": 5631358773231616
+        }, 
+        "text": "", 
+        "created": "2020-01-19T16:24:01Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5631358773231616, 
+        "id": 6478108799008768, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "jonathanzhang53", 
+            "program_year": 2019, 
+            "id": 5631358773231616
+        }, 
+        "text": "Good work. Everything looks neat and nice documentation. Since it is last week, I will approve since you have made the changes Luphie suggested.", 
+        "created": "2020-01-19T16:23:57Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5631358773231616, 
+        "id": 6068681579167744, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "I've also added a new screenshot video demoing the new map feature. If the map is too small for the user, they can click on it, and it will open a larger version of the map. Hope you like it!", 
+        "created": "2020-01-19T14:13:43Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6452370628673536, 
+        "id": 6601157565218816, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "Thank you for the suggestion :) It will be great to be able to see where each company is. I've added a map to each profile page and updated the screenshots.", 
+        "created": "2020-01-19T13:49:20Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6452370628673536, 
+        "id": 5260403093798912, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "", 
+        "created": "2020-01-19T13:48:47Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6452370628673536, 
+        "id": 6072450412969984, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-19T13:35:46Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 6286359648534528, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "It's awesome, but could you please to add maps directory on directory profile pages? it will be great if we have it.", 
+        "created": "2020-01-19T13:35:40Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4664412896493568, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "I've put every thing in this folder: https://drive.google.com/drive/folders/1Vv6M2CdznCTuIHfbYDNgz6JrfXVw1WVb\n\nYou can see a video, all the screenshots, and also there are links to the figma design and prototype in the word documents. Hope you like it :)", 
+        "created": "2020-01-19T09:30:15Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6452370628673536, 
+        "id": 5597097055748096, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "", 
+        "created": "2020-01-19T09:29:41Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6452370628673536, 
+        "id": 4894331354218496, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "", 
+        "created": "2020-01-19T08:39:00Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6452370628673536, 
+        "id": 6613247931711488, 
+        "old_task_instance_status": 2, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "", 
+        "created": "2020-01-17T14:20:37Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 6452370628673536, 
+        "id": 6669897761816576, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5109880277434368, 
+        "author": {
+            "display_name": "punwai", 
+            "program_year": 2019, 
+            "id": 6452370628673536
+        }, 
+        "text": "", 
+        "created": "2020-01-17T07:03:38Z", 
+        "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6452370628673536, 
+        "id": 4842110256152576, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

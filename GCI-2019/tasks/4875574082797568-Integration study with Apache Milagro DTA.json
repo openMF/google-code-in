@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "At Apache Milagro we are working to a distributed trusted authority that it could be used to be integrated in Apache Mifos providing a safe distributed authentication mechanism.\nThe task should be to understand the feasibility of a possible integration between Apache Fineract Identity and Apache Milagro DTA and points out an integration plan.\n\n1. The student should understand how the identiy fineract works. Create a small doc.\n2. The student should understand how Apache milagro works. Create a small doc.\n3. Point out how can the two apis interact for granting roles and access. Create a doc and with the help of the mentor an action plan.", 
+    "tags": [
+        "authentication", 
+        "apache milagro", 
+        "identity-based authentication", 
+        "cryptography", 
+        "apache fineract"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "giorgio.zoppi@gmail.com"
+    ], 
+    "max_instances": 6, 
+    "private_metadata": "", 
+    "categories": [
+        2
+    ], 
+    "last_modified": "2019-12-01T13:19:51Z", 
+    "external_url": null, 
+    "id": 4875574082797568, 
+    "available_count": 6, 
+    "name": "Integration study with Apache Milagro DTA"
+}

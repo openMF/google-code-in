@@ -1,0 +1,36 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5203029326823424 | Task Definition ID 6400636170534912
+Max instances: 1
+
+Title: Mifos Mobile: App crashes if home button pressed when applying for loan
+Description: # Description:
+
+If home button pressed when applying for loan the app crashes.
+
+# Steps to reproduce:
+
+1. Click on Apply for Loan
+2. Press home button and try to reopen app
+
+# Expected behaviour:
+
+App should resume activity when opened again
+
+# Observed behaviour:
+
+App crashes when opened again
+
+# Submission
+
+Submit a PR [here](https://github.com/openMF/mifos-mobile/)
+Tags: android,  fintech,  mifos-mobile,  bug
+
+Categories: Coding
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: anamikatripathi1601@gmail.com, jddeep003@gmail.com, rajanmaurya154@gmail.com, elirehemapaulo@gmail.com, govinddixit93@gmail.com, jonathanzhang53@gmail.com, academic.rahul@gmail.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2020-01-06 14:53:44)
+Last modified: 2020-01-03 18:08:57

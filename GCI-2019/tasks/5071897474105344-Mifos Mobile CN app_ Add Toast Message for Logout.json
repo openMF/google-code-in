@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective\nShow a toast \"LoggedOut succesfully\" when the user logs out\n\n### Description\n1. Go to Dasboard activity and find the function showLoagoutDialog\n2. After the line finish() add a Toast with content \"Logged Out Succesfully\"\n\n####References\nhttps://developer.android.com/guide/topics/ui/notifiers/toasts\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).", 
+    "tags": [
+        "kotlin", 
+        "android", 
+        "good first issue", 
+        "mifos-mobile-cn"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "abhijitramesh2k@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-03T03:18:02Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile-cn/issues/69", 
+    "id": 5071897474105344, 
+    "available_count": 0, 
+    "name": "Mifos Mobile CN app: Add Toast Message for Logout"
+}

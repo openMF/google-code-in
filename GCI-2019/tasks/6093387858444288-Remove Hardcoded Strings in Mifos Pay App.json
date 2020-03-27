@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Summary\n\nThere are some text that are hard-coded in the XML files of the project, remove them by extracting them as string resources. Please go through each XML and Java file manually to find hard-coded strings.\n\nRemoving hard-coded strings is a good practice to be followed and often developers while developing new features leave them as hard-coded strings only.\n\n## What to do\n\nDo changes locally and then push them to the repository as Pull Request.", 
+    "tags": [
+        "xml", 
+        "android", 
+        "mifos pay", 
+        "strings"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "rahul.usit12@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        4
+    ], 
+    "last_modified": "2019-12-24T17:47:23Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/624", 
+    "id": 6093387858444288, 
+    "available_count": 0, 
+    "name": "Remove Hardcoded Strings in Mifos Pay App"
+}

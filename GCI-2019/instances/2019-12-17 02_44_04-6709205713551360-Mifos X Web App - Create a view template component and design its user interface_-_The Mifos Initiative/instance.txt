@@ -1,0 +1,35 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6709205713551360 | Task Definition ID 6066366642126848
+Max instances: 1
+
+Title: Mifos X Web App - Create a view template component and design its user interface
+Description: ## Objective
+The objective is to create a view template component and design its user interface.
+
+### Description
+1. Create a view template under the templates section.
+2. Connect it via routing from templates component so that its accessible.
+3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).
+4. Design the user interface for the view template component using angular material components and flex layout directives to ensure responsiveness.
+5. Implement the required API to show the data associated with the template. (See System -> Account Number Preferences -> View as an example)
+6. Implement the required API to allow deletion of a template.
+7. Write comments for the implemented component.
+
+#### References
+You may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+
+All the best! Do remember, quality over quantity is the key.
+Tags: Mifos, Web App, Angular Material, Flex Layout, Angular
+
+Categories: Coding, User Interface, Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: jivjyotsingh@gmail.com, abhay.chawla97@gmail.com
+Student: punwai (ID 6452370628673536)
+
+Status: COMPLETED (2019-12-21 23:26:31)
+Last modified: 2019-12-17 02:44:04

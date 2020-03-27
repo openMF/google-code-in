@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6639858299174912 | Task Definition ID 4792922839449600
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: Need meaningful tooltip for help link in 'Create Self Service User page'
+Description: ### Steps to Reproduce:
+Go to client page> click on 'More' button.
+In 'More' menu, click on 'Create Self Service user'
+Observe the label against the button "Activate Self Service User".
+
+### Expected Behaviour:
+Need meaningful label, "Activate Self Service User Help"
+For screenshot refer the ticket id.
+
+ ### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jonathanzhang53@gmail.com, abhay.chawla97@gmail.com, santosh@confluxtechnologies.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-06 21:31:01)
+Last modified: 2019-12-04 11:46:24

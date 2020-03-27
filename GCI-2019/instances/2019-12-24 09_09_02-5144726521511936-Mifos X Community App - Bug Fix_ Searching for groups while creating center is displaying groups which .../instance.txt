@@ -1,0 +1,27 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5144726521511936 | Task Definition ID 5924062673502208
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: Searching for groups while creating center is displaying groups which are already member of other center
+Description: ### Description:
+1) Go to centers and create a center. 
+2) While creating center search for existing groups and select the group which is already part of other center.
+
+Expected: The application should not show the groups which are part of other centers.
+
+### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jonathanzhang53@gmail.com, abhay.chawla97@gmail.com, santosh@confluxtechnologies.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-26 20:39:33)
+Last modified: 2019-12-24 09:09:02

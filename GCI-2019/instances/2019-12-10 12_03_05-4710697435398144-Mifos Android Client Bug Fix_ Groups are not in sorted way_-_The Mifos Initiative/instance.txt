@@ -1,0 +1,38 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4710697435398144 | Task Definition ID 4788814770339840
+Max instances: 1
+
+Title: Mifos Android Client Bug Fix: Groups are not in sorted way
+Description: Summary:
+
+The groups in group section from the navigation bar are unsorted manner which makes it complex to search through the particular group during online mode.
+
+Steps to reproduce:
+
+For instance
+
+Run the app
+Open Navigation Bar
+Select Groups
+Expected behavior:
+
+Lexicographically sorted entries for easier lookup.
+
+Observed behavior:
+
+Unsorted entries make search difficult.
+
+Device and Android version:
+
+Android 5.0.2, API 23
+Tags:  Bug,  Android Client, Mifos
+
+Categories: User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, elirehemapaulo@gmail.com, rajanmaurya154@gmail.com, mokshmahajan008@gmail.com, santosh@confluxtechnologies.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2019-12-12 18:38:57)
+Last modified: 2019-12-10 12:03:05

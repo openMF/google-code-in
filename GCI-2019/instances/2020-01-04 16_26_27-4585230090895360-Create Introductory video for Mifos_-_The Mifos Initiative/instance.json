@@ -1,0 +1,33 @@
+{
+    "student_display_name": "rg", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4599029753708544, 
+    "tags": [
+        "introduction", 
+        "video", 
+        "mifos"
+    ], 
+    "student_id": 4531853520797696, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2020-01-04 16:26:27", 
+    "max_instances": "10", 
+    "id": 4585230090895360, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-04 16:26:23", 
+    "deadline": "2020-01-08 09:37:25", 
+    "submitted_date": "2020-01-04 09:43:32", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Create Introductory video for Mifos", 
+    "categories": [
+        "2", 
+        "5"
+    ], 
+    "description": "This task requires you to design a short video explaining about Mifos. The video should be should to convey the idea and mission of Mifos in layman terms. Here are some points you might like to include - \n\n1. What Mifos as an organisation is all about?\n2. Aim and Motto of Mifos\n3. Demographics impacted by Mifos\n4. Range of Product & Services offered\n5. How to Donate to Mifos for this noble cause\n\nThe duration of video can be ranging from 2 to 6 minutes."
+}

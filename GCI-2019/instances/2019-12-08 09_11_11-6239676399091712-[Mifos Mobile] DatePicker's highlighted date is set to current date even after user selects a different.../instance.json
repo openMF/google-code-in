@@ -1,0 +1,36 @@
+{
+    "student_display_name": "rg", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 5756704843628544, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 4531853520797696, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-08 09:11:11", 
+    "max_instances": "2", 
+    "id": 6239676399091712, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2019-12-11 01:16:05", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "guptachirag2002@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "[Mifos Mobile] DatePicker's highlighted date is set to current date even after user selects a different date", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Summary:\n\nDatePicker's highlighted date is set to current date even after user selects a different date.\n\nSteps to reproduce:\nGoto->Accounts->Loan fragment\nChoose floating action button to apply for loan\nSet expected disbursement date to future value and open datepicker dialog again.\n\nExpected behaviour:\n\nDatePickers highlighted date should be the date selected by user previously\n\nObserved behaviour:\n\nDatePickers highlighted date is current date always\n\nDevice and Android version:\n\nMotorola Moto G4 (Android 7.0,API 24)"
+}

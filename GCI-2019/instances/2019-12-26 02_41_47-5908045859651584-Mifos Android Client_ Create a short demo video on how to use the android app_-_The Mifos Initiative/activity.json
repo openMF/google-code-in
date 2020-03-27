@@ -1,0 +1,107 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5908045859651584, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-26T02:41:43Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6376875161550848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5908045859651584, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Marry Christmas,bl6 and I've seen your work, its very awesome! also thank you for giving any feedback/recommendation for this app. I will forward this with our CEO, Edward cable.", 
+        "created": "2019-12-26T02:41:36Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4948392258568192, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5908045859651584, 
+        "author": {
+            "display_name": "bl6", 
+            "program_year": 2019, 
+            "id": 6661629287071744
+        }, 
+        "text": "", 
+        "created": "2019-12-25T18:51:32Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6661629287071744, 
+        "id": 6674502688178176, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5908045859651584, 
+        "author": {
+            "display_name": "bl6", 
+            "program_year": 2019, 
+            "id": 6661629287071744
+        }, 
+        "text": "So first of all, Merry Christmas & later Happy New Year! (If you are in the same timezone as me/US). Thank you for grading my work, here is my YouTube URL:\n\nThe app is truly great, I absolutely love to see this app actually is in the google app store. This app is really powerful. However, there is a few feedback/recommendation to this app while I was recording: https://youtu.be/dwAsnwPwzbw\n\n1. Last Name: When registering a client, the client's last name must greater than 3 characters. However, my last name happened to be just 3 characters. So I suggest the minimum character should be at least 2 characters.\n\n2. Upload document: When I try to upload a PDF document that size is 3KB, the app keeps crashing for some reason, however, I can upload signature via straight write on the pad.\n\n3. Group and Center: There is no group associated with any centers. I would like to hope there is a feature when you create a group, it asks do you want to associate to any center or not.\n\n4. Login/Loan: During recording, I can't log in using mifos as username, password as password, sometimes it just keeps not log me in. Also, when I try to pay a loan, sometimes I can pay it successfully.\n\n5. Passcode: Passcode should change to only need setup once unless you need to change the passcode. Because every time I log in, it asks me to set up a passcode.\n\n6. Wiki Update (https://mifosforge.jira.com/wiki/spaces/docs/pages/84476000/Working+with+Center+Lists): I suggest a Wiki update on working with center lists. Because there is no more search button, and if I long click a center, it won't show a calendar, instead, it shows a sync button on the top-right corner. \n\nThanks for grading my work, I'm sorry that I know nothing on Java (yet). So I can't help to fix the issues. But thank you and Merry Christmas!", 
+        "created": "2019-12-25T18:51:23Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6661629287071744, 
+        "id": 5301306097401856, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5908045859651584, 
+        "author": {
+            "display_name": "bl6", 
+            "program_year": 2019, 
+            "id": 6661629287071744
+        }, 
+        "text": "", 
+        "created": "2019-12-24T17:09:43Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6661629287071744, 
+        "id": 4791391608111104, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

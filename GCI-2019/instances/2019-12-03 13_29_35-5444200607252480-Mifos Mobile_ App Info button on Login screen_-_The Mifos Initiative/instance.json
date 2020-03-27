@@ -1,0 +1,34 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4922848418725888, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 13:29:35", 
+    "max_instances": "1", 
+    "id": 5444200607252480, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-03 13:29:29", 
+    "deadline": "2019-12-06 06:56:17", 
+    "submitted_date": "2019-12-03 13:26:22", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "elirehemapaulo@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: App Info button on Login screen", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nThere should be an app info for first-time users and basic info which they should know in order to login in the mobile app.\n\nSteps to reproduce:\nInstall the app and land on the Login screen.\n\nExpected behaviour:\nThere should be an App info button on Login screen.\n\nObserved behaviour:\n\nNot enough information and steps for first time users."
+}

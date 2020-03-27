@@ -1,0 +1,35 @@
+{
+    "student_display_name": "daniel1331", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 6262915720544256, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 5852548708171776, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2020-01-06 09:32:51", 
+    "max_instances": "1", 
+    "id": 6502415042347008, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-07 17:20:47", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Create the view teller component and design its user interface", 
+    "categories": [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to create the view teller component and design its user interface.\n\n### Description\n1. Create the view teller component under the organization -> teller/cashier management section.\n2. Connect it via routing from tellers table in tellers component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the view teller component using angular material components and flex layout directives to ensure responsiveness. (Use Angular Material Typography instead of SCSS wherever possible, refer more recently created components for reference). Add a delete button here as mentioned in the issue.\n5. Fetch the data of the teller by implementing the required API.\n6. Write comments for the implemented component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key."
+}

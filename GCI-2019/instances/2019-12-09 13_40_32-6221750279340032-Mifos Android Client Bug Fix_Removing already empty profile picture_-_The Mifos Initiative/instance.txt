@@ -1,0 +1,37 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6221750279340032 | Task Definition ID 6537834505175040
+Max instances: 1
+
+Title: Mifos Android Client Bug Fix:Removing already empty profile picture
+Description: Summary:
+
+Removing a profile picture which does not exist.
+
+Steps to reproduce:
+
+1)Run the app
+2)Select a client from client activity
+3)Click on profile picture
+
+Expected behavior:
+
+The option to remove profile picture should be present only when profile picture exists.
+
+Observed behavior:
+
+The option to remove profile picture even with no profile picture.
+
+Device and Android version:
+
+Android 5.0.2,API 21
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, mokshmahajan008@gmail.com, rajanmaurya154@gmail.com, elirehemapaulo@gmail.com, santosh@confluxtechnologies.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-12 03:51:38)
+Last modified: 2019-12-09 13:40:32

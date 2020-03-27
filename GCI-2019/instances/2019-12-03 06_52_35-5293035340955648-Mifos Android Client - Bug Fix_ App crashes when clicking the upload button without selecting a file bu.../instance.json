@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Aayushman", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6287413450637312, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 5167955919241216, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 06:52:35", 
+    "max_instances": "1", 
+    "id": 5293035340955648, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-03 06:52:32", 
+    "deadline": "2019-12-05 21:13:39", 
+    "submitted_date": "2019-12-03 06:49:29", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client - Bug Fix: App crashes when clicking the upload button without selecting a file but filled name and description", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nWithout selecting a file when upload is pressed, the app crashes.\n\nSteps to reproduce:\n\nSelect any Client-> Three dots -> Documents -> + sign-> fill name and description -> Click upload\n\nOR\n\nSelect any Client-> Three dots ->Click any existing document -> Click Update Document -> Click upload\n\nExpected behaviour:\n\nUpload should not happen\n\nObserved behaviour:\n\nApp Crash\n\nDevice and Android version:\n\nSamsung Galaxy J7 Prime(Nougat 7.0) stock rom"
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6273717169029120, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-12 05:03:48", 
+    "max_instances": "1", 
+    "id": 5103193692831744, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-12 05:03:45", 
+    "deadline": "2019-12-15 04:08:55", 
+    "submitted_date": "2019-12-12 04:40:21", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Bug Fix: Empty snackbar message in Collection sheet", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nEmpty snack bar message in Collection sheet with No internet connection.\n\nSteps to reproduce:\n\n1)Run the app\n2)Select Collection Sheet from side menu\n\nExpected behavior:\n\nA snackbar message which shows \"failed to fetch office\" since internet connection is not available.\n\nObserved behavior:\n\nEmpty snackbar\n\nDevice and Android version:\n\nAndroid 5.0.2,API 21"
+}

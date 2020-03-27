@@ -1,0 +1,31 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "The current Readme.md of the repo has a few typos and one line is also missing. \n\n1. The title text should be 'Fiinwallet' rather than 'fiinwallet'.\n2. The installation guidelines should be corrected to \n   git clone https://github.com/openMF/fiinwallet\n\n   cd fiinwallet\n\n   cd app\n\n    npm install\n\n    ionic serve\n\n\n\n#### steps to follow\n\n1. If you are not familiar with how to make a pr, please go through https://opensource.com/article/19/7/create-pull-request-github\n\n2. Edit the readme.md file as directed\n\n3. Submit the PR link as submission.\n\nNote:- you can directly edit the readme.md file in the repo on the github website itself, but going through the classical way is highly appreciated for learning.", 
+    "tags": [
+        "code", 
+        "fiinwallet", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "1MANISH2222@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "shivangisingh1702@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        3
+    ], 
+    "last_modified": "2019-12-03T17:26:45Z", 
+    "external_url": null, 
+    "id": 6094836512325632, 
+    "available_count": 1, 
+    "name": "Edit the Readme.md"
+}

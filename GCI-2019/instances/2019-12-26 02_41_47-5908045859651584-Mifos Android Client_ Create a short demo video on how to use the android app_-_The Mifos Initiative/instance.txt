@@ -1,0 +1,40 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5908045859651584 | Task Definition ID 5970148142350336
+Max instances: 10
+
+Title: Mifos Android Client: Create a short demo video on how to use the android app
+Description: ## Objective
+Your task is to create a short demo video which explains to a user how to use the app. 
+
+## Description
+
+You will have to first [build](https://stackoverflow.com/questions/25348339/how-to-import-an-existing-project-from-github-into-android-studio) the app from the [GitHub repository](https://github.com/openMF/android-client). After this, to create the video you have to take a screencast of the app.  
+
+The video should cover all the features present in the app including the ones that were added recently. You can find a sample [here](https://www.youtube.com/watch?v=8RpfL_9BUIM). The sample video was created by a GCI participant in the previous year.
+ 
+You can use any video editing software of your choice.
+
+After making the video, upload it on YouTube and send us the link as a reply to this task. 
+
+## References
+
+You can find the user guide [here](https://mifosforge.jira.com/wiki/spaces/docs/pages/76873780/Mifos+Android+Client+User+Guide).
+
+The latest features that were added to the app can be found [here](https://gist.github.com/moksh-mahajan/cf080d66b72659713dbc8336ca19976e).
+
+[This StackOverflow post](https://stackoverflow.com/questions/25348339/how-to-import-an-existing-project-from-github-into-android-studio) explains how to build an android project by importing it from GitHub.
+
+## Need help? 
+
+If you need help, you can ask any question as a reply to this task or you can post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/android-client). Asking questions in public forums is encouraged.
+Tags:  video-editing,  mobile, android,  video
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: jddeep003@gmail.com, abhilash.gunasegaran@gmail.com, luphieanza@gmail.com
+Student: bl6 (ID 6661629287071744)
+
+Status: COMPLETED (2019-12-29 17:09:42)
+Last modified: 2019-12-26 02:41:47

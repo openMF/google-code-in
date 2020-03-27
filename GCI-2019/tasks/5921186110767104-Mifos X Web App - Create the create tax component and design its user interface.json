@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective\nThe objective is to create the create tax component and design its user interface.\n\n### Description\n1. Create the create tax component under the products -> manage tax configurations -> manage tax components section.\n2. Connect it via routing from create tax component button in manage tax components component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the create tax component using angular material components and flex layout directives to ensure responsiveness.\n5. Implement the required API so a new tax can be created. Make sure after tax creation we are redirected back to tax list view if view tax component does not exist at the time of implementation of this component.\n6. Write comments for the implemented component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key.", 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2, 
+        3
+    ], 
+    "last_modified": "2020-01-02T16:26:49Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/198", 
+    "id": 5921186110767104, 
+    "available_count": 0, 
+    "name": "Mifos X Web App - Create the create tax component and design its user interface"
+}

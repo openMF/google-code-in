@@ -1,0 +1,35 @@
+{
+    "student_display_name": "punwai", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5373161957228544, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 6452370628673536, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2020-01-11 08:34:27", 
+    "max_instances": "1", 
+    "id": 6073073535549440, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-11 08:33:39", 
+    "deadline": "2020-01-15 15:22:45", 
+    "submitted_date": "2020-01-10 22:43:01", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Create a bulk import module and component and design its user interface", 
+    "categories": [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to create a bulk import module and component and design its user interface.\n\n### Description\n1. Create a bulk import module and component in the app folder.\n2. Connect the component via routing from organization -> bulk import so that its accessible. **Note:** Explore the possibility of lazy loading this module and implement accordingly.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the bulk import component using angular material components and flex layout directives to ensure responsiveness.\n5. Write comments for the implemented module and component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key."
+}

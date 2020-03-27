@@ -1,0 +1,212 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-07T00:35:44Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6376962604400640, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Great!", 
+        "created": "2020-01-07T00:35:40Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 5629700504813568, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "Daniel Z.", 
+            "program_year": 2019, 
+            "id": 5041922016542720
+        }, 
+        "text": "I added the source links onto the last page in the brief. :)", 
+        "created": "2020-01-06T23:45:35Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5041922016542720, 
+        "id": 5059621778096128, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "Daniel Z.", 
+            "program_year": 2019, 
+            "id": 5041922016542720
+        }, 
+        "text": "", 
+        "created": "2020-01-06T23:40:57Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5041922016542720, 
+        "id": 6046325485862912, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "Daniel Z.", 
+            "program_year": 2019, 
+            "id": 5041922016542720
+        }, 
+        "text": "", 
+        "created": "2020-01-06T23:40:40Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5041922016542720, 
+        "id": 6188496755097600, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-06T23:21:15Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5778506827431936, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Could you please to add the source link into the research?", 
+        "created": "2020-01-06T23:21:11Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6283144110538752, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "Daniel Z.", 
+            "program_year": 2019, 
+            "id": 5041922016542720
+        }, 
+        "text": "", 
+        "created": "2020-01-06T19:29:13Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5041922016542720, 
+        "id": 4858741996912640, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "Daniel Z.", 
+            "program_year": 2019, 
+            "id": 5041922016542720
+        }, 
+        "text": "This was a fun topic to research!\n\nThere is the link to the folder with articles/cites: https://drive.google.com/drive/folders/1EzmcNkkosicfiB0TqmNUNpDYSkUML64s?usp=sharing\n\nHere is the link to the brief: https://docs.google.com/document/d/11JcseV3WGMgo_K1-jw6Zqkxn6s7nHTD-kmzoQ90Hz2k/edit?usp=sharing\n\nThanks so much!", 
+        "created": "2020-01-06T19:29:09Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5041922016542720, 
+        "id": 5481170603606016, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5326312990834688, 
+        "author": {
+            "display_name": "Daniel Z.", 
+            "program_year": 2019, 
+            "id": 5041922016542720
+        }, 
+        "text": "", 
+        "created": "2020-01-06T17:47:08Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Ghana", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5041922016542720, 
+        "id": 4598423827775488, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

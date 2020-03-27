@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "Currently pressing the logout button directly logOut the user, It should open an alert dialog box asking for user confirmation to logout from the app", 
+    "tags": [
+        "gci", 
+        "android", 
+        "good first issue", 
+        "mifos wallet"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "govinddixit93@gmail.com", 
+        "jddeep003@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-11-19T13:40:49Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/564", 
+    "id": 5703625188311040, 
+    "available_count": 1, 
+    "name": "Pressing logout should open an alert dialog box asking for confirmation of user to logout"
+}

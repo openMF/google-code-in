@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Rishabh10", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5166596503371776, 
+    "tags": [
+        " DFS", 
+        " consulting", 
+        " mifos", 
+        " fintech", 
+        "research"
+    ], 
+    "student_id": 5462770502336512, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-11 07:45:22", 
+    "max_instances": "3", 
+    "id": 6049778807341056, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-11 07:44:08", 
+    "deadline": "2019-12-14 06:56:47", 
+    "submitted_date": "2019-12-11 06:57:39", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Research the hourly rates of senior mobile app developers by region/country", 
+    "categories": [
+        "5"
+    ], 
+    "description": "## Objective \nAs part of the documentation of the social impact of our initiative, we want to assign a dollar value to the contributions we receive from our volunteers. These volunteers come from a range of fields, experience levels, and locations. For this task, we're gathering data on senior mobile app developers (5+ years experience)\n\nWe will also use this research to understand the market rates for consultants by region. This is valuable data for when we are offering consulting services to generate revenue to help with long-term sustainability of the Mifos Initiative.\n\nSo we need to gather data points on senior mobile app developers by country/region by level of experience, framework, etc.\n\n## How to Complete This Task\nYou can use websites like glassdoor, payscale, salary explorer to do the research. You should document your findings in a Google Sheet and any other corresponding materials. Google Sheet should include profession, location, experience level, development language or stack, hourly rate, and another details.\n\nResearch should at least include information for major countries in each region - North America, Central America & Caribbean, South America, East Africa, West Africa, Southern Africa, MENA, Western Europe, Eastern Europe, Central Asia, East Asia & Oceania, Southeast Asia, and South Asia.  Priority countries in those region to research include United States, Canada, United Kingdom, Germany, UAE, Kenya, Nigeria, Ghana, India, Philippines, Netherlands, Poland, Mexico, South Africa and Uganda\n\nSee https://goo.gl/CRzRU8 and https://goo.gl/1BURQo for some examples."
+}

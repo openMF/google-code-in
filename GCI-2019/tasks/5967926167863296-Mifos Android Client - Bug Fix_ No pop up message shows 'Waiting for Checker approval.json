@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "1) Go to System>Configurations and enable Maker-Checker\n2) Enable Create client checker in 'Configure Maker Checker tasks.\n3) Go to left navigation page and tap on Clients.\n4) In clients list page, click on '+' icon.\n5) In next create client page, enter all mandatory fields and submit it. \n\nExpected: After Submission, should show message, 'Waiting for Checker approval' and it must be listed in checker Inbox.", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-12-02T15:56:27Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/1181", 
+    "id": 5967926167863296, 
+    "available_count": 0, 
+    "name": "Mifos Android Client - Bug Fix: No pop up message shows 'Waiting for Checker approval\""
+}

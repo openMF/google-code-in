@@ -1,0 +1,19 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4805745732747264 | Task Definition ID 5028400595468288
+Max instances: 1
+
+Title: Mifos Android Client Bug Fix: Progress bar overshadowing Navigation drawer
+Description: Summary:
+
+Progress bar is currently overshadowing navigation drawer.According to my perception of UX, this should not happen and nav drawer should overshadow the progress bar when the drawer is opened. Currently this gives users the impression of something loading in navbar but actually, the progress bar is intended for the fragment below nav drawer.
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, elirehemapaulo@gmail.com, rajanmaurya154@gmail.com, mokshmahajan008@gmail.com, santosh@confluxtechnologies.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2019-12-13 13:54:47)
+Last modified: 2019-12-11 12:42:59

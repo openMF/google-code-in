@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "There should be app info for first-time users and basic info which they should know in order to login in the mobile app.", 
+    "tags": [
+        "android", 
+        "java"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "jddeep003@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-12-02T13:17:13Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/1224", 
+    "id": 5687434772217856, 
+    "available_count": 1, 
+    "name": "Mifos Mobile: App info button on Login screen"
+}

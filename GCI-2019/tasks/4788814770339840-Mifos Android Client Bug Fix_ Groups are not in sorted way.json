@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nThe groups in group section from the navigation bar are unsorted manner which makes it complex to search through the particular group during online mode.\n\nSteps to reproduce:\n\nFor instance\n\nRun the app\nOpen Navigation Bar\nSelect Groups\nExpected behavior:\n\nLexicographically sorted entries for easier lookup.\n\nObserved behavior:\n\nUnsorted entries make search difficult.\n\nDevice and Android version:\n\nAndroid 5.0.2, API 23", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        2
+    ], 
+    "last_modified": "2019-12-02T15:56:38Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/819", 
+    "id": 4788814770339840, 
+    "available_count": 0, 
+    "name": "Mifos Android Client Bug Fix: Groups are not in sorted way"
+}

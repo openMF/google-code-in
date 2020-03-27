@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4625815082369024 | Task Definition ID 6590360344592384
+Max instances: 1
+
+Title: Mobile-wallet: Pressing logout should open an alert dialog box asking for confirmation
+Description: ## Objective 
+Pressing logout should open an alert dialog box asking for confirmation of user to logout
+
+## Description
+Currently pressing the logout button directly logOut the user, It should open an alert dialog box asking
+for user confirmation to logout
+
+More details can be found on the following issue page  on GitHub:
+https://github.com/openMF/mobile-wallet/issues/564
+
+## How to get help
+If you need help, be sure to post your question to our
+ [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists)
+ or  ask in our [chatroom](https://gitter.im/openMF/mifos).
+Tags: android,  mifos wallet,  good-first-issues,  gci
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: govinddixit93@gmail.com, shivansh16tiwari@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-06 21:28:57)
+Last modified: 2019-12-05 09:01:39

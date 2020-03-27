@@ -1,0 +1,170 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2019-12-30T15:44:21Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5685108493778944, 
+        "id": 5546365589913600, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-29T17:38:44Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 6402359484219392, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "hey @luphieanza, i have edited almost all the slides and added more of my opinions and understandings of my research. Even in the things which require technicalities, i have tried to give my analysis over it. Not everything is taken from the internet, I had put only technical aspects which i found useful and relevant. I have increased the number of my personal understandings of the country though, so if i went wrong anywhere, please let me know :)\nLink: https://docs.google.com/presentation/d/1gDmfZQIRBi2W1Vn0xpdIiBvy47HhLqxettIZMcqDsa0/edit?usp=sharing", 
+        "created": "2019-12-29T17:38:39Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4531853520797696, 
+        "id": 5235379406372864, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-29T16:48:28Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 6627096265228288, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "you should to mix of you writing-self and mix it what you are finded on internet. so we have many different perspective.", 
+        "created": "2019-12-29T16:48:23Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 5227344881516544, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-29T12:50:43Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 6609054550458368, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "Egypt: https://docs.google.com/presentation/d/1gDmfZQIRBi2W1Vn0xpdIiBvy47HhLqxettIZMcqDsa0/edit?usp=sharing", 
+        "created": "2019-12-29T12:50:37Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 5030168972754944, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5182420765114368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-29T12:50:27Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Egypt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 5134101946826752, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

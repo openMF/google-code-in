@@ -1,0 +1,37 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5806591249481728 | Task Definition ID 5277857194967040
+Max instances: 1
+
+Title: Mifos Mobile - Bug Fix: User cannot edit Profile Picture
+Description: Summary:
+
+Use cannot edit Profile Picture in User Details fragment. Nothing happens when Edit Floating Action Button is pressed.
+
+Steps to reproduce:
+
+Open App -> Click on the profile pic -> Click on Edit Icon (nothing happens)
+
+Expected behaviour:
+
+The user should be able to change his profile picture.
+
+Observed behaviour:
+
+Nothing happens when clicked on edit icon
+
+Device and Android version:
+
+Android 10
+OpenPlus 6
+Stock Rom
+Tags: android,  fintech,  mifos-mobile,  bug
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: elirehemapaulo@gmail.com, rajanmaurya154@gmail.com, singhsaumyas150@gmail.com, academic.rahul@gmail.com, ashusingh15673@gmail.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2019-12-09 09:14:14)
+Last modified: 2019-12-07 07:44:09

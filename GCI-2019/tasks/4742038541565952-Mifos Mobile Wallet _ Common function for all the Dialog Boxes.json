@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "The app requires a lot of confirmation and dialog boxes, which is causing a lot of repeated code throughout the codebase.\n\nThe task is to make a common function for all these dialog boxes, maybe in the utility function.\nIt is up to you how efficiently you can manage to get things done.", 
+    "tags": [
+        "duplicate code", 
+        "dialog box", 
+        "android"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "rahul.usit12@gmail.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "jddeep003@gmail.com", 
+        "shivansh16tiwari@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        4
+    ], 
+    "last_modified": "2019-12-22T09:52:27Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/616", 
+    "id": 4742038541565952, 
+    "available_count": 0, 
+    "name": "Mifos Mobile Wallet : Common function for all the Dialog Boxes"
+}

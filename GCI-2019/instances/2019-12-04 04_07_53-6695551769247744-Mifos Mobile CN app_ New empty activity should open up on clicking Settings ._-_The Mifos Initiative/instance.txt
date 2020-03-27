@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6695551769247744 | Task Definition ID 6409592150425600
+Max instances: 1
+
+Title: Mifos Mobile CN app: New empty activity should open up on clicking "Settings" .
+Description: ## Objective 
+New empty activity should open up on clicking "Settings" in Navigation Menu . 
+
+## Steps
+1. Install mifos-mobile-cn android app in your phone .
+2. On selecting Navigation Drawer , you will find a field "Settings" . For now it is not clickable.
+3.  **You have to write code to open up new empty activity on clicking Settings** .
+
+
+## Resources
+https://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).
+Tags: android, code, beginner
+
+Categories: Coding
+Is Beginner: Yes
+Time given to complete: 4 days
+
+Mentors: abhijitramesh2k@gmail.com, jddeep003@gmail.com, rajanmaurya154@gmail.com, singhsaumyas150@gmail.com
+Student: PiyushSharma99 (ID 6483083604262912)
+
+Status: COMPLETED (2019-12-07 13:31:30)
+Last modified: 2019-12-04 04:07:53

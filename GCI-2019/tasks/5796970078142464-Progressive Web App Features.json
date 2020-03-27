@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "This feature will be much helpful for the user since they can use the web app as a native app. So it will increase user engagement.\nPWA features like:\n1. Make app installable\n2. Make it send push notification.\n3. Should also work offline due to some caching strategy\n4. Implement Background sync, so that if anyone tries to create something and there is an internet problem so in that case that will be created after getting a good internet connection automatically.", 
+    "tags": [
+        "gci", 
+        "hard"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "giorgio.zoppi@gmail.com", 
+        "rupeshiya@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-11-04T04:08:13Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/367", 
+    "id": 5796970078142464, 
+    "available_count": 1, 
+    "name": "Progressive Web App Features"
+}

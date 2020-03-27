@@ -1,0 +1,32 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5080965760679936, 
+    "tags": [
+        "market research", 
+        " fintech", 
+        " due diligence", 
+        " innovation"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2020-01-06 13:56:25", 
+    "max_instances": "3", 
+    "id": 5752155458240512, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-06 13:56:22", 
+    "deadline": "2020-01-09 00:30:02", 
+    "submitted_date": "2020-01-06 12:48:51", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com"
+    ], 
+    "task_definition_name": "Find and add Fifteen Tech Hubs to our Database for East Africa", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Part of the Mifos Initiative strategy as we bring to market our an application framework for digital financial services is to evangelize the brand new cloud-native microservices architecture to fintech startups at tech hubs, accelerators, startup bootup camps, fintech labs, and innovation challenges worldwide.\n\nThe message is to build apps not infrastructure and they should build on top of our open source banking infrastructure so they can accelerate the time to market for their solution by focusing on building their app and the unique innovation needed by their customer.\n\nMore details on our Innovator Strategy can be found at https://goo.gl/VSaajA\n\nTwo types of task are available for our innovation strategy research - this task and others completing detailed research profiles on individual tech hubs at https://goo.gl/dnpWfy.\n\n* Cataloging Tech and Innovation Hubs We have cataloged the innovation hubs available in each country but have only done so primarily for Africa. We need to expand our catalog for other continents, countries, regions.\n\nFor this task, based on the assigned region, you should search for and find tech hubs, startup accelerators, incubators, startup boot camps, fintech labs, innovation challenges.\n\nThe catalog of innovation hubs by country is at: https://bit.ly/2OYu7HG\n\nAdd the relevant details for fifteen tech hubs to the Google Sheet which can be found in the external URL for this google task."
+}

@@ -1,0 +1,29 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4805432191746048 | Task Definition ID 5018761002745856
+Max instances: 1
+
+Title: Mobile Wallet: Bug Fix - No max length defined for mobile number
+Description: ## Summary:
+
+There should be limit of 10 characters of mobile number in Send Fragment.
+
+## Expected behaviour:
+
+The mobile number must be 10 digit long.
+
+## Observed behaviour:
+
+The mobile number length can be arbitrarily large.
+
+Send a Github Pull request for the submitting the task.
+Tags: android, bug, mifos-pay
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: jsahil730@gmail.com, guptachirag2002@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-31 18:52:44)
+Last modified: 2019-12-29 12:42:38

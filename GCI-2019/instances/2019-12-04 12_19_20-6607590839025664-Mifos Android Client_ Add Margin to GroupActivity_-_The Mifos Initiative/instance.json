@@ -1,0 +1,33 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5172358218776576, 
+    "tags": [
+        "xml", 
+        "gci", 
+        "android", 
+        "good-first-issue"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-04 12:19:20", 
+    "max_instances": "1", 
+    "id": 6607590839025664, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-04 12:19:05", 
+    "deadline": "2019-12-07 10:55:07", 
+    "submitted_date": "2019-12-04 11:01:55", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "harshshinde07@gmail.com", 
+        "jddeep003@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Android Client: Add Margin to GroupActivity", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \nAdd start and end margins to the `GroupActivity`\n\n## Description\nIn the Group details page from the groups tab in the navigation drawer does not have the required start and end margin. This task is to add the required margin.\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/android-client/issues/1192\n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos)."
+}

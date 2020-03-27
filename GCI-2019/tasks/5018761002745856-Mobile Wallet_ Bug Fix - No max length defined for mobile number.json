@@ -1,0 +1,28 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Summary:\n\nThere should be limit of 10 characters of mobile number in Send Fragment.\n\n## Expected behaviour:\n\nThe mobile number must be 10 digit long.\n\n## Observed behaviour:\n\nThe mobile number length can be arbitrarily large.\n\nSend a Github Pull request for the submitting the task.", 
+    "tags": [
+        "android", 
+        "bug", 
+        "mifos-pay"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jsahil730@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-29T12:00:58Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/310", 
+    "id": 5018761002745856, 
+    "available_count": 0, 
+    "name": "Mobile Wallet: Bug Fix - No max length defined for mobile number"
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5723696275128320, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-08 10:37:54", 
+    "max_instances": "1", 
+    "id": 6643998874140672, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-08 10:37:50", 
+    "deadline": "2019-12-10 07:49:44", 
+    "submitted_date": "2019-12-07 16:07:51", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client - Bug Fix: App crashes on clicking path tracker", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nWhen trying to run path tracker service, the app just crashes throwing null pointer exception.\n\nSteps to reproduce:\n\nFrom Dashboard, just click Path Tracker\n\nExpected behavior:\n\nThe app should show the tracked paths and allow the user to track his path.\n\nObserved behavior:\n\nApp crash.\n\nDevice and Android version:\n\nDevice: Samsung and 6.1.0"
+}

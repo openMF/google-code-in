@@ -1,0 +1,30 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "The student should install Apache-Fineract-CN with the help of the mentor in Amazon and launch multiple the tool https://github.com/codesenberg/bombardier (it is a HTTP Rest stress tool, that can launch up to k requests) in order to create a chart about  Mifos Payroll api scalability. The chart should be published in mifos docs.", 
+    "tags": [
+        "go", 
+        "payroll", 
+        "testing", 
+        "http", 
+        "scalability"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "giorgio.zoppi@gmail.com"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "categories": [
+        4, 
+        5
+    ], 
+    "last_modified": "2019-12-01T12:09:24Z", 
+    "external_url": null, 
+    "id": 6428131208986624, 
+    "available_count": 4, 
+    "name": "Scalability of Apache Fineract-CN Api."
+}

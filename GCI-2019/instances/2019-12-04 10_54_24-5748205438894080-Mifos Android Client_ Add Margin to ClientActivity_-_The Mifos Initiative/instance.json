@@ -1,0 +1,33 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6504687994404864, 
+    "tags": [
+        "xml", 
+        "gci", 
+        "android", 
+        "good-first-issue"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-04 10:54:24", 
+    "max_instances": "1", 
+    "id": 5748205438894080, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-04 10:54:19", 
+    "deadline": "2019-12-07 10:32:11", 
+    "submitted_date": "2019-12-04 10:43:23", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "harshshinde07@gmail.com", 
+        "jddeep003@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Android Client: Add Margin to ClientActivity", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \nAdd start and end margins to the `ClientActivity`\n\n## Description\nIn the Client details page from the clients tab in the navigation drawer does not have the required start and end margin. This task is to add the required margin.\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/android-client/issues/1191\n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos)."
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "thefatboy9", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 5009803915558912, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 4751366640107520, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2020-01-16 12:04:59", 
+    "max_instances": "1", 
+    "id": 6475346078072832, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-21 12:04:37", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Create the create product mix component and design its user interface", 
+    "categories": [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to create the create product mix component and design its user interface. (this will partially fix the mentioned issue ticket)\n\n### Description\n1. Create the create product mix component under the products -> products mix section.\n2. Connect it via routing from create product mix button in products mix component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the create prouct mix component using angular material components and flex layout directives to ensure responsiveness. (See the possibility as mentioned in the issue and implement accordingly if possible)\n5. Implement the required API so a new product mix can be created. Make sure after product mix creation we are redirected back to products mix list view if view product mix component does not exist at the time of implementation of this component.\n6. Write comments for the implemented component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key."
+}

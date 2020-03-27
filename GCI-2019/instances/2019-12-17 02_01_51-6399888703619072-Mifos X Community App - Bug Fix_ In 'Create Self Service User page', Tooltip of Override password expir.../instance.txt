@@ -1,0 +1,32 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6399888703619072 | Task Definition ID 4604755289047040
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: In 'Create Self Service User page', Tooltip of "Override password expiry policy" is flashing if we hover mouse on it
+Description: ### Steps to Reproduce:
+Go to client page > click on 'More' button.
+In 'More' menu, click on 'Create Self Service user'
+In next navigation page - create self service user page - hover the mouse on tooltip of "Override password expiry policy" .
+
+### Expected Behaviour:
+Tooltip should not flash and should be still when mouse is hovered on it.
+
+### Actual Behaviour:
+Refer the screenshot. (Navigate to the specified page and check)
+
+ ### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jddeep003@gmail.com, santosh@confluxtechnologies.com, abhay.chawla97@gmail.com, jonathanzhang53@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-19 10:56:25)
+Last modified: 2019-12-17 02:01:51

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6299975324008448, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-23 09:32:45", 
+    "max_instances": "1", 
+    "id": 4765347698180096, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-23 09:32:41", 
+    "deadline": "2019-12-25 21:07:31", 
+    "submitted_date": "2019-12-22 22:19:35", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "muskan.khedia2000@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos X Community App - Bug Fix: Edit button not aligned properly", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective\nThe objective is to align the button properly in the title of the loan products page.\n\n### Description\n\n#### Actual Behaviour:\nThe `padding` of the `edit` button is not been maintained well.  \n\n#### Expected Behaviour:\nThe `edit` button should be aligned properly.\n\n#### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app)."
+}

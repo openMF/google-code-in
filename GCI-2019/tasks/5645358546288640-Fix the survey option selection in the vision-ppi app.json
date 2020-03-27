@@ -1,0 +1,26 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "In the vision-ppi app, we have an issue where once an option has been selected and then the user swipes to the next question and returns back to it, the option is no longer selected.", 
+    "tags": [
+        "android", 
+        "vision-ppi"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "apoorva.mk99@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2020-01-02T16:28:59Z", 
+    "external_url": "https://github.com/openMF/ppi-vision/issues/14", 
+    "id": 5645358546288640, 
+    "available_count": 0, 
+    "name": "Fix the survey option selection in the vision-ppi app"
+}

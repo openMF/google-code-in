@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective\nYour task is to create a short demo video which explains to a user how to use the app. \n\n## Description\n\nYou will have to first [build](https://stackoverflow.com/questions/25348339/how-to-import-an-existing-project-from-github-into-android-studio) the app from the [GitHub repository](https://github.com/openMF/ppi-vision). After this, to create the video you have to take a screencast of the app.  \n\nThe video should cover all the features present in the app along with the ones that were added recently. You can find a sample [here](https://www.youtube.com/watch?v=8RpfL_9BUIM). The sample video was created by a GCI participant in the previous year.\n \nYou can use any video editing software of your choice.\n\nAfter making the video, upload it to YouTube and send us the link as a reply to this task. \n\n## References\n\nThe latest features that were added to the app can be found [here](https://gist.github.com/apoorva-mk/a6661ca04b9b6b5d098e8bee41c35ddf). This link also contains information on how to use the app in the form of short gif videos.\n\nThe source code for the app can be found [here](https://github.com/openMF/ppi-vision).\n\n[This StackOverflow post](https://stackoverflow.com/questions/25348339/how-to-import-an-existing-project-from-github-into-android-studio) explains how to build an android project by importing it from GitHub.\n\n## Need help? \n\nIf you need help, you can ask any question as a reply to this task or you can post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists).", 
+    "tags": [
+        " video-editing", 
+        " mobile", 
+        "android", 
+        " video"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "harshshinde07@gmail.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "luphieanza@gmail.com", 
+        "abhilash.gunasegaran@gmail.com"
+    ], 
+    "max_instances": 10, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2019-12-08T04:10:17Z", 
+    "external_url": "", 
+    "id": 6318809225363456, 
+    "available_count": 9, 
+    "name": "PPI Vision: Create a short demo video on how to use the android app|"
+}

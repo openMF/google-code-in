@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "Description:- \nOn clicking the delete button and hovering over the dialogue box appeared to confirm delete disappear the text due to black color on hover.\n\nSteps to Reproduce: - \nAfter login, move to https://openmf.github.io/web-app/accounting/chart-of-accounts/gl-accounts/view/77 and click on delete option to reproduce.\n\nExpected Behaviour: - \nShould appear the text on the button to delete or cancel.\n\nActual Behaviour:- \nNot appearing the text after clicking the delete button and turns out to be black\n\nSettings:-\nMifos X version: 0.0.0\nBrowser used: Chrome, firefox", 
+    "tags": [
+        "gci", 
+        "ui", 
+        "ux", 
+        "easy"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "rupeshiya@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-07T18:22:57Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/504", 
+    "id": 6485508675338240, 
+    "available_count": 1, 
+    "name": "On clicking the delete button and hovering over the dialogue box appeared to confirm delete disappear the text due to black color on hover."
+}

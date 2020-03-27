@@ -1,0 +1,359 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "Saumya Singh", 
+            "program_year": 2019, 
+            "id": 6028391505985536
+        }, 
+        "text": "", 
+        "created": "2019-12-06T12:27:41Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 6028391505985536, 
+        "id": 5423587113041920, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "Saumya Singh", 
+            "program_year": 2019, 
+            "id": 6028391505985536
+        }, 
+        "text": "No issues @rg . We all learn from our mistakes only . You are doing great !", 
+        "created": "2019-12-06T12:27:16Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 6028391505985536, 
+        "id": 5304924011757568, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-06T10:16:33Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 5308249549570048, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "https://github.com/openMF/mifos-mobile-cn/pull/88\njust modified it, really sorry for disturbing you for such silly mistakes. Will surely try to reduce them in future tasks. Thanks :D", 
+        "created": "2019-12-06T10:15:49Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4531853520797696, 
+        "id": 5702990975991808, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "Saumya Singh", 
+            "program_year": 2019, 
+            "id": 6028391505985536
+        }, 
+        "text": "", 
+        "created": "2019-12-06T02:26:02Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 6028391505985536, 
+        "id": 4821570875293696, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-05T14:27:56Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 5611637180989440, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "https://github.com/openMF/mifos-mobile-cn/pull/88\nPlease ignore the previous link and consider this PR, thanks :)", 
+        "created": "2019-12-05T14:27:51Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4531853520797696, 
+        "id": 4707323226882048, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "", 
+        "created": "2019-12-05T13:19:27Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5515255220797440, 
+        "id": 5045060639391744, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "@rg please check carefully. Your branch has conflicts with the base. See the message above the travis checks.", 
+        "created": "2019-12-05T13:19:16Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5515255220797440, 
+        "id": 6175462141722624, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-05T13:15:23Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 4655300947214336, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "hi abhijit, which conflicts ? I can see the PR has passed all the Travis CI checks ?", 
+        "created": "2019-12-05T13:15:18Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4531853520797696, 
+        "id": 5104673778827264, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "Abhijit Ramesh", 
+            "program_year": 2019, 
+            "id": 4673443878928384
+        }, 
+        "text": "", 
+        "created": "2019-12-05T13:06:12Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 4673443878928384, 
+        "id": 5331637257109504, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "Abhijit Ramesh", 
+            "program_year": 2019, 
+            "id": 4673443878928384
+        }, 
+        "text": "Resolve the conflicts rg", 
+        "created": "2019-12-05T13:06:06Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 4673443878928384, 
+        "id": 6380788354908160, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "It isn't* mentioned in the task...", 
+        "created": "2019-12-05T12:17:00Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 6481586564890624, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-05T12:03:37Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 6000020579418112, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "https://github.com/openMF/mifos-mobile-cn/pull/78\nHey, It is mentioned in the task about what exactly do we have to share, so i asked mentor Chirag Gupta who told me to share the app link. But as Mifos Mobile CN is not yet on google play store, there is no official app link. So, I generated an APK and put it in my drive. Right now, I am sharing the Drive Link of the Mifos Mobile CN app, let me know if i need to change anything. Thanks :D", 
+        "created": "2019-12-05T12:03:34Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 5712341891547136, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5370561513914368, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-05T12:00:14Z", 
+        "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 4891800234360832, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "### Description:\n1) Go to centers and create a center. \n2) While creating center search for existing groups and select the group which is already part of other center.\n\nExpected: The application should not show the groups which are part of other centers.\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jonathanzhang53@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-03T17:38:01Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/3070", 
+    "id": 5924062673502208, 
+    "available_count": 0, 
+    "name": "Mifos X Community App - Bug Fix: Searching for groups while creating center is displaying groups which are already member of other center"
+}

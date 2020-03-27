@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5370561513914368 | Task Definition ID 5886206831755264
+Max instances: 2
+
+Title: Mifos Mobile CN: Make "Share" Button clickable .
+Description: ## Objective 
+Make share button clickable .
+
+## Steps
+1. Install mifos-mobile-cn android app in your phone .
+2. On selecting Navigation Drawer , you will find a field "Share" , this is not clickable right now in the application . 
+3. **Your task is to make this share button clickable**
+
+
+## References
+https://stackoverflow.com/questions/17167701/how-to-activate-share-button-in-android-app
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).
+Tags: gci,  code,  android
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: abhijitramesh2k@gmail.com, jddeep003@gmail.com, singhsaumyas150@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-11 01:04:56)
+Last modified: 2019-12-06 12:27:46

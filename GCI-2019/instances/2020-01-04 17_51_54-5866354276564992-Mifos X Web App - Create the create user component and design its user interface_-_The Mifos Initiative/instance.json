@@ -1,0 +1,35 @@
+{
+    "student_display_name": "punwai", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5831560880717824, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 6452370628673536, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2020-01-04 17:51:54", 
+    "max_instances": "1", 
+    "id": 5866354276564992, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-04 17:51:40", 
+    "deadline": "2020-01-09 08:20:02", 
+    "submitted_date": "2020-01-04 17:31:56", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Create the create user component and design its user interface", 
+    "categories": [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to create the create user component and design its user interface.\n\n### Description\n1. Create the create user component under the users section.\n2. Connect it via routing from create user button in users component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the create user component using angular material components and flex layout directives to ensure responsiveness. (Please read issue description for more information)\n5. Implement the required API so a new user can be created. Make sure after user creation we are redirected back to users list view if view user component does not exist at the time of implementation of this component.\n6. Write comments for the implemented component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key."
+}

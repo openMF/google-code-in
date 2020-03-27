@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nFix aaction bar behaviour\n\n## Description\nThe action bar in the app shifts down when we navigate through the app.\nThe task here is to prevent that behaviour.\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/android-client/issues/1226\n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "gci", 
+        "android", 
+        "code"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "harshshinde07@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-16T03:10:48Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/1226", 
+    "id": 4614515627393024, 
+    "available_count": 1, 
+    "name": "android-client: Fix action bar behaviour"
+}

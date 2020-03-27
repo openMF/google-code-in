@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nProgress bar is currently overshadowing navigation drawer.According to my perception of UX, this should not happen and nav drawer should overshadow the progress bar when the drawer is opened. Currently this gives users the impression of something loading in navbar but actually, the progress bar is intended for the fragment below nav drawer.", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-02T15:56:47Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/866", 
+    "id": 5028400595468288, 
+    "available_count": 0, 
+    "name": "Mifos Android Client Bug Fix: Progress bar overshadowing Navigation drawer"
+}

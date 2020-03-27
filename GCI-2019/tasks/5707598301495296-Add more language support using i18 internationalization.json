@@ -1,0 +1,26 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Description:-\nFor now, there is 10-11 language support, but more can be added.\nLook at the files https://github.com/openMF/community-app/tree/develop/app/angular/i18n\n\nSteps to Reproduce:-\nOpen your browser and move to http://openmf.github.io/community-app/ and check language supports\n\nExpected Behaviour:-\nThere will be more language support for this community app.\n\nActual Behaviour:-\nFor now, there are 11 language support\n\nSettings:-\nMifos X version: 17.07.01.RELEASE\nBrowser used: Chrome\nOS: Ubuntu", 
+    "tags": [
+        "gci", 
+        "medium"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "rupeshiya@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-07T18:26:06Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/3128", 
+    "id": 5707598301495296, 
+    "available_count": 1, 
+    "name": "Add more language support using i18 internationalization"
+}

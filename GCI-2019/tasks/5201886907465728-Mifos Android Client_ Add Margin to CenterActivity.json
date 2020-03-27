@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nAdd start and end margins to the `CenterActivity`\n\n## Description\nIn the center details page from the centers tab in the navigation drawer does not have the required start and end margin. This task is to add the required margin.\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/android-client/issues/1193\n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "xml", 
+        "gci", 
+        "android", 
+        "good-first-issue"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "harshshinde07@gmail.com", 
+        "jddeep003@gmail.com", 
+        "abhilash.gunasegaran@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-12T05:08:44Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/1193", 
+    "id": 5201886907465728, 
+    "available_count": 0, 
+    "name": "Mifos Android Client: Add Margin to CenterActivity"
+}

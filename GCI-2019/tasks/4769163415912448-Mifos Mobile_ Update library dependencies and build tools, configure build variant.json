@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nUpdate library dependencies and build tools versions to correct and latest ones.\nIrradicate sync and build errors + warnings.\nIssues with build variant.\n\nSteps to reproduce:\n\nClone the project and build it.\n\nExpected behaviour:\n\nThe build should be successful without any dependency warnings or errors.\n\nObserved behaviour:\n\nDependency warnings, build tools outdated, build variant issues.", 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-03T06:09:04Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/1226", 
+    "id": 4769163415912448, 
+    "available_count": 0, 
+    "name": "Mifos Mobile: Update library dependencies and build tools, configure build variant"
+}

@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4903076335452160, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-05 08:11:34", 
+    "max_instances": "1", 
+    "id": 5670203866742784, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-05 08:11:30", 
+    "deadline": "2019-12-07 12:04:08", 
+    "submitted_date": "2019-12-04 12:09:19", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "elirehemapaulo@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: Select Account Type Spinner not working properly", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nFor every failed request, the spinner duplicates all the list items. The task here is to prevent this behavior.\nFor screenshots , refer the ticket id."
+}

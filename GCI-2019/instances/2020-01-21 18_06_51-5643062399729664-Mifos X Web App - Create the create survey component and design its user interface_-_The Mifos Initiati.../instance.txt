@@ -1,0 +1,34 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5643062399729664 | Task Definition ID 4620698216038400
+Max instances: 1
+
+Title: Mifos X Web App - Create the create survey component and design its user interface
+Description: ## Objective
+The objective is to create the create survey component and design its user interface. You can use your creativity to enhance the UI, it is not necessary that it should look exactly similar to community app.
+
+### Description
+1. Create the create survey component under the system -> manage surveys section.
+2. Connect it via routing from create survey button in manage surveys component so that its accessible.
+3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).
+4. Design the user interface for the create survey component using angular material components and flex layout directives to ensure responsiveness.
+5. Implement the required API so a new survey can be created. Make sure after survey creation we are redirected back to surveys list view.
+6. Write comments for the implemented component.
+
+#### References
+You may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+
+All the best! Do remember, quality over quantity is the key.
+Tags: Mifos, Web App, Angular Material, Flex Layout, Angular
+
+Categories: Coding, User Interface, Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: jivjyotsingh@gmail.com, abhay.chawla97@gmail.com
+Student: punwai (ID 6452370628673536)
+
+Status: COMPLETED (2020-01-23 17:59:59)
+Last modified: 2020-01-21 18:06:51

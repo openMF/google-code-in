@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nImprove the UI of homescreen\n\n## Description\nThere is a scope of UI improvement in the homescreen of the app\nIcons can be made smaller\n\n## References \nSee FAQs of mifos mobile app for reference\nHow to get help, be sure to post your questoin to our [developer mailing list](http://mifos.org/resources/\ncommunity/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "xml", 
+        "GCI", 
+        "Android", 
+        "good first issue"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "govinddixit93@gmail.com", 
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com", 
+        "harshshinde07@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-12T05:08:43Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile-cn/issues/89", 
+    "id": 5366436936024064, 
+    "available_count": 0, 
+    "name": "Mifos Mobile CN: Improve the UI of homescreen"
+}

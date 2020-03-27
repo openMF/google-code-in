@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Rishabh10", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5765582373257216, 
+    "tags": [
+        "android", 
+        "research", 
+        "design", 
+        "mockups"
+    ], 
+    "student_id": 5462770502336512, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2020-01-21 17:03:49", 
+    "max_instances": "3", 
+    "id": 5843595127422976, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-21 17:03:45", 
+    "deadline": "2020-01-23 17:59:59", 
+    "submitted_date": "2020-01-20 18:45:06", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "harshshinde07@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile Wallet: Usability research of mobile-wallet app", 
+    "categories": [
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective \nDo an usability research of the interface of mobile wallet application\n\n## Description\nGo through the current app to find the difficulties in the overall usage of the app, document them and suggest changes to the interface with documentation of how the suggested implementation solves the problem faced and improves the user interaction. \n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).\n\n** Note:- **\nAttach a Google doc file with the screenshots  with a description on the problem with the current implementation and how it can be improved with mockups (bonus)."
+}

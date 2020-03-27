@@ -1,0 +1,34 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4792922839449600, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-04 11:46:24", 
+    "max_instances": "1", 
+    "id": 6639858299174912, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-04 11:46:19", 
+    "deadline": "2019-12-06 21:31:01", 
+    "submitted_date": "2019-12-04 10:30:24", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jonathanzhang53@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos X Community App - Bug Fix: Need meaningful tooltip for help link in 'Create Self Service User page'", 
+    "categories": [
+        "1"
+    ], 
+    "description": "### Steps to Reproduce:\nGo to client page> click on 'More' button.\nIn 'More' menu, click on 'Create Self Service user'\nObserve the label against the button \"Activate Self Service User\".\n\n### Expected Behaviour:\nNeed meaningful label, \"Activate Self Service User Help\"\nFor screenshot refer the ticket id.\n\n ### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app)."
+}

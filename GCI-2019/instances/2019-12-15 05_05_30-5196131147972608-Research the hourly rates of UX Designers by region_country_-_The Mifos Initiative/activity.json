@@ -1,0 +1,166 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-15T05:05:26Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6012860610641920, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Oh Sorry, katdho if your first reply dont have any replying from mentor. I see your work is good and ready to next task :) thanks", 
+        "created": "2019-12-15T05:05:22Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 5795120440410112, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-15T04:37:11Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 5980850890473472, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "Shareable Link to Spreadsheet: https://docs.google.com/spreadsheets/d/1e-t3xHumiLGtlJID6jVcoh1muyY8RMJxxIZSf3tpssg/edit?usp=sharing\n\nHow this Spreadsheet is organized:\n1. All regions have 2-3 different countries (with the exception of Central Asia which only has 1). Major countries (defined in task) are underlined, indented, and are the first ones listed per region.\n2. For each specific location, there is 2 different professions. If available, UX Designer and UI Designers will always be the first choices. If not, the profession will be replaced with Front-End Developer, Web Designer/Developer, Software Developer/Engineer, or Graphic Designer\n3. Explanation of Categories:\n     a. Experience: Like for the professions, the go to 3 diff levels are (entry-level \n     (entry) mid-career (mid), and late-career (late)), the % in ( ) is the increase (+) \n     or decrease (-) compared to the average yearly/hourly rate which are the \n     rates listed in the chart. If one of these levels can't be found, it will be \n     replaced with the levels: early-career (early), or experienced.\n     b. Best Language/Stack: This is the top desirable skill that will increase \n     income + chance of hiring. The percentage in the ( ) is the hourly/yearly rate \n     % increase compared to the rates in this chart if the employee has this skill.\n      c. Best City: This is the city with the highest income at this specific location. \n      The percentage in the ( ) is the hourly/yearly rate % increase compared to the \n      rates in this chart if an employee worked in this city\n4. If the Hourly/Yearly rate has a \"*\", it means the amount was manually found.\n5. If the category is listed as not available, it means that the info could not be found.\n6. All sources are from payscale to keep data consistent, and therefore more comparable.", 
+        "created": "2019-12-15T04:36:48Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6107669773942784, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-12T22:18:17Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 4896843599708160, 
+        "old_task_instance_status": 6, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": null, 
+        "text": "", 
+        "created": "2019-12-12T21:51:13Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 6354729806856192, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "Dear Mentors,\nMay I get a 1 day extension to finish up on this task? I wish to complete the task to the best of my ability, so my research will be useful and informative to you guys and The Mifos Initiative. I don't think I could do this without hastily rushing through the task and having overly poor-quality work. I humbly ask that you extend the deadline to Friday, and I assure you that you will be receiving the best work I could possibly make. Thank you, and I really appreciate it.", 
+        "created": "2019-12-12T02:56:20Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6213238593683456, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5196131147972608, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-09T21:46:13Z", 
+        "task_definition_name": "Research the hourly rates of UX Designers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6670007426088960, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

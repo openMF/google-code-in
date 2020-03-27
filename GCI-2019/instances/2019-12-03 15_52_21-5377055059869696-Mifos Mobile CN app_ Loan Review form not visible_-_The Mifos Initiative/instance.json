@@ -1,0 +1,33 @@
+{
+    "student_display_name": "rg", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5069564166012928, 
+    "tags": [
+        "xml", 
+        "Android", 
+        "bug", 
+        "mifos-mobile-cn"
+    ], 
+    "student_id": 4531853520797696, 
+    "is_beginner": "True", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 15:52:21", 
+    "max_instances": "1", 
+    "id": 5377055059869696, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-03 15:52:16", 
+    "deadline": "2019-12-06 15:10:20", 
+    "submitted_date": "2019-12-03 15:10:33", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "abhijitramesh2k@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "jonathanzhang53@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile CN app: Loan Review form not visible", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective\nLoan Review form should be visible\n\n### Description\n1. Go to String.xml\n2. Find the string array \"loan_application_steps\"  add the fourth item \"Review\"\n\n####References\nhttps://www.homeandlearn.co.uk/android/grid_view_array.html\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn)."
+}

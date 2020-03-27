@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "## Objective \nNew empty activity should open up on clicking \"Settings\" in Navigation Menu . \n\n## Steps\n1. Install mifos-mobile-cn android app in your phone .\n2. On selecting Navigation Drawer , you will find a field \"Settings\" . For now it is not clickable.\n3.  **You have to write code to open up new empty activity on clicking Settings** .\n\n\n## Resources\nhttps://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).", 
+    "tags": [
+        "android", 
+        "code", 
+        "beginner"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "singhsaumyas150@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-03T03:18:59Z", 
+    "external_url": "https://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click", 
+    "id": 6409592150425600, 
+    "available_count": 0, 
+    "name": "Mifos Mobile CN app: New empty activity should open up on clicking \"Settings\" ."
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4769163415912448, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 06:54:58", 
+    "max_instances": "1", 
+    "id": 5079818333323264, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-03 06:54:55", 
+    "deadline": "2019-12-07 03:00:50", 
+    "submitted_date": "2019-12-03 06:54:10", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: Update library dependencies and build tools, configure build variant", 
+    "categories": [
+        "1"
+    ], 
+    "description": "Summary:\n\nUpdate library dependencies and build tools versions to correct and latest ones.\nIrradicate sync and build errors + warnings.\nIssues with build variant.\n\nSteps to reproduce:\n\nClone the project and build it.\n\nExpected behaviour:\n\nThe build should be successful without any dependency warnings or errors.\n\nObserved behaviour:\n\nDependency warnings, build tools outdated, build variant issues."
+}

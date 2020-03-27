@@ -1,0 +1,651 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-10T12:03:52Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 5946937593823232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Good work!", 
+        "created": "2020-01-10T12:03:48Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 5452669653614592, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-10T09:49:36Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 6573553256759296, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "Hi luphieanza,\nI've uploaded png file in drive.\nlink is- https://drive.google.com/drive/folders/1-XD0deQHfh2CPyGOnqe--N82WJgeJ8yz", 
+        "created": "2020-01-10T09:49:32Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6358125850918912, 
+        "id": 6297485157335040, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-10T09:20:31Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 6238803707035648, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Attach the PNG files too", 
+        "created": "2020-01-10T09:20:27Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6177082661404672, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-10T08:07:28Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 4702587018805248, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "I've created a folder in Drive Named Rajat_Singh here's link :-\nhttps://drive.google.com/drive/folders/1-XD0deQHfh2CPyGOnqe--N82WJgeJ8yz", 
+        "created": "2020-01-10T08:07:22Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6358125850918912, 
+        "id": 4975582153015296, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-10T07:38:57Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 4896767959629824, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Have you been put your work into this folder? https://drive.google.com/open?id=1DOWBCUw54XP1g7p03FjD_33hVtPb_ABn make a new folder and append with your gci nickname.", 
+        "created": "2020-01-10T07:36:44Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6715825726160896, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-10T07:07:17Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 4599793989451776, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "Hi luphieanza\n.psd file is attached herewith.", 
+        "created": "2020-01-10T07:07:13Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6358125850918912, 
+        "id": 5759779075522560, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6641701502844928/", 
+                "filename": "T_SHRIT_1.psd", 
+                "id": 6641701502844928, 
+                "file_size": 477174.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5174284838764544/", 
+                "filename": "T_SHIRT_2.psd", 
+                "id": 5174284838764544, 
+                "file_size": 1564152.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-10T03:49:13Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5587573250981888, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "So could you please attach native file (.psd,  etc)  so we can know that genuine of yourself.", 
+        "created": "2020-01-10T03:49:07Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4526812697198592, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-10T02:28:53Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 5787021868531712, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "Where have you see my design on internet ??, Please report! And send me link also.\nI've not copied, these both designs are genuine, creative and created by me, and where I've applied logo of mifos is a oval shaped design, not pasted or something.", 
+        "created": "2020-01-10T02:28:45Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6358125850918912, 
+        "id": 5689796341530624, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-09T17:19:50Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5340681669705728, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "I think you should make it by yourself. Your design seems copyied on Internet.Please redesign, thanks", 
+        "created": "2020-01-09T17:19:45Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4904938329604096, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-09T12:18:49Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 4779667689570304, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "Hi Chirag Gupta,\nI re-design the Mifos T-shirt, file attached.", 
+        "created": "2020-01-09T12:18:42Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 6358125850918912, 
+        "id": 6685900054986752, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5829655156752384/", 
+                "filename": "T_SHIRT_2.png", 
+                "id": 5829655156752384, 
+                "file_size": 209525.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4978417418633216/", 
+                "filename": "T_SHIRT_1.png", 
+                "id": 4978417418633216, 
+                "file_size": 144610.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "", 
+        "created": "2020-01-09T09:05:58Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5409251267182592, 
+        "id": 4831281100095488, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "We can clearly see that you have just put the logo on the image. Please try to be creative and original.", 
+        "created": "2020-01-09T09:05:53Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5409251267182592, 
+        "id": 5807431955775488, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "It is a simple design but which will see it, will absolutely be attract.", 
+        "created": "2020-01-09T06:28:37Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 5197129652371456, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-09T06:14:29Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 4787533855064064, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4837679930277888/", 
+                "filename": "DESIGIN_FOR_MIFOS.png", 
+                "id": 4837679930277888, 
+                "file_size": 1003884.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": true, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-09T06:14:11Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 5569885686464512, 
+        "old_task_instance_status": 4, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4837679930277888/", 
+                "filename": "DESIGIN_FOR_MIFOS.png", 
+                "id": 4837679930277888, 
+                "file_size": 1003884.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-09T02:51:36Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6358125850918912, 
+        "id": 4529693462626304, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "Hi, I've design a T-shirt for Mifos, file is attached.", 
+        "created": "2020-01-09T02:51:28Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6358125850918912, 
+        "id": 6414427268579328, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5061013548826624/", 
+                "filename": "DESIGIN_FOR_MIFOS.png", 
+                "id": 5061013548826624, 
+                "file_size": 1003884.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4975364904845312/", 
+                "filename": "DESIGN_FOR_MIFOS.jpg", 
+                "id": 4975364904845312, 
+                "file_size": 111983.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4725711558934528, 
+        "author": {
+            "display_name": "Rajat Singh", 
+            "program_year": 2019, 
+            "id": 6358125850918912
+        }, 
+        "text": "", 
+        "created": "2020-01-09T02:49:52Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6358125850918912, 
+        "id": 5603849432203264, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

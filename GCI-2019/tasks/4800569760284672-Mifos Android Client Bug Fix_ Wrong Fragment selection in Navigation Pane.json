@@ -1,0 +1,33 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nThe selection in Navigation pane remains as such if we select an option which creats a new activity(such as Settings, Path Tracker,or Collection Sheet), and the navigate back using back button.\n\nSteps to reproduce:\n\nOpen Settings, Path Tracker or Collection Sheet from navigation pane.\nPress back button.\nExpected behavior:\n\nThe selection in navigation pane should be according to the previously opened option(fragment or activity).\n\nObserved behavior:\n\nThe selection in navigation pane is according to the new option opened, the one from which we navigated back.\n\nDevice and Android version:\n\nModel: Samsung Galaxy A5(2016)\nAndroid version: Android 7.0 Nougat.", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-12-12T05:08:43Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/804", 
+    "id": 4800569760284672, 
+    "available_count": 0, 
+    "name": "Mifos Android Client Bug Fix: Wrong Fragment selection in Navigation Pane"
+}

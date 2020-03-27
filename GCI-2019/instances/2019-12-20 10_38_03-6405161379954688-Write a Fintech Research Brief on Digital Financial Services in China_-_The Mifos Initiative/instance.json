@@ -1,0 +1,35 @@
+{
+    "student_display_name": "bl6", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5924428148375552, 
+    "tags": [
+        " DFS", 
+        " fintech", 
+        " mifos", 
+        "research", 
+        " mobile money"
+    ], 
+    "student_id": 6661629287071744, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-20 10:38:03", 
+    "max_instances": "3", 
+    "id": 6405161379954688, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-20 10:37:59", 
+    "deadline": "2019-12-22 00:39:46", 
+    "submitted_date": "2019-12-20 03:30:14", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "giorgio.zoppi@gmail.com", 
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com", 
+        "sanyam.bvcoe96@gmail.com"
+    ], 
+    "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in China", 
+    "categories": [
+        "5"
+    ], 
+    "description": "## Objective \nThe next generation of Mifos is focused on digital financial services which offer unparalleled access, reach, and depth of financial services at much lower cost. To better approach each market we want to understand the mobile money, electronic money mobile wallet offerings along with the fintech landscape and regulatory climate enabling it.\n\nSee https://goo.gl/NEnwjR for an overview of required deliverables.\n\n## Digital Financial Services\n### Mobile Money Ecosystem\n\n* Who are the major mobile money (MM) players\n* How widely adopted is MM? Is it interoperable?\n* For each of the major MM players, what product/services do they have? what is cost structure? how many users do they have? what transaction volume?\n\n### Digital Infrastructure\n* What is level of adoption of electronic money (debit/credit cards, alternative/crypto-currency)?\n* How favorable is the regulatory climate? Have there been any national laws passed to ease transition away from cash?\n* Is there a national real-time payment system? What are the payment systems?\n* Is a there a national ID? Is it digital or biometric? \n\n### Mobile Wallets & Payment Systems\n* Who are the major mobile wallet providers? \n* What are services they offer? What is business model?\n* What is level of adoption with the poor?\n\n### FinTech\n* Who are major fintech players? What banks have finlabs or financial innovation labs?\n* Which ones are focused on financial inclusion? What products & services do they offer?\n* What are the major trends?"
+}

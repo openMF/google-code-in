@@ -1,0 +1,40 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6122158904836096 | Task Definition ID 6318809225363456
+Max instances: 10
+
+Title: PPI Vision: Create a short demo video on how to use the android app|
+Description: ## Objective
+Your task is to create a short demo video which explains to a user how to use the app. 
+
+## Description
+
+You will have to first [build](https://stackoverflow.com/questions/25348339/how-to-import-an-existing-project-from-github-into-android-studio) the app from the [GitHub repository](https://github.com/openMF/ppi-vision). After this, to create the video you have to take a screencast of the app.  
+
+The video should cover all the features present in the app along with the ones that were added recently. You can find a sample [here](https://www.youtube.com/watch?v=8RpfL_9BUIM). The sample video was created by a GCI participant in the previous year.
+ 
+You can use any video editing software of your choice.
+
+After making the video, upload it to YouTube and send us the link as a reply to this task. 
+
+## References
+
+The latest features that were added to the app can be found [here](https://gist.github.com/apoorva-mk/a6661ca04b9b6b5d098e8bee41c35ddf). This link also contains information on how to use the app in the form of short gif videos.
+
+The source code for the app can be found [here](https://github.com/openMF/ppi-vision).
+
+[This StackOverflow post](https://stackoverflow.com/questions/25348339/how-to-import-an-existing-project-from-github-into-android-studio) explains how to build an android project by importing it from GitHub.
+
+## Need help? 
+
+If you need help, you can ask any question as a reply to this task or you can post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists).
+Tags:  video-editing,  mobile, android,  video
+
+Categories: Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: harshshinde07@gmail.com, sanyam.bvcoe96@gmail.com, luphieanza@gmail.com, abhilash.gunasegaran@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2020-01-05 10:01:49)
+Last modified: 2020-01-02 15:07:02

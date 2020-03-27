@@ -1,0 +1,33 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5196395330404352 | Task Definition ID 4574796071829504
+Max instances: 1
+
+Title: Mifos Pay Bug: Wrong error message while sending money using Mobile Number
+Description: Summary:
+If you try to transfer money using Mobile Number, a Snackbar appears with a wrong error message.
+
+Steps to reproduce:
+Payments -> Send -> Mobile Number -> Add an amount -> Type the mobile number -> Submit
+
+Expected behavior:
+
+An error message saying "Error finding Mobile Number" should be displayed.
+
+Observed behavior:
+
+An error message saying "Error finding Virtual Payment Address" is displayed.
+
+Device and Android version:
+Mi A2
+Android 9 Pie
+Tags: mobile-wallet, android, code, bug, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: sanyam.bvcoe96@gmail.com, jddeep003@gmail.com, guptachirag2002@gmail.com
+Student: PiyushSharma99 (ID 6483083604262912)
+
+Status: COMPLETED (2020-01-09 06:18:40)
+Last modified: 2020-01-06 17:01:41

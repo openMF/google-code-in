@@ -1,0 +1,23 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "We want to provide a button + a mechanism to export from the current datatable in excel in order to create a useful. For example near Import Client, a new button with Export Client. The user story:\n1.the user clicks on export client\n2. the ui generate an event to the system\n3. the system provides a way to export the table in excel (ie. the complete list of client) and asks the user where to save.", 
+    "tags": [], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "giorgio.zoppi@gmail.com"
+    ], 
+    "max_instances": 4, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-01T13:22:06Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/489", 
+    "id": 5461942076964864, 
+    "available_count": 4, 
+    "name": "Mifos/Angular. Export to XSL from main data/grid table."
+}

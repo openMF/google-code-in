@@ -1,0 +1,31 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6245702506643456 | Task Definition ID 6092862035329024
+Max instances: 1
+
+Title: Mifos Mobile: "Beneficiaries" coming in two lines
+Description: Summary:
+
+On opening the app, the word "Beneficiaries" is coming in 2 lines. Its looking very odd.
+
+Steps to reproduce:
+
+Remove the default padding in the layout, and replace it by giving margin in the imageview.
+
+Expected behaviour:
+
+The word "Beneficiaries" should come in 1 line.
+
+Observed behaviour:
+
+The word "Beneficiaries" is coming in 2 lines.
+Tags: android,  fintech,  mifos-mobile,  bug
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: elirehemapaulo@gmail.com, jddeep003@gmail.com, rajanmaurya154@gmail.com, academic.rahul@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-06 11:52:31)
+Last modified: 2019-12-03 20:25:01

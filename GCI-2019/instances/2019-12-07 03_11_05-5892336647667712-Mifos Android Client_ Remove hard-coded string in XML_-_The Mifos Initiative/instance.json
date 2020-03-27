@@ -1,0 +1,36 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4834524429549568, 
+    "tags": [
+        "xml", 
+        "GCI", 
+        "Android", 
+        "good first issue"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "True", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-07 03:11:05", 
+    "max_instances": "1", 
+    "id": 5892336647667712, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-07 03:11:01", 
+    "deadline": "2019-12-08 13:34:10", 
+    "submitted_date": "2019-12-07 02:53:59", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "guptachirag2002@gmail.com", 
+        "sanyam.bvcoe96@gmail.com", 
+        "Sukhbeer940@gmail.com", 
+        "jonathanzhang53@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Android Client: Remove hard-coded string in XML", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \nReomve the Hard-coded string xml file\n\n## Description\n1. Open Android Studio and Find out hard-coded text in XML file.\n2. Convert them into String resource file.\n\n####References \nhttps://stackoverflow.com/questions/34130513/how-to-solve-this-issue-of-hardcoded-string/34130992\nhttps://developer.android.com/guide/topics/resources/string-resource\n\n##How to get help, be sure to post your questoin to our [developer mailing list](http://mifos.org/resources/\ncommunity/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos)."
+}

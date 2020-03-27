@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Current Mifos Android client application has no option to update client image from mobile application", 
+    "tags": [
+        "kotlin", 
+        "android", 
+        "java"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "elirehemapaulo@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-02T13:17:48Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/1182", 
+    "id": 5126137475235840, 
+    "available_count": 1, 
+    "name": "Add option update client image in android client application"
+}

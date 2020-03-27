@@ -1,0 +1,298 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2019-12-30T15:51:45Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5685108493778944, 
+        "id": 4928359256031232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-29T21:48:44Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 6513507063824384, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "Ok, here is the changed and hopefully better version of the previous logo. The colors are all shades of blue which match with Mifo's color scheme.The arrows are related to financial services because it represents the cycle of money. The arrow on top (going from the left to right) represents investments, deposits or money that goes in, while the bottom arrow (going from right to left) represents withdrawals or money that goes out.", 
+        "created": "2019-12-29T21:48:08Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5624966318391296, 
+        "id": 5801388936790016, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5039296248020992/", 
+                "filename": "transparentNoOutline.jpg", 
+                "id": 5039296248020992, 
+                "file_size": 36578.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6411184635379712/", 
+                "filename": "transparentNoOutline.png", 
+                "id": 6411184635379712, 
+                "file_size": 33407.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6717353576890368/", 
+                "filename": "transparentRound.png", 
+                "id": 6717353576890368, 
+                "file_size": 87776.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6374511117598720/", 
+                "filename": "transparentSquare.tif", 
+                "id": 6374511117598720, 
+                "file_size": 16238.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5405627430469632/", 
+                "filename": "transparentRound.jpg", 
+                "id": 5405627430469632, 
+                "file_size": 28287.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5545033210527744/", 
+                "filename": "transparentNoOutline.tif", 
+                "id": 5545033210527744, 
+                "file_size": 11962.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4690764215353344/", 
+                "filename": "transparentSquare.png", 
+                "id": 4690764215353344, 
+                "file_size": 44500.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6176061952360448/", 
+                "filename": "transparentRound1.tif", 
+                "id": 6176061952360448, 
+                "file_size": 18826.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6429888949518336/", 
+                "filename": "transparentSquare.jpg", 
+                "id": 6429888949518336, 
+                "file_size": 22153.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "", 
+        "created": "2019-12-29T02:45:06Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5515255220797440, 
+        "id": 4609875485655040, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "Hi, thanks for your work. Can you please try to keep the color scheme uniform with the Mifos initiative apps and products. Also the app is related to financial services. See if you can get some influence of that in the app icon. Thanks.", 
+        "created": "2019-12-29T02:44:59Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5515255220797440, 
+        "id": 5767516073230336, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-27T21:21:06Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 4570579621904384, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "https://docs.google.com/presentation/d/1KBGhoI3sGk38qo3bcLDn_l_Ku09ztrSy4xVn_fNTbWA/edit?usp=sharing", 
+        "created": "2019-12-27T21:21:00Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 5360307606650880, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4859354298187776/", 
+                "filename": "transparentSquare.png", 
+                "id": 4859354298187776, 
+                "file_size": 92433.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6590759231291392/", 
+                "filename": "transparentRound.png", 
+                "id": 6590759231291392, 
+                "file_size": 145449.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6699920455630848/", 
+                "filename": "high_res_transparentNoOutline.tif", 
+                "id": 6699920455630848, 
+                "file_size": 41766.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6635738142081024/", 
+                "filename": "transparentNoOutline.jpg", 
+                "id": 6635738142081024, 
+                "file_size": 21785.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6100142566932480/", 
+                "filename": "transparentRound.jpg", 
+                "id": 6100142566932480, 
+                "file_size": 60773.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5625057041186816/", 
+                "filename": "transparentSquare.jpg", 
+                "id": 5625057041186816, 
+                "file_size": 56903.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4777131444273152/", 
+                "filename": "high_res_transparentSquare.tif", 
+                "id": 4777131444273152, 
+                "file_size": 129296.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5508112665018368/", 
+                "filename": "transparentNoOutline.png", 
+                "id": 5508112665018368, 
+                "file_size": 32636.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5968257073283072/", 
+                "filename": "high_res_transparentRound.tif", 
+                "id": 5968257073283072, 
+                "file_size": 195798.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5428559871475712, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-27T17:09:50Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 5613127903739904, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

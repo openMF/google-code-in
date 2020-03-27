@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\nIf you try to transfer money using Mobile Number, a Snackbar appears with a wrong error message.\n\nSteps to reproduce:\nPayments -> Send -> Mobile Number -> Add an amount -> Type the mobile number -> Submit\n\nExpected behavior:\n\nAn error message saying \"Error finding Mobile Number\" should be displayed.\n\nObserved behavior:\n\nAn error message saying \"Error finding Virtual Payment Address\" is displayed.\n\nDevice and Android version:\nMi A2\nAndroid 9 Pie", 
+    "tags": [
+        "mobile-wallet", 
+        "android", 
+        "code", 
+        "bug", 
+        "mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "jddeep003@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2020-01-06T05:31:42Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/607", 
+    "id": 4574796071829504, 
+    "available_count": 0, 
+    "name": "Mifos Pay Bug: Wrong error message while sending money using Mobile Number"
+}

@@ -1,0 +1,33 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Building off of the initial competitor research and due diligence completed by one of our GCI students at https://goo.gl/pkZC76, we want to do a deeper dive on the other software vendors including more details on their company, their business and support model, as well as comparison of their functionality.\n\nYou will fill out and complete as many of the rows for this assigned competitor/vendor and put the corresponding information in the column with their name.\n\nDo as thorough of research via Google as you can including their website, software reviews, press releases, etc.\n\nIf you have trouble finding information, you can also reach out direction to the vendor by contacting them as a student doing a research project.\n\nAll information that must be gathered can be found in the template at https://goo.gl/d9x8Hr\n\nPlease make a copy of this sheet and then complete for the specific competitor. Some research from a previous year on one competitor was included as a reference.\n\nYou can also add supplemental information as a slide deck or Google Doc.", 
+    "tags": [
+        " competitor analysis", 
+        " fintech", 
+        " mifos", 
+        " due diligence", 
+        "research"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "sanyam.bvcoe96@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        5
+    ], 
+    "last_modified": "2019-12-26T02:47:05Z", 
+    "external_url": "https://goo.gl/d9x8Hr", 
+    "id": 6600789062057984, 
+    "available_count": 2, 
+    "name": "Mifos - Do Deep Dive Competitor Research and Functional Comparison with Temenos T24"
+}

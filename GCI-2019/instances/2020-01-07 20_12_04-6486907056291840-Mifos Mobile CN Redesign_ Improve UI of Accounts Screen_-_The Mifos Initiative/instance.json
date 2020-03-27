@@ -1,0 +1,35 @@
+{
+    "student_display_name": "lax", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 5839023117959168, 
+    "tags": [
+        "xml", 
+        "design", 
+        "android", 
+        "mifos mobile cn"
+    ], 
+    "student_id": 5535605488877568, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2020-01-07 20:12:04", 
+    "max_instances": "1", 
+    "id": 6486907056291840, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-11 14:39:23", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "govinddixit93@gmail.com", 
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile CN Redesign: Improve UI of Accounts Screen", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "## Summary\n\nWe believe that we should constantly improve the UI/UX of the app in order to serve the consumers better. For that, we made a task on submitting Usability Research Report on Mifos Mobile CN and one of the students suggested to redesign the app and gave some amazing mockups to work on.\n\n## What to do\n\nYou have to redesign the accounts screen according to mockup given on Github issue. Send your Pull Request on redesign branch.\n\n[Here](https://docs.google.com/presentation/d/1yFR19vGlKW-amxzGms8TgPzd1jWkrALPFcaC85EyYpw/edit?usp=sharing) are the slides and [this](https://drive.google.com/file/d/1rchih7z_oRz0RyMnByV1JWZjqDsqzhk-/view?usp=sharing) is the prototype video that the student submitted for the references."
+}

@@ -1,0 +1,27 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "When a customer is individual in his profile it is possible to make the background funds between his various savings accounts and to transfer funds from the savings account to make a refund. on the other hand in a group it is not possible.\nthen the task will consist in reproducing this operation in the group", 
+    "tags": [], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "bragolight@gmail.com", 
+        "singhsaumyas150@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2, 
+        3, 
+        5
+    ], 
+    "last_modified": "2019-12-06T18:49:13Z", 
+    "external_url": "https://github.com/openMF/community-app", 
+    "id": 4659307371560960, 
+    "available_count": 3, 
+    "name": "Community-app Allow transfer between transfer between savings accounts of a group"
+}

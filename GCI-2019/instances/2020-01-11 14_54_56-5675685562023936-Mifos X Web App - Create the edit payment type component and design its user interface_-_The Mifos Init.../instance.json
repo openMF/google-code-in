@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Rishabh10", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4794594781298688, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 5462770502336512, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2020-01-11 14:54:56", 
+    "max_instances": "1", 
+    "id": 5675685562023936, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-11 14:54:52", 
+    "deadline": "2020-01-15 16:04:14", 
+    "submitted_date": "2020-01-10 18:13:26", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Create the edit payment type component and design its user interface", 
+    "categories": [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to create the edit payment type component and design its user interface.\n\n### Description\n1. Create the edit payment type component under the organization -> payment types section.\n2. Connect it via routing from edit payment type button in payment types table so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the edit payment type component using angular material components and flex layout directives to ensure responsiveness.\n5. Implement the required API so an existing payment type can be updated. Make sure after payment type is updated we are redirected back to payment types list view.\n6. Write comments for the implemented component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key."
+}

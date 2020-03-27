@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "The MifosX platform require a special listing of Loans, savings etc with individual buttons per row. Presently, Loans/Savings account could only be viewed only when an individual client page is opened.", 
+    "tags": [
+        "loan/saving listing page", 
+        "api integration", 
+        "use of pwa"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "david.e.alozie@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2020-01-19T11:42:28Z", 
+    "external_url": null, 
+    "id": 5284334609629184, 
+    "available_count": 1, 
+    "name": "Addition of Loan/client/Savings/Shares account listing with individual edit button per row."
+}

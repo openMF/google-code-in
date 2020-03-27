@@ -1,0 +1,27 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5396807211810816 | Task Definition ID 6252037382078464
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: Previous and Next month calendar dates must be disabled in selected month
+Description: ### Actual Behaviour:
+Previous and next month calender dates are not disabled on selection of a month.
+
+### Expected Behaviour:
+Example: If you select month as July 2017, in this month June and August month dates should be disabled. This issue exists with all pop-up calendars in application.
+
+### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jonathanzhang53@gmail.com, abhay.chawla97@gmail.com, santosh@confluxtechnologies.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-10 12:27:31)
+Last modified: 2019-12-08 09:12:10

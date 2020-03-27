@@ -1,0 +1,36 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4800569760284672, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-16 10:54:22", 
+    "max_instances": "1", 
+    "id": 6649024900235264, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-16 10:50:42", 
+    "deadline": "2019-12-19 06:48:09", 
+    "submitted_date": "2019-12-16 09:07:57", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Bug Fix: Wrong Fragment selection in Navigation Pane", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nThe selection in Navigation pane remains as such if we select an option which creats a new activity(such as Settings, Path Tracker,or Collection Sheet), and the navigate back using back button.\n\nSteps to reproduce:\n\nOpen Settings, Path Tracker or Collection Sheet from navigation pane.\nPress back button.\nExpected behavior:\n\nThe selection in navigation pane should be according to the previously opened option(fragment or activity).\n\nObserved behavior:\n\nThe selection in navigation pane is according to the new option opened, the one from which we navigated back.\n\nDevice and Android version:\n\nModel: Samsung Galaxy A5(2016)\nAndroid version: Android 7.0 Nougat."
+}

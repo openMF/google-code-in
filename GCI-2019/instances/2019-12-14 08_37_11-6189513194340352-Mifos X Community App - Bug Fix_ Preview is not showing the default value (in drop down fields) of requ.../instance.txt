@@ -1,0 +1,36 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6189513194340352 | Task Definition ID 5059437505544192
+Max instances: 5
+
+Title: Mifos X Community App - Bug Fix: Preview is not showing the default value (in drop down fields) of required fields
+Description: ### Description:
+Preview is not showing the default value(in drop-down fields)of required fields until they are changed to some other value.
+
+
+### Steps to Reproduce:
+Create any of the stated forms. Fill all the required fields and don't change the default values in the drop downs of required fields.
+
+### Expected Behaviour:
+The default value should be displayed in the preview.
+
+### Actual Behaviour:
+The default value is not displayed in the preview.
+
+### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+**Note:** Please specify atleast two forms that you will be correcting as part of this task in a comment at the GCI Portal and the linked issue.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: ashusingh15673@gmail.com, santosh@confluxtechnologies.com, abhay.chawla97@gmail.com, jonathanzhang53@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-16 04:02:51)
+Last modified: 2019-12-14 08:37:11

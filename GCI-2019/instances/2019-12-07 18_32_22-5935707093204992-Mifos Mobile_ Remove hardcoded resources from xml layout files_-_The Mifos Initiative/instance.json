@@ -1,0 +1,36 @@
+{
+    "student_display_name": "rradzzio", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5943159842930688, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 5169845344141312, 
+    "is_beginner": "True", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-07 18:32:22", 
+    "max_instances": "1", 
+    "id": 5935707093204992, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-07 18:32:18", 
+    "deadline": "2019-12-08 17:54:26", 
+    "submitted_date": "2019-12-07 15:50:10", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nRemove hardcoded resources from xml layout files. Eg:- Use dimensions from dimens.\n\nSteps to reproduce:\n\nGo through the project codebase and layout files.\n\nExpected behaviour:\n\nRemove hardcoded resources from xml layout files.\n\nObserved behaviour:\n\nSome resources like dimensions, strings, colors are hardcoded in layout files.\n\nDevice and Android version:\n\nAndroid Pi."
+}

@@ -1,0 +1,23 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4783268046569472 | Task Definition ID 5967926167863296
+Max instances: 1
+
+Title: Mifos Android Client - Bug Fix: No pop up message shows 'Waiting for Checker approval"
+Description: 1) Go to System>Configurations and enable Maker-Checker
+2) Enable Create client checker in 'Configure Maker Checker tasks.
+3) Go to left navigation page and tap on Clients.
+4) In clients list page, click on '+' icon.
+5) In next create client page, enter all mandatory fields and submit it. 
+
+Expected: After Submission, should show message, 'Waiting for Checker approval' and it must be listed in checker Inbox.
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, mokshmahajan008@gmail.com, rajanmaurya154@gmail.com, elirehemapaulo@gmail.com, santosh@confluxtechnologies.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2019-12-11 15:46:21)
+Last modified: 2019-12-09 11:11:15

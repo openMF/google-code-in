@@ -1,0 +1,475 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "", 
+        "created": "2019-12-11T08:20:24Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5409251267182592, 
+        "id": 6448929017692160, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "", 
+        "created": "2019-12-11T01:28:08Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5818618768523264, 
+        "id": 5858319944646656, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "", 
+        "created": "2019-12-11T01:28:01Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5818618768523264, 
+        "id": 6611742461788160, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5535035474575360/", 
+                "filename": "poster12_10_153936.jpeg", 
+                "id": 5535035474575360, 
+                "file_size": 140677.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6546661359222784/", 
+                "filename": "IMG_20191210_222711.png", 
+                "id": 6546661359222784, 
+                "file_size": 102775.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5177207681449984/", 
+                "filename": "IMG_20191211_065341.png", 
+                "id": 5177207681449984, 
+                "file_size": 26714.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5736182214819840/", 
+                "filename": "IMG_20191210_215339.png", 
+                "id": 5736182214819840, 
+                "file_size": 66248.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5507645125951488/", 
+                "filename": "IMG_20191210_215232.png", 
+                "id": 5507645125951488, 
+                "file_size": 73146.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5147736286953472/", 
+                "filename": "IMG_20191211_065313.png", 
+                "id": 5147736286953472, 
+                "file_size": 28106.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "What type of efforts you need now from me I used a app to make them all.", 
+        "created": "2019-12-10T16:47:14Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5818618768523264, 
+        "id": 6139731058884608, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "", 
+        "created": "2019-12-10T15:44:14Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5409251267182592, 
+        "id": 6228880461922304, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "We still cannot find the native files you have only provided png and jpeg. Can you please tell which software did you use for making these so that we can tell you what we exactly want?", 
+        "created": "2019-12-10T15:44:10Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5409251267182592, 
+        "id": 5834597791694848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "", 
+        "created": "2019-12-10T10:13:22Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5818618768523264, 
+        "id": 6000588479791104, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "Now, one should accept it\u00f0\u0178\u00a4\u017e.", 
+        "created": "2019-12-10T10:13:08Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5818618768523264, 
+        "id": 5995320878563328, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4829791778242560/", 
+                "filename": "IMG_20191208_215935.png", 
+                "id": 4829791778242560, 
+                "file_size": 27148.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5034961048961024/", 
+                "filename": "IMG_20191210_070220.png", 
+                "id": 5034961048961024, 
+                "file_size": 131518.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6372339441205248/", 
+                "filename": "poster12_10_153919.png", 
+                "id": 6372339441205248, 
+                "file_size": 277061.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5694234074546176/", 
+                "filename": "poster12_10_153936.jpeg", 
+                "id": 5694234074546176, 
+                "file_size": 140677.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "", 
+        "created": "2019-12-10T04:00:09Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5409251267182592, 
+        "id": 5399963048083456, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "We still cannot find native files.", 
+        "created": "2019-12-10T04:00:02Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5409251267182592, 
+        "id": 5907692606980096, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "", 
+        "created": "2019-12-10T01:39:47Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5818618768523264, 
+        "id": 5969101604782080, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "According to instructions given by the you or mentors of Mifos Initiative to make apk logo I have developed a logo in which letter 'M' is used with the word pay.\nI have used word 'pay' because one know at least in one go that it is a UPI money apk for transactions. Moreover, a logo is the representation of any business.\nFollowing I have provided both .png and .jpg formats of the logo. I think one should select this one.", 
+        "created": "2019-12-10T01:39:41Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5818618768523264, 
+        "id": 5171252709294080, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5337474360934400/", 
+                "filename": "IMG_20191210_070220.png", 
+                "id": 5337474360934400, 
+                "file_size": 131518.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6171796076756992/", 
+                "filename": "IMG_20191210_065357.jpg", 
+                "id": 6171796076756992, 
+                "file_size": 124018.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5481674196910080/", 
+                "filename": "IMG_20191210_065324.jpg", 
+                "id": 5481674196910080, 
+                "file_size": 190586.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5636390017040384/", 
+                "filename": "poster12_10_711.png", 
+                "id": 5636390017040384, 
+                "file_size": 286672.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2019-12-09T18:55:20Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5685108493778944, 
+        "id": 4986844664561664, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "Can you please submit the native design file you created - .psd or .ai or equivalent?", 
+        "created": "2019-12-09T18:55:14Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5685108493778944, 
+        "id": 4749261946748928, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "", 
+        "created": "2019-12-08T16:51:33Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5818618768523264, 
+        "id": 4991201506230272, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "Mifos Initiative, Mifos pay apk's  logo as the file IMG_20191208_220711.png shows. Secondly logo for our business as IMG_20191208_215830.jpg shows, it would our website logo or sub-logo.\nI really want to thank Mifos Initiative for this kind of project as I learned a lot about app logo designing. Also your app will a type of contribution in digitalisation of India and the world. Also, I hope that your or our e-money transaction app will beat paytm, bhimupi and many other competitors in this world and be standing at No.1.", 
+        "created": "2019-12-08T16:51:26Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5818618768523264, 
+        "id": 4831346715787264, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4743563196235776/", 
+                "filename": "IMG_20191208_220711.png", 
+                "id": 4743563196235776, 
+                "file_size": 128772.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5909167953412096/", 
+                "filename": "IMG_20191208_215830.jpg", 
+                "id": 5909167953412096, 
+                "file_size": 31757.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6476594940477440, 
+        "author": {
+            "display_name": "Sharma IND", 
+            "program_year": 2019, 
+            "id": 5818618768523264
+        }, 
+        "text": "", 
+        "created": "2019-12-08T15:41:52Z", 
+        "task_definition_name": "Mifos Pay: Create A Round And Square Logo For MifosPay App", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5818618768523264, 
+        "id": 4977960365326336, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

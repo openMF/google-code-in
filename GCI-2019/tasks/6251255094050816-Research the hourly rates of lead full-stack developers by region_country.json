@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nAs part of the documentation of the social impact of our initiative, we want to assign a dollar value to the contributions we receive from our volunteers. These volunteers come from a range of fields, experience levels, and locations. For this task, we're gathering data on lead full-stack developers (7 - 10 years experience)\n\nWe will also use this research to understand the market rates for consultants by region. This is valuable data for when we are offering consulting services to generate revenue to help with long-term sustainability of the Mifos Initiative.\n\nSo we need to gather data points on Lead Full Stack Developers by country/region by level of experience, web, etc. They should have experience using scripting languages such JavaScript frameworks, Backend technologies such as Node, Java etc.\n\n## How to Complete This Task\nYou can use websites like glassdoor, payscale, salary explorer to do the research. You should document your findings in a Google Sheet and any other corresponding materials. Google Sheet should include profession, location, experience level, development language or stack, hourly rate, and another details.\n\nResearch should at least include information for major countries in each region - North America, Central America & Caribbean, South America, East Africa, West Africa, Southern Africa, MENA, Western Europe, Eastern Europe, Central Asia, East Asia & Oceania, Southeast Asia, and South Asia.  Priority countries in those region to research include United States, Canada, United Kingdom, Germany, UAE, Kenya, Nigeria, Ghana, India, Philippines, Netherlands, Poland, Mexico, South Africa and Uganda\n\nSee https://goo.gl/CRzRU8 and https://goo.gl/1BURQo for some examples.", 
+    "tags": [
+        " DFS", 
+        " consulting", 
+        " mifos", 
+        " fintech", 
+        "research"
+    ], 
+    "claimed_count": 3, 
+    "completed_count": 3, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        5
+    ], 
+    "last_modified": "2019-12-26T02:47:06Z", 
+    "external_url": "", 
+    "id": 6251255094050816, 
+    "available_count": 0, 
+    "name": "Research the hourly rates of lead full-stack developers by region/country"
+}

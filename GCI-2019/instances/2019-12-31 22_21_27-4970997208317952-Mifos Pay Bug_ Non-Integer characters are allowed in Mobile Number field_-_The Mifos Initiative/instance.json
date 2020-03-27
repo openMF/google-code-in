@@ -1,0 +1,31 @@
+{
+    "student_display_name": "lax", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 6742634240933888, 
+    "tags": [
+        "android", 
+        "bug", 
+        "mifos pay"
+    ], 
+    "student_id": 5535605488877568, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-31 22:21:27", 
+    "max_instances": "1", 
+    "id": 4970997208317952, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-03 20:26:00", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Pay Bug: Non-Integer characters are allowed in Mobile Number field", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Summary\n\nThe app let's you add Non integers in the Mobile Number `editText`. Which is not required in an `editText` concerning Mobile Number.\n\n## Steps to reproduce\n\nPayments -> Send -> Mobile Number -> Add non-integers\n\n## Expected Behaviour\n\nThe editText should not allow adding non-integer values.\n\n## Observed Behaviour\n\nThe app allows adding things like decimal points."
+}

@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "## Objective \nImplement share app feature in the application\n\n## Description\nCurrently the share app option in the navigation drawer doesn't perform anything. The task here is to implement this functionality.\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/mifos-mobile-cn/issues/72\n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "android", 
+        " gci", 
+        "duplicate", 
+        " good-first-issue"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "harshshinde07@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-02T14:11:36Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile-cn/issues/72", 
+    "id": 6317963251023872, 
+    "available_count": 1, 
+    "name": "mifos-mobile-cn: Implement Share app feature"
+}

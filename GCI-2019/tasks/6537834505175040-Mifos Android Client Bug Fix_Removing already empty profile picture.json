@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Summary:\n\nRemoving a profile picture which does not exist.\n\nSteps to reproduce:\n\n1)Run the app\n2)Select a client from client activity\n3)Click on profile picture\n\nExpected behavior:\n\nThe option to remove profile picture should be present only when profile picture exists.\n\nObserved behavior:\n\nThe option to remove profile picture even with no profile picture.\n\nDevice and Android version:\n\nAndroid 5.0.2,API 21", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-02T15:56:41Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/805", 
+    "id": 6537834505175040, 
+    "available_count": 0, 
+    "name": "Mifos Android Client Bug Fix:Removing already empty profile picture"
+}

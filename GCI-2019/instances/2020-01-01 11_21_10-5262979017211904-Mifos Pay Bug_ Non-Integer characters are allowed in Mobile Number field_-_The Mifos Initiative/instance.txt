@@ -1,0 +1,31 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5262979017211904 | Task Definition ID 6742634240933888
+Max instances: 1
+
+Title: Mifos Pay Bug: Non-Integer characters are allowed in Mobile Number field
+Description: ## Summary
+
+The app let's you add Non integers in the Mobile Number `editText`. Which is not required in an `editText` concerning Mobile Number.
+
+## Steps to reproduce
+
+Payments -> Send -> Mobile Number -> Add non-integers
+
+## Expected Behaviour
+
+The editText should not allow adding non-integer values.
+
+## Observed Behaviour
+
+The app allows adding things like decimal points.
+Tags: android, bug, mifos pay
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: sanyam.bvcoe96@gmail.com, guptachirag2002@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2020-01-03 22:21:40)
+Last modified: 2020-01-01 11:21:10

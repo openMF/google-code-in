@@ -1,0 +1,32 @@
+{
+    "student_display_name": "rg", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5886206831755264, 
+    "tags": [
+        "gci", 
+        " code", 
+        " android"
+    ], 
+    "student_id": 4531853520797696, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "5", 
+    "modified": "2019-12-06 12:27:46", 
+    "max_instances": "2", 
+    "id": 5370561513914368, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-06 12:27:41", 
+    "deadline": "2019-12-11 01:04:56", 
+    "submitted_date": "2019-12-06 10:16:33", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com", 
+        "singhsaumyas150@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile CN: Make \"Share\" Button clickable .", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \r\nMake share button clickable .\r\n\r\n## Steps\r\n1. Install mifos-mobile-cn android app in your phone .\r\n2. On selecting Navigation Drawer , you will find a field \"Share\" , this is not clickable right now in the application . \r\n3. **Your task is to make this share button clickable**\r\n\r\n\r\n## References\r\nhttps://stackoverflow.com/questions/17167701/how-to-activate-share-button-in-android-app\r\n\r\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn)."
+}

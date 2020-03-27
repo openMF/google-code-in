@@ -1,0 +1,191 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "laxya", 
+            "program_year": 2019, 
+            "id": 5934632118255616
+        }, 
+        "text": "", 
+        "created": "2019-12-15T07:37:52Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 2, 
+        "author_id": 5934632118255616, 
+        "id": 5767853664370688, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "laxya", 
+            "program_year": 2019, 
+            "id": 5934632118255616
+        }, 
+        "text": "abandoning the task, then.", 
+        "created": "2019-12-15T07:37:46Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5934632118255616, 
+        "id": 4969674526162944, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "If the issue doesn't seem to exist, we can remove and close that then and there. Thanks.", 
+        "created": "2019-12-15T07:21:16Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5515255220797440, 
+        "id": 4656119432085504, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "", 
+        "created": "2019-12-15T07:20:44Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5515255220797440, 
+        "id": 5176036363337728, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "@laxya please ask more clarification to the creator of the issue on the Github issue itself", 
+        "created": "2019-12-15T07:20:30Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5515255220797440, 
+        "id": 4516361196273664, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "jddeep", 
+            "program_year": 2019, 
+            "id": 5515255220797440
+        }, 
+        "text": "Yes the issue is not reproducible with me as well :/", 
+        "created": "2019-12-15T07:19:43Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5515255220797440, 
+        "id": 5088144890789888, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "laxya", 
+            "program_year": 2019, 
+            "id": 5934632118255616
+        }, 
+        "text": "", 
+        "created": "2019-12-14T21:30:45Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5934632118255616, 
+        "id": 5889076029292544, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "laxya", 
+            "program_year": 2019, 
+            "id": 5934632118255616
+        }, 
+        "text": "hey, i can't seem to reproduce the issue that is in this task. can you see what the problem is? i'm sending the screen recordings of what i get. \nanother error: https://photos.app.goo.gl/SJTfSg48AwCXHPYs8\nskips the issue: https://photos.app.goo.gl/ALnU6frnz5YBA1S88", 
+        "created": "2019-12-14T21:30:41Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5934632118255616, 
+        "id": 6492577184874496, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6726797899595776, 
+        "author": {
+            "display_name": "laxya", 
+            "program_year": 2019, 
+            "id": 5934632118255616
+        }, 
+        "text": "", 
+        "created": "2019-12-14T11:06:48Z", 
+        "task_definition_name": "Mifos Android Client Bug Fix: Loan account fragment occurs repeatedly", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5934632118255616, 
+        "id": 5430236083126272, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

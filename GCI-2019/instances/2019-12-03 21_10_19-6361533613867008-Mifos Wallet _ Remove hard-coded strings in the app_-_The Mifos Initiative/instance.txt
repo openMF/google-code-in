@@ -1,0 +1,28 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6361533613867008 | Task Definition ID 5103624330412032
+Max instances: 1
+
+Title: Mifos Wallet : Remove hard-coded strings in the app
+Description: ## Objective 
+Remove the Hard-coded strings and add them to string resource file
+## Description
+1. Open Android Studio and Find out hard-coded text in XML file.
+2. Convert them into String resource file.
+
+####References 
+https://stackoverflow.com/questions/34130513/how-to-solve-this-issue-of-hardcoded-string/34130992
+https://developer.android.com/guide/topics/resources/string-resource
+
+##How to get help, be sure to post your questoin to our [developer mailing list](http://mifos.org/resources/
+community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).
+Tags: xml, Android, good first issue
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: govinddixit93@gmail.com, shivansh16tiwari@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-06 17:55:26)
+Last modified: 2019-12-03 21:10:19

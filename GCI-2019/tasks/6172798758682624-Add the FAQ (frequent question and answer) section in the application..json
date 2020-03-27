@@ -1,0 +1,26 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Implement the FAQ section in the Android Client for Fineract CN Application so user can access the frequent question answer feature in App.\n\nFor this task, issues link here: https://github.com/openMF/mifos-mobile-cn/issues/73 When claiming the task let us know that you work on that, so that we don't have more than one student working on adding the same feature at the same time.\n\nWork should be submitted as a pull request.", 
+    "tags": [
+        "android", 
+        "java"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "Sukhbeer940@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-11-30T09:19:14Z", 
+    "external_url": null, 
+    "id": 6172798758682624, 
+    "available_count": 1, 
+    "name": "Add the FAQ (frequent question and answer) section in the application."
+}

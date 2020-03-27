@@ -1,0 +1,34 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4788814770339840, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-10 12:03:05", 
+    "max_instances": "1", 
+    "id": 4710697435398144, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-10 12:03:02", 
+    "deadline": "2019-12-12 18:38:57", 
+    "submitted_date": "2019-12-09 18:39:29", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Bug Fix: Groups are not in sorted way", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Summary:\n\nThe groups in group section from the navigation bar are unsorted manner which makes it complex to search through the particular group during online mode.\n\nSteps to reproduce:\n\nFor instance\n\nRun the app\nOpen Navigation Bar\nSelect Groups\nExpected behavior:\n\nLexicographically sorted entries for easier lookup.\n\nObserved behavior:\n\nUnsorted entries make search difficult.\n\nDevice and Android version:\n\nAndroid 5.0.2, API 23"
+}

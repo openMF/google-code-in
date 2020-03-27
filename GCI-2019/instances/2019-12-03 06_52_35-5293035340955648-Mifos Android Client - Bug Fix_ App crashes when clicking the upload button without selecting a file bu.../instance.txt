@@ -1,0 +1,39 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5293035340955648 | Task Definition ID 6287413450637312
+Max instances: 1
+
+Title: Mifos Android Client - Bug Fix: App crashes when clicking the upload button without selecting a file but filled name and description
+Description: Summary:
+
+Without selecting a file when upload is pressed, the app crashes.
+
+Steps to reproduce:
+
+Select any Client-> Three dots -> Documents -> + sign-> fill name and description -> Click upload
+
+OR
+
+Select any Client-> Three dots ->Click any existing document -> Click Update Document -> Click upload
+
+Expected behaviour:
+
+Upload should not happen
+
+Observed behaviour:
+
+App Crash
+
+Device and Android version:
+
+Samsung Galaxy J7 Prime(Nougat 7.0) stock rom
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, mokshmahajan008@gmail.com, rajanmaurya154@gmail.com, elirehemapaulo@gmail.com, santosh@confluxtechnologies.com
+Student: Aayushman (ID 5167955919241216)
+
+Status: COMPLETED (2019-12-05 21:13:39)
+Last modified: 2019-12-03 06:52:35

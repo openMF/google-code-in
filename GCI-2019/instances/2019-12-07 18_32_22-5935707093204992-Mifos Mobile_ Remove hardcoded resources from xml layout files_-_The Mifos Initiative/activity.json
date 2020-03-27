@@ -1,0 +1,422 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "", 
+        "created": "2019-12-07T18:32:18Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5753149265018880, 
+        "id": 4962470054068224, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-07T15:50:10Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5169845344141312, 
+        "id": 4556331235672064, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Thank you. I fixed it, here's the link: https://github.com/openMF/mifos-mobile/pull/1243/commits/5408f6e5680b965bc08342efb8a9d4a159bf0f04", 
+        "created": "2019-12-07T15:49:57Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5169845344141312, 
+        "id": 4867059008143360, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "@rradzzio I have commented on the Pull request, please check it. I have extended the deadline so that you get enough time to fix it.", 
+        "created": "2019-12-07T11:52:42Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5409251267182592, 
+        "id": 6167013697781760, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "Task deadline extended by 0.9 days", 
+        "created": "2019-12-07T11:51:22Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5409251267182592, 
+        "id": 6630812494069760, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Chirag Gupta", 
+            "program_year": 2019, 
+            "id": 5409251267182592
+        }, 
+        "text": "", 
+        "created": "2019-12-07T11:51:09Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5409251267182592, 
+        "id": 6083110748291072, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Thanks :) I submitted the task, here's the link: https://github.com/openMF/mifos-mobile/pull/1243", 
+        "created": "2019-12-06T13:08:01Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5169845344141312, 
+        "id": 6234249640804352, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-06T13:07:17Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5169845344141312, 
+        "id": 6128721556144128, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "@rradzzio I get that You're having confusion due to task description & external link provided. For now, Mark both the issue #1227 :)", 
+        "created": "2019-12-06T11:49:21Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5753149265018880, 
+        "id": 6088208270491648, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Thanks :) I want to push it to github now and I'm confused because the issue that is given in the task descriptions says to remove only hardcoded strings but in the task description it's said to remove hardcoded resources like strings,colors or dimens. On github there are two seperate issues for this task - one for strings and the another one for dimens. I did all three resources as it's said in task description. Should I mark it as issue #1227 or #1231?", 
+        "created": "2019-12-05T18:56:45Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 5396692766031872, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "Yeah, You can use dimen_0 or dimen_0dp as name for 0dp. :)", 
+        "created": "2019-12-05T15:51:57Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5753149265018880, 
+        "id": 4802999931633664, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Thank you :) and also, should dimensions of value 0dp (for example heights of recycler views) be saved in dimens directory or should they be hardcoded? Android Studio prompts it should be hardcoded.", 
+        "created": "2019-12-05T11:27:15Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 5372617259745280, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "elirehema", 
+            "program_year": 2019, 
+            "id": 4528657880580096
+        }, 
+        "text": "Hello @rradzzio android resources includes colors, string, dimens  i.e all things found in director  .../res/values", 
+        "created": "2019-12-05T07:08:54Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4528657880580096, 
+        "id": 6206042241761280, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Thank you :) do I need to work only for dimensions or also for strings and colors as it's said in task description?", 
+        "created": "2019-12-05T06:56:50Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 6287320538415104, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "Task deadline extended by 1.0 days", 
+        "created": "2019-12-05T04:21:48Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5753149265018880, 
+        "id": 6119830235643904, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "Also, I am extending deadline for 1 more day as you're still working on the task :) If you're stuck, do reach out to me :)", 
+        "created": "2019-12-05T04:21:47Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5753149265018880, 
+        "id": 6623897730940928, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "No. You don't need to change/move weights. You only need to work for dimensions.", 
+        "created": "2019-12-05T04:21:08Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5753149265018880, 
+        "id": 5526125900464128, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "Hello! I have a question. Should be weights saved in dimens.xml file? I've never seen weights saved in any resource files so I'm wondering whether they should be hardcoded or saved in a resource file. Thank you", 
+        "created": "2019-12-04T17:59:09Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 5731647635324928, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "Anamika Tripathi", 
+            "program_year": 2019, 
+            "id": 5753149265018880
+        }, 
+        "text": "Hi rradzzio Feel free to ask any questions if you are stuck while doing task :0", 
+        "created": "2019-12-04T17:40:41Z", 
+        "task_definition_name": "Mifos Mobile: Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 5753149265018880, 
+        "id": 5688342184722432, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5935707093204992, 
+        "author": {
+            "display_name": "rradzzio", 
+            "program_year": 2019, 
+            "id": 5169845344141312
+        }, 
+        "text": "", 
+        "created": "2019-12-02T19:10:35Z", 
+        "task_definition_name": "[Mifos Mobile] Remove hardcoded resources from xml layout files", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5169845344141312, 
+        "id": 6099552621297664, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nPressing logout should open an alert dialog box asking for confirmation of user to logout\n\n## Description\nCurrently pressing the logout button directly logOut the user, It should open an alert dialog box asking\nfor user confirmation to logout\n\nMore details can be found on the following issue page  on GitHub:\nhttps://github.com/openMF/mobile-wallet/issues/564\n\n## How to get help\nIf you need help, be sure to post your question to our\n [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists)\n or  ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "android", 
+        " mifos wallet", 
+        " good-first-issues", 
+        " gci"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "govinddixit93@gmail.com", 
+        "shivansh16tiwari@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-02T14:00:17Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/564", 
+    "id": 6590360344592384, 
+    "available_count": 0, 
+    "name": "Mobile-wallet: Pressing logout should open an alert dialog box asking for confirmation"
+}

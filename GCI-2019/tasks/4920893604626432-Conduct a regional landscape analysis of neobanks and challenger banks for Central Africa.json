@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective ##\nAs the functional footprint and support for digital financial services within Mifos/Fineract extends with our brand new Fineract CN architecture, a new target market for adoption of our software is the growing class of neobanks and challenger banks starting up. Across each region we'd like to make a comprehensive database of these leading new banks so we can track the sector and build awareness amongst the major players. This page has a [nice defnition and overview of these banks](https://www.paconsulting.com/insights/what-is-a-neobank-really/).\n\n##Work to Do##\nEach task is focused on one region and for that region, you should research ten challenger/neo-banks, filling out the corresponding details in the Google Sheet linked to this page. \n\nThe details for each bank to record include: \n* Website, Email, URL for LinkedIn, Facebook, Twitter\n* Regions/Countries Served\n* Target Market & Focus on Financial Inclusion\n* Number of Customers, Portfolio Size\n* Current Level of Investment, Growth Rate, Launch Date\n* Description, Value Proposition\n* Products & Services Offered\n* Tech Stack\n* Notable partner or announcements\n\nPlease include the link to the Google Sheet in your submission and reference the rows that you completed.", 
+    "tags": [
+        " neobank", 
+        " fintech", 
+        " digital financial services", 
+        "research"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        5
+    ], 
+    "last_modified": "2019-12-26T02:47:08Z", 
+    "external_url": "https://t.ly/6mYjZ", 
+    "id": 4920893604626432, 
+    "available_count": 3, 
+    "name": "Conduct a regional landscape analysis of neobanks and challenger banks for Central Africa"
+}

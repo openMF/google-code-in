@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5353372450816000, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-11 08:43:43", 
+    "max_instances": "1", 
+    "id": 4551360725385216, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-11 08:43:39", 
+    "deadline": "2019-12-14 11:40:16", 
+    "submitted_date": "2019-12-11 08:36:33", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "anamikatripathi1601@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile - Bug Fix: Filters cleared when layout is refreshed", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nWhen swipe to refresh is used to refresh accounts activity , the filters applied (if any) are removed\n\nSteps to reproduce:\n\nAccounts activity --> Apply filters --> Swipe to refresh\n\nExpected behaviour:\n\nSwipe to refresh should have refreshed the layout while preserving the filters i.e. it should have refreshed among the filtered list\n\nObserved behaviour:\n\nFilters were lost.\n\nDevice and Android version:\n\nXiaomi Poco F1\nAndroid 9\nStock rom"
+}

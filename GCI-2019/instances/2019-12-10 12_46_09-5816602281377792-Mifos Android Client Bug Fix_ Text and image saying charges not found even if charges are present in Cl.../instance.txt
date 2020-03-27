@@ -1,0 +1,30 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5816602281377792 | Task Definition ID 5943901530095616
+Max instances: 1
+
+Title: Mifos Android Client Bug Fix: Text and image saying charges not found even if charges are present in Client Charges layout
+Description: Summary:
+Displays messages "No charges to display" while simultaneously displaying charges
+
+Steps to reproduce:
+Go to a particular client's charges page where a few charges are already present and you will observe the issue.
+
+Expected behaviour:
+Text and image which says charges not found should not be displayed
+
+Observed behaviour:
+Text and image which says charges not found is displayed which might cause a common user to get confused, and in general is not correct information being provided to the user.
+
+Device and Android version:
+OnePlus 3T, Android 8.0, Stock ROM
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: tarun.mudgal34@gmail.com, elirehemapaulo@gmail.com, rajanmaurya154@gmail.com, mokshmahajan008@gmail.com, santosh@confluxtechnologies.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-12 14:20:48)
+Last modified: 2019-12-10 12:46:09

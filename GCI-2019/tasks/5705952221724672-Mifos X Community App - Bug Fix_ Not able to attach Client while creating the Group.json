@@ -1,0 +1,32 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "### Steps to Reproduce:\n1. Create a Client and activate it. \n2. Click on Groups -> Create Group - In Create Group page click on add Clients, Even after typing the names of the existing clients, it is not getting populated in the same page.\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com", 
+        "jonathanzhang53@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-19T20:34:28Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/1654", 
+    "id": 5705952221724672, 
+    "available_count": 1, 
+    "name": "Mifos X Community App - Bug Fix: Not able to attach Client while creating the Group"
+}

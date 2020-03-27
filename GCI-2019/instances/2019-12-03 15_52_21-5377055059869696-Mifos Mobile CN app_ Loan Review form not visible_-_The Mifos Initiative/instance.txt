@@ -1,0 +1,28 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5377055059869696 | Task Definition ID 5069564166012928
+Max instances: 1
+
+Title: Mifos Mobile CN app: Loan Review form not visible
+Description: ## Objective
+Loan Review form should be visible
+
+### Description
+1. Go to String.xml
+2. Find the string array "loan_application_steps"  add the fourth item "Review"
+
+####References
+https://www.homeandlearn.co.uk/android/grid_view_array.html
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).
+Tags: xml, Android, bug, mifos-mobile-cn
+
+Categories: Coding
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: abhijitramesh2k@gmail.com, rajanmaurya154@gmail.com, jonathanzhang53@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-06 15:10:20)
+Last modified: 2019-12-03 15:52:21

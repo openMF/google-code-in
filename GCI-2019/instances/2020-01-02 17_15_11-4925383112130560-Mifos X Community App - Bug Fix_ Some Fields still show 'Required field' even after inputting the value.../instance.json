@@ -1,0 +1,34 @@
+{
+    "student_display_name": "daniel1331", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 6406527422824448, 
+    "tags": [
+        " Community App", 
+        " Angular JS", 
+        " Web", 
+        "Mifos"
+    ], 
+    "student_id": 5852548708171776, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2020-01-02 17:15:11", 
+    "max_instances": "1", 
+    "id": 4925383112130560, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-04 15:28:31", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jonathanzhang53@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com", 
+        "ashusingh15673@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Community App - Bug Fix: Some Fields still show 'Required field' even after inputting the value", 
+    "categories": [
+        "1"
+    ], 
+    "description": "### Actual Behaviour:\nSome Date Picker Fields show 'Required field' even after inputting the value. Most of the time, this issue arises when data picker field is empty, that is not filled by the system.\n\n### Expected Behaviour:\nRequired field error should not be shown if value is present in the fields.\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app)."
+}

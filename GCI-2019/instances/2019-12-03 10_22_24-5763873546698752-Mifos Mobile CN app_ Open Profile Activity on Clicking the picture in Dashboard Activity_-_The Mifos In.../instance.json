@@ -1,0 +1,33 @@
+{
+    "student_display_name": "Aayushman", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 6300630977609728, 
+    "tags": [
+        "GCI", 
+        "kotlin", 
+        "Android", 
+        "good first issue", 
+        "Mifos"
+    ], 
+    "student_id": 5167955919241216, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 10:22:24", 
+    "max_instances": "1", 
+    "id": 5763873546698752, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2019-12-06 06:55:34", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile CN app: Open Profile Activity on Clicking the picture in Dashboard Activity", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \nThe User should be able to view their profile picture on clicking on the picture icon in Dashboard Fragment \n### Description\n1. Go to Dashboard Activity \n2. in OnViewCreated function set a onclicklistner for iv_user_image\n3. Create a new function to start an intent to open CustomerProfileActivity\n4. in the OnClick function add a new line mapping the iv_user_image to the new fucntion you have created\n\n####References\nhttps://stackoverflow.com/questions/4186021/how-to-start-new-activity-on-button-click\nhttps://stackoverflow.com/questions/51672231/kotlin-button-onclicklistener-event-inside-a-fragment\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn)."
+}

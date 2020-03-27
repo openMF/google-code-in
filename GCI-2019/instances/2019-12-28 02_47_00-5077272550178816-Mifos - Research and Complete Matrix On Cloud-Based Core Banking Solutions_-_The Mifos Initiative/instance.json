@@ -1,0 +1,35 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5283739756658688, 
+    "tags": [
+        "market research", 
+        " competitor analysis", 
+        " mifos", 
+        " due diligence"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-28 02:47:00", 
+    "max_instances": "4", 
+    "id": 5077272550178816, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-28 02:46:48", 
+    "deadline": "2019-12-29 12:14:02", 
+    "submitted_date": "2019-12-27 19:51:32", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "sanyam.bvcoe96@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Research and Complete Matrix On Cloud-Based Core Banking Solutions", 
+    "categories": [
+        "5"
+    ], 
+    "description": "More and more competitors offering cloud core banking or cloud-based mobile wallet or account management solutions. We track our competition so we can be aware of new trends and latest innovation as well as help to inform our partners and their respective business development strategies in their markets. There are a number of new providers that have begun to emerge. We'd like to learn more about these new providers in addition to the ones we're aware of including Mambu, Oradian, and Finxact, nCino, Ohpen. Please research at a least a total of 7 cloud-based core banking system providers documenting the following:\n\n* Date of Founding of Company\n* Overview of Company\n* Company Founders \n* Website\n* LinkedIn Page Link\n* Link to Demo\n* Major Partners\n* APIs available?\n* Support\n* Partner Network\n* Pricing Model \n\n* Total Customers & Clients Reached\n* Market & Product Positioning\n* Countries/Geographies of Focus\n* Date of Latest Release\n* Annual Revenue\n* Size of Company\n* Recent Major News\n\n* Loan Products Supported\n* Savings Products Supported\n* Insurance Products Supported\n* Payments Products Supported \n* Mobile Delivery & Enablement\n* Mobile Money Integration\n* Mobile App for Field Staff?\n* Mobile Banking App for Clients?\n* Offline Access?\n\n## How to Submit ##\n- You can either create a Google Sheet with this or a Google Slides presentation containing this info."
+}

@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "Description\nAfter search click the search bar should be cleared\n\nSteps to Reproduce\nMove to https://openmf.github.io/web-app/home and search, its not working and also not clearing after search.\n\nExpected Behaviour\nAfter search click the search bar should be cleared\n\nActual Behaviour\nAfter search click the search bar is not cleared which decrease the user experience\n\nSettings\nMifos X version: 0.0.0\nBrowser used: chrome/firefox", 
+    "tags": [
+        "user experience", 
+        "gci", 
+        "easy"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "rupeshiya@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-11-04T03:49:44Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/480", 
+    "id": 4840308659978240, 
+    "available_count": 1, 
+    "name": "After search click the search bar should be cleared for good user experience"
+}

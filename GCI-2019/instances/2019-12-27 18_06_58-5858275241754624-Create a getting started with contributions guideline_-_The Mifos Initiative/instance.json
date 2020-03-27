@@ -1,0 +1,33 @@
+{
+    "student_display_name": "rg", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5521518717566976, 
+    "tags": [
+        "contribution guidelines", 
+        "documentation", 
+        "open source", 
+        "easy"
+    ], 
+    "student_id": 4531853520797696, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-27 18:06:58", 
+    "max_instances": "3", 
+    "id": 5858275241754624, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-27 18:06:31", 
+    "deadline": "2019-12-30 17:52:56", 
+    "submitted_date": "2019-12-27 17:53:09", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "guptachirag2002@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Create a getting started with contributions guideline", 
+    "categories": [
+        "3"
+    ], 
+    "description": "## Summary\n\nNew contributors often find it very difficult to get started with their contributions and mentors find it very redundant to tell the same information to everyone repeatedly.\n\nSo for saving time and trouble of both the ends, we want you to write an extensive and very descriptive contribution guide for Mifos.\n\nIt should include all active projects that we have, common troubleshooting guidelines for all the projects (category-wise) and things to do (or not to). You can add more points that you think would be useful for new contributors.\n\nRecommended file type would be Github gist or Google doc."
+}

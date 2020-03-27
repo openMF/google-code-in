@@ -1,0 +1,35 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4970328653037568 | Task Definition ID 6521463356522496
+Max instances: 1
+
+Title: Mifos X Web App - Create the view adhoc query component and design its user interface
+Description: ## Objective
+The objective is to create the view adhoc query component and design its user interface.
+
+### Description
+1. Create the view adhoc query component under the organization -> adhoc query section.
+2. Connect it via routing from adhoc query table in adhoc query component so that its accessible.
+3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).
+4. Design the user interface for the view adhoc query component using angular material components and flex layout directives to ensure responsiveness. (Use Angular Material Typography instead of SCSS wherever possible, refer more recently created components for reference)
+5. Fetch the data of adhoc query by implementing the required API.
+6. Implement required API for deletion of adhoc query. 
+7. Write comments for the implemented component.
+
+#### References
+You may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+
+All the best! Do remember, quality over quantity is the key.
+Tags: Mifos, Web App, Angular Material, Flex Layout, Angular
+
+Categories: Coding, User Interface, Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: jivjyotsingh@gmail.com, abhay.chawla97@gmail.com
+Student: Rishabh10 (ID 5462770502336512)
+
+Status: COMPLETED (2020-01-10 16:17:59)
+Last modified: 2020-01-06 01:39:49

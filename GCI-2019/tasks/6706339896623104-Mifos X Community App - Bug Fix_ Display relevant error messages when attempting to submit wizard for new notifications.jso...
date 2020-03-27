@@ -1,0 +1,33 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "### Description\nWhen attempting to save a new notification of the type scheduled, the wizard doesn't actually proceed to save during final step.\n\nNo error message was displayed and it was only when I realized that the \"Schedule Date\" wasn't after the submission date that I understood why it wasn't being submitted.\n\nError messages should be displayed reflecting why the wizard is not successfully being submitted.\n\n### Steps to Reproduce\nhttps://mobile.openmf.org (mifos/password)\n\nGo to Organization> Sms Campaigns and click on '+Create Campaign'\n\nThen, check 'Is Notification' (it makes self service app notification in stead of sms)\n\nThen,\n\nTriggered Type : Scheduled\nSchedule Date (select any date on or before the current date)\n\nBusiness Rule: Active Loans\n\nOffice: Head Office:\n\nLoan Type: All\n\nLoan Officer : All\n\nThen once click on 'Proceed' Button, it's not going anywhere.\n\nRelevant Error message should be displayed.\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "jddeep003@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com", 
+        "jonathanzhang53@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-16T01:14:21Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2717", 
+    "id": 6706339896623104, 
+    "available_count": 1, 
+    "name": "Mifos X Community App - Bug Fix: Display relevant error messages when attempting to submit wizard for new notifications"
+}

@@ -1,0 +1,33 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "1) Go to left navigation page and tap on Clients.\n 2) In clients list page, click on '+' icon.\n 3) In next create client page, tap on image and then select take photo.\n 4) Submit client with other mandatory fields.\n5) Go to the client page, and tap on the image.\nExpected: It should show both 'Take photo' and Upload Photo options.\nActual: Its only showing take photo option. Uploading existing photo is not  available.\n\nThis PR can be helpful in doing this task: https://github.com/openMF/android-client/pull/1164", 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "rajanmaurya154@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "jsahil730@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2
+    ], 
+    "last_modified": "2019-12-05T16:25:32Z", 
+    "external_url": "https://github.com/openMF/android-client/issues/1182", 
+    "id": 4734270094966784, 
+    "available_count": 0, 
+    "name": "Mifos Android Client - Bug Fix: No options to upload existing photo in Edit client page."
+}

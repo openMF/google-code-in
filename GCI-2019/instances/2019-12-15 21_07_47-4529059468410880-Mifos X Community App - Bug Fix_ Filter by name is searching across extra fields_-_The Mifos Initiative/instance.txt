@@ -1,0 +1,33 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4529059468410880 | Task Definition ID 5665065945006080
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: "Filter by name" is searching across extra fields
+Description: ## Description:
+The "Filter by name" search box present in the list of users is searching across the fields other than the name of the user.
+
+### Steps to reproduce:
+Admin >> Users >> Search for a user using "Filter by name"
+
+### Expected Behaviour:
+As mentioned in the placeholder of the input field, it should filter only by the name of the user.
+
+### Actual Behaviour:
+The search field is searching across all the data of the users. Even the data which is not there in the table (screenshot attached).
+
+### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jddeep003@gmail.com, jonathanzhang53@gmail.com, jivjyotsingh@gmail.com, ashusingh15673@gmail.com, santosh@confluxtechnologies.com, abhay.chawla97@gmail.com
+Student: punwai (ID 6452370628673536)
+
+Status: COMPLETED (2019-12-16 17:03:02)
+Last modified: 2019-12-15 21:07:47

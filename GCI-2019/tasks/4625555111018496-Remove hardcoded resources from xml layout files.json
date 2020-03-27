@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "Remove hardcoded resources from xml layout files. Eg:- Use dimensions from dimens.", 
+    "tags": [
+        "xml", 
+        "android", 
+        "java"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "abhilash.gunasegaran@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-11-20T16:05:31Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/565", 
+    "id": 4625555111018496, 
+    "available_count": 1, 
+    "name": "Remove hardcoded resources from xml layout files"
+}

@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nAdd Frequently asked questions under FAQ section\n\n## Description\n1. Open FAQ section .\n2. Add question and answer under FAQ section\n\n#### References \nSee FAQs of mifos mobile app for reference\n## How to get help?\nBe sure to post your question to our [developer mailing list](http://mifos.org/resources/\ncommunity/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "Android", 
+        "easy"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "harshshinde07@gmail.com", 
+        "jsahil730@gmail.com", 
+        "guptachirag2002@gmail.com", 
+        "shivansh16tiwari@gmail.com", 
+        "ashusingh15673@gmail.com", 
+        "govinddixit93@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-11T18:30:29Z", 
+    "external_url": "https://github.com/openMF/mobile-wallet/issues/561", 
+    "id": 6607549877452800, 
+    "available_count": 0, 
+    "name": "Mifos Pay: Add frequently asked question under FAQ section"
+}

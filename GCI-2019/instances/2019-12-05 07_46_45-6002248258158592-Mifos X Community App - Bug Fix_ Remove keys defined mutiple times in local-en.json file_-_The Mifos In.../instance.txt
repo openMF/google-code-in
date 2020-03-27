@@ -1,0 +1,35 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6002248258158592 | Task Definition ID 4730931663863808
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: Remove keys defined mutiple times in local-en.json file
+Description: ## Objective
+The objective is to remove the keys defined multiple time in the local-en.json file of the Mifos Community App.
+
+### Description
+
+#### Actual Behaviour:
+The `keys` in the file local-en.json in the global-translations folder has been defined multiple times which only creates complexity and increased the length of the file. For example, the key `debitaccount` has been defined multiple times in the same file which is of no use. This task aims to decrease the redundancy of the keys in the same file.
+
+#### Expected Behaviour:
+Every key should be present only once in the file. (apart from those meant for a section's identification)
+
+#### Related files:
+Open the `local-en.json` file in any text editor(preferably VS Code) and search for the keys repeated in the file. 
+
+#### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal. 
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding, Quality Assurance
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jonathanzhang53@gmail.com, muskan.khedia2000@gmail.com, santosh@confluxtechnologies.com, abhay.chawla97@gmail.com, jddeep003@gmail.com
+Student: DeeJayBro (ID 6371192324227072)
+
+Status: COMPLETED (2019-12-07 15:07:10)
+Last modified: 2019-12-05 07:46:45

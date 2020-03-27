@@ -1,0 +1,191 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-11T05:42:36Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6049059576479744, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Okay, Mr. @edcable. If you say so.", 
+        "created": "2019-12-11T05:42:30Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 5243040780779520, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-11T05:17:00Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 6068801662091264, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "@Luphieanza, thank you for encouraging Rachit to strictly follow the exact instructions of the task. Rachit has reached out to explain what he worked on and I think the work he has put in fulfills the intent of our task and actually provides a valuable design artifact we can use. So I'm fine with approving the task.", 
+        "created": "2019-12-11T05:15:37Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5685108493778944, 
+        "id": 5204197255938048, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-10T23:06:50Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5378343684276224, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Please follow the rules on task description, if you are asked to make wireframe with Balsamiq just do that. This is not Wireframing, but you have a high-fidelity, not as a wireframe. This is good for you, but try not to get away from the line.", 
+        "created": "2019-12-10T23:06:44Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6730597200822272, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-10T20:31:19Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 5676677858852864, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "hey, instead of Balsamiq, I have used an open source designing and prototyping software called Adobe XD. I have tried to keep the look of the app store very minimalistic and smooth because our new app store should look very modern. I have added animation, hover, and transition effects on my design (as you can see in the video present inside the folder). \nLink: https://drive.google.com/drive/folders/15vtpU4zojCUf7rKIp4kUkUkl4CLfmwjX?usp=sharing", 
+        "created": "2019-12-10T20:31:15Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 6615805207248896, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5320861427433472, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2019-12-10T20:19:12Z", 
+        "task_definition_name": "Create wireframes for a Mifos Appstore or Marketplace", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 4556194199371776, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

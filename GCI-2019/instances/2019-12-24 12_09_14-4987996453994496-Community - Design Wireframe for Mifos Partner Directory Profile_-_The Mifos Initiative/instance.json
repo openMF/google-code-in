@@ -1,0 +1,35 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5125355187208192, 
+    "tags": [
+        " design", 
+        "mockups", 
+        " UX", 
+        " UI", 
+        " wordpress"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-24 12:09:14", 
+    "max_instances": "5", 
+    "id": 4987996453994496, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-24 12:08:52", 
+    "deadline": "2019-12-27 10:15:10", 
+    "submitted_date": "2019-12-24 10:22:55", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "edcable@mifos.org", 
+        "jonathanzhang53@gmail.com", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Community - Design Wireframe for Mifos Partner Directory Profile", 
+    "categories": [
+        "2"
+    ], 
+    "description": "Our Mifos.org Partner Directory is a vital tool to help financial institutions wanting to use Mifos X to find a local partner to provide support. Our current directory is powered by the Sabai Directory Wordpress Plugin. We need to improve the usability of the directory by improving the layout of the directory search results and the layout of the profile itself. This task involves creating a wireframe mockup of both the search results and the directory profile. See http://mifos.org/directory/listing/sky-labs for a sample listing. You will use the online tool, Balsamiq, for creating the wireframe and submit your .ai files and/or Balsamiq here.\n\nOnce you claim the task, please email edcable@mifos.org to request a Balsamiq account."
+}

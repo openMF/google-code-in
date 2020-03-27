@@ -1,0 +1,20 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5950728573550592 | Task Definition ID 4742038541565952
+Max instances: 1
+
+Title: Mifos Mobile Wallet : Common function for all the Dialog Boxes
+Description: The app requires a lot of confirmation and dialog boxes, which is causing a lot of repeated code throughout the codebase.
+
+The task is to make a common function for all these dialog boxes, maybe in the utility function.
+It is up to you how efficiently you can manage to get things done.
+Tags: duplicate code, dialog box, android
+
+Categories: Coding, Quality Assurance
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: rahul.usit12@gmail.com, sanyam.bvcoe96@gmail.com, jddeep003@gmail.com, shivansh16tiwari@gmail.com, guptachirag2002@gmail.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2019-12-26 14:04:28)
+Last modified: 2019-12-24 10:12:18

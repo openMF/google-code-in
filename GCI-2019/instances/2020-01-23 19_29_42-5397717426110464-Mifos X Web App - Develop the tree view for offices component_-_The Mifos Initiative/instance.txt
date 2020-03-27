@@ -1,0 +1,32 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5397717426110464 | Task Definition ID 4834459778547712
+Max instances: 1
+
+Title: Mifos X Web App - Develop the tree view for offices component
+Description: ## Objective
+The objective is to develop the tree view for offices component.
+
+### Description
+1. Develop the tree view for offices component. Use angular material components and flex layout directives to ensure responsiveness. (mat-tree has been used in Accounting -> Chart of Accounts and might be helpful for implementation as an example)
+2. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).
+3. Implement the required APIs for the component.
+4. Write comments for the implemented component.
+
+#### References
+You may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+
+All the best! Do remember, quality over quantity is the key.
+Tags: Mifos, Web App, Angular Material, Flex Layout, Angular
+
+Categories: Coding, User Interface, Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: jivjyotsingh@gmail.com, abhay.chawla97@gmail.com
+Student: Rishabh10 (ID 5462770502336512)
+
+Status: COMPLETED (2020-01-23 17:59:59)
+Last modified: 2020-01-23 19:29:42

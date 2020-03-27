@@ -1,0 +1,29 @@
+{
+    "student_display_name": "daniel1331", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 5645358546288640, 
+    "tags": [
+        "android", 
+        "vision-ppi"
+    ], 
+    "student_id": 5852548708171776, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2020-01-02 17:20:17", 
+    "max_instances": "1", 
+    "id": 4559487197773824, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2020-01-05 17:15:32", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "apoorva.mk99@gmail.com"
+    ], 
+    "task_definition_name": "Fix the survey option selection in the vision-ppi app", 
+    "categories": [
+        "1"
+    ], 
+    "description": "In the vision-ppi app, we have an issue where once an option has been selected and then the user swipes to the next question and returns back to it, the option is no longer selected."
+}

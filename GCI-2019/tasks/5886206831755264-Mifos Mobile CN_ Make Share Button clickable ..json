@@ -1,0 +1,29 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \r\nMake share button clickable .\r\n\r\n## Steps\r\n1. Install mifos-mobile-cn android app in your phone .\r\n2. On selecting Navigation Drawer , you will find a field \"Share\" , this is not clickable right now in the application . \r\n3. **Your task is to make this share button clickable**\r\n\r\n\r\n## References\r\nhttps://stackoverflow.com/questions/17167701/how-to-activate-share-button-in-android-app\r\n\r\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos-mobile-cn).", 
+    "tags": [
+        "gci", 
+        " code", 
+        " android"
+    ], 
+    "claimed_count": 2, 
+    "completed_count": 2, 
+    "mentors": [
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com", 
+        "singhsaumyas150@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-12T05:08:43Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile-cn", 
+    "id": 5886206831755264, 
+    "available_count": 0, 
+    "name": "Mifos Mobile CN: Make \"Share\" Button clickable ."
+}

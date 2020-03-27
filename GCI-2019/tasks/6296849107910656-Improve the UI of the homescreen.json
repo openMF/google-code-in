@@ -1,0 +1,28 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "There is a scope of UI improvement in the home screen of the app\nIcons can be made smaller", 
+    "tags": [
+        "gci", 
+        "xml", 
+        "mifos mobile", 
+        "design"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "govinddixit93@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        2
+    ], 
+    "last_modified": "2019-11-12T17:13:41Z", 
+    "external_url": "https://github.com/openMF/mifos-mobile/issues/1223", 
+    "id": 6296849107910656, 
+    "available_count": 1, 
+    "name": "Improve the UI of the homescreen"
+}

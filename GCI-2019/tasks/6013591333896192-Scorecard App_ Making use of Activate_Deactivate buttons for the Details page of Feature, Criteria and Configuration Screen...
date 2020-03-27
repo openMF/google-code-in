@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "In the Details page of these screens, you can find a list of entries whose status is shown to be true/false. \nSo when you add the functionality to both of the buttons Activate/Deactivate it should function in such a way so that when the Activate is clicked it should display the entries which has its status to be true and when the Deactivate button is clicked it should display the entries which have its status as false.", 
+    "tags": [
+        "scorecard", 
+        "java", 
+        "angular", 
+        "angular material"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "supreethmenon14@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-12T05:08:42Z", 
+    "external_url": null, 
+    "id": 6013591333896192, 
+    "available_count": 1, 
+    "name": "Scorecard App: Making use of Activate/Deactivate buttons for the Details page of Feature, Criteria and Configuration Screen and"
+}

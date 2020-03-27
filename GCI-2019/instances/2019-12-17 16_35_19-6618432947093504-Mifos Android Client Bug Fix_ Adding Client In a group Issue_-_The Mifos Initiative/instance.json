@@ -1,0 +1,36 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5365051406417920, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-17 16:35:19", 
+    "max_instances": "1", 
+    "id": 6618432947093504, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-17 16:35:15", 
+    "deadline": "2019-12-19 10:17:59", 
+    "submitted_date": "2019-12-17 14:28:47", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "jsahil730@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client Bug Fix: Adding Client In a group Issue", 
+    "categories": [
+        "2"
+    ], 
+    "description": "When you Create a client in group using the App, The created client appears not to be belonging to any group ie, The App has no ability to manage client creation in a group.\n\n1) Go to left navigation bar, then selct any group.\n2) Tap on right top corner menu, then select 'Group Clients' \n3) Then tap on '+' button, enter all details and submit. \nExpected: The client should be created within the group.\nObserved: The client is created outside the group."
+}

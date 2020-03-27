@@ -1,0 +1,445 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-10T05:59:57Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 5028187013120000, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Good work! You're ready go to the next task, goodluck.", 
+        "created": "2019-12-10T05:59:48Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4742263993794560, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "", 
+        "created": "2019-12-10T03:00:01Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5389290993876992, 
+        "id": 6194539379818496, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "hey there ,\nI have exported the files through photoshop .\nhope you like it \nhttps://drive.google.com/drive/folders/1S68Xp4ifQPqPm29QhA3RpqA1ea-ED5aK\n\n\nI also cared to attach the files below", 
+        "created": "2019-12-10T02:59:56Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5389290993876992, 
+        "id": 5440838788710400, 
+        "old_task_instance_status": 5, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4629942789210112/", 
+                "filename": "front.psd", 
+                "id": 4629942789210112, 
+                "file_size": 245753.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/4660459966300160/", 
+                "filename": "front.png", 
+                "id": 4660459966300160, 
+                "file_size": 91120.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6137601426194432/", 
+                "filename": "back.psd", 
+                "id": 6137601426194432, 
+                "file_size": 239530.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/5286314547609600/", 
+                "filename": "back.png", 
+                "id": 5286314547609600, 
+                "file_size": 85475.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-09T03:41:34Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5074764389941248, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Don't submit your work when u dont have any updated!", 
+        "created": "2019-12-09T03:41:20Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6452729057116160, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "", 
+        "created": "2019-12-09T02:13:22Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5389290993876992, 
+        "id": 6066461441785856, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "Ok I'm on it !!", 
+        "created": "2019-12-09T02:13:19Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5389290993876992, 
+        "id": 6447633506238464, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "jonathanzhang53", 
+            "program_year": 2019, 
+            "id": 5631358773231616
+        }, 
+        "text": "", 
+        "created": "2019-12-08T21:15:24Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5631358773231616, 
+        "id": 6632634927546368, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "jonathanzhang53", 
+            "program_year": 2019, 
+            "id": 5631358773231616
+        }, 
+        "text": "Please try to use some editing software such as photoshop or illustrator to create the image. There are also free versions. This will allow export of a native file format.\n\nAn idea can be to use a shirt image and then put the design you made on top of it in editing software. Also, try to give the file names more meaningful titles.", 
+        "created": "2019-12-08T21:15:16Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5631358773231616, 
+        "id": 4659672980652032, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "", 
+        "created": "2019-12-08T18:26:17Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5389290993876992, 
+        "id": 6352782349565952, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "It don't have any export features I checked it thoroughly \nThe website is www.spreadshirt.com", 
+        "created": "2019-12-08T18:26:14Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5389290993876992, 
+        "id": 5797349687820288, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "What's are website you used for designed it? maybe they have a export features. we need some native design files, so we can easily use the design. thanks", 
+        "created": "2019-12-08T17:28:49Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5016741260820480, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "Actually i designed it in a website and then i screenshotted it so , i don't have any .ai or .psd file", 
+        "created": "2019-12-08T16:11:00Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5389290993876992, 
+        "id": 5208745492086784, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2019-12-08T16:08:15Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5685108493778944, 
+        "id": 5383297367015424, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "Can you please include the native design files? .ai or .psd, etc.", 
+        "created": "2019-12-08T16:08:09Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5685108493778944, 
+        "id": 4617407214125056, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "", 
+        "created": "2019-12-08T15:46:59Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5389290993876992, 
+        "id": 6610634897096704, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "hey there,\nthe drive link is down here \nhttps://drive.google.com/drive/folders/1S68Xp4ifQPqPm29QhA3RpqA1ea-ED5aK\nhope you like it \nand I also cared to attach the .png files below", 
+        "created": "2019-12-08T15:46:55Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5389290993876992, 
+        "id": 5375119774449664, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6091714775744512/", 
+                "filename": "adnan.png", 
+                "id": 6091714775744512, 
+                "file_size": 85475.0
+            }, 
+            {
+                "file_type": "doc", 
+                "url": "/serve/6199358198906880/", 
+                "filename": "dawdwadwadwdwa.png", 
+                "id": 6199358198906880, 
+                "file_size": 91120.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6145410456879104, 
+        "author": {
+            "display_name": "Black_juice", 
+            "program_year": 2019, 
+            "id": 5389290993876992
+        }, 
+        "text": "", 
+        "created": "2019-12-08T15:39:53Z", 
+        "task_definition_name": "Design a Mifos T-Shirt", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5389290993876992, 
+        "id": 4883678182768640, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "## Objective \nTo install the fiinwallet app as well as the ionic framework on your computer\n### Description\n1. Go to https://github.com/openMF/fiinwallet.\n2. Fork, Star the repository and clone it on your machine using  \"git clone https://github.com/'your-username'/fiinwallet\".\n4. Follow the commands\n     cd fiinwallet\n     cd app\n     npm install     (for the first time only)\n     ionic serve\n\n5.  Run the app and login using the default credentails.\n\n6. For the submission, Post a picture of the the app running on you computer and your terminal / command-line window showing your pc's username. Post abnormalities you find.\n\n###References\n\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/mifos).", 
+    "tags": [
+        "typecsript", 
+        "beginner", 
+        "fiinwallet", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "1MANISH2222@gmail.com"
+    ], 
+    "max_instances": 5, 
+    "private_metadata": "", 
+    "categories": [
+        4, 
+        5
+    ], 
+    "last_modified": "2019-12-01T10:30:01Z", 
+    "external_url": null, 
+    "id": 5201619579305984, 
+    "available_count": 5, 
+    "name": "Run the app on your machine after cloning the repository"
+}

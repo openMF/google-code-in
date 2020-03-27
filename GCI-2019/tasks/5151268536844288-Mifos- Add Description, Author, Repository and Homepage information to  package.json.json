@@ -1,0 +1,30 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "## Objective\nThe objective is to add description, author, repository, homepage, to the package.json of the Mifos Community App.\n\n### Description\n1. Add description, author, repository, homepage etc, to the package.json of the Mifos Community App .\n\n#### References\nYou may have a look at package.json files of other MIfos projects and check out [npm-package.json](https://docs.npmjs.com/files/package.json).\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        "communityapp", 
+        "javascript", 
+        "web app", 
+        "angular", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "ashusingh15673@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        3
+    ], 
+    "last_modified": "2019-11-26T09:33:34Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/3127", 
+    "id": 5151268536844288, 
+    "available_count": 1, 
+    "name": "Mifos- Add Description, Author, Repository and Homepage information to  package.json"
+}

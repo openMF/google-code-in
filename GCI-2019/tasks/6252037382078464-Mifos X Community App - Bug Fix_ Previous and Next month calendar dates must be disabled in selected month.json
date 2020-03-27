@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "### Actual Behaviour:\nPrevious and next month calender dates are not disabled on selection of a month.\n\n### Expected Behaviour:\nExample: If you select month as July 2017, in this month June and August month dates should be disabled. This issue exists with all pop-up calendars in application.\n\n### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jonathanzhang53@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-03T17:38:02Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/2350", 
+    "id": 6252037382078464, 
+    "available_count": 0, 
+    "name": "Mifos X Community App - Bug Fix: Previous and Next month calendar dates must be disabled in selected month"
+}

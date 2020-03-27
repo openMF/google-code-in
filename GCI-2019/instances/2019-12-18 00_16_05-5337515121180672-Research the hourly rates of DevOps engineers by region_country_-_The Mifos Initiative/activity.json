@@ -1,0 +1,380 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "Thankyou luphieanza I'll make a note of it.", 
+        "created": "2019-12-18T00:16:02Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 7, 
+        "author_id": 4910194438438912, 
+        "id": 5174384445095936, 
+        "old_task_instance_status": 7, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-17T19:19:47Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 5080332345278464, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Next time, please not to choose \"any\" in other rates task. Try with some number not \"any\". Thanks", 
+        "created": "2019-12-17T19:19:44Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6403169454653440, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "Yes", 
+        "created": "2019-12-17T17:44:59Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4910194438438912, 
+        "id": 5501489926111232, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Are you sure about experience and stack is just any at all?", 
+        "created": "2019-12-17T16:40:40Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4851294691393536, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "", 
+        "created": "2019-12-17T16:18:32Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4910194438438912, 
+        "id": 4523704046845952, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "Plz check it now I have made schanges.\n\nhttps://docs.google.com/spreadsheets/d/1YJSafDgFb_h7dmfV6EHAxYjXMVmPKgbRrolvcNR851w/edit?usp=sharing", 
+        "created": "2019-12-17T16:18:20Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4910194438438912, 
+        "id": 5043460655022080, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Task deadline extended by 0.9 days", 
+        "created": "2019-12-17T15:40:46Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 4960248280907776, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2019-12-17T15:40:41Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 5395755146149888, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "https://goo.gl/CRzRU8 & https://goo.gl/1BURQo, check this link and please add more details.", 
+        "created": "2019-12-17T15:40:36Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6242088518156288, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "https://docs.google.com/spreadsheets/d/1YJSafDgFb_h7dmfV6EHAxYjXMVmPKgbRrolvcNR851w/edit?usp=sharing", 
+        "created": "2019-12-17T14:01:18Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4910194438438912, 
+        "id": 5434477967310848, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "", 
+        "created": "2019-12-17T12:03:49Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4910194438438912, 
+        "id": 5754426053099520, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "I hope i have given the basic required details. And made it simpler.\nIf u want me to add more can u please let me know what else can i add.", 
+        "created": "2019-12-17T12:03:43Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 4910194438438912, 
+        "id": 6262431966298112, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "jonathanzhang53", 
+            "program_year": 2019, 
+            "id": 5631358773231616
+        }, 
+        "text": "", 
+        "created": "2019-12-16T17:34:56Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5631358773231616, 
+        "id": 5605356663734272, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "jonathanzhang53", 
+            "program_year": 2019, 
+            "id": 5631358773231616
+        }, 
+        "text": "Please take a look at the examples given in the task description and make the spreadsheet more detailed. It is meant to match the pay rate with the type of developer, the language they work with, their stack, country, etc. More data is better.", 
+        "created": "2019-12-16T17:34:53Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5631358773231616, 
+        "id": 6089347602841600, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "", 
+        "created": "2019-12-16T13:46:30Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4910194438438912, 
+        "id": 5588196390338560, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "I have collected some data about DevOps Engineers and made a google sheet.\nThe link for the sheet is provided below.\nHOPE THIS WILL HELP THE ORGANIZATION :)\n\nhttps://docs.google.com/spreadsheets/d/1YJSafDgFb_h7dmfV6EHAxYjXMVmPKgbRrolvcNR851w/edit?usp=sharing", 
+        "created": "2019-12-16T13:46:25Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4910194438438912, 
+        "id": 5647456000278528, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5337515121180672, 
+        "author": {
+            "display_name": "Adarsh Gowda", 
+            "program_year": 2019, 
+            "id": 4910194438438912
+        }, 
+        "text": "", 
+        "created": "2019-12-16T02:06:42Z", 
+        "task_definition_name": "Research the hourly rates of DevOps engineers by region/country", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4910194438438912, 
+        "id": 4834150389907456, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6569561495699456, 
+    "tags": [
+        " Bug", 
+        " Android Client", 
+        "Mifos"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-12 04:06:48", 
+    "max_instances": "1", 
+    "id": 5892262022610944, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-12 04:06:44", 
+    "deadline": "2019-12-12 16:58:48", 
+    "submitted_date": "2019-12-12 03:59:47", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "tarun.mudgal34@gmail.com", 
+        "elirehemapaulo@gmail.com", 
+        "mokshmahajan008@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "task_definition_name": "Mifos Android Client : Add currency symbol in Account Summary", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nNeed to add currency symbol with the amount whenever charges or balance are mentioned in the account summary. This would make it easier for the user and cause less confusion.\n\nSteps to reproduce:\n\nOpen a client, expand any account (loan or savings) and click on\nit to get to account summary.\nFor Screenshots refer the ticket URL."
+}

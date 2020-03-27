@@ -1,0 +1,37 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4551360725385216 | Task Definition ID 5353372450816000
+Max instances: 1
+
+Title: Mifos Mobile - Bug Fix: Filters cleared when layout is refreshed
+Description: Summary:
+
+When swipe to refresh is used to refresh accounts activity , the filters applied (if any) are removed
+
+Steps to reproduce:
+
+Accounts activity --> Apply filters --> Swipe to refresh
+
+Expected behaviour:
+
+Swipe to refresh should have refreshed the layout while preserving the filters i.e. it should have refreshed among the filtered list
+
+Observed behaviour:
+
+Filters were lost.
+
+Device and Android version:
+
+Xiaomi Poco F1
+Android 9
+Stock rom
+Tags: android,  fintech,  mifos-mobile,  bug
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: anamikatripathi1601@gmail.com, elirehemapaulo@gmail.com, rajanmaurya154@gmail.com, academic.rahul@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-14 11:40:16)
+Last modified: 2019-12-11 08:43:43

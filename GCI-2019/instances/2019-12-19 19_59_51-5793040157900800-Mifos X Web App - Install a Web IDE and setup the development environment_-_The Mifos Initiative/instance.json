@@ -1,0 +1,35 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5680180002029568, 
+    "tags": [
+        "Web App", 
+        "Angular", 
+        "Mifos"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "True", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-19 19:59:51", 
+    "max_instances": "20", 
+    "id": 5793040157900800, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-19 19:59:47", 
+    "deadline": "2019-12-22 11:45:52", 
+    "submitted_date": "2019-12-19 12:26:08", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "govinddixit93@gmail.com", 
+        "jivjyotsingh@gmail.com", 
+        "jddeep003@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "rahul.usit12@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Install a Web IDE and setup the development environment", 
+    "categories": [
+        "1", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to setup everything you need to start contributing code to the Mifos X Web App.\n\n### Getting started\n1. Install any web development IDE. [Install Visual Studio Code](https://code.visualstudio.com/) (recommended)\n2. Make sure you are familiar with git and create an account on [GitHub](https://github.com/) if you haven't already.\n3. Fork the project from [https://github.com/openMF/web-app](https://github.com/openMF/web-app).\n4. Go through `README.md and CONTRIBUTING.md` files and follow the steps to clone and build the project to get started with development on your system. \n5. Review the project's wiki to get familiar with the workflow [here](https://github.com/openMF/web-app/wiki).\n\n## What to Submit\n1. A link to your forked GitHub project repository.\n2. A screenshot of the running application in your system.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app)."
+}

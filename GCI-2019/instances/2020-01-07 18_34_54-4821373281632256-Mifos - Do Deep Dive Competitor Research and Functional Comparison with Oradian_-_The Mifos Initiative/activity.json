@@ -1,0 +1,86 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4821373281632256, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2020-01-07T18:34:50Z", 
+        "task_definition_name": "Mifos - Do Deep Dive Competitor Research and Functional Comparison with Oradian", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5685108493778944, 
+        "id": 5932715665260544, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4821373281632256, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2020-01-07T02:14:05Z", 
+        "task_definition_name": "Mifos - Do Deep Dive Competitor Research and Functional Comparison with Oradian", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 4778956067176448, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 4821373281632256, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "Here is the spreadsheet. I tried to find and fill out as much information that I could find. I hope it is to your liking. https://docs.google.com/spreadsheets/d/1xr5Vv4sT_VTzr4_OFjjhj04pobs3YIt0O53HlWoBIHo/edit?usp=sharing", 
+        "created": "2020-01-07T02:14:02Z", 
+        "task_definition_name": "Mifos - Do Deep Dive Competitor Research and Functional Comparison with Oradian", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 5575949911851008, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 4821373281632256, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2020-01-04T13:01:05Z", 
+        "task_definition_name": "Mifos - Do Deep Dive Competitor Research and Functional Comparison with Oradian", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6594356132184064, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

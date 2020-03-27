@@ -1,0 +1,107 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5534194810224640, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-22T05:14:22Z", 
+        "task_definition_name": "Update Mifos Events/Conferences Calendar for Credit Union or Financial Cooperative or Savings Events", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6737121029652480, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5534194810224640, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Hello @bl6, well done with your last task! Thanks to giving expression to our community, it's really nice to have u being part of the community! hope you enjoy the contribution with us, you can share ur video link and medium article on our forum/chat by gitter.", 
+        "created": "2020-01-22T05:14:16Z", 
+        "task_definition_name": "Update Mifos Events/Conferences Calendar for Credit Union or Financial Cooperative or Savings Events", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 4726605767770112, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5534194810224640, 
+        "author": {
+            "display_name": "bl6", 
+            "program_year": 2019, 
+            "id": 6661629287071744
+        }, 
+        "text": "", 
+        "created": "2020-01-22T04:50:47Z", 
+        "task_definition_name": "Update Mifos Events/Conferences Calendar for Credit Union or Financial Cooperative or Savings Events", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 6661629287071744, 
+        "id": 4831629059555328, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 5534194810224640, 
+        "author": {
+            "display_name": "bl6", 
+            "program_year": 2019, 
+            "id": 6661629287071744
+        }, 
+        "text": "Hi mentors, this is my final task claimed for GCI-2019. I worked on row # 381-390. Please check. Thanks.\n\nAlso, since this is the final task I claimed, I would like to make a few comments about The Mifos Initiative. \n\nFirst, I'm really grateful for working with Mifos. It teaches me a lesson, a lesson more important than the contest itself. A lesson on open-source, a lesson on \"think more on other people than just yourself\" (said by a winner of GCI-2018). And Mifos, fully let me feel that.\n\nTo express the thanks I have for Mifos, I created a short Thank You video. You can see here: https://youtu.be/e3GBuB0Ysd8, Also a medium article describes what tasks I have done in GCI-2019: https://bit.ly/38uSvZI\n\nI would like to specifically thanks to three mentors:\n1. Ed Cable - CEO, thanks for organizing Mifos' part in GCI-2019.\n2. Abhaychawla - Coding mentor, I didn't work on a lot of coding tasks, but just from one task that I completed, I felt this mentor is really nice and patient, explain the error to me as detail as possible.\n3. luphieanza (which is the mentor who is most likely seeing this comment) - You are the best mentor I ever encountered in GCI-2019. You are really patient, nice, kind, and kindly provide me feedback on how to improve my work. This mentor also compliments me a lot. I worked with this mentor the most (fintech research, salary research, video). And I'm really glad this mentor is part of Mifos' organization. \n\nFew recommendations I would make to Mifos:\n1. Error management: I wish someone can help me more on how to get PPI vision credentials set up. It keeps telling me invalid credentials no matter what I tried so I can record a video.\n2. Gitter Community Chat: Officials should respond to the Gitter chat more frequently.\n3. More variety of tasks: Unless other organizations, Mifos offered not a lot of variety of tasks. And I believe Mifos should add more tasks.\n\nSo since the letter limited is almost reaches, I just want to say. Thank you Mifos!! :) :) :)", 
+        "created": "2020-01-22T04:50:42Z", 
+        "task_definition_name": "Update Mifos Events/Conferences Calendar for Credit Union or Financial Cooperative or Savings Events", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6661629287071744, 
+        "id": 6330742162849792, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 5534194810224640, 
+        "author": {
+            "display_name": "bl6", 
+            "program_year": 2019, 
+            "id": 6661629287071744
+        }, 
+        "text": "", 
+        "created": "2020-01-21T06:51:55Z", 
+        "task_definition_name": "Update Mifos Events/Conferences Calendar for Credit Union or Financial Cooperative or Savings Events", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6661629287071744, 
+        "id": 5020179734462464, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

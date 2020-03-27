@@ -1,0 +1,32 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": true, 
+    "program_year": 2019, 
+    "description": "## Objective\nThe objective is to set up everything you need to start contributing code to the Mifos X Web App and write a guide on the steps to setup Mifos Community App.\n\n### Description\n1. Run the project on your own system following the steps as mentioned in the Readme of the repository.\n2. Write a blog on how to get started on the project and the entire setup \n\n## What to Submit\n1. Aguide describing the setup of the Community App\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).", 
+    "tags": [
+        "blog", 
+        "community-app", 
+        "angular", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "muskan.khedia2000@gmail.com", 
+        "jonathanzhang53@gmail.com", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        3
+    ], 
+    "last_modified": "2019-12-03T17:38:03Z", 
+    "external_url": null, 
+    "id": 5644129590050816, 
+    "available_count": 1, 
+    "name": "Write a guide on how-to setup of Mifos Community App"
+}

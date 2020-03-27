@@ -1,0 +1,31 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 4, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective\nThe objective is to replace icons with the proper fa-icons according to the recent font-awesome package used.\n\n### Description\n\nProblems:\n1. When we moved from the old skin to new skin, a lot of icons are missing in buttons and inputs due to switching from `icon` classes to `fa` classes. Many of the classes are spelt incorrectly in the code. For this task, you are supposed to identify at least 10 places where icons are missing and fix them accordingly.\n\nExpected Behaviour:\n1. To display all the icons missed at any place due to update-UI.\n\nLinks:\n1. Project: https://github.com/openMF/community-app\n2. Issue: https://github.com/openMF/community-app/issues/2621\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app) or mail me at [muskan.khedia2000@gmail.com](muskan.khedia2000@gmail.com)", 
+    "tags": [
+        "community-app", 
+        "angular", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "muskan.khedia2000@gmail.com", 
+        "jonathanzhang53@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2, 
+        4
+    ], 
+    "last_modified": "2019-12-03T17:38:01Z", 
+    "external_url": null, 
+    "id": 4900595857620992, 
+    "available_count": 1, 
+    "name": "Mifos X Community App: Fix broken icons"
+}

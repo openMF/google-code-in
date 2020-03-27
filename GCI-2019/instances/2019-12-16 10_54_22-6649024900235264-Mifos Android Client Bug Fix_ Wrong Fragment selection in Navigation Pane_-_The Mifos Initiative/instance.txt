@@ -1,0 +1,36 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6649024900235264 | Task Definition ID 4800569760284672
+Max instances: 1
+
+Title: Mifos Android Client Bug Fix: Wrong Fragment selection in Navigation Pane
+Description: Summary:
+
+The selection in Navigation pane remains as such if we select an option which creats a new activity(such as Settings, Path Tracker,or Collection Sheet), and the navigate back using back button.
+
+Steps to reproduce:
+
+Open Settings, Path Tracker or Collection Sheet from navigation pane.
+Press back button.
+Expected behavior:
+
+The selection in navigation pane should be according to the previously opened option(fragment or activity).
+
+Observed behavior:
+
+The selection in navigation pane is according to the new option opened, the one from which we navigated back.
+
+Device and Android version:
+
+Model: Samsung Galaxy A5(2016)
+Android version: Android 7.0 Nougat.
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding, User Interface
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jddeep003@gmail.com, rajanmaurya154@gmail.com, elirehemapaulo@gmail.com, tarun.mudgal34@gmail.com, mokshmahajan008@gmail.com, santosh@confluxtechnologies.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-19 06:48:09)
+Last modified: 2019-12-16 10:54:22

@@ -1,0 +1,31 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "### Steps to Reproduce:\nGo to client page> click on 'More' button.\nIn 'More' menu, click on 'Create Self Service user'\nObserve the label against the button \"Activate Self Service User\".\n\n### Expected Behaviour:\nNeed meaningful label, \"Activate Self Service User Help\"\nFor screenshot refer the ticket id.\n\n ### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.\n\n## How to get help \r\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).", 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jonathanzhang53@gmail.com", 
+        "abhay.chawla97@gmail.com", 
+        "santosh@confluxtechnologies.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1
+    ], 
+    "last_modified": "2019-12-03T21:53:11Z", 
+    "external_url": "https://github.com/openMF/community-app/issues/3139", 
+    "id": 4792922839449600, 
+    "available_count": 0, 
+    "name": "Mifos X Community App - Bug Fix: Need meaningful tooltip for help link in 'Create Self Service User page'"
+}

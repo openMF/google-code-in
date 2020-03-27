@@ -1,0 +1,421 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": null, 
+        "text": "", 
+        "created": "2019-12-16T19:11:50Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 6, 
+        "author_id": null, 
+        "id": 4887843386687488, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "Hello Arkadiusz were you able to make any progress?", 
+        "created": "2019-12-16T08:28:22Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 4694374370246656, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "thank you I'll work on it.", 
+        "created": "2019-12-11T19:35:29Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 5804881315627008, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "Task deadline extended by 2.0 days", 
+        "created": "2019-12-11T13:03:46Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 4950387438649344, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "From your code I am able to understand you tried to learn from already implemented clients component and tried to replicate the same for users table which is good, there is lot of work left so I'll increase your deadline a bit. Please try to see the data return by the API using postman for both the components then it would be easier for you to understand the code in clients component and implement the same for users component.", 
+        "created": "2019-12-11T13:03:39Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 5287925495889920, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "Hello Arkadius, You were not able to get data into the table because you were reading a pageItems properties of the json returned by the by API which does not exist. Please refer to the method shown in attached screenshot of userlist.datasource.ts", 
+        "created": "2019-12-11T12:55:25Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 5609269018230784, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/4906750570921984/", 
+                "filename": "arkadious.PNG", 
+                "id": 4906750570921984, 
+                "file_size": 12076.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 3, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "Task deadline extended by 3.0 days", 
+        "created": "2019-12-11T02:34:28Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 5351657643180032, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "Also could you please give me a little more time to end that task ?", 
+        "created": "2019-12-10T19:49:37Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 5924206781399040, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "https://github.com/Arek123113/web-app/tree/gci/ it's in the \"gci\" branch", 
+        "created": "2019-12-10T17:25:16Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 5670790196887552, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "Please submit your code so that I can see where is the mistake.", 
+        "created": "2019-12-10T02:46:11Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 4936170736189440, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "also when I changed \"clients.pageItems...\" line i got some error about CORS and HTTP failure response", 
+        "created": "2019-12-09T20:31:18Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 5024953909379072, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/5043823017721856/", 
+                "filename": "problem2.png", 
+                "id": 5043823017721856, 
+                "file_size": 60081.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "*not actually my code, beacuse I just edited the one from \"Clients\". Could you help me with that bug?", 
+        "created": "2019-12-09T19:24:46Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 4941332775174144, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "Thank you very much, the last thing that left to do is to repair my userlist.datasource.ts. My browser gives me the following error and that's my code:", 
+        "created": "2019-12-09T19:22:37Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 5744923278573568, 
+        "old_task_instance_status": 1, 
+        "attachments": [
+            {
+                "file_type": "doc", 
+                "url": "/serve/6589174396747776/", 
+                "filename": "problem.png", 
+                "id": 6589174396747776, 
+                "file_size": 46023.0
+            }
+        ]
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "If at any point you need more time, please let us know we\u00e2\u20ac\u2122ll extend your deadline. Also feel free to ask any questions if you get stuck while implementing this component.", 
+        "created": "2019-12-09T18:18:14Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 4928974921138176, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "No, you only have to create a component that displays , filter and search them.", 
+        "created": "2019-12-09T18:13:49Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 5497534236065792, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "also do I have to create component that adds user or only the one that displays and filter them?", 
+        "created": "2019-12-09T14:49:29Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 6240210585649152, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "hello, thanks for asking. I'm not sure if i'll end it till deadline, but for now it's going good.", 
+        "created": "2019-12-09T14:47:10Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 6569232083451904, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "Jivjyot Singh", 
+            "program_year": 2019, 
+            "id": 4847597773127680
+        }, 
+        "text": "Hello Arkadiusz, please let us know if your not able to understand the task or facing any issues.", 
+        "created": "2019-12-09T05:30:38Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 1, 
+        "author_id": 4847597773127680, 
+        "id": 4584481231470592, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6114070416064512, 
+        "author": {
+            "display_name": "ArkadiuszCios", 
+            "program_year": 2019, 
+            "id": 6445650212814848
+        }, 
+        "text": "", 
+        "created": "2019-12-04T19:08:40Z", 
+        "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 6445650212814848, 
+        "id": 4899122952273920, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

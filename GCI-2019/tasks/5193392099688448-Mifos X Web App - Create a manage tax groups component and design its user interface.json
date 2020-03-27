@@ -1,0 +1,32 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective\nThe objective is to create a manage tax groups component and design its user interface.\n\n### Description\n1. Create a manage tax groups component under the products section.\n2. Connect it via routing from products -> manage tax configurations component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the manage tax configurations component using angular material components and flex layout directives to ensure responsiveness.\n5. Fetch the data by implementing the required API and populate the table. Make sure searching and sorting works.\n6. Write comments for the implemented component.\n\n#### References\nYou may have a look at the current implemented component `products -> manage tax components` for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key.", 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "claimed_count": 1, 
+    "completed_count": 1, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "max_instances": 1, 
+    "private_metadata": "", 
+    "categories": [
+        1, 
+        2, 
+        3
+    ], 
+    "last_modified": "2019-12-02T14:31:06Z", 
+    "external_url": "https://github.com/openMF/web-app/issues/398", 
+    "id": 5193392099688448, 
+    "available_count": 0, 
+    "name": "Mifos X Web App - Create a manage tax groups component and design its user interface"
+}

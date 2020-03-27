@@ -1,0 +1,35 @@
+{
+    "student_display_name": "ArkadiuszCios", 
+    "status": "OUT_OF_TIME", 
+    "program_year": 2019, 
+    "task_definition_id": 5184551312162816, 
+    "tags": [
+        "Mifos", 
+        "Web App", 
+        "Angular Material", 
+        "Flex Layout", 
+        "Angular"
+    ], 
+    "student_id": 6445650212814848, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "7", 
+    "modified": "2019-12-16 19:11:55", 
+    "max_instances": "1", 
+    "id": 6114070416064512, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2019-12-16 19:11:50", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jivjyotsingh@gmail.com", 
+        "abhay.chawla97@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Web App - Create users module and component and design its user interface", 
+    "categories": [
+        "1", 
+        "2", 
+        "3"
+    ], 
+    "description": "## Objective\nThe objective is to create users module and component and design its user interface.\n\n### Description\n1. Create a users module and component in the app folder.\n2. Connect the component via routing from the toolbar component so that its accessible.\n3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).\n4. Design the user interface for the users component using angular material components and flex layout directives to ensure responsiveness.\n5. Fetch the data by implementing the required API and populate the table. Make sure searching and sorting works.\n6. Write comments for the implemented module and component.\n\n#### References\nYou may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.\n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).\n\nAll the best! Do remember, quality over quantity is the key."
+}

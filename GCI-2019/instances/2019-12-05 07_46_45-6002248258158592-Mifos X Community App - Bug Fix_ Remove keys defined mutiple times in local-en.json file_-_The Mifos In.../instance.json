@@ -1,0 +1,37 @@
+{
+    "student_display_name": "DeeJayBro", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 4730931663863808, 
+    "tags": [
+        " Community App", 
+        " Bugfix", 
+        " Web", 
+        " Angular JS", 
+        "Mifos"
+    ], 
+    "student_id": 6371192324227072, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-05 07:46:45", 
+    "max_instances": "1", 
+    "id": 6002248258158592, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-05 07:46:41", 
+    "deadline": "2019-12-07 15:07:10", 
+    "submitted_date": "2019-12-05 06:47:03", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "jonathanzhang53@gmail.com", 
+        "muskan.khedia2000@gmail.com", 
+        "santosh@confluxtechnologies.com", 
+        "abhay.chawla97@gmail.com", 
+        "jddeep003@gmail.com"
+    ], 
+    "task_definition_name": "Mifos X Community App - Bug Fix: Remove keys defined mutiple times in local-en.json file", 
+    "categories": [
+        "1", 
+        "4"
+    ], 
+    "description": "## Objective\nThe objective is to remove the keys defined multiple time in the local-en.json file of the Mifos Community App.\n\n### Description\n\n#### Actual Behaviour:\nThe `keys` in the file local-en.json in the global-translations folder has been defined multiple times which only creates complexity and increased the length of the file. For example, the key `debitaccount` has been defined multiple times in the same file which is of no use. This task aims to decrease the redundancy of the keys in the same file.\n\n#### Expected Behaviour:\nEvery key should be present only once in the file. (apart from those meant for a section's identification)\n\n#### Related files:\nOpen the `local-en.json` file in any text editor(preferably VS Code) and search for the keys repeated in the file. \n\n#### How to Submit\nSubmit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal. \n\n## How to get help \nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app)."
+}

@@ -1,0 +1,35 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5935707093204992 | Task Definition ID 5943159842930688
+Max instances: 1
+
+Title: Mifos Mobile: Remove hardcoded resources from xml layout files
+Description: Summary:
+
+Remove hardcoded resources from xml layout files. Eg:- Use dimensions from dimens.
+
+Steps to reproduce:
+
+Go through the project codebase and layout files.
+
+Expected behaviour:
+
+Remove hardcoded resources from xml layout files.
+
+Observed behaviour:
+
+Some resources like dimensions, strings, colors are hardcoded in layout files.
+
+Device and Android version:
+
+Android Pi.
+Tags: android,  fintech,  mifos-mobile,  bug
+
+Categories: Coding, User Interface
+Is Beginner: Yes
+Time given to complete: 3 days
+
+Mentors: anamikatripathi1601@gmail.com, elirehemapaulo@gmail.com, rajanmaurya154@gmail.com, jonathanzhang53@gmail.com, academic.rahul@gmail.com
+Student: rradzzio (ID 5169845344141312)
+
+Status: COMPLETED (2019-12-08 17:54:26)
+Last modified: 2019-12-07 18:32:22

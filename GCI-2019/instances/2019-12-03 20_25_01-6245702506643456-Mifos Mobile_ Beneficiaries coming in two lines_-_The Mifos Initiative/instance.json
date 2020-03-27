@@ -1,0 +1,35 @@
+{
+    "student_display_name": "Oussema.exe", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 6092862035329024, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 6170193894572032, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-03 20:25:01", 
+    "max_instances": "1", 
+    "id": 6245702506643456, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-03 20:00:23", 
+    "deadline": "2019-12-06 11:52:31", 
+    "submitted_date": "2019-12-03 12:06:23", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "elirehemapaulo@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: \"Beneficiaries\" coming in two lines", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nOn opening the app, the word \"Beneficiaries\" is coming in 2 lines. Its looking very odd.\n\nSteps to reproduce:\n\nRemove the default padding in the layout, and replace it by giving margin in the imageview.\n\nExpected behaviour:\n\nThe word \"Beneficiaries\" should come in 1 line.\n\nObserved behaviour:\n\nThe word \"Beneficiaries\" is coming in 2 lines."
+}

@@ -1,0 +1,36 @@
+{
+    "student_display_name": "rradzzio", 
+    "status": "ABANDONED", 
+    "program_year": 2019, 
+    "task_definition_id": 4874142482956288, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 5169845344141312, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-19 23:43:12", 
+    "max_instances": "1", 
+    "id": 5829799843463168, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": null, 
+    "deadline": "2019-12-20 09:18:23", 
+    "submitted_date": null, 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "elirehemapaulo@gmail.com", 
+        "jddeep003@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "jsahil730@gmail.com", 
+        "academic.rahul@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile: Bug Fix - UI Issue while adding Transfer", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nUI Issue while adding Transfer\n\nSteps to reproduce:\n\nClick on Transfer\nChoose Transfer from Transfer Type\nExpected behaviour:\n\nEnd user should not be able to add money to his/her account from other users accounts due to UI Inconsistency\n\nObserved behaviour:\n\nEnd user can add money to his/her amount from other users accounts due to UI Inconsistency\n\nDevice and Android version:\n\nXiaomi, Marshmallow"
+}

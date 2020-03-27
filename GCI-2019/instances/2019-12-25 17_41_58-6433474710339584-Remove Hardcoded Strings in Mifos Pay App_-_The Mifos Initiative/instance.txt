@@ -1,0 +1,25 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6433474710339584 | Task Definition ID 6093387858444288
+Max instances: 1
+
+Title: Remove Hardcoded Strings in Mifos Pay App
+Description: ## Summary
+
+There are some text that are hard-coded in the XML files of the project, remove them by extracting them as string resources. Please go through each XML and Java file manually to find hard-coded strings.
+
+Removing hard-coded strings is a good practice to be followed and often developers while developing new features leave them as hard-coded strings only.
+
+## What to do
+
+Do changes locally and then push them to the repository as Pull Request.
+Tags: xml, android, mifos pay, strings
+
+Categories: Coding, Quality Assurance
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: sanyam.bvcoe96@gmail.com, rahul.usit12@gmail.com, guptachirag2002@gmail.com
+Student: rg (ID 4531853520797696)
+
+Status: COMPLETED (2019-12-28 14:40:58)
+Last modified: 2019-12-25 17:41:58

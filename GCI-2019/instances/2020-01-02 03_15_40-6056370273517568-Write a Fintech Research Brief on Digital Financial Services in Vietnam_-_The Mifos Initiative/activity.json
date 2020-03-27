@@ -1,0 +1,191 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "Ed Cable", 
+            "program_year": 2019, 
+            "id": 5685108493778944
+        }, 
+        "text": "", 
+        "created": "2020-01-02T03:15:37Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5685108493778944, 
+        "id": 6226812292562944, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2020-01-02T02:25:15Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 6595018832216064, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "Okay, here is the revised version of the research brief. I answered each question in paragraph format, added some extra information, and organized it by sections like you asked. I used the https://goo.gl/NEnwjR format (with regulatory landscape and ecosystem). I hope this version is more suitable, easier to read, and more to your liking. \nhttps://docs.google.com/document/d/1JpFvam-mi3FwtShtEIiBNqGpQJSI654ds9sXjZ_4eSc/edit?usp=sharing", 
+        "created": "2020-01-02T02:25:08Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5624966318391296, 
+        "id": 5046454146564096, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "I am sorry but could you please elaborate more on what you would like to see? I followed the outline/format of the examples in https://goo.gl/oJAL4N . Originally I was thinking of putting it in section format like you wanted, but it didnt flow as well and some of the things were repeats from previous sections (for ex. Momo was the #1 major player in all sections and it would be redundant to put it 3 times, or incorrect if I excluded it in 2 sections since it was the most major player in each section). I am also confused on what you mean by rules. The task only included the questions that we had to answer. In my doc, I answered all the questions to the best of my ability; they were just in a different order to make it flow and sound a bit better. Thank you, and I appreciate the help and feedback!", 
+        "created": "2020-01-01T15:44:14Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 5, 
+        "author_id": 5624966318391296, 
+        "id": 6584188065546240, 
+        "old_task_instance_status": 5, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-01T09:31:25Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 5, 
+        "author_id": 5734586449920000, 
+        "id": 6541590781231104, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "Please to make it by our sections guide. you need follow the rules. thanks", 
+        "created": "2020-01-01T09:31:22Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 6406504530313216, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2020-01-01T03:49:04Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 5624966318391296, 
+        "id": 5918413038288896, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "https://docs.google.com/document/d/1X_RQyeF6ZhJ0ZYYFkK2bvE-E8X-qet4Xyh0EYa9DDhI/edit?usp=sharing", 
+        "created": "2020-01-01T03:49:01Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6729661963304960, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6056370273517568, 
+        "author": {
+            "display_name": "katdho", 
+            "program_year": 2019, 
+            "id": 5624966318391296
+        }, 
+        "text": "", 
+        "created": "2019-12-30T21:18:14Z", 
+        "task_definition_name": "Write a Fintech Research Brief on Digital Financial Services in Vietnam", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 5624966318391296, 
+        "id": 6216181443198976, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

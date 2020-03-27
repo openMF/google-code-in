@@ -1,0 +1,34 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 6650009445990400 | Task Definition ID 5921186110767104
+Max instances: 1
+
+Title: Mifos X Web App - Create the create tax component and design its user interface
+Description: ## Objective
+The objective is to create the create tax component and design its user interface.
+
+### Description
+1. Create the create tax component under the products -> manage tax configurations -> manage tax components section.
+2. Connect it via routing from create tax component button in manage tax components component so that its accessible.
+3. Make sure to read the guidelines to replicate a screen from [here](https://github.com/openMF/web-app/wiki/Replicate-an-existing-Community-App-screen-into-the-new-Web-App).
+4. Design the user interface for the create tax component using angular material components and flex layout directives to ensure responsiveness.
+5. Implement the required API so a new tax can be created. Make sure after tax creation we are redirected back to tax list view if view tax component does not exist at the time of implementation of this component.
+6. Write comments for the implemented component.
+
+#### References
+You may have a look at the current implemented components in `accounting`, `system` or `products` section for reference.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/web-app).
+
+All the best! Do remember, quality over quantity is the key.
+Tags: Mifos, Web App, Angular Material, Flex Layout, Angular
+
+Categories: Coding, User Interface, Documentation & Training
+Is Beginner: No
+Time given to complete: 5 days
+
+Mentors: jivjyotsingh@gmail.com, abhay.chawla97@gmail.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2020-01-16 08:03:06)
+Last modified: 2020-01-14 08:40:23

@@ -1,0 +1,36 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5103193692831744 | Task Definition ID 6273717169029120
+Max instances: 1
+
+Title: Mifos Android Client Bug Fix: Empty snackbar message in Collection sheet
+Description: Summary:
+
+Empty snack bar message in Collection sheet with No internet connection.
+
+Steps to reproduce:
+
+1)Run the app
+2)Select Collection Sheet from side menu
+
+Expected behavior:
+
+A snackbar message which shows "failed to fetch office" since internet connection is not available.
+
+Observed behavior:
+
+Empty snackbar
+
+Device and Android version:
+
+Android 5.0.2,API 21
+Tags:  Bug,  Android Client, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: jddeep003@gmail.com, rajanmaurya154@gmail.com, tarun.mudgal34@gmail.com, elirehemapaulo@gmail.com, mokshmahajan008@gmail.com, santosh@confluxtechnologies.com
+Student: PiyushSharma99 (ID 6483083604262912)
+
+Status: COMPLETED (2019-12-15 04:08:55)
+Last modified: 2019-12-12 05:03:48

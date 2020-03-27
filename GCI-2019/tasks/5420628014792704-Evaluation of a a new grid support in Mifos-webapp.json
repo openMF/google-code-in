@@ -1,0 +1,30 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 5, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "This task is simply a design/evaluation task.\nMotivation: Current Grid/Datatable in Mifos angular webapp is not so user friendly and filters are not intuitive.\n1. the Student should check if Syncfusion can release for Mifos-X an opensource license for the Angular.js grid component https://www.syncfusion.com/products/community-contact-us\n2.  If he/she succeed should individuate which actions (with the help of the mentor) are needed to replace the current mifos-x datatable with the enhanced one and make a plan.", 
+    "tags": [
+        "feasibility", 
+        "syncfusion", 
+        "grid", 
+        "investigation", 
+        "mifos"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "giorgio.zoppi@gmail.com"
+    ], 
+    "max_instances": 2, 
+    "private_metadata": "", 
+    "categories": [
+        2, 
+        5
+    ], 
+    "last_modified": "2019-12-01T13:25:54Z", 
+    "external_url": null, 
+    "id": 5420628014792704, 
+    "available_count": 2, 
+    "name": "Evaluation of a a new grid support in Mifos-webapp"
+}

@@ -1,0 +1,35 @@
+{
+    "student_display_name": "punwai", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5705531314929664, 
+    "tags": [
+        " competitor analysis", 
+        " fintech", 
+        " mifos", 
+        " due diligence", 
+        "research"
+    ], 
+    "student_id": 6452370628673536, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2020-01-01 04:10:15", 
+    "max_instances": "2", 
+    "id": 6567763103973376, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2020-01-01 04:10:11", 
+    "deadline": "2020-01-03 16:24:50", 
+    "submitted_date": "2019-12-31 16:25:02", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com", 
+        "guptachirag2002@gmail.com"
+    ], 
+    "task_definition_name": "Mifos - Do Deep Dive Competitor Research and Functional Comparison with Mambu", 
+    "categories": [
+        "5"
+    ], 
+    "description": "Building off of the initial competitor research and due diligence completed by one of our GCI students at https://goo.gl/pkZC76, we want to do a deeper dive on the other software vendors including more details on their company, their business and support model, as well as comparison of their functionality.\n\nYou will fill out and complete as many of the rows for this assigned competitor/vendor and put the corresponding information in the column with their name.\n\nDo as thorough of research via Google as you can including their website, software reviews, press releases, etc.\n\nIf you have trouble finding information, you can also reach out direction to the vendor by contacting them as a student doing a research project.\n\nAll information that must be gathered can be found in the template at https://goo.gl/d9x8Hr\n\nPlease make a copy of this sheet and then complete for the specific competitor. Some research from a previous year on one competitor was included as a reference.\n\nYou can also add supplemental information as a slide deck or Google Doc."
+}

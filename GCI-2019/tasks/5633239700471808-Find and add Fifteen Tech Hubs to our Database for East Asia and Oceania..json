@@ -1,0 +1,30 @@
+{
+    "status": 2, 
+    "time_to_complete_in_days": 3, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "Part of the Mifos Initiative strategy as we bring to market our an application framework for digital financial services is to evangelize the brand new cloud-native microservices architecture to fintech startups at tech hubs, accelerators, startup bootup camps, fintech labs, and innovation challenges worldwide.\n\nThe message is to build apps not infrastructure and they should build on top of our open source banking infrastructure so they can accelerate the time to market for their solution by focusing on building their app and the unique innovation needed by their customer.\n\nMore details on our Innovator Strategy can be found at https://goo.gl/VSaajA\n\nTwo types of task are available for our innovation strategy research - this task and others completing detailed research profiles on individual tech hubs at https://goo.gl/dnpWfy.\n\n* Cataloging Tech and Innovation Hubs We have cataloged the innovation hubs available in each country but have only done so primarily for Africa. We need to expand our catalog for other continents, countries, regions.\n\nFor this task, based on the assigned region, you should search for and find tech hubs, startup accelerators, incubators, startup boot camps, fintech labs, innovation challenges.\n\nThe catalog of innovation hubs by country is at: https://bit.ly/2OYu7HG\n\nAdd the relevant details for fifteen tech hubs to the Google Sheet which can be found in the external URL for this google task.", 
+    "tags": [
+        "market research", 
+        " innovation\n", 
+        " fintech", 
+        " due diligence"
+    ], 
+    "claimed_count": 2, 
+    "completed_count": 2, 
+    "mentors": [
+        "sanyam.bvcoe96@gmail.com", 
+        "edcable@mifos.org", 
+        "luphieanza@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        5
+    ], 
+    "last_modified": "2019-12-26T02:47:06Z", 
+    "external_url": "https://bit.ly/2OYu7HG", 
+    "id": 5633239700471808, 
+    "available_count": 1, 
+    "name": "Find and add Fifteen Tech Hubs to our Database for East Asia and Oceania."
+}

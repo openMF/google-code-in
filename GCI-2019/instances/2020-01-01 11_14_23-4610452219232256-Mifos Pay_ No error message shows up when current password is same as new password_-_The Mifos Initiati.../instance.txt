@@ -1,0 +1,25 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4610452219232256 | Task Definition ID 5957632934805504
+Max instances: 1
+
+Title: Mifos Pay: No error message shows up when current password is same as new password
+Description: ## Summary
+
+When user wishes to change password, we don't have any mechanism where the user is prompted if the current password is same as the new password where as many apps do have that.
+
+## Steps to reproduce
+
+1. Go to Edit Profile
+2. Change Password
+3. Type your old password in new password and repeat too
+Tags: android, bug, mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 4 days
+
+Mentors: sanyam.bvcoe96@gmail.com, guptachirag2002@gmail.com
+Student: laxya (ID 5934632118255616)
+
+Status: COMPLETED (2020-01-05 07:04:37)
+Last modified: 2020-01-01 11:14:23

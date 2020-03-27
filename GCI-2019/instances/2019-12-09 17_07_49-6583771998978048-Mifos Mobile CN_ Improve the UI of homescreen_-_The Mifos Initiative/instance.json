@@ -1,0 +1,34 @@
+{
+    "student_display_name": "PiyushSharma99", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5366436936024064, 
+    "tags": [
+        "xml", 
+        "GCI", 
+        "Android", 
+        "good first issue"
+    ], 
+    "student_id": 6483083604262912, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "4", 
+    "modified": "2019-12-09 17:07:49", 
+    "max_instances": "1", 
+    "id": 6583771998978048, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-09 16:57:49", 
+    "deadline": "2019-12-12 11:26:28", 
+    "submitted_date": "2019-12-09 16:39:41", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "govinddixit93@gmail.com", 
+        "abhijitramesh2k@gmail.com", 
+        "jddeep003@gmail.com", 
+        "harshshinde07@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile CN: Improve the UI of homescreen", 
+    "categories": [
+        "1"
+    ], 
+    "description": "## Objective \nImprove the UI of homescreen\n\n## Description\nThere is a scope of UI improvement in the homescreen of the app\nIcons can be made smaller\n\n## References \nSee FAQs of mifos mobile app for reference\nHow to get help, be sure to post your questoin to our [developer mailing list](http://mifos.org/resources/\ncommunity/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos)."
+}

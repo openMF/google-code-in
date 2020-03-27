@@ -1,0 +1,30 @@
+{
+    "status": 1, 
+    "time_to_complete_in_days": 7, 
+    "is_beginner": false, 
+    "program_year": 2019, 
+    "description": "## Objective \nDo an usability research of the interface of android-client application\n\n## Description\nGo through the current app to find the difficulties in the overall usage of the app, document them and suggest changes to the interface with documentation of how the suggested implementation solves the problem faced and improves the user interaction. \n\n## How to get help\nIf you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or  ask in our [chatroom](https://gitter.im/openMF/mifos).\n\n** Note:- **\nAttach a Google doc file with the screenshots  with a description on the problem with the current implementation and how it can be improved with mockups (bonus).", 
+    "tags": [
+        "android", 
+        "research", 
+        "design", 
+        "mockups"
+    ], 
+    "claimed_count": 0, 
+    "completed_count": 0, 
+    "mentors": [
+        "harshshinde07@gmail.com"
+    ], 
+    "max_instances": 3, 
+    "private_metadata": "", 
+    "categories": [
+        2, 
+        3, 
+        5
+    ], 
+    "last_modified": "2019-11-13T04:07:22Z", 
+    "external_url": "https://github.com/openMF/android-client", 
+    "id": 5067975665647616, 
+    "available_count": 3, 
+    "name": "Android-client: Usability research of android-client app"
+}

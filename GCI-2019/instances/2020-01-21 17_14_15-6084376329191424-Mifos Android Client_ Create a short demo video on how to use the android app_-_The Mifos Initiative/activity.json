@@ -1,0 +1,107 @@
+[
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6084376329191424, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "", 
+        "created": "2020-01-21T17:14:11Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 7, 
+        "author_id": 5734586449920000, 
+        "id": 6111043378479104, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6084376329191424, 
+        "author": {
+            "display_name": "luphieanza", 
+            "program_year": 2019, 
+            "id": 5734586449920000
+        }, 
+        "text": "I think the point in this task in the video, and i've was been see your work and looks good to me :) good work!", 
+        "created": "2020-01-21T17:14:06Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": false, 
+        "new_task_instance_status": 4, 
+        "author_id": 5734586449920000, 
+        "id": 5367079612448768, 
+        "old_task_instance_status": 4, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6084376329191424, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2020-01-21T03:56:11Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 4, 
+        "author_id": 4531853520797696, 
+        "id": 5271359823806464, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 2, 
+        "program_year": 2019, 
+        "task_instance_id": 6084376329191424, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "Hey! I have tried to put in all the features of the Mifos Android Client, however I was unable to 1) Add new clients 2) Use Pathtracker features 3) Use offline sync mode because of Bugs in the app. They are mentioned in the following issues:\n\n1. https://github.com/openMF/android-client/issues/779\n2.https://github.com/openMF/android-client/issues/1165\n\nThe app kept crashing whenever I tried to use the offline sync feature. I was using the instance 'demo.mifos.io'\n\nOther than that, all the features are covered. I apologize if I stumble while speaking or make a mistake. Hope you like it :)\n\nUnlisted YouTube Video Link on 'How to use Mifos Android Client' - https://youtu.be/_daJylBfchk", 
+        "created": "2020-01-21T03:56:00Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 6689449660907520, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }, 
+    {
+        "is_tombstoned": false, 
+        "kind": 1, 
+        "program_year": 2019, 
+        "task_instance_id": 6084376329191424, 
+        "author": {
+            "display_name": "rg", 
+            "program_year": 2019, 
+            "id": 4531853520797696
+        }, 
+        "text": "", 
+        "created": "2020-01-21T03:53:37Z", 
+        "task_definition_name": "Mifos Android Client: Create a short demo video on how to use the android app", 
+        "organization_id": 5721189306073088, 
+        "author_is_student": true, 
+        "new_task_instance_status": 1, 
+        "author_id": 4531853520797696, 
+        "id": 5102442065166336, 
+        "old_task_instance_status": 1, 
+        "attachments": []
+    }
+]

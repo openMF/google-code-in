@@ -1,0 +1,36 @@
+{
+    "student_display_name": "laxya", 
+    "status": "COMPLETED", 
+    "program_year": 2019, 
+    "task_definition_id": 5277857194967040, 
+    "tags": [
+        "android", 
+        " fintech", 
+        " mifos-mobile", 
+        " bug"
+    ], 
+    "student_id": 5934632118255616, 
+    "is_beginner": "False", 
+    "time_to_complete_in_days": "3", 
+    "modified": "2019-12-07 07:44:09", 
+    "max_instances": "1", 
+    "id": 5806591249481728, 
+    "organization_name": "The Mifos Initiative", 
+    "completion_date": "2019-12-07 07:42:41", 
+    "deadline": "2019-12-09 09:14:14", 
+    "submitted_date": "2019-12-06 11:04:51", 
+    "organization_id": 5721189306073088, 
+    "mentors": [
+        "elirehemapaulo@gmail.com", 
+        "rajanmaurya154@gmail.com", 
+        "singhsaumyas150@gmail.com", 
+        "academic.rahul@gmail.com", 
+        "ashusingh15673@gmail.com"
+    ], 
+    "task_definition_name": "Mifos Mobile - Bug Fix: User cannot edit Profile Picture", 
+    "categories": [
+        "1", 
+        "2"
+    ], 
+    "description": "Summary:\n\nUse cannot edit Profile Picture in User Details fragment. Nothing happens when Edit Floating Action Button is pressed.\n\nSteps to reproduce:\n\nOpen App -> Click on the profile pic -> Click on Edit Icon (nothing happens)\n\nExpected behaviour:\n\nThe user should be able to change his profile picture.\n\nObserved behaviour:\n\nNothing happens when clicked on edit icon\n\nDevice and Android version:\n\nAndroid 10\nOpenPlus 6\nStock Rom"
+}

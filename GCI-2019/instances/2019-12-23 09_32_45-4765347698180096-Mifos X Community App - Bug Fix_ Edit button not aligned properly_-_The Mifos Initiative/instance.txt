@@ -1,0 +1,32 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 4765347698180096 | Task Definition ID 6299975324008448
+Max instances: 1
+
+Title: Mifos X Community App - Bug Fix: Edit button not aligned properly
+Description: ## Objective
+The objective is to align the button properly in the title of the loan products page.
+
+### Description
+
+#### Actual Behaviour:
+The `padding` of the `edit` button is not been maintained well.  
+
+#### Expected Behaviour:
+The `edit` button should be aligned properly.
+
+#### How to Submit
+Submit a pull request linking to the issue and include the link to the pull request in your submission through the GCI Portal.
+
+## How to get help 
+If you need help, be sure to post your question to our [developer mailing list](http://mifos.org/resources/community/communications/#mailing-lists) or ask in our [chatroom](https://gitter.im/openMF/community-app).
+Tags:  Community App,  Bugfix,  Web,  Angular JS, Mifos
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: muskan.khedia2000@gmail.com, jonathanzhang53@gmail.com, abhay.chawla97@gmail.com, santosh@confluxtechnologies.com
+Student: Oussema.exe (ID 6170193894572032)
+
+Status: COMPLETED (2019-12-25 21:07:31)
+Last modified: 2019-12-23 09:32:45

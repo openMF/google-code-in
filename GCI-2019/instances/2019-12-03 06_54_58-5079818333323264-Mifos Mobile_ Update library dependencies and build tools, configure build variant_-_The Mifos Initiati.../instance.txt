@@ -1,0 +1,33 @@
+The Mifos Initiative (Org ID 5721189306073088)
+Task ID 5079818333323264 | Task Definition ID 4769163415912448
+Max instances: 1
+
+Title: Mifos Mobile: Update library dependencies and build tools, configure build variant
+Description: Summary:
+
+Update library dependencies and build tools versions to correct and latest ones.
+Irradicate sync and build errors + warnings.
+Issues with build variant.
+
+Steps to reproduce:
+
+Clone the project and build it.
+
+Expected behaviour:
+
+The build should be successful without any dependency warnings or errors.
+
+Observed behaviour:
+
+Dependency warnings, build tools outdated, build variant issues.
+Tags: android,  fintech,  mifos-mobile,  bug
+
+Categories: Coding
+Is Beginner: No
+Time given to complete: 3 days
+
+Mentors: anamikatripathi1601@gmail.com, elirehemapaulo@gmail.com, jddeep003@gmail.com, rajanmaurya154@gmail.com, academic.rahul@gmail.com
+Student: PiyushSharma99 (ID 6483083604262912)
+
+Status: COMPLETED (2019-12-07 03:00:50)
+Last modified: 2019-12-03 06:54:58
